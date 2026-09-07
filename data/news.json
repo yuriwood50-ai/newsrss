@@ -1,5 +1,35 @@
 [
   {
+    "id": "https://news.hada.io/topic?id=33329",
+    "category": "it",
+    "source": "긱뉴스",
+    "title": "1024바이트로 Python 인터프리터 만들기",
+    "link": "https://news.hada.io/topic?id=33329",
+    "summary": "매크로나 라이브러리 편법 없이 C 소스 1024바이트에 Python 문법 일부를 실행하는 인터프리터를 담음 토큰화·AST·바이트코드 생성 대신 소스를 파싱하면서 즉시 실행하며, 반복문과 함수 호출은 소스 위치를 이동해 다시 파싱하는 방식으로 처리함 정수 ...",
+    "pubDate": "2026-09-07T19:33:33.000Z",
+    "collectedAt": "2026-09-07T20:15:33.866Z"
+  },
+  {
+    "id": "https://www.aitimes.com/news/articleView.html?idxno=214964",
+    "category": "ai",
+    "source": "AI타임스 AI산업",
+    "title": "에임인텔리전스 \"AGI급 '아스트라'도 보안 공백 여전...다음은 로봇·자율주행\"",
+    "link": "https://www.aitimes.com/news/articleView.html?idxno=214964",
+    "summary": "에임인텔리전스가 AI 에이전트와 피지컬 AI 시대로의 전환에 맞춰 통제 불능 리스크를 방지하기 위한 지속적·실시간 보안 레이어 구축의 필요성을 강조했다.박하언 에임인텔리전스 최고 기술책임자(CTO)는 7일 삼성금융캠퍼스에서 열린 ‘AI 리스크 컨퍼런스 서울 2026’에서 'AI 통제의…",
+    "pubDate": "2026-09-07T19:20:00.000Z",
+    "collectedAt": "2026-09-07T20:15:33.866Z"
+  },
+  {
+    "id": "https://news.hada.io/topic?id=33328",
+    "category": "it",
+    "source": "긱뉴스",
+    "title": "스위스 연방정부, 컴퓨터 3,000대에서 Microsoft를 대체한다",
+    "link": "https://news.hada.io/topic?id=33328",
+    "summary": "스위스 연방정부가 전체 인력의 약 7%인 3,000명을 대상으로 Microsoft 365를 오픈소스 대안으로 전환하는 파일럿을 시작했으며, 2027년 말 완료를 목표로 함 직원 172명이 참여한 openDesk 개념검증에서 문서 처리와 이메일은 긍정적인 평가를 받...",
+    "pubDate": "2026-09-07T18:33:12.000Z",
+    "collectedAt": "2026-09-07T20:15:33.866Z"
+  },
+  {
     "id": "https://www.aitimes.com/news/articleView.html?idxno=214933",
     "category": "ai",
     "source": "AI타임스 AI산업",
@@ -158,6 +188,16 @@
     "summary": "순수수학의 난제는 정답뿐 아니라 해결 과정에서 새로운 통찰과 이론을 만드는 데 가치가 있으며, 과정을 공개하지 않는 AI 단독 해결은 이 역할을 훼손할 수 있음 Navier-Stokes 전역 정칙성 문제를 인간 수학자가 AI와 함께 시행착오를 분석하며 풀면 유체역학을...",
     "pubDate": "2026-09-07T16:02:30.000Z",
     "collectedAt": "2026-09-07T16:16:38.368Z"
+  },
+  {
+    "id": "20260907000489",
+    "category": "ai",
+    "source": "전자신문 AI",
+    "title": "단국대, AI로 데이터 검색·쓰기 지연 개선…정규논문 2편 발표",
+    "link": "https://www.etnews.com/20260907000489",
+    "summary": "단국대가 인공지능(AI)을 활용해 대용량 데이터의 쓰기 지연을 99.98% 줄이고 검색 처리량을 최대 2배 높이는 기술을 개발했다. 단국대는 최종무 소프트웨어학과 교수 연구팀의 논문 2편이 데이터베이스·데이터 관리 분야 국제학술대회 'VLDB 2026' 정규논문으로 채택됐다고 7일 밝혔…",
+    "pubDate": "2026-09-07T14:04:09.000Z",
+    "collectedAt": "2026-09-07T20:15:33.866Z"
   },
   {
     "id": "https://news.hada.io/topic?id=33325",
