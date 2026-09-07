@@ -140,6 +140,16 @@
     "collectedAt": "2026-09-07T07:59:16.165Z"
   },
   {
+    "id": "https://news.hada.io/topic?id=33326",
+    "category": "it",
+    "source": "긱뉴스",
+    "title": "Terence Tao: “AI만으로 수학 문제를 성급하게 푸는 것”의 위험",
+    "link": "https://news.hada.io/topic?id=33326",
+    "summary": "순수수학의 난제는 정답뿐 아니라 해결 과정에서 새로운 통찰과 이론을 만드는 데 가치가 있으며, 과정을 공개하지 않는 AI 단독 해결은 이 역할을 훼손할 수 있음 Navier-Stokes 전역 정칙성 문제를 인간 수학자가 AI와 함께 시행착오를 분석하며 풀면 유체역학을...",
+    "pubDate": "2026-09-07T16:02:30.000Z",
+    "collectedAt": "2026-09-07T16:16:38.368Z"
+  },
+  {
     "id": "https://news.hada.io/topic?id=33325",
     "category": "it",
     "source": "긱뉴스",
@@ -5598,15 +5608,5 @@
     "summary": "과학기술정보통신부(장관 배경훈)는 한국전자통신연구원(ETRI, 원장 박세웅)이 리눅스 재단(Linux Foundation) 산하 에이전트형 인공지능 재단(AAIF) 가입을 통해 에이전틱 AI 핵심표준 확보 및 국제협력 채널 확대의 기반을 마련했다고 밝혔다. AAIF는 에이전틱 AI 관련…",
     "pubDate": "2026-08-25T04:57:54.000Z",
     "collectedAt": "2026-09-07T07:48:05.661Z"
-  },
-  {
-    "id": "https://www.aitimes.com/news/articleView.html?idxno=214312",
-    "category": "ai",
-    "source": "AI타임스 정책",
-    "title": "과기부 “AI와 과학기술 결합해 공학 분야 한계 돌파할 것”",
-    "link": "https://www.aitimes.com/news/articleView.html?idxno=214312",
-    "summary": "과학기술정보통신부(장관 배경훈)는 차세대 AI+과학기술 기반기술 개발사업’ 착수보고회를 개최하고, 신규 선정된 4개 과제의 본격 연구 개발을 시작한다고 24일 밝혔다.AI가 데이터뿐만 아니라 물리, 수학적 원리를 활용해 과학 현상을 더 정확하고 신뢰성 있게 해석 및 예측할 수 있도록 기…",
-    "pubDate": "2026-08-24T15:50:00.000Z",
-    "collectedAt": "2026-09-07T07:59:16.165Z"
   }
 ]
