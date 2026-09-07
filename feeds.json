@@ -2,7 +2,8 @@
   "ai": {
     "label": "AI",
     "sources": [
-      { "name": "AI타임스", "url": "https://www.aitimes.com/rss/allArticle.xml" },
+      { "name": "AI타임스 AI산업", "url": "https://www.aitimes.com/rss/S1N3.xml" },
+      { "name": "AI타임스 정책", "url": "https://www.aitimes.com/rss/S1N1.xml" },
       { "name": "전자신문 AI", "url": "http://rss.etnews.com/04046.xml" },
       { "name": "전자신문 SW", "url": "http://rss.etnews.com/04.xml" }
     ]
