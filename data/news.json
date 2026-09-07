@@ -140,6 +140,66 @@
     "collectedAt": "2026-09-07T07:59:16.165Z"
   },
   {
+    "id": "https://news.hada.io/topic?id=33325",
+    "category": "it",
+    "source": "긱뉴스",
+    "title": "GrapheneOS, 기본 앱과 보안 클립보드 전면 개편",
+    "link": "https://news.hada.io/topic?id=33325",
+    "summary": "기본 Messaging 앱의 낡은 인터페이스를 Android Compose로 전면 재작성하고 있으며, 여러 개선과 버그 수정을 담은 새 버전을 게시 당일 늦게 출시할 예정임 장기적으로 RCS와 Messaging Layer Security(MLS) 기반 종단간 암호화",
+    "pubDate": "2026-09-07T13:32:28.000Z",
+    "collectedAt": "2026-09-07T14:15:52.303Z"
+  },
+  {
+    "id": "https://www.hankyung.com/article/202609078679i",
+    "category": "economy",
+    "source": "한국경제 경제",
+    "title": "\"적금 부으면 다람쥐가 쑥쑥…한 달 만에 30만 모은 비결이죠\"",
+    "link": "https://www.hankyung.com/article/202609078679i",
+    "summary": "",
+    "pubDate": "2026-09-07T13:30:01.000Z",
+    "collectedAt": "2026-09-07T14:15:52.303Z"
+  },
+  {
+    "id": "https://www.hankyung.com/article/2026090797567",
+    "category": "it",
+    "source": "한국경제 IT",
+    "title": "500만원인데 완판됐다…애플 폴더블 이틀 앞두고 '기습 공개'",
+    "link": "https://www.hankyung.com/article/2026090797567",
+    "summary": "",
+    "pubDate": "2026-09-07T13:18:06.000Z",
+    "collectedAt": "2026-09-07T14:15:52.303Z"
+  },
+  {
+    "id": "https://news.hada.io/topic?id=33323",
+    "category": "it",
+    "source": "긱뉴스",
+    "title": "Anubis에 WebAssembly를 탑재하기까지 1년이 걸렸다",
+    "link": "https://news.hada.io/topic?id=33323",
+    "summary": "Anubis는 AI 기업의 공격적인 웹사이트 스크래핑으로 인한 서비스 중단과 이용자의 접근 불가를 막기 위해 관리자가 설치하는 서버 보호 도구임 이메일 스팸을 줄이기 위해 제안된 Hashcash와 유사한 작업 증명(Proof-of-Work) 방식을 사용함",
+    "pubDate": "2026-09-07T13:01:08.000Z",
+    "collectedAt": "2026-09-07T14:15:52.303Z"
+  },
+  {
+    "id": "https://www.hankyung.com/article/2026090791006",
+    "category": "economy",
+    "source": "한국경제 증권",
+    "title": "메모리 초호황인데…\"삼전 주가 상승 막는 MX·노조 리스크\" [분석+]",
+    "link": "https://www.hankyung.com/article/2026090791006",
+    "summary": "",
+    "pubDate": "2026-09-07T13:00:01.000Z",
+    "collectedAt": "2026-09-07T14:15:52.303Z"
+  },
+  {
+    "id": "https://news.hada.io/topic?id=33321",
+    "category": "it",
+    "source": "긱뉴스",
+    "title": "Show GN: 번역체를 완전히 못 없앤다면 문체를 만들어 넣어버리자는 발상에서 만든 무협체 스킬",
+    "link": "https://news.hada.io/topic?id=33321",
+    "summary": "최근 약간 빠져버린 무협지에서 기인해, 가벼운 마음으로 무협지 문체 스킬을 만들어 보았습니다. 이 초식은 클로드가 강호의 말투로 한국어를 쓰도록 합니다. 해당 초식을 사용하셔도 좋고, 직접 유사하게 비급을 만드셔도 좋습니다. 이 초식이 유일한 길은 아니니, 원하시는 초식을 자유롭게 펼치…",
+    "pubDate": "2026-09-07T12:24:39.000Z",
+    "collectedAt": "2026-09-07T14:15:52.303Z"
+  },
+  {
     "id": "https://news.hada.io/topic?id=33320",
     "category": "it",
     "source": "긱뉴스",
@@ -150,6 +210,26 @@
     "collectedAt": "2026-09-07T12:20:54.134Z"
   },
   {
+    "id": "https://www.hankyung.com/article/2026090794611",
+    "category": "economy",
+    "source": "한국경제 경제",
+    "title": "\"금리 연 10% 준다\"…30만명 '우르르' 몰린 적금 정체",
+    "link": "https://www.hankyung.com/article/2026090794611",
+    "summary": "",
+    "pubDate": "2026-09-07T12:00:05.000Z",
+    "collectedAt": "2026-09-07T14:15:52.303Z"
+  },
+  {
+    "id": "https://www.hankyung.com/article/202609043451g",
+    "category": "economy",
+    "source": "한국경제 경제",
+    "title": "술병 만드는 데만 1주일…요즘 日서 뜨는 '수백만원짜리 고급술'",
+    "link": "https://www.hankyung.com/article/202609043451g",
+    "summary": "",
+    "pubDate": "2026-09-07T12:00:01.000Z",
+    "collectedAt": "2026-09-07T14:15:52.303Z"
+  },
+  {
     "id": "https://www.hankyung.com/article/2026090797077",
     "category": "economy",
     "source": "한국경제 경제",
@@ -158,6 +238,16 @@
     "summary": "",
     "pubDate": "2026-09-07T11:49:03.000Z",
     "collectedAt": "2026-09-07T12:20:54.134Z"
+  },
+  {
+    "id": "https://www.hankyung.com/article/202609079708i",
+    "category": "economy",
+    "source": "한국경제 증권",
+    "title": "대미투자 기대감에 12차 전기본까지…원전주 '들썩'",
+    "link": "https://www.hankyung.com/article/202609079708i",
+    "summary": "",
+    "pubDate": "2026-09-07T11:42:31.000Z",
+    "collectedAt": "2026-09-07T14:15:52.303Z"
   },
   {
     "id": "https://news.hada.io/topic?id=33319",
