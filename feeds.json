@@ -1,0 +1,26 @@
+{
+  "ai": {
+    "label": "AI",
+    "sources": [
+      { "name": "AI타임스", "url": "https://www.aitimes.com/rss/allArticle.xml" },
+      { "name": "전자신문 AI", "url": "http://rss.etnews.com/04046.xml" },
+      { "name": "전자신문 SW", "url": "http://rss.etnews.com/04.xml" }
+    ]
+  },
+  "it": {
+    "label": "IT",
+    "sources": [
+      { "name": "전자신문 IT/통신", "url": "http://rss.etnews.com/03.xml" },
+      { "name": "한국경제 IT", "url": "https://www.hankyung.com/feed/it" },
+      { "name": "긱뉴스", "url": "https://news.hada.io/rss/news" }
+    ]
+  },
+  "economy": {
+    "label": "경제",
+    "sources": [
+      { "name": "한국경제 경제", "url": "https://www.hankyung.com/feed/economy" },
+      { "name": "한국경제 증권", "url": "https://www.hankyung.com/feed/finance" },
+      { "name": "전자신문 경제", "url": "http://rss.etnews.com/02.xml" }
+    ]
+  }
+}

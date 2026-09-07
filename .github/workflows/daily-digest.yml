@@ -1,0 +1,29 @@
+name: Daily Discord Digest
+
+on:
+  schedule:
+    # 매일 UTC 12:00 = KST 21:00 (밤 9시). 시간을 바꾸려면 이 줄의 시(0~23, UTC 기준)만 수정.
+    - cron: "0 12 * * *"
+  workflow_dispatch: {} # Actions 탭에서 수동 실행 버튼
+
+permissions:
+  contents: read
+
+jobs:
+  digest:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+
+      - uses: actions/setup-node@v4
+        with:
+          node-version: "20"
+          cache: "npm"
+
+      - run: npm ci
+
+      - run: node scripts/daily-digest.mjs
+        env:
+          DISCORD_WEBHOOK_URL: ${{ secrets.DISCORD_WEBHOOK_URL }}
+          ANTHROPIC_API_KEY: ${{ secrets.ANTHROPIC_API_KEY }}
+          ANTHROPIC_MODEL: ${{ vars.ANTHROPIC_MODEL }}
