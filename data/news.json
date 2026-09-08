@@ -10,6 +10,16 @@
     "collectedAt": "2026-09-08T10:16:52.233Z"
   },
   {
+    "id": "https://news.hada.io/topic?id=33369",
+    "category": "it",
+    "source": "긱뉴스",
+    "title": "Rust 디버깅 설문조사 2026 결과",
+    "link": "https://news.hada.io/topic?id=33369",
+    "summary": "부족한 디버깅 경험의 원인을 파악하기 위한 첫 설문에 2,300명 이상이 참여했으며, 현재 Rust에서 디버거를 쓰는 응답자는 46% 이상으로 절반에 못 미침 로그·출력 디버깅과 dbg!가 가장 널리 쓰이며, 이를 제외하면 IDE 내 lldb",
+    "pubDate": "2026-09-08T18:02:49.000Z",
+    "collectedAt": "2026-09-08T18:19:39.906Z"
+  },
+  {
     "id": "https://www.aitimes.com/news/articleView.html?idxno=214998",
     "category": "ai",
     "source": "AI타임스 AI산업",
@@ -38,6 +48,16 @@
     "summary": "틱톡과 시댄스(Seedance)로 영상 생성 AI 분야에서 경쟁력을 확보한 바이트댄스가 ‘월드 모델(World Model)' 시장에 뛰어들었다.7일(현지시간) 블룸버그에 따르면, 바이트댄스는 사용자의 움직임과 음성에 실시간으로 반응하는 가상 세계를 구현하는 '월드 모델' 개발에 착수했다…",
     "pubDate": "2026-09-08T17:42:14.000Z",
     "collectedAt": "2026-09-08T10:16:52.233Z"
+  },
+  {
+    "id": "https://news.hada.io/topic?id=33368",
+    "category": "it",
+    "source": "긱뉴스",
+    "title": "AI를 대면으로 쓰려면 사무실로 복귀해야 한다",
+    "link": "https://news.hada.io/topic?id=33368",
+    "summary": "AI 도구의 생성·승인 버튼을 하루 수천 번 누르는 직원이 사무실 복귀(RTO) 를 강요받는 풍자극으로, 고용을 유지하려면 사무실 근무를 사랑한다는 각서까지 써야 함 Mondo Mayo에서는 상사에 대한 복종과 지도자의 수가 핵심 원칙이며, 일반 직원 15명을 수천 명의...",
+    "pubDate": "2026-09-08T17:37:35.000Z",
+    "collectedAt": "2026-09-08T18:19:39.906Z"
   },
   {
     "id": "https://www.aitimes.com/news/articleView.html?idxno=215001",
@@ -100,6 +120,16 @@
     "collectedAt": "2026-09-08T08:18:05.820Z"
   },
   {
+    "id": "https://news.hada.io/topic?id=33367",
+    "category": "it",
+    "source": "긱뉴스",
+    "title": "LibreOffice, AI 기능이 없다고 선언한 뒤 다운로드 기록 경신",
+    "link": "https://news.hada.io/topic?id=33367",
+    "summary": "무료 Microsoft Office 대안인 LibreOffice 26.8이 출시 일주일 만에 설치 프로그램 다운로드 100만 회 이상을 기록하며 역대 가장 인기 있는 업데이트가 됨 이번 버전은 개인정보 보호를 이유로 생성형 AI를 기본 탑재하지 않는 점을 내세웠지만...",
+    "pubDate": "2026-09-08T16:38:22.000Z",
+    "collectedAt": "2026-09-08T18:19:39.906Z"
+  },
+  {
     "id": "https://www.aitimes.com/news/articleView.html?idxno=215009",
     "category": "ai",
     "source": "AI타임스 AI산업",
@@ -130,6 +160,16 @@
     "collectedAt": "2026-09-08T08:18:05.820Z"
   },
   {
+    "id": "https://www.hankyung.com/article/2026090823501",
+    "category": "economy",
+    "source": "한국경제 경제",
+    "title": "삼성전자, 佛 AI기업 '미스트랄'에 수천억원 투자",
+    "link": "https://www.hankyung.com/article/2026090823501",
+    "summary": "",
+    "pubDate": "2026-09-08T16:00:01.000Z",
+    "collectedAt": "2026-09-08T18:19:39.906Z"
+  },
+  {
     "id": "https://www.aitimes.com/news/articleView.html?idxno=215002",
     "category": "ai",
     "source": "AI타임스 AI산업",
@@ -138,6 +178,16 @@
     "summary": "삼성SDS가 업무의 AI전환(AX)과 제조 및 생산 라인의 로보틱스 전환(RX) 추진을 위해 관련 투자를 확대한다. 수익 모델을 발굴하고 핵심 인력 확보에도 나선다.삼성SDS(대표 이준희)는 8일 서울 코엑스 컨벤션센터에서 AX 컨퍼런스 ‘리얼 서밋(REAL Summit) 2026'을…",
     "pubDate": "2026-09-08T15:49:04.000Z",
     "collectedAt": "2026-09-08T08:18:05.820Z"
+  },
+  {
+    "id": "https://www.hankyung.com/article/202609092377i",
+    "category": "economy",
+    "source": "한국경제 경제",
+    "title": "美,이란 항공사 등 '특별지정국민'지정 제재 추가",
+    "link": "https://www.hankyung.com/article/202609092377i",
+    "summary": "",
+    "pubDate": "2026-09-08T15:48:03.000Z",
+    "collectedAt": "2026-09-08T18:19:39.906Z"
   },
   {
     "id": "https://www.aitimes.com/news/articleView.html?idxno=215003",
