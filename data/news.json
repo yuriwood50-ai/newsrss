@@ -1,5 +1,345 @@
 [
   {
+    "id": "https://news.hada.io/topic?id=33335",
+    "category": "it",
+    "source": "긱뉴스",
+    "title": "가장 짧은 IPv6 주소",
+    "link": "https://news.hada.io/topic?id=33335",
+    "summary": "1.1.1.1과 보조 주소 1.0.0.1처럼 짧게 쓸 수 있는 IPv6 주소를 찾기 위해, 첫 번째 16비트 그룹만 0이 아닌 X:: 형태의 주소에 ping을 보냄 :: 축약 표기로 연속된 0을 생략할 수 있어, 전역 유니캐스트 블록...",
+    "pubDate": "2026-09-08T00:10:51.000Z",
+    "collectedAt": "2026-09-08T00:25:50.119Z"
+  },
+  {
+    "id": "https://news.hada.io/topic?id=33334",
+    "category": "it",
+    "source": "긱뉴스",
+    "title": "타임스탬프를 시·분·초로 변환하는 더 빠른 방법",
+    "link": "https://news.hada.io/topic?id=33334",
+    "summary": "날짜를 분리한 뒤 남은 하루 내 초 단위 값 [0..86399] 은 계산 순서만 바꿔도 시·분·초 변환의 긴 의존성 체인을 줄일 수 있음 V1은 전체 분과 시간을 독립적으로 구한 뒤 초와 분을 병렬로 계산해, 복잡한 비트 기법 없이 근사 지연시간을 기존 16사...",
+    "pubDate": "2026-09-08T00:07:51.000Z",
+    "collectedAt": "2026-09-08T00:25:50.119Z"
+  },
+  {
+    "id": "https://www.hankyung.com/article/202609080158i",
+    "category": "it",
+    "source": "한국경제 IT",
+    "title": "HK이노엔, 과학기술 훈장 수상 ... 33년 연구개발 기술혁신 공로 인정받았다",
+    "link": "https://www.hankyung.com/article/202609080158i",
+    "summary": "",
+    "pubDate": "2026-09-07T23:44:53.000Z",
+    "collectedAt": "2026-09-08T00:25:50.119Z"
+  },
+  {
+    "id": "https://www.hankyung.com/article/202609080127i",
+    "category": "economy",
+    "source": "한국경제 경제",
+    "title": "中 경쟁사로 반도체 기밀 넘겼나…벨기에 연구원 체포",
+    "link": "https://www.hankyung.com/article/202609080127i",
+    "summary": "",
+    "pubDate": "2026-09-07T23:37:09.000Z",
+    "collectedAt": "2026-09-08T00:25:50.119Z"
+  },
+  {
+    "id": "https://www.hankyung.com/article/2026090800587",
+    "category": "economy",
+    "source": "한국경제 경제",
+    "title": "중국인민은행, 8월에만 금 18t 샀다…22개월 연속 매입",
+    "link": "https://www.hankyung.com/article/2026090800587",
+    "summary": "",
+    "pubDate": "2026-09-07T23:34:37.000Z",
+    "collectedAt": "2026-09-08T00:25:50.119Z"
+  },
+  {
+    "id": "https://www.hankyung.com/article/202609080099i",
+    "category": "economy",
+    "source": "한국경제 경제",
+    "title": "UN, \"기후·대기오염 함께 잡으면 2035년 세계 GDP 2.8% 상승\"",
+    "link": "https://www.hankyung.com/article/202609080099i",
+    "summary": "",
+    "pubDate": "2026-09-07T23:33:14.000Z",
+    "collectedAt": "2026-09-08T00:25:50.119Z"
+  },
+  {
+    "id": "https://www.hankyung.com/article/202609080089i",
+    "category": "it",
+    "source": "한국경제 IT",
+    "title": "동구바이오제약, 美 에스테틱 기업 에보바이오와 글로벌 사업 협력 MOU",
+    "link": "https://www.hankyung.com/article/202609080089i",
+    "summary": "",
+    "pubDate": "2026-09-07T23:30:11.000Z",
+    "collectedAt": "2026-09-08T00:25:50.119Z"
+  },
+  {
+    "id": "https://www.hankyung.com/article/202609080057g",
+    "category": "economy",
+    "source": "한국경제 경제",
+    "title": "\"한 달에 9만원 넘게 썼다\"…3900만명 몰려간 '이곳'",
+    "link": "https://www.hankyung.com/article/202609080057g",
+    "summary": "",
+    "pubDate": "2026-09-07T23:28:18.000Z",
+    "collectedAt": "2026-09-08T00:25:50.119Z"
+  },
+  {
+    "id": "https://www.hankyung.com/article/202609079368i",
+    "category": "economy",
+    "source": "한국경제 증권",
+    "title": "연료전지 본고장 미국 뚫었다…두산퓨얼셀, 목표주가 줄상향에 날개",
+    "link": "https://www.hankyung.com/article/202609079368i",
+    "summary": "",
+    "pubDate": "2026-09-07T23:26:02.000Z",
+    "collectedAt": "2026-09-08T00:25:50.119Z"
+  },
+  {
+    "id": "https://www.hankyung.com/article/202609080073i",
+    "category": "it",
+    "source": "한국경제 IT",
+    "title": "루닛, 세계폐암학회서 연구초록 발표 … 폐암 유형별 정밀치료 가능성 제시한다",
+    "link": "https://www.hankyung.com/article/202609080073i",
+    "summary": "",
+    "pubDate": "2026-09-07T23:25:35.000Z",
+    "collectedAt": "2026-09-08T00:25:50.119Z"
+  },
+  {
+    "id": "https://www.hankyung.com/article/202609080069i",
+    "category": "economy",
+    "source": "한국경제 경제",
+    "title": "원유 재고 4억배럴 감소…국제유가 다시 100달러 눈앞",
+    "link": "https://www.hankyung.com/article/202609080069i",
+    "summary": "",
+    "pubDate": "2026-09-07T23:24:29.000Z",
+    "collectedAt": "2026-09-08T00:25:50.119Z"
+  },
+  {
+    "id": "https://www.hankyung.com/article/202609080049i",
+    "category": "economy",
+    "source": "한국경제 경제",
+    "title": "AI가 메모리 싹쓸이하자 PC값 20% 뛴다…HP·델 '방긋'",
+    "link": "https://www.hankyung.com/article/202609080049i",
+    "summary": "",
+    "pubDate": "2026-09-07T23:21:11.000Z",
+    "collectedAt": "2026-09-08T00:25:50.119Z"
+  },
+  {
+    "id": "https://www.hankyung.com/article/202609080053i",
+    "category": "it",
+    "source": "한국경제 IT",
+    "title": "제테마, 산업부 바이오헬스 정부과제 선정 … 인간콜라겐 의료기기 개발한다",
+    "link": "https://www.hankyung.com/article/202609080053i",
+    "summary": "",
+    "pubDate": "2026-09-07T23:20:50.000Z",
+    "collectedAt": "2026-09-08T00:25:50.119Z"
+  },
+  {
+    "id": "https://www.hankyung.com/article/202609080045i",
+    "category": "economy",
+    "source": "한국경제 증권",
+    "title": "\"중국산 로봇의 역습\"…화낙·야스카와 실적호조에도 주가 부진",
+    "link": "https://www.hankyung.com/article/202609080045i",
+    "summary": "",
+    "pubDate": "2026-09-07T23:20:03.000Z",
+    "collectedAt": "2026-09-08T00:25:50.119Z"
+  },
+  {
+    "id": "https://www.hankyung.com/article/2026090800077",
+    "category": "economy",
+    "source": "한국경제 경제",
+    "title": "2분기 명목 GDP 성장률 9.2%…47년 만에 최고치",
+    "link": "https://www.hankyung.com/article/2026090800077",
+    "summary": "",
+    "pubDate": "2026-09-07T23:14:59.000Z",
+    "collectedAt": "2026-09-08T00:25:50.119Z"
+  },
+  {
+    "id": "https://www.hankyung.com/article/2026090800446",
+    "category": "economy",
+    "source": "한국경제 증권",
+    "title": "\"유한양행, 레이저티닙 처방 확대·기술이전 기대감 유효\"-현대차",
+    "link": "https://www.hankyung.com/article/2026090800446",
+    "summary": "",
+    "pubDate": "2026-09-07T23:13:43.000Z",
+    "collectedAt": "2026-09-08T00:25:50.119Z"
+  },
+  {
+    "id": "https://www.hankyung.com/article/202609089985i",
+    "category": "economy",
+    "source": "한국경제 경제",
+    "title": "[밤 사이 해외뉴스 영상] 메르츠 총리 충격 빠뜨린 독일 극우 AfD 대승",
+    "link": "https://www.hankyung.com/article/202609089985i",
+    "summary": "",
+    "pubDate": "2026-09-07T23:13:16.000Z",
+    "collectedAt": "2026-09-08T00:25:50.119Z"
+  },
+  {
+    "id": "https://www.hankyung.com/article/202609080015g",
+    "category": "economy",
+    "source": "한국경제 경제",
+    "title": "백종원, 일본 이어 대만 접수 나선다…\"빽다방 150개점 오픈 목표\"",
+    "link": "https://www.hankyung.com/article/202609080015g",
+    "summary": "",
+    "pubDate": "2026-09-07T23:09:57.000Z",
+    "collectedAt": "2026-09-08T00:25:50.119Z"
+  },
+  {
+    "id": "https://www.hankyung.com/article/202609080013i",
+    "category": "economy",
+    "source": "한국경제 경제",
+    "title": "강한 美고용에 흔들린 금값…시선은 CPI·PPI로",
+    "link": "https://www.hankyung.com/article/202609080013i",
+    "summary": "",
+    "pubDate": "2026-09-07T23:08:35.000Z",
+    "collectedAt": "2026-09-08T00:25:50.119Z"
+  },
+  {
+    "id": "https://www.hankyung.com/article/2026090899846",
+    "category": "economy",
+    "source": "한국경제 증권",
+    "title": "\"DB하이텍, 中 AI·로봇 폭발적 성장 수혜주…목표가 20만원\"-KB",
+    "link": "https://www.hankyung.com/article/2026090899846",
+    "summary": "",
+    "pubDate": "2026-09-07T23:05:07.000Z",
+    "collectedAt": "2026-09-08T00:25:50.119Z"
+  },
+  {
+    "id": "https://www.hankyung.com/article/2026090899886",
+    "category": "economy",
+    "source": "한국경제 증권",
+    "title": "\"알테오젠, 기술이전 계약 자체보다 실적을 봐야…목표가↓\"-하나",
+    "link": "https://www.hankyung.com/article/2026090899886",
+    "summary": "",
+    "pubDate": "2026-09-07T23:00:34.000Z",
+    "collectedAt": "2026-09-08T00:25:50.119Z"
+  },
+  {
+    "id": "https://www.hankyung.com/article/2026090795986",
+    "category": "economy",
+    "source": "한국경제 증권",
+    "title": "[스타워즈] 16주 투자 대장정 개막…첫날 KB증권 스타투업 선두",
+    "link": "https://www.hankyung.com/article/2026090795986",
+    "summary": "",
+    "pubDate": "2026-09-07T23:00:09.000Z",
+    "collectedAt": "2026-09-08T00:25:50.119Z"
+  },
+  {
+    "id": "https://www.hankyung.com/article/202609066963i",
+    "category": "economy",
+    "source": "한국경제 증권",
+    "title": "빛의위원회 80억, 동물복지원 10억…조직부터 만드는 정부 [김익환의 부처 핸즈업]",
+    "link": "https://www.hankyung.com/article/202609066963i",
+    "summary": "",
+    "pubDate": "2026-09-07T23:00:06.000Z",
+    "collectedAt": "2026-09-08T00:25:50.119Z"
+  },
+  {
+    "id": "https://www.hankyung.com/article/2026090899656",
+    "category": "economy",
+    "source": "한국경제 증권",
+    "title": "\"미중 AI 경쟁 최대 수혜는 삼전닉스…中, LTA 강하게 요청\"-KB",
+    "link": "https://www.hankyung.com/article/2026090899656",
+    "summary": "",
+    "pubDate": "2026-09-07T22:58:02.000Z",
+    "collectedAt": "2026-09-08T00:25:50.119Z"
+  },
+  {
+    "id": "https://www.hankyung.com/article/202609089968i",
+    "category": "economy",
+    "source": "한국경제 경제",
+    "title": "[밤 사이 해외 뉴스] PC 가격은 20% 뛰는데 제조사는 오히려 호실적?",
+    "link": "https://www.hankyung.com/article/202609089968i",
+    "summary": "",
+    "pubDate": "2026-09-07T22:57:46.000Z",
+    "collectedAt": "2026-09-08T00:25:50.119Z"
+  },
+  {
+    "id": "https://www.hankyung.com/article/202609089942i",
+    "category": "economy",
+    "source": "한국경제 경제",
+    "title": "\"하품도 88% 뛰었네\"…추석 앞두고 배값 고공행진에 '화들짝' [프라이스&]",
+    "link": "https://www.hankyung.com/article/202609089942i",
+    "summary": "",
+    "pubDate": "2026-09-07T22:39:55.000Z",
+    "collectedAt": "2026-09-08T00:25:50.119Z"
+  },
+  {
+    "id": "https://news.hada.io/topic?id=33333",
+    "category": "it",
+    "source": "긱뉴스",
+    "title": "빌 게이츠의 MovieMaker 설치 시도(2003)",
+    "link": "https://news.hada.io/topic?id=33333",
+    "summary": "빌 게이츠는 MovieMaker 다운로드와 Digital Plus 패키지 구매에 한 시간 넘게 매달렸지만 둘 다 이용하지 못했고, Windows 사용성과 프로그램 관리 조직의 대응을 강하게 비판함 Microsoft.com의 느린 검색과 혼란스러운 다운로드 목록에 이어 Windows Up…",
+    "pubDate": "2026-09-07T22:34:11.000Z",
+    "collectedAt": "2026-09-08T00:25:50.119Z"
+  },
+  {
+    "id": "https://www.hankyung.com/article/202609067106i",
+    "category": "economy",
+    "source": "한국경제 증권",
+    "title": "\"알아서 잘 굴려주는거 아니었어?\"… 디폴트옵션 고르는 법",
+    "link": "https://www.hankyung.com/article/202609067106i",
+    "summary": "",
+    "pubDate": "2026-09-07T22:27:42.000Z",
+    "collectedAt": "2026-09-08T00:25:50.119Z"
+  },
+  {
+    "id": "https://www.hankyung.com/article/202609079110i",
+    "category": "economy",
+    "source": "한국경제 증권",
+    "title": "\"반도체장 소외\"… 필수소비재 KT&G·삼양식품·오리온 비교해보니",
+    "link": "https://www.hankyung.com/article/202609079110i",
+    "summary": "",
+    "pubDate": "2026-09-07T22:26:48.000Z",
+    "collectedAt": "2026-09-08T00:25:50.119Z"
+  },
+  {
+    "id": "https://www.hankyung.com/article/202609089796i",
+    "category": "economy",
+    "source": "한국경제 증권",
+    "title": "사상 첫 연간 매출 100조 넘보는 SK이노…9월 연기금 원픽 됐다",
+    "link": "https://www.hankyung.com/article/202609089796i",
+    "summary": "",
+    "pubDate": "2026-09-07T22:26:16.000Z",
+    "collectedAt": "2026-09-08T00:25:50.119Z"
+  },
+  {
+    "id": "https://www.hankyung.com/article/202609089917H",
+    "category": "economy",
+    "source": "한국경제 경제",
+    "title": "대출 21% 늘 때 연체 120% 급증…무너지는 '영끌' 집주인들",
+    "link": "https://www.hankyung.com/article/202609089917H",
+    "summary": "",
+    "pubDate": "2026-09-07T22:18:51.000Z",
+    "collectedAt": "2026-09-08T00:25:50.119Z"
+  },
+  {
+    "id": "https://www.hankyung.com/article/2026090899186",
+    "category": "economy",
+    "source": "한국경제 증권",
+    "title": "노동절 연휴로 휴장…이번주 PPI·CPI 촉각 [뉴욕증시 브리핑]",
+    "link": "https://www.hankyung.com/article/2026090899186",
+    "summary": "",
+    "pubDate": "2026-09-07T22:11:18.000Z",
+    "collectedAt": "2026-09-08T00:25:50.119Z"
+  },
+  {
+    "id": "https://www.hankyung.com/article/202609067105i",
+    "category": "economy",
+    "source": "한국경제 경제",
+    "title": "'MiGongPo' 한장에 4만원 턱턱…K팝 중고거래 판 커졌다 [장서우의 하입:hype]",
+    "link": "https://www.hankyung.com/article/202609067105i",
+    "summary": "",
+    "pubDate": "2026-09-07T22:00:06.000Z",
+    "collectedAt": "2026-09-08T00:25:50.119Z"
+  },
+  {
+    "id": "https://www.hankyung.com/article/2026090793661",
+    "category": "economy",
+    "source": "한국경제 경제",
+    "title": "집값 폭등이 결혼시켰다?…2030 '자산 동맹' 맺는 이유",
+    "link": "https://www.hankyung.com/article/2026090793661",
+    "summary": "",
+    "pubDate": "2026-09-07T22:00:03.000Z",
+    "collectedAt": "2026-09-08T00:25:50.119Z"
+  },
+  {
     "id": "20260907000447",
     "category": "ai",
     "source": "전자신문 AI",
