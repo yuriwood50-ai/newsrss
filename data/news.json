@@ -260,6 +260,26 @@
     "collectedAt": "2026-09-09T06:20:19.613Z"
   },
   {
+    "id": "https://news.hada.io/topic?id=33441",
+    "category": "it",
+    "source": "긱뉴스",
+    "title": "“Tweet”과 새 로고, 퍼블릭 도메인에 들어간 것으로 보임",
+    "link": "https://news.hada.io/topic?id=33441",
+    "summary": "Twitter의 X 리브랜딩 이후 이어진 상표 분쟁에서 법원은 TWEET과 새 로고는 포기됐을 가능성이 높지만, TWITTER 상표는 계속 사용되고 있다고 판단함 TWITTER 상표 유지의 근거는 Apple App Store의 “X (formerly known as Twitter)” 문…",
+    "pubDate": "2026-09-09T13:37:58.000Z",
+    "collectedAt": "2026-09-09T14:15:37.711Z"
+  },
+  {
+    "id": "https://news.hada.io/topic?id=33440",
+    "category": "it",
+    "source": "긱뉴스",
+    "title": "AI의 수학적 돌파구는 어떻게 논란을 촉발했나",
+    "link": "https://news.hada.io/topic?id=33440",
+    "summary": "AI의 수학적 돌파구는 어떻게 논란을 촉발했나",
+    "pubDate": "2026-09-09T13:34:58.000Z",
+    "collectedAt": "2026-09-09T14:15:37.711Z"
+  },
+  {
     "id": "https://www.aitimes.com/news/articleView.html?idxno=215039",
     "category": "ai",
     "source": "AI타임스 AI산업",
@@ -268,6 +288,56 @@
     "summary": "미국 보안 스타트업이 AI 모델을 활용해 사용자의 아무런 클릭이나 조작 없이도 수시간 만에 수억대의 기기를 감염시킬 수 있는 해킹 도구를 개발해 충격을 주고 있다.미국 캘리포니아주 팔로알토의 보안 회사 칼리프(Calif)는 8일(현지시간) 최신 AI 모델을 활용해 글로벌 메신저 플랫폼…",
     "pubDate": "2026-09-09T13:15:00.000Z",
     "collectedAt": "2026-09-09T06:20:19.613Z"
+  },
+  {
+    "id": "https://news.hada.io/topic?id=33439",
+    "category": "it",
+    "source": "긱뉴스",
+    "title": "Show GN: bitcoin-rs - ai 로 만든 bitcoin full node",
+    "link": "https://news.hada.io/topic?id=33439",
+    "summary": "핵심 요점 bitcoin-rs는 Bitcoin Core를 Rust로 단순 재구현하는 프로젝트가 아니라, Bitcoin의 합의 규칙은 유지하면서 노드 아키텍처를 새롭게 설계하는 독립 구현체임. AI 발전으로 소규모 팀도 복잡한 시스템 소프트웨어를 빠르게 구현하고 반복적으로 실...",
+    "pubDate": "2026-09-09T13:07:08.000Z",
+    "collectedAt": "2026-09-09T14:15:37.711Z"
+  },
+  {
+    "id": "https://www.hankyung.com/article/202609094965i",
+    "category": "economy",
+    "source": "한국경제 경제",
+    "title": "구글, 핀란드에 23조원 투자 AI 데이터센터 구축",
+    "link": "https://www.hankyung.com/article/202609094965i",
+    "summary": "",
+    "pubDate": "2026-09-09T13:05:38.000Z",
+    "collectedAt": "2026-09-09T14:15:37.711Z"
+  },
+  {
+    "id": "https://www.hankyung.com/article/2026090944836",
+    "category": "economy",
+    "source": "한국경제 경제",
+    "title": "최태원 제안에 키옥시아 '거절'…한일 낸드 동맹 '엇박자' [강경주의 테크X]",
+    "link": "https://www.hankyung.com/article/2026090944836",
+    "summary": "",
+    "pubDate": "2026-09-09T13:00:01.000Z",
+    "collectedAt": "2026-09-09T14:15:37.711Z"
+  },
+  {
+    "id": "20260909000403",
+    "category": "ai",
+    "source": "전자신문 AI",
+    "title": "과기정통부, 프랑스와 AI·반도체·양자 기술 협력 본격화",
+    "link": "https://www.etnews.com/20260909000403",
+    "summary": "과학기술정보통신부가 이재명 대통령 프랑스 국빈 방문을 계기로 양국 인공지능(AI)·반도체·양자 기술 분야 협력을 강화한다. 과기정통부는 프랑스 파리에서 양해각서(MOU) 체결로 양국 과학기술·디지털 파트너십을 공고히 다졌다고 9일 밝혔다. 지난 4월 에마뉘엘 마크롱 프랑스 대통령 방한…",
+    "pubDate": "2026-09-09T13:00:00.000Z",
+    "collectedAt": "2026-09-09T14:15:37.711Z"
+  },
+  {
+    "id": "https://www.hankyung.com/article/2026090949857",
+    "category": "it",
+    "source": "한국경제 IT",
+    "title": "AI 연구원 1만명 투입…90년 수학 난제 88시간 만에 풀었다",
+    "link": "https://www.hankyung.com/article/2026090949857",
+    "summary": "",
+    "pubDate": "2026-09-09T12:47:31.000Z",
+    "collectedAt": "2026-09-09T14:15:37.711Z"
   },
   {
     "id": "https://www.aitimes.com/news/articleView.html?idxno=215022",
@@ -280,6 +350,16 @@
     "collectedAt": "2026-09-09T04:15:33.883Z"
   },
   {
+    "id": "https://news.hada.io/topic?id=33438",
+    "category": "it",
+    "source": "긱뉴스",
+    "title": "Flock이 원하는 탈출구 없는 촘촘한 감시 세계",
+    "link": "https://news.hada.io/topic?id=33438",
+    "summary": "Flock Safety는 범죄를 없애려면 사생활을 희생해야 한다는 논리로 차량 감시망을 확대했으며, 미국 법 집행기관 약 40%가 계약하고 카메라 약 13만 대가 도로를 감시 중임 카메라는 번호판뿐 아니라 차량 제조사·모델·색상을 기록하며, 경찰은 영장이나 사법적 승인 없이...",
+    "pubDate": "2026-09-09T12:35:08.000Z",
+    "collectedAt": "2026-09-09T14:15:37.711Z"
+  },
+  {
     "id": "https://www.aitimes.com/news/articleView.html?idxno=215035",
     "category": "ai",
     "source": "AI타임스 AI산업",
@@ -288,6 +368,16 @@
     "summary": "AI 인프라 관리 전문 래블업(대표 신정규)은 오는 29일 서울 삼성동 코엑스 3층 컨퍼런스룸에서 연례 기술 컨퍼런스 ‘lab | up > /conf/6’를 개최한다고 밝혔다.올해로 6회째를 맞는 컨퍼런스로 래블업의 AI 인프라 기술과 연구개발 성과를 공유하는 자리다. AI 업계의 기업…",
     "pubDate": "2026-09-09T12:33:40.000Z",
     "collectedAt": "2026-09-09T04:15:33.883Z"
+  },
+  {
+    "id": "https://www.hankyung.com/article/202609094973i",
+    "category": "economy",
+    "source": "한국경제 경제",
+    "title": "베선트 \"내가 곧 하우스\"…엔 공매도 세력에 경고",
+    "link": "https://www.hankyung.com/article/202609094973i",
+    "summary": "",
+    "pubDate": "2026-09-09T12:29:16.000Z",
+    "collectedAt": "2026-09-09T14:15:37.711Z"
   },
   {
     "id": "https://www.aitimes.com/news/articleView.html?idxno=215031",
@@ -340,6 +430,16 @@
     "collectedAt": "2026-09-09T04:15:33.883Z"
   },
   {
+    "id": "https://www.hankyung.com/article/202609092819g",
+    "category": "economy",
+    "source": "한국경제 경제",
+    "title": "\"동네 편의점 탈탈 털었다\"…SNS서 난리난 '뜻밖의 디저트' [셀럽픽]",
+    "link": "https://www.hankyung.com/article/202609092819g",
+    "summary": "",
+    "pubDate": "2026-09-09T12:00:18.000Z",
+    "collectedAt": "2026-09-09T14:15:37.711Z"
+  },
+  {
     "id": "https://www.hankyung.com/article/2026090946851",
     "category": "it",
     "source": "한국경제 IT",
@@ -348,6 +448,16 @@
     "summary": "",
     "pubDate": "2026-09-09T12:00:01.000Z",
     "collectedAt": "2026-09-09T12:20:53.641Z"
+  },
+  {
+    "id": "20260909000414",
+    "category": "economy",
+    "source": "전자신문 경제",
+    "title": "영화 제작에 이어 책 출간까지…전화성 대표, 스타트업 '성장의 공식' 풀었다",
+    "link": "https://www.etnews.com/20260909000414",
+    "summary": "전화성 씨엔티테크 대표가 영어 제작에 이어 이번에는 스타트업의 성장 공식을 담은 책을 펴냈다. 20년 넘게 창업가와 투자자로 활동하며 축적한 경험을 바탕으로 스타트업의 성패를 가르는 공통적인 패턴을 하나의 모델로 정리했다. 전화성 대표는 2003년 푸드테크 기업을 창업한 이후 20년 넘…",
+    "pubDate": "2026-09-09T11:50:16.000Z",
+    "collectedAt": "2026-09-09T14:15:37.711Z"
   },
   {
     "id": "https://www.aitimes.com/news/articleView.html?idxno=215026",
@@ -378,6 +488,16 @@
     "summary": "인력·장비·교육에 수십만 달러를 투자한 인증 설치업체들이 Tesla의 Solar Roof 공급 중단으로 투자 손실과 진행 중인 프로젝트 변경 부담을 떠안음 미국 내 설치량은 약 7년간 3,000개 시스템에 그쳤고, 최고 실적도 주당 21~32건으로 Elon Musk가 약속한 주당 1,.…",
     "pubDate": "2026-09-09T11:33:25.000Z",
     "collectedAt": "2026-09-09T12:20:53.641Z"
+  },
+  {
+    "id": "https://www.hankyung.com/article/202609094929i",
+    "category": "economy",
+    "source": "한국경제 경제",
+    "title": "美, 캐나다 관세 부과→캐나다 보복관세→美 수입금지로 또 보복",
+    "link": "https://www.hankyung.com/article/202609094929i",
+    "summary": "",
+    "pubDate": "2026-09-09T11:32:10.000Z",
+    "collectedAt": "2026-09-09T14:15:37.711Z"
   },
   {
     "id": "https://www.hankyung.com/article/2026090949181",
@@ -460,6 +580,16 @@
     "collectedAt": "2026-09-09T12:20:53.641Z"
   },
   {
+    "id": "20260909000406",
+    "category": "economy",
+    "source": "전자신문 경제",
+    "title": "구글, 핀란드 디지털 인프라에 20조 투자",
+    "link": "https://www.etnews.com/20260909000406",
+    "summary": "구글이 자사 인공지능(AI) 모델 구동을 위해 핀란드의 디지털 인프라에 약 20조원을 투자한다. 구글은 9일(현지시간) 향후 2년간 최소 130억 유로(약 20조2000억원)에 달하는 핀란드 투자 계획을 밝히며 “유럽 내 구글의 단일 투자 중 최대 규모”라고 강조했다. 투자에는 데이터센…",
+    "pubDate": "2026-09-09T10:07:58.000Z",
+    "collectedAt": "2026-09-09T14:15:37.711Z"
+  },
+  {
     "id": "https://www.hankyung.com/article/202609093980g",
     "category": "it",
     "source": "한국경제 IT",
@@ -478,6 +608,16 @@
     "summary": "",
     "pubDate": "2026-09-09T10:00:09.000Z",
     "collectedAt": "2026-09-09T12:20:53.641Z"
+  },
+  {
+    "id": "20260909000404",
+    "category": "ai",
+    "source": "전자신문 SW",
+    "title": "비상교육, 초등 연구모임 '반올림스쿨'과 예비교원 네트워킹 지원",
+    "link": "https://www.etnews.com/20260909000404",
+    "summary": "비상교육이 '반올림스쿨'과 비상교육 본사에서 예비 교원 네트워킹 캠프를 개최했다. 반올림스쿨은 초등교사들이 함께 교육 콘텐츠를 연구·개발하는 연구모임이다. 반올림콘텐츠스쿨과 반올림디지털스쿨을 중심으로 수업자료 개발과 교원 연수, 교육 콘텐츠 제작 등을 진행하고 있다. 이번 캠프는 반올림…",
+    "pubDate": "2026-09-09T09:49:23.000Z",
+    "collectedAt": "2026-09-09T14:15:37.711Z"
   },
   {
     "id": "https://www.hankyung.com/article/2026090947541",
@@ -590,6 +730,16 @@
     "collectedAt": "2026-09-09T10:17:13.124Z"
   },
   {
+    "id": "20260909000401",
+    "category": "it",
+    "source": "전자신문 IT/통신",
+    "title": "넥슨재단, '바람의나라' 30주년 맞아 신진예술가 지원…경복궁서 전통공예 전시",
+    "link": "https://www.etnews.com/20260909000401",
+    "summary": "넥슨재단이 '바람의나라' 서비스 30주년을 맞아 게임 지식재산(IP)과 전통공예를 결합한 작품을 선보이고 신진예술가 지원에 나선다. 넥슨재단은 한국전통문화대학교와 함께 추진한 '보더리스 Craft판-이립의 바람, 전통을 잇다' 결과물 전시를 오는 21일까지 서울 경복궁 계조당에서 개최한…",
+    "pubDate": "2026-09-09T09:19:18.000Z",
+    "collectedAt": "2026-09-09T14:15:37.711Z"
+  },
+  {
     "id": "https://www.hankyung.com/article/2026090947121",
     "category": "economy",
     "source": "한국경제 증권",
@@ -648,6 +798,16 @@
     "summary": "",
     "pubDate": "2026-09-09T09:14:33.000Z",
     "collectedAt": "2026-09-09T10:17:13.124Z"
+  },
+  {
+    "id": "20260909000400",
+    "category": "it",
+    "source": "전자신문 IT/통신",
+    "title": "닌텐도, '젤다의 전설 시간의 오카리나' 풀 리메이크 11월 출시",
+    "link": "https://www.etnews.com/20260909000400",
+    "summary": "한국닌텐도가 '젤다의 전설' 시리즈 40주년을 맞아 명작 '젤다의 전설 시간의 오카리나'를 닌텐도 스위치2용으로 풀 리메이크해 선보인다. 40주년 특별 디자인을 적용한 닌텐도 스위치2 본체와 주변기기도 함께 출시한다. 한국닌텐도는 닌텐도 스위치2 소프트웨어 '젤다의 전설 시간의 오카리나…",
+    "pubDate": "2026-09-09T09:13:40.000Z",
+    "collectedAt": "2026-09-09T14:15:37.711Z"
   },
   {
     "id": "https://www.hankyung.com/article/2026090947131",
@@ -880,6 +1040,16 @@
     "collectedAt": "2026-09-09T10:17:13.124Z"
   },
   {
+    "id": "20260909000397",
+    "category": "ai",
+    "source": "전자신문 AI",
+    "title": "농경지 벌까지 잡아낸 AI…한국공학대, 연구진 국제 대회서 최종 2위",
+    "link": "https://www.etnews.com/20260909000397",
+    "summary": "한국공학대학교는 이익현 교수와 교원창업기업 아이케이랩 연구진이 농경지의 수분매개 곤충을 탐지하는 국제 인공지능(AI) 경진대회에서 최종 2위에 올랐다고 9일 밝혔다. 연구진이 참가한 대회는 유럽컴퓨터비전학술대회(ECCV) 2026 연계 워크숍인 제11회 '식물 표현형 및 농업 컴퓨터비전…",
+    "pubDate": "2026-09-09T09:01:06.000Z",
+    "collectedAt": "2026-09-09T14:15:37.711Z"
+  },
+  {
     "id": "https://www.hankyung.com/article/2026090946081",
     "category": "economy",
     "source": "한국경제 경제",
@@ -888,6 +1058,26 @@
     "summary": "",
     "pubDate": "2026-09-09T09:01:03.000Z",
     "collectedAt": "2026-09-09T10:17:13.124Z"
+  },
+  {
+    "id": "20260909000396",
+    "category": "economy",
+    "source": "전자신문 경제",
+    "title": "코웨이라이프솔루션-웰케어스테이션, '장기요양 고객 돌봄 부담 낮춘다'",
+    "link": "https://www.etnews.com/20260909000396",
+    "summary": "코웨이라이프솔루션(코라솔)이 통합재가 전문기업 웰케어스테이션과 업무협약을 체결하고, 치매를 비롯해 지속적인 돌봄이 필요한 시니어 고객과 가족을 위한 방문요양 서비스 지원을 확대한다. 양사는 코라솔 가입 고객 중 치매 등으로 지속적인 간병이 필요한 가족이 있는 경우 장기요양 지원 서비스를…",
+    "pubDate": "2026-09-09T09:00:52.000Z",
+    "collectedAt": "2026-09-09T14:15:37.711Z"
+  },
+  {
+    "id": "20260909000395",
+    "category": "economy",
+    "source": "전자신문 경제",
+    "title": "코스피, 7000 고지 탈환...14일 애프터마켓 가동 '시너지'",
+    "link": "https://www.etnews.com/20260909000395",
+    "summary": "코스피가 9일 7000선을 돌파해 마감했다. 최근 국내 증시가 반등한 가운데 오는 14일 열리는 한국거래소 애프터마켓 거래 활성화로 이어질지 주목된다. 코스피는 전 거래일 대비 97.12P(1.40%) 오른 7051.64에 거래를 마쳤다. 장중 7112.48까지 오르며 지수 강세가 이어…",
+    "pubDate": "2026-09-09T09:00:40.000Z",
+    "collectedAt": "2026-09-09T14:15:37.711Z"
   },
   {
     "id": "https://www.hankyung.com/article/2026090946131",
@@ -968,6 +1158,16 @@
     "summary": "",
     "pubDate": "2026-09-09T08:49:10.000Z",
     "collectedAt": "2026-09-09T10:17:13.124Z"
+  },
+  {
+    "id": "20260909000394",
+    "category": "economy",
+    "source": "전자신문 경제",
+    "title": "이재용, 母 지분 1.9조원에 매수...상속세 '정리'",
+    "link": "https://www.etnews.com/20260909000394",
+    "summary": "이재용 삼성전자 회장이 모친 홍라희 리움미술관 명예관장이 보유한 삼성전자 주식 718만주를 1조9000억원에 매수했다. 삼성전자는 홍 명예관장 지분 0.11%를 이 회장에게 넘기는 대주주간 매매가 이워졌다고 9일 공시했다. 이번 거래는 홍 명예관장과 이 회장 간 개인 간 거래로 성사됐다…",
+    "pubDate": "2026-09-09T08:49:07.000Z",
+    "collectedAt": "2026-09-09T14:15:37.711Z"
   },
   {
     "id": "https://www.hankyung.com/article/2026090947651",
@@ -1070,6 +1270,16 @@
     "collectedAt": "2026-09-09T10:17:13.124Z"
   },
   {
+    "id": "20260909000389",
+    "category": "economy",
+    "source": "전자신문 경제",
+    "title": "“항공화물도 디지털 전환”…KIFFA·IATA, 'KOREA AIR CARGO DAY' 개최",
+    "link": "https://www.etnews.com/20260909000389",
+    "summary": "글로벌 공급망 불확실성이 커지는 가운데 국내외 항공화물 업계가 디지털 전환과 데이터 연결을 통한 경쟁력 강화 방안을 모색했다. 한국국제물류협회(KIFFA·회장 원제철)는 국제항공운송협회(IATA)와 공동으로 9일 경기 고양시 킨텍스에서 '2026 KOREA AIR CARGO DAY'를…",
+    "pubDate": "2026-09-09T08:26:13.000Z",
+    "collectedAt": "2026-09-09T14:15:37.711Z"
+  },
+  {
     "id": "https://www.hankyung.com/article/202609094559i",
     "category": "economy",
     "source": "한국경제 경제",
@@ -1080,6 +1290,16 @@
     "collectedAt": "2026-09-09T10:17:13.124Z"
   },
   {
+    "id": "20260909000387",
+    "category": "ai",
+    "source": "전자신문 SW",
+    "title": "“AI가속기+전력비율로 AIDC 규정”…업계 “학습·서비스용 기준 달라야”",
+    "link": "https://www.etnews.com/20260909000387",
+    "summary": "정부가 인공지능데이터센터(AIDC)를 인공지능(AI) 가속기와 이를 운전할 전용 전력·냉각설비를 갖추고, 전체 장비전력 중 인공지능 장비전력의 비율이나 규모가 일정 기준을 넘는 설비로 규정했다. 업계에서는 학습용·서비스(추론)용 등 용도별로 관련 기준을 달리 적용하고, AI 가속기 이동…",
+    "pubDate": "2026-09-09T08:19:48.000Z",
+    "collectedAt": "2026-09-09T14:15:37.711Z"
+  },
+  {
     "id": "https://www.hankyung.com/article/2026090945527",
     "category": "economy",
     "source": "한국경제 경제",
@@ -1088,6 +1308,36 @@
     "summary": "",
     "pubDate": "2026-09-09T08:17:06.000Z",
     "collectedAt": "2026-09-09T10:17:13.124Z"
+  },
+  {
+    "id": "20260909000385",
+    "category": "economy",
+    "source": "전자신문 경제",
+    "title": "유진투자증권, 삼성자산운용과 'Eugene ETF DNA LAB' 이벤트 진행",
+    "link": "https://www.etnews.com/20260909000385",
+    "summary": "유진투자증권이 삼성자산운용과 ETF 투자 성향 진단과 맞춤형 상품 추천, 혜택을 제공하는 'Eugene ETF DNA LAB' 이벤트를 10월 31일까지 진행한다고 9일 밝혔다. ETF 투자 스타일 테스트로 고객의 투자 성향을 성장 추구형 '그로미', 안정 추구형 '든든이', 배당 선호…",
+    "pubDate": "2026-09-09T08:10:46.000Z",
+    "collectedAt": "2026-09-09T14:15:37.711Z"
+  },
+  {
+    "id": "20260909000384",
+    "category": "economy",
+    "source": "전자신문 경제",
+    "title": "퇴근 후에도 주식 산다…KRX 애프터마켓 14일 개장",
+    "link": "https://www.etnews.com/20260909000384",
+    "summary": "한국거래소(KRX)가 오는 14일부터 주식시장 애프터마켓을 운영한다. 투자자는 정규시장 종료 이후에도 오후 8시까지 코스피·코스닥 주식을 실시간으로 거래할 수 있게 된다. 한국거래소는 유가증권시장과 코스닥시장 업무규정 개정을 마치고 오는 14일 애프터마켓을 개설한다고 9일 밝혔다. 애프…",
+    "pubDate": "2026-09-09T08:10:09.000Z",
+    "collectedAt": "2026-09-09T14:15:37.711Z"
+  },
+  {
+    "id": "20260909000381",
+    "category": "economy",
+    "source": "전자신문 경제",
+    "title": "삼성증권, '퇴직연금 개인투자용 국채 이벤트' 진행",
+    "link": "https://www.etnews.com/20260909000381",
+    "summary": "삼성증권이 퇴직연금계좌 보유 고객을 대상으로 '퇴직연금 개인투자용 국채 이벤트'를 12월 31일까지 진행한다고 9일 밝혔다. 이벤트 기간 중 퇴직연금 계좌로 개인투자용 국채 청약과 배정을 완료한 고객 가운데 500명을 추첨해 포인트 쿠폰 1만원을 지급한다. 개인투자용 국채 청약은 9월(…",
+    "pubDate": "2026-09-09T08:04:40.000Z",
+    "collectedAt": "2026-09-09T14:15:37.711Z"
   },
   {
     "id": "https://www.hankyung.com/article/202609094403i",
