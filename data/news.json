@@ -180,6 +180,36 @@
     "collectedAt": "2026-09-09T08:16:42.407Z"
   },
   {
+    "id": "https://news.hada.io/topic?id=33446",
+    "category": "it",
+    "source": "긱뉴스",
+    "title": "Desert Ant Labs, 기기에서 실행되는 빠른 로컬 모델 공개",
+    "link": "https://news.hada.io/topic?id=33446",
+    "summary": "오디오·비전·텍스트 작업을 클라우드 없이 처리하도록 유럽 AI 연구소 Desert Ant Labs가 소형 특화 모델 18개를 공개함. 안정 버전 12개와 베타 6개를 Swift·Kotlin·JavaScript용 SDK로 제공함 작업당 하나의 모델을 기기에서 실행해 호출당 비용과 서버 왕…",
+    "pubDate": "2026-09-09T15:34:11.000Z",
+    "collectedAt": "2026-09-09T16:16:44.823Z"
+  },
+  {
+    "id": "https://www.hankyung.com/article/202609105067i",
+    "category": "economy",
+    "source": "한국경제 경제",
+    "title": "美경제학자 70%,\"9월 금리 동결\"…시장 예상과 반대",
+    "link": "https://www.hankyung.com/article/202609105067i",
+    "summary": "",
+    "pubDate": "2026-09-09T15:32:40.000Z",
+    "collectedAt": "2026-09-09T16:16:44.823Z"
+  },
+  {
+    "id": "20260910000001",
+    "category": "ai",
+    "source": "전자신문 AI",
+    "title": "AI가 지방행정을 만나면…차세대융합기술연구원, 시민 수용 해법 모색",
+    "link": "https://www.etnews.com/20260910000001",
+    "summary": "차세대융합기술연구원(원장 김연상)이 인공지능(AI)의 지방행정 도입 과정에서 필요한 시민 수용성과 조직 전환 방안을 논의하는 포럼을 연다. 융기원은 한국지방행정연구원(원장 육동일)과 오는 11일 오후 연구원 컨퍼런스룸2에서 'AI와 지방행정의 융합-기술에서 수용으로, 수용에서 전환으로'…",
+    "pubDate": "2026-09-09T15:29:25.000Z",
+    "collectedAt": "2026-09-09T16:16:44.823Z"
+  },
+  {
     "id": "https://www.aitimes.com/news/articleView.html?idxno=215052",
     "category": "ai",
     "source": "AI타임스 AI산업",
@@ -220,6 +250,16 @@
     "collectedAt": "2026-09-09T06:20:19.613Z"
   },
   {
+    "id": "https://www.hankyung.com/article/202609095058i",
+    "category": "economy",
+    "source": "한국경제 경제",
+    "title": "\"트럼프, 전쟁 기간 중 에너지주식 매매로 최대 59억 벌어\"",
+    "link": "https://www.hankyung.com/article/202609095058i",
+    "summary": "",
+    "pubDate": "2026-09-09T14:58:40.000Z",
+    "collectedAt": "2026-09-09T16:16:44.823Z"
+  },
+  {
     "id": "https://www.aitimes.com/news/articleView.html?idxno=215050",
     "category": "ai",
     "source": "AI타임스 정책",
@@ -240,6 +280,76 @@
     "collectedAt": "2026-09-09T06:20:19.613Z"
   },
   {
+    "id": "20260909000423",
+    "category": "economy",
+    "source": "전자신문 경제",
+    "title": "신상진 성남시장, 도비 지원 축소 비판…경기도 폐지론·행정체계 개편 제안",
+    "link": "https://www.etnews.com/20260909000423",
+    "summary": "신상진 경기 성남시장이 경기도의 도비 지원 축소 방침을 비판하며 광역자치단체 폐지를 포함한 지방행정체계 개편을 제안했다. 신 시장은 9일 자신의 사회관계망서비스(SNS)에 '이번 기회에 경기도를 없애는 건 어떨까요?'라는 제목의 글을 올리고 “경기도가 최근 재정이 어렵다는 이유로 도비…",
+    "pubDate": "2026-09-09T14:48:49.000Z",
+    "collectedAt": "2026-09-09T16:16:44.823Z"
+  },
+  {
+    "id": "https://news.hada.io/topic?id=33445",
+    "category": "it",
+    "source": "긱뉴스",
+    "title": "나는 Google Ads에 악성 소프트웨어를 광고한다",
+    "link": "https://news.hada.io/topic?id=33445",
+    "summary": "Rust로 만든 macOS 터미널 멀티플렉서 RACE를 홍보하려고 Google Ads에 500달러를 쓴 개발자가 ‘악성 소프트웨어’와 ‘침해된 사이트’를 이유로 광고 계정 정지를 겪음 Google은 반복된 이의신청을 거절하면서도 문제가 된 파일·페이지·행위나...",
+    "pubDate": "2026-09-09T14:48:37.000Z",
+    "collectedAt": "2026-09-09T16:16:44.823Z"
+  },
+  {
+    "id": "https://news.hada.io/topic?id=33444",
+    "category": "it",
+    "source": "긱뉴스",
+    "title": "Tailwind Labs, Shopify에 합류",
+    "link": "https://news.hada.io/topic?id=33444",
+    "summary": "수백만 사용자가 의존하는 Tailwind의 안정적인 장기 기반과 지속적인 유지보수를 확보하기 위해 Tailwind Labs가 Shopify에 합류함 템플릿 사업을 넘어 실제 제품 개발에서 사용자와 같은 문제를 겪고 해결책을 만들려는 목표에 Shopify의 스토어·관리자 화면·쇼...",
+    "pubDate": "2026-09-09T14:45:37.000Z",
+    "collectedAt": "2026-09-09T16:16:44.823Z"
+  },
+  {
+    "id": "https://www.hankyung.com/article/202609095052i",
+    "category": "economy",
+    "source": "한국경제 경제",
+    "title": "베선트, 금리는 \"나에게 베팅\"…엔화 강세에 발목 잡힌 반도체 [박신영의 개장전 요것만]",
+    "link": "https://www.hankyung.com/article/202609095052i",
+    "summary": "",
+    "pubDate": "2026-09-09T14:44:09.000Z",
+    "collectedAt": "2026-09-09T16:16:44.823Z"
+  },
+  {
+    "id": "https://news.hada.io/topic?id=33443",
+    "category": "it",
+    "source": "긱뉴스",
+    "title": "DeepSeek, V4 Pro보다 저렴하고 성능이 뛰어난 V4.1 Flash 출시 예정",
+    "link": "https://news.hada.io/topic?id=33443",
+    "summary": "DeepSeek은 내부·외부 테스트에서 V4 Pro의 모든 주요 지표를 넘어선 V4.1 Flash를 2026년 9월 10일 전후(베이징 시간) 정식 출시할 계획임 비교 지표는 성능·비용·속도·작업 완료 시간이며, 구체적인 벤치마크 수치나 테스트 조건은 공개하지 않...",
+    "pubDate": "2026-09-09T14:42:37.000Z",
+    "collectedAt": "2026-09-09T16:16:44.823Z"
+  },
+  {
+    "id": "https://news.hada.io/topic?id=33442",
+    "category": "it",
+    "source": "긱뉴스",
+    "title": "Claude, &quot;Add to Cart&quot; 버튼을 파란색으로 바꿔 줘",
+    "link": "https://news.hada.io/topic?id=33442",
+    "summary": "Opusfived는 버튼 색상 하나를 바꾸는 단순한 요청과 AI의 범위 밖 변경을 소재로 한 짧은 인터랙티브 코미디임 요청은 “Add to Cart” 버튼을 파란색으로 바꾸는 것으로, 대상과 바꿀 속성이 명확함 작업에는 다른 것은 아무것도 바꾸지 않아야...",
+    "pubDate": "2026-09-09T14:39:37.000Z",
+    "collectedAt": "2026-09-09T16:16:44.823Z"
+  },
+  {
+    "id": "https://www.hankyung.com/article/202609095050i",
+    "category": "economy",
+    "source": "한국경제 경제",
+    "title": "100달러 넘어선 유가에 금리인상 우려…美증시 하락",
+    "link": "https://www.hankyung.com/article/202609095050i",
+    "summary": "",
+    "pubDate": "2026-09-09T14:31:49.000Z",
+    "collectedAt": "2026-09-09T16:16:44.823Z"
+  },
+  {
     "id": "https://www.aitimes.com/news/articleView.html?idxno=215049",
     "category": "ai",
     "source": "AI타임스 AI산업",
@@ -248,6 +358,16 @@
     "summary": "AI 사용자들이 앤트로픽을 상대로 구독료 관련 집단 소송을 제기했다. 월 100~200달러에 달하는 최고 등급 구독 서비스 '맥스(Max) 플랜'의 사용량 제한 사항을 허위 광고해 소비자를 기만했다는 이유다.이번 소송은 지난 6월 캘리포니아 북부 연방법원에 최초 제기됐던 소송의 연장선이…",
     "pubDate": "2026-09-09T14:10:47.000Z",
     "collectedAt": "2026-09-09T06:20:19.613Z"
+  },
+  {
+    "id": "20260909000422",
+    "category": "economy",
+    "source": "전자신문 경제",
+    "title": "경기국방벤처센터, 33개사 추가 협약…도내 방산시장 진출 지원 확대",
+    "link": "https://www.etnews.com/20260909000422",
+    "summary": "경기도가 도내 중소기업 33곳의 방위산업 진출 지원을 확대한다. 경기도는 9일 대진대학교 도서관 국제회의실에서 '2026년 제2차 경기국방벤처센터 협약기업 협약식 및 기술교류회'를 열고 신규 협약기업 33개사와 업무협약을 체결했다고 9일 밝혔다. 이번 선정으로 센터 협약기업은 상반기 3…",
+    "pubDate": "2026-09-09T14:06:17.000Z",
+    "collectedAt": "2026-09-09T16:16:44.823Z"
   },
   {
     "id": "https://www.aitimes.com/news/articleView.html?idxno=215046",
@@ -14508,25 +14628,5 @@
     "summary": "과학기술정보통신부가 추진하는 ‘사이버 보안 특화 AI 파운데이션 모델 개발’ 사업 참여팀 공모가 SK텔레콤과 네이버클라우드 양강 구도로 최종 확정됐다. 당초 4개 컨소시엄의 치열한 경쟁이 예상됐으나 주요 기업 간 대규모 합종연횡이 이뤄지며 대형 연합체 2곳의 맞대결로 전열이 정비됐다.과…",
     "pubDate": "2026-08-26T17:42:25.000Z",
     "collectedAt": "2026-09-09T12:20:53.641Z"
-  },
-  {
-    "id": "https://www.aitimes.com/news/articleView.html?idxno=214394",
-    "category": "ai",
-    "source": "AI타임스 정책",
-    "title": "과기부, AI 서비스 설계･개발 담당 ‘혁신추진단’ 신설…민간전문가 공개 모집",
-    "link": "https://www.aitimes.com/news/articleView.html?idxno=214394",
-    "summary": "과학기술정보통신부(장관 배경훈)는 AI 서비스를 설계하고 개발하는 조직인 ‘국민인공지능서비스혁신추진단’을 신설하고, 추진단에서 서비스 개발을 담당할 민간 전문가를 공개 모집한다고 26일 밝혔다.추진단은 지난 7월30일 발령·시행된 국무총리훈령 제948호 '국민인공지능서비스혁신추진단의 설…",
-    "pubDate": "2026-08-26T16:00:00.000Z",
-    "collectedAt": "2026-09-09T10:17:13.124Z"
-  },
-  {
-    "id": "https://www.aitimes.com/news/articleView.html?idxno=214388",
-    "category": "ai",
-    "source": "AI타임스 정책",
-    "title": "과기부, ‘BCI 얼라이언스’ 출범...“2035년 BCI 상용화 추진”",
-    "link": "https://www.aitimes.com/news/articleView.html?idxno=214388",
-    "summary": "과학기술정보통신부(장관 배경훈)는 26일 서울 더플라자 메이플홀에서 BCI(뇌-컴퓨터 인터페이스) 얼라이언스 출범식을 개최했다.BCI는 인간과 컴퓨터가 생각만으로 소통할 수 있게 도와주는 차세대 기술이다. 상용화되면 사지마비, 뇌질환, 시각장애 등 신체장애를 극복하는 것 뿐만 아니라 생…",
-    "pubDate": "2026-08-26T15:50:32.000Z",
-    "collectedAt": "2026-09-09T10:17:13.124Z"
   }
 ]
