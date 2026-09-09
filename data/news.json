@@ -80,6 +80,16 @@
     "collectedAt": "2026-09-09T10:17:13.124Z"
   },
   {
+    "id": "https://news.hada.io/topic?id=33448",
+    "category": "it",
+    "source": "긱뉴스",
+    "title": "Anthropic, 활동가 감시를 위한 예측형 감시 시스템 구축 중",
+    "link": "https://news.hada.io/topic?id=33448",
+    "summary": "채용 공고와 보안 책임자 인터뷰에 따르면, Anthropic은 AI의 급속한 개발에 반대하는 활동가와 임원·시설 주변 시위를 감시하며 사건 발생 전 위협을 예측하는 체계를 확대하고 있음 위험 탐지 업체 Samdesk의 시위 정보와 관심 인물 추적 절차를...",
+    "pubDate": "2026-09-09T17:33:30.000Z",
+    "collectedAt": "2026-09-09T18:18:56.819Z"
+  },
+  {
     "id": "https://www.aitimes.com/news/articleView.html?idxno=215064",
     "category": "ai",
     "source": "AI타임스 AI산업",
@@ -168,6 +178,16 @@
     "summary": "AI 업계의 무한 경쟁이 인류를 위협할 수 있다는 경고와 함께 앤트로픽의 핵심 연구원이 사표를 던졌다. 앤트로픽에서 사전훈련 연구를 담당해 온 연구원 제이콥 콕슨은 9일 X를 통해 통제 불가능한 AI 시스템 개발 경쟁에 대한 우려로 회사를 떠난다고 밝혔다.올해 27세인 영국 출신의 콕슨…",
     "pubDate": "2026-09-09T16:15:50.000Z",
     "collectedAt": "2026-09-09T08:16:42.407Z"
+  },
+  {
+    "id": "https://www.hankyung.com/article/202609105070i",
+    "category": "economy",
+    "source": "한국경제 경제",
+    "title": "美,\"장기국채 바이백 3배 확대\"…시장 실망에 국채수익률 오히려 상승",
+    "link": "https://www.hankyung.com/article/202609105070i",
+    "summary": "",
+    "pubDate": "2026-09-09T15:57:39.000Z",
+    "collectedAt": "2026-09-09T18:18:56.819Z"
   },
   {
     "id": "https://www.aitimes.com/news/articleView.html?idxno=215040",
@@ -14618,15 +14638,5 @@
     "summary": "기획예산처(장관 박홍근)는 27일 서울 예금보험공사에서 제2차 재정운용전략협의회를 열고 '피지컬AI 기술 국산화'를 위한 장기 투자 계획을 밝혔다.회의에서는 ▲휴머노이드 생태계 육성을 위한 재정투자 방안 ▲8대 핵심분야 피지컬 AI 실증 추진 방안 ▲신성장 분야 혁신기업 육성방안 ▲전…",
     "pubDate": "2026-08-27T05:10:00.000Z",
     "collectedAt": "2026-09-07T07:48:05.661Z"
-  },
-  {
-    "id": "https://www.aitimes.com/news/articleView.html?idxno=214419",
-    "category": "ai",
-    "source": "AI타임스 정책",
-    "title": "과기부 '사이버 보안 AI' 공모 접수 완료…SKT·네이버클라우드 맞대결",
-    "link": "https://www.aitimes.com/news/articleView.html?idxno=214419",
-    "summary": "과학기술정보통신부가 추진하는 ‘사이버 보안 특화 AI 파운데이션 모델 개발’ 사업 참여팀 공모가 SK텔레콤과 네이버클라우드 양강 구도로 최종 확정됐다. 당초 4개 컨소시엄의 치열한 경쟁이 예상됐으나 주요 기업 간 대규모 합종연횡이 이뤄지며 대형 연합체 2곳의 맞대결로 전열이 정비됐다.과…",
-    "pubDate": "2026-08-26T17:42:25.000Z",
-    "collectedAt": "2026-09-09T12:20:53.641Z"
   }
 ]
