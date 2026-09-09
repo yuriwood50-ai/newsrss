@@ -1,5 +1,15 @@
 [
   {
+    "id": "https://news.hada.io/topic?id=33451",
+    "category": "it",
+    "source": "긱뉴스",
+    "title": "Apple, iPhone Duo 공개",
+    "link": "https://news.hada.io/topic?id=33451",
+    "summary": "Apple의 첫 폴더블 iPhone인 iPhone Duo는 7.6인치 내부 화면과 5.4인치 외부 화면을 갖추고, 펼쳤을 때 역대 iPhone 중 가장 얇은 두께를 구현함 두 화면의 동일한 종횡비로 콘텐츠 전환의 연속성을 유지하며, iOS 27의 Split View로 두 앱이나 ...",
+    "pubDate": "2026-09-09T19:37:24.000Z",
+    "collectedAt": "2026-09-09T20:15:55.524Z"
+  },
+  {
     "id": "https://www.aitimes.com/news/articleView.html?idxno=215037",
     "category": "ai",
     "source": "AI타임스 AI산업",
@@ -20,6 +30,16 @@
     "collectedAt": "2026-09-09T10:17:13.124Z"
   },
   {
+    "id": "https://news.hada.io/topic?id=33450",
+    "category": "it",
+    "source": "긱뉴스",
+    "title": "Apple, 첫 폴더블 iPhone Duo 공개",
+    "link": "https://news.hada.io/topic?id=33450",
+    "summary": "7.6인치 내부 화면과 5.4인치 외부 화면에 동일한 화면비를 적용해 접고 펼칠 때 콘텐츠가 자연스럽게 이어지며, 펼친 상태에서는 역대 iPhone 중 가장 얇은 디자인을 구현함 iPhone 최초로 Split View에서 두 앱을 나란히 실행하고 앱 조합을 저장할 수 있으며, 조...",
+    "pubDate": "2026-09-09T18:43:17.000Z",
+    "collectedAt": "2026-09-09T20:15:55.524Z"
+  },
+  {
     "id": "https://www.aitimes.com/news/articleView.html?idxno=215067",
     "category": "ai",
     "source": "AI타임스 AI산업",
@@ -28,6 +48,16 @@
     "summary": "기업들이 AI 도입 후 기대만큼의 투자수익률(ROI)을 거두지 못하는 원인은 기술 한계가 아닌 기존 업무 방식과의 불협화음 때문이라는 지적이 나왔다. 이를 해결하기 위해 단순 도구 활용을 넘어 AI 관측성과 에이전틱 워크플로우 구축, 조직 체계 및 핵심성과지표(KPI)의 근본적인 체감…",
     "pubDate": "2026-09-09T18:42:08.000Z",
     "collectedAt": "2026-09-09T10:17:13.124Z"
+  },
+  {
+    "id": "https://news.hada.io/topic?id=33449",
+    "category": "it",
+    "source": "긱뉴스",
+    "title": "GPT-6 Astra와 루프형 트랜스포머: 추론이 짧아지면 속을 알기 어려워질까?",
+    "link": "https://news.hada.io/topic?id=33449",
+    "summary": "글쓰기, 수학, 코딩 전반에서 GPT-5.6보다 개선된 GPT-6 Astra는 특히 3D 렌더링, 애니메이션과 컴퓨터 사용에서 큰 진전을 보임 성능 향상과 짧아진 추론 기록을 루프형 트랜스포머 구조로 설명하는 보도가 나왔지만, Astra의 실제 채택 여부는 ...",
+    "pubDate": "2026-09-09T18:40:17.000Z",
+    "collectedAt": "2026-09-09T20:15:55.524Z"
   },
   {
     "id": "https://www.aitimes.com/news/articleView.html?idxno=215051",
@@ -48,6 +78,26 @@
     "summary": "AI 챗봇을 학교 과제에 자주 사용하는 학생들이 AI를 거의 사용하지 않는 학생보다 시험 성적이 낮다는 조사 결과가 나왔다. OECD는 AI가 학생들의 학습을 돕는 유용한 도구가 될 수 있지만, 어려운 사고 과정을 AI에 맡기는 ‘인지적 외주화(cognitive offloading)’가…",
     "pubDate": "2026-09-09T18:27:07.000Z",
     "collectedAt": "2026-09-09T10:17:13.124Z"
+  },
+  {
+    "id": "https://www.hankyung.com/article/202609105089i",
+    "category": "it",
+    "source": "한국경제 IT",
+    "title": "애플도 접었다…첫 폴더블 '아이폰 듀오' 시작가 1999달러",
+    "link": "https://www.hankyung.com/article/202609105089i",
+    "summary": "",
+    "pubDate": "2026-09-09T18:24:23.000Z",
+    "collectedAt": "2026-09-09T20:15:55.524Z"
+  },
+  {
+    "id": "https://www.hankyung.com/article/202609105087i",
+    "category": "economy",
+    "source": "한국경제 증권",
+    "title": "기대가 너무 컸나…美 재무부 바이백 60억달러에 금리는 더 올라",
+    "link": "https://www.hankyung.com/article/202609105087i",
+    "summary": "",
+    "pubDate": "2026-09-09T18:15:37.000Z",
+    "collectedAt": "2026-09-09T20:15:55.524Z"
   },
   {
     "id": "https://www.aitimes.com/news/articleView.html?idxno=215057",
