@@ -1,5 +1,95 @@
 [
   {
+    "id": "https://news.hada.io/topic?id=33500",
+    "category": "it",
+    "source": "긱뉴스",
+    "title": "ChatGPT Pro 구독 일시중단",
+    "link": "https://news.hada.io/topic?id=33500",
+    "summary": "Tibo 예고대로 200달러 플랜의 일시중단 100달러 플랜과 기존 구독자는 아무런 영향이 없음 ...",
+    "pubDate": "2026-09-10T22:06:06.000Z",
+    "collectedAt": "2026-09-10T22:13:53.544Z"
+  },
+  {
+    "id": "https://news.hada.io/topic?id=33499",
+    "category": "it",
+    "source": "긱뉴스",
+    "title": "록 밴드 Muse, Meta의 새 AI 도구에 소셜 미디어 계정명 빼앗겨",
+    "link": "https://news.hada.io/topic?id=33499",
+    "summary": "기술 지배의 미래를 경고해 온 록 밴드 Muse가 X와 Instagram의 계정명을 이번 주 출시된 Meta의 동명 개인용 AI 도구에 넘긴 것으로 보여 팬들이 반발함 밴드의 계정명은 X에서 @Musetheband, Instagram에서 @museband로 바뀌었...",
+    "pubDate": "2026-09-10T21:49:13.000Z",
+    "collectedAt": "2026-09-10T22:13:53.544Z"
+  },
+  {
+    "id": "https://news.hada.io/topic?id=33498",
+    "category": "it",
+    "source": "긱뉴스",
+    "title": "누구도 당신의 커다란 케이블 상자를 가져가지 못하게 하라",
+    "link": "https://news.hada.io/topic?id=33498",
+    "summary": "10년 넘게 보관한 케이블 두 개를 마침내 썼다는 Tyler Gaw의 게시물에 공감한 Jim Nielsen이, 케이블을 보관하는 이유를 기억하려고 그 게시물을 자신의 상자 앞면에 붙임 Gaw는 상자 바닥에서 필요한 케이블을 찾아내며, “이걸 대체 언제 쓸 건데?”라는 질문에 “바로 오.…",
+    "pubDate": "2026-09-10T21:46:04.000Z",
+    "collectedAt": "2026-09-10T22:13:53.544Z"
+  },
+  {
+    "id": "https://news.hada.io/topic?id=33497",
+    "category": "it",
+    "source": "긱뉴스",
+    "title": "Lotus Notes와 모든 것을 처음부터 만드는 것의 위험",
+    "link": "https://news.hada.io/topic?id=33497",
+    "summary": "1989년 출시된 Lotus Notes는 암호화, 첨부파일, 알림과 메시지 동기화를 갖춰 오늘날의 Slack과 이메일, 사내 앱 개발 도구를 합친 듯한 협업 환경을 제공함 이메일 전용 프로그램이 아니라 공유 데이터베이스 위에 일정, 토론, 주소록과 업무용 앱을 만드는 플랫폼",
+    "pubDate": "2026-09-10T21:43:04.000Z",
+    "collectedAt": "2026-09-10T22:13:53.544Z"
+  },
+  {
+    "id": "https://news.hada.io/topic?id=33496",
+    "category": "it",
+    "source": "긱뉴스",
+    "title": "화성을 위한 NASA의 색상 보정 기법, 이제 지구의 암벽화를 드러내다",
+    "link": "https://news.hada.io/topic?id=33496",
+    "summary": "NASA가 원격탐사·위성 영상 해석을 위해 개발한 비상관 스트레칭(decorrelation stretch) 이 고대 암벽화에서 보이지 않던 형상과 세부 묘사를 찾아내는 데 쓰이고 있음 단순히 대비를 높이는 대신 원래 색상을 더 넓은 색상 범위로 변환하며, 신호 정보를 적은 수...",
+    "pubDate": "2026-09-10T21:40:03.000Z",
+    "collectedAt": "2026-09-10T22:13:53.544Z"
+  },
+  {
+    "id": "https://www.hankyung.com/article/202609107125H",
+    "category": "economy",
+    "source": "한국경제 경제",
+    "title": "\"이러다 제주 경제 폭망한다\"…'범죄의 섬' 낙인에 '초비상' [불신 청구서]",
+    "link": "https://www.hankyung.com/article/202609107125H",
+    "summary": "",
+    "pubDate": "2026-09-10T21:30:07.000Z",
+    "collectedAt": "2026-09-10T22:13:53.544Z"
+  },
+  {
+    "id": "https://www.hankyung.com/article/2026091073431",
+    "category": "it",
+    "source": "한국경제 IT",
+    "title": "\"아내에게 2조5550억 줘야\"…이혼하다 드러난 '7조 회사' 정체",
+    "link": "https://www.hankyung.com/article/2026091073431",
+    "summary": "",
+    "pubDate": "2026-09-10T21:00:07.000Z",
+    "collectedAt": "2026-09-10T22:13:53.544Z"
+  },
+  {
+    "id": "20260910000303",
+    "category": "ai",
+    "source": "전자신문 AI",
+    "title": "네이버-LG, 18일 보안 특화 AI 개발 착수…“세계 1위 도전”",
+    "link": "https://www.etnews.com/20260910000303",
+    "summary": "네이버클라우드와 LG가 공격·방어 특화 인공지능(AI) 보안 모델을 공동 개발한다. 동일한 보안 데이터를 서로 다른 방식으로 학습시킨 뒤 두 모델을 교차 검증해 공격·방어 역량을 함께 끌어올려 글로벌 최고 수준의 사이버보안 AI를 개발한다는 목표다. 10일 네이버클라우드-LG CNS 컨…",
+    "pubDate": "2026-09-10T21:00:00.000Z",
+    "collectedAt": "2026-09-10T22:13:53.544Z"
+  },
+  {
+    "id": "20260910000408",
+    "category": "ai",
+    "source": "전자신문 AI",
+    "title": "“보안 AI 수요 크게 늘 것”…네이버, 특화 모델로 글로벌 정상 도전",
+    "link": "https://www.etnews.com/20260910000408",
+    "summary": "네이버클라우드가 보안 AI 시장의 폭발적 성장을 예상하면서 모델 개발에 대규모 자원을 투입한다. 글로벌 최고 수준의 보안 특화 AI 모델을 개발해 국내 보안 산업의 AI 전환을 촉진하고, 늘어나는 AI 연산 수요를 자사 클라우드와 'AI 팩토리' 사업의 성장으로 연결한다는 구상이다. 성…",
+    "pubDate": "2026-09-10T21:00:00.000Z",
+    "collectedAt": "2026-09-10T22:13:53.544Z"
+  },
+  {
     "id": "https://news.hada.io/topic?id=33494",
     "category": "it",
     "source": "긱뉴스",
@@ -14907,96 +14997,6 @@
     "link": "https://www.hankyung.com/article/202609078147g",
     "summary": "",
     "pubDate": "2026-09-07T06:46:17.000Z",
-    "collectedAt": "2026-09-07T07:42:11.233Z"
-  },
-  {
-    "id": "https://www.hankyung.com/article/202609079010i",
-    "category": "economy",
-    "source": "한국경제 증권",
-    "title": "AI 주식관리 시대 열었다... 하나증권 신규 MTS '하나증권V' 출시",
-    "link": "https://www.hankyung.com/article/202609079010i",
-    "summary": "",
-    "pubDate": "2026-09-07T06:46:10.000Z",
-    "collectedAt": "2026-09-07T07:42:11.233Z"
-  },
-  {
-    "id": "https://www.hankyung.com/article/2026090778841",
-    "category": "it",
-    "source": "한국경제 IT",
-    "title": "배충식 총장 \"내년부터 모든 과목 AI 체계로\"",
-    "link": "https://www.hankyung.com/article/2026090778841",
-    "summary": "",
-    "pubDate": "2026-09-07T06:45:56.000Z",
-    "collectedAt": "2026-09-07T07:48:05.661Z"
-  },
-  {
-    "id": "https://www.hankyung.com/article/202609078785i",
-    "category": "economy",
-    "source": "한국경제 증권",
-    "title": "중국 주춤한 사이 브라질 증시 '훨훨'…외국인이 돌아선 이유는",
-    "link": "https://www.hankyung.com/article/202609078785i",
-    "summary": "",
-    "pubDate": "2026-09-07T06:45:23.000Z",
-    "collectedAt": "2026-09-07T07:42:11.233Z"
-  },
-  {
-    "id": "https://www.hankyung.com/article/2026090778851",
-    "category": "it",
-    "source": "한국경제 IT",
-    "title": "\"韓 기업, AI에 지출 커도 자율화는 더뎌\"",
-    "link": "https://www.hankyung.com/article/2026090778851",
-    "summary": "",
-    "pubDate": "2026-09-07T06:44:57.000Z",
-    "collectedAt": "2026-09-07T07:48:05.661Z"
-  },
-  {
-    "id": "https://www.hankyung.com/article/2026090790706",
-    "category": "economy",
-    "source": "한국경제 증권",
-    "title": "다올투자증권, 美IBKR과 투자 플랫폼 '다올 파이 프로' 구축",
-    "link": "https://www.hankyung.com/article/2026090790706",
-    "summary": "",
-    "pubDate": "2026-09-07T06:44:22.000Z",
-    "collectedAt": "2026-09-07T07:42:11.233Z"
-  },
-  {
-    "id": "https://www.hankyung.com/article/2026090790596",
-    "category": "economy",
-    "source": "한국경제 증권",
-    "title": "코스피, 오픈AI 훈풍에 7000선 턱밑 마감…삼전닉스 급등",
-    "link": "https://www.hankyung.com/article/2026090790596",
-    "summary": "",
-    "pubDate": "2026-09-07T06:42:52.000Z",
-    "collectedAt": "2026-09-07T07:42:11.233Z"
-  },
-  {
-    "id": "https://www.hankyung.com/article/202609078794i",
-    "category": "economy",
-    "source": "한국경제 증권",
-    "title": "다올투자증권, 美 IBKR 손잡고 양방향 트레이딩 플랫폼 출시",
-    "link": "https://www.hankyung.com/article/202609078794i",
-    "summary": "",
-    "pubDate": "2026-09-07T06:41:27.000Z",
-    "collectedAt": "2026-09-07T07:42:11.233Z"
-  },
-  {
-    "id": "20260907000398",
-    "category": "economy",
-    "source": "전자신문 경제",
-    "title": "청주도시공사, 충북 공기업 최초 '저탄소 인증' 획득",
-    "link": "https://www.etnews.com/20260907000398",
-    "summary": "도시재생안전협회는 청주도시공사가 충북지역 공기업 가운데 최초로 협회 '저탄소 인증'을 획득했다고 7일 밝혔다. 이번 인증은 청주도시공사가 추진하고 있는 탄소중립과 에너지 절감, 친환경 경영 등 저탄소 활동 전반을 종합적으로 평가해 부여됐다. 청주도시공사는 그동안 환경경영을 기관 운영 주…",
-    "pubDate": "2026-09-07T06:40:55.000Z",
-    "collectedAt": "2026-09-07T07:42:11.233Z"
-  },
-  {
-    "id": "https://www.hankyung.com/article/202609078995i",
-    "category": "economy",
-    "source": "한국경제 증권",
-    "title": "30조 '잭팟' 터지나…대미투자 1호 소식에 발전株 불붙었다",
-    "link": "https://www.hankyung.com/article/202609078995i",
-    "summary": "",
-    "pubDate": "2026-09-07T06:40:29.000Z",
     "collectedAt": "2026-09-07T07:42:11.233Z"
   }
 ]
