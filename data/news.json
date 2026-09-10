@@ -30,6 +30,16 @@
     "collectedAt": "2026-09-10T10:16:16.566Z"
   },
   {
+    "id": "https://news.hada.io/topic?id=33491",
+    "category": "it",
+    "source": "긱뉴스",
+    "title": "Planet Labs의 공개 위성 영상 피드",
+    "link": "https://news.hada.io/topic?id=33491",
+    "summary": "자연재해와 인재 직후의 지표를 살펴볼 수 있는 Disaster Data는 일부 위성 영상과 Parquet·JSON 메타데이터를 공개해 DuckDB와 QGIS에서 탐색·분석할 수 있게 함 자료는 재난 전·후 영상으로 나뉘고 사건별로 제공 자산이 다르며, 콜롬비아와 베...",
+    "pubDate": "2026-09-10T17:34:51.000Z",
+    "collectedAt": "2026-09-10T18:17:22.717Z"
+  },
+  {
     "id": "https://www.aitimes.com/news/articleView.html?idxno=215105",
     "category": "ai",
     "source": "AI타임스 AI산업",
@@ -80,6 +90,36 @@
     "collectedAt": "2026-09-10T08:16:33.565Z"
   },
   {
+    "id": "https://news.hada.io/topic?id=33490",
+    "category": "it",
+    "source": "긱뉴스",
+    "title": "밴드 Muse, Meta의 새 AI 에이전트 Muse에 소셜 미디어 계정명을 빼앗김",
+    "link": "https://news.hada.io/topic?id=33490",
+    "summary": "영국 록 밴드 Muse가 Instagram과 X에서 수년간 쓰던 계정명을 Meta의 새 AI 에이전트 Muse가 사용하게 됐지만, 이전 경위는 공개되지 않음 밴드는 두 플랫폼 모두 @museband로 계정명을 바꿨으며, Instagram 변경 시점은 보도와 팬들의 목격담이...",
+    "pubDate": "2026-09-10T16:55:52.000Z",
+    "collectedAt": "2026-09-10T18:17:22.717Z"
+  },
+  {
+    "id": "https://news.hada.io/topic?id=33489",
+    "category": "it",
+    "source": "긱뉴스",
+    "title": "Hitachi, 태양광 친화적 전기요금제에 대응하는 CO2 히트펌프 온수기 출시",
+    "link": "https://news.hada.io/topic?id=33489",
+    "summary": "태양광 발전 확대에 따라 낮 시간 온수 가열을 장려하는 일본 전기요금제에 맞춰, Hitachi Global Life Solutions가 요금제 대응을 확대한 EcoCute Y 시리즈를 공개함 일본 가정용 370리터·460리터 모델을 2026년 11월부터 순차 판매하며, 지원 요금제는 리…",
+    "pubDate": "2026-09-10T16:52:52.000Z",
+    "collectedAt": "2026-09-10T18:17:22.717Z"
+  },
+  {
+    "id": "https://news.hada.io/topic?id=33488",
+    "category": "it",
+    "source": "긱뉴스",
+    "title": "Sony 웹사이트에서 디지털 게임을 ‘소유한다’고 표현한 사례 목록",
+    "link": "https://news.hada.io/topic?id=33488",
+    "summary": "Sony 공식 지원·상품·블로그 페이지는 업그레이드, 공유, 스트리밍, 리뷰 자격을 안내하며 ‘이미 소유한 게임’, ‘소유자’라는 표현을 쓰지만, 약관은 구매자가 제품을 소유하지 않는다고 명시함 캘리포니아 구매자 4명은 “Buy Now”·“Confirm Purchase”가 소...",
+    "pubDate": "2026-09-10T16:49:52.000Z",
+    "collectedAt": "2026-09-10T18:17:22.717Z"
+  },
+  {
     "id": "https://www.aitimes.com/news/articleView.html?idxno=215106",
     "category": "ai",
     "source": "AI타임스 AI산업",
@@ -88,6 +128,26 @@
     "summary": "AI 음악 생성 스타트업 수노(Suno)가 워너뮤직그룹, BMG와 협력해 정식 라이선스를 확보한 음악을 기반으로 새로운 음악을 생성할 수 있는 AI 모델을 출시했다.수노는 9일(현지시간) 워너뮤직그룹 및 BMG와 협력해 개발한 ‘v6’ 세대 AI 음악 모델 제품군을 공개했다.참여 아티스…",
     "pubDate": "2026-09-10T16:47:04.000Z",
     "collectedAt": "2026-09-10T08:16:33.565Z"
+  },
+  {
+    "id": "https://news.hada.io/topic?id=33487",
+    "category": "it",
+    "source": "긱뉴스",
+    "title": "Rust, Microsoft의 Tier-1 언어로 자리 잡음",
+    "link": "https://news.hada.io/topic?id=33487",
+    "summary": "Microsoft는 Rust를 C++, C#, TypeScript와 함께 내부 개발에서 가장 잘 지원하는 Tier-1 언어로 운영하며, 로컬 개발부터 프로덕션까지 보안 도구 체인·개발 도구·품질 검증·플랫폼 통합·SDL 요구사항 준수를 지원함 대체 코드 생성 백엔드 rustc_codeg…",
+    "pubDate": "2026-09-10T16:46:51.000Z",
+    "collectedAt": "2026-09-10T18:17:22.717Z"
+  },
+  {
+    "id": "https://www.hankyung.com/article/2026091076641",
+    "category": "economy",
+    "source": "한국경제 경제",
+    "title": "[포토] 최태원, 울산서 AX 현장 경영",
+    "link": "https://www.hankyung.com/article/2026091076641",
+    "summary": "",
+    "pubDate": "2026-09-10T16:36:47.000Z",
+    "collectedAt": "2026-09-10T18:17:22.717Z"
   },
   {
     "id": "https://www.aitimes.com/news/articleView.html?idxno=215107",
@@ -118,6 +178,16 @@
     "summary": "최첨단 AI 모델을 둘러싼 국가 간 기술 접근 경쟁이 안전성 검증 영역으로까지 번지고 있다. 앤트로픽이 최신 모델에 대한 사전 접근 권한을 미국 내 검증 기관으로 제한하면서, 동맹국인 영국의 AI 안전 연구 기관조차 최신 기술을 검증하지 못하는 상황이 발생했다. 9일(현지시간) 파이낸셜…",
     "pubDate": "2026-09-10T16:04:06.000Z",
     "collectedAt": "2026-09-10T08:16:33.565Z"
+  },
+  {
+    "id": "https://www.hankyung.com/article/202609117709i",
+    "category": "economy",
+    "source": "한국경제 증권",
+    "title": "Fed가 금리 올린다면 뉴욕 증시에서 벌어질 일 [김현석의 퀵 브리프]",
+    "link": "https://www.hankyung.com/article/202609117709i",
+    "summary": "",
+    "pubDate": "2026-09-10T15:58:28.000Z",
+    "collectedAt": "2026-09-10T18:17:22.717Z"
   },
   {
     "id": "https://news.hada.io/topic?id=33486",
@@ -170,6 +240,16 @@
     "collectedAt": "2026-09-10T16:16:37.710Z"
   },
   {
+    "id": "20260911000001",
+    "category": "economy",
+    "source": "전자신문 경제",
+    "title": "폴리텍대 성남캠퍼스, 반도체 맞춤교육으로 채용연계 인턴 9명이 합격",
+    "link": "https://www.etnews.com/20260911000001",
+    "summary": "반도체 기업 맞춤형 실습을 이수한 한국폴리텍대학 재학생 9명이 정규직 전환을 전제로 한 인턴에 선발됐다. 한국폴리텍대학 성남캠퍼스는 성남캠퍼스 8명과 서울정수캠퍼스 1명 등 재학생 9명이 새솔다이아몬드공업 채용연계형 인턴 최종 합격자로 뽑혔다고 10일 밝혔다. 양측은 지난 4월14일 성…",
+    "pubDate": "2026-09-10T15:30:25.000Z",
+    "collectedAt": "2026-09-10T18:17:22.717Z"
+  },
+  {
     "id": "https://www.hankyung.com/article/202609107601i",
     "category": "economy",
     "source": "한국경제 경제",
@@ -198,6 +278,16 @@
     "summary": "",
     "pubDate": "2026-09-10T15:24:04.000Z",
     "collectedAt": "2026-09-10T16:16:37.710Z"
+  },
+  {
+    "id": "20260910000433",
+    "category": "ai",
+    "source": "전자신문 SW",
+    "title": "상급종합병원 제로트러스트 도입 난항…54.5% “구체적 계획 없다”",
+    "link": "https://www.etnews.com/20260910000433",
+    "summary": "국내 상급종합병원 절반 이상이 제로트러스트(Zero Trust) 보안 체계 도입 필요성에 공감하면서도 구체적인 계획을 마련하지 못한 것으로 나타났다. 10일 병원정보보안협회에 따르면 국내 주요 상급종합병원 22개소를 대상으로 '의료기관 제로트러스트 도입 현황'을 실태조사한 결과, 12개…",
+    "pubDate": "2026-09-10T14:53:35.000Z",
+    "collectedAt": "2026-09-10T18:17:22.717Z"
   },
   {
     "id": "https://www.aitimes.com/news/articleView.html?idxno=215094",
@@ -14907,96 +14997,6 @@
     "link": "https://www.hankyung.com/article/202609078751g",
     "summary": "",
     "pubDate": "2026-09-07T06:32:24.000Z",
-    "collectedAt": "2026-09-07T07:42:11.233Z"
-  },
-  {
-    "id": "https://www.aitimes.com/news/articleView.html?idxno=214941",
-    "category": "ai",
-    "source": "AI타임스",
-    "title": "나주, 생활 속 탄소중립 확산…개인 텀블러 사용 캠페인",
-    "link": "https://www.aitimes.com/news/articleView.html?idxno=214941",
-    "summary": "AI 생성 영상나주시가 카페 이용객의 개인 텀블러 사용을 늘리고 일회용컵 소비를 줄이기 위한 시민 참여 캠페인에 나섰다. 텀블러 사용을 시민참여형 탄소중립 플랫폼 ‘탄소모아 탄탄e’와 연계해 생활 속 환경 실천과 인센티브 참여를 함께 안내하는 방식이다.나주는 지난 4일 빛가람동 중흥1·…",
-    "pubDate": "2026-09-07T06:32:08.000Z",
-    "collectedAt": "2026-09-07T07:42:11.233Z"
-  },
-  {
-    "id": "https://www.aitimes.com/news/articleView.html?idxno=214921",
-    "category": "ai",
-    "source": "AI타임스",
-    "title": "여수, ‘2026 여수 마린페스티벌’ 12일 개막...모터보트·카누 무료 체험",
-    "link": "https://www.aitimes.com/news/articleView.html?idxno=214921",
-    "summary": "AI 생성 영상여수세계박람회장 앞바다에서 카약과 드래곤보트 경기를 보고 모터보트·바나나보트·카누·수상자전거 등을 직접 체험할 수 있는 해양레저 축제가 개최된다. 시민과 관광객을 위한 체험 프로그램은 현장에서 신청하면 무료로 참여할 수 있다.여수시는 ‘2026 여수 마린페스티벌’이 오는…",
-    "pubDate": "2026-09-07T06:31:28.000Z",
-    "collectedAt": "2026-09-07T07:42:11.233Z"
-  },
-  {
-    "id": "https://www.hankyung.com/article/2026090790136",
-    "category": "economy",
-    "source": "한국경제 증권",
-    "title": "한국거래소·부산대병원, 필리핀 세부서 의료봉사",
-    "link": "https://www.hankyung.com/article/2026090790136",
-    "summary": "",
-    "pubDate": "2026-09-07T06:29:36.000Z",
-    "collectedAt": "2026-09-07T07:42:11.233Z"
-  },
-  {
-    "id": "https://www.aitimes.com/news/articleView.html?idxno=214918",
-    "category": "ai",
-    "source": "AI타임스",
-    "title": "전남광주, 9월 소상공인 무료보험 시행…대출금 최대 1000만원 지원",
-    "link": "https://www.aitimes.com/news/articleView.html?idxno=214918",
-    "summary": "AI 생성 영상전남광주통합특별시가 9월부터 사고나 중대질병을 겪은 소상공인을 지원하는 무료 상생보험을 시행한다. 이 가운데 ‘민생회복 대출 안심보험’은 광주와 전남에서 각각 5000명씩 총 1만명을 모집하며, 가입자가 사망하거나 중대질병 진단을 받으면 대출금 최대 1000만원을 보험사가…",
-    "pubDate": "2026-09-07T06:29:01.000Z",
-    "collectedAt": "2026-09-07T07:42:11.233Z"
-  },
-  {
-    "id": "https://www.hankyung.com/article/202609078854i",
-    "category": "economy",
-    "source": "한국경제 경제",
-    "title": "[단독] LS일렉트릭 북미 공장 증설하나…구자균 회장, 다음주 미국행",
-    "link": "https://www.hankyung.com/article/202609078854i",
-    "summary": "",
-    "pubDate": "2026-09-07T06:24:40.000Z",
-    "collectedAt": "2026-09-07T07:42:11.233Z"
-  },
-  {
-    "id": "20260907000384",
-    "category": "ai",
-    "source": "전자신문 SW",
-    "title": "국정원 클라우드 보안 기준 개정 논란…공공 데이터 미·중 클라우드 기업 해외서 관리하나",
-    "link": "https://www.etnews.com/20260907000384",
-    "summary": "국가정보원이 클라우드 컴퓨팅 보안 규정 개정을 추진하는 가운데 개정안이 시행되면 국내 공공 데이터에 대한 실질적 통제권이 해외로 넘어갈 수 있다는 지적이 나왔다. 데이터 저장 위치는 국내로 유지되지만, 이를 처리하고 접근하는 운영 권한을 해외에서 행사할 수 있게 되면서 사실상 데이터를…",
-    "pubDate": "2026-09-07T06:23:39.000Z",
-    "collectedAt": "2026-09-07T07:42:11.233Z"
-  },
-  {
-    "id": "https://www.hankyung.com/article/2026090789896",
-    "category": "economy",
-    "source": "한국경제 증권",
-    "title": "하나증권, AI 기능 탑재한 신규 MTS '하나증권V' 출시",
-    "link": "https://www.hankyung.com/article/2026090789896",
-    "summary": "",
-    "pubDate": "2026-09-07T06:22:27.000Z",
-    "collectedAt": "2026-09-07T07:42:11.233Z"
-  },
-  {
-    "id": "https://www.hankyung.com/article/202609078978g",
-    "category": "it",
-    "source": "한국경제 IT",
-    "title": "\"모든 연결에 지능을\"…카카오 'AI 전략' 청사진 나온다",
-    "link": "https://www.hankyung.com/article/202609078978g",
-    "summary": "",
-    "pubDate": "2026-09-07T06:21:13.000Z",
-    "collectedAt": "2026-09-07T07:42:11.233Z"
-  },
-  {
-    "id": "https://www.hankyung.com/article/202609078928i",
-    "category": "it",
-    "source": "한국경제 IT",
-    "title": "유전자치료제로 표적 단백질 낮추고도 심근경색 못 막았다…노바티스 3상 실패",
-    "link": "https://www.hankyung.com/article/202609078928i",
-    "summary": "",
-    "pubDate": "2026-09-07T06:17:37.000Z",
     "collectedAt": "2026-09-07T07:42:11.233Z"
   }
 ]
