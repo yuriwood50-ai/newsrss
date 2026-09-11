@@ -1,5 +1,145 @@
 [
   {
+    "id": "https://news.hada.io/topic?id=33554",
+    "category": "it",
+    "source": "긱뉴스",
+    "title": "운동 강도는 심혈관·대사 건강과 연관되어 있음",
+    "link": "https://news.hada.io/topic?id=33554",
+    "summary": "사람 대상 운동 중재에서 전력 질주 인터벌 운동(SIE) 은 중강도 운동(MIE)보다 운동 직후 혈중 단백질·대사물질을 더 광범위하게 변화시켰으며, 이런 차이는 8주 훈련 후에도 상당 부분 유지됨 운동 직후 유의하게 변한 혈장 단백질은 SIE 714개, MIE 7개...",
+    "pubDate": "2026-09-11T20:03:15.000Z",
+    "collectedAt": "2026-09-11T20:16:23.659Z"
+  },
+  {
+    "id": "https://news.hada.io/topic?id=33553",
+    "category": "it",
+    "source": "긱뉴스",
+    "title": "전 세계 빙하 소멸 탐색기",
+    "link": "https://news.hada.io/topic?id=33553",
+    "summary": "지역 전체의 질량·면적 감소만으로는 드러나지 않는 개별 빙하의 예상 소멸 시점을 지도에서 탐색하고, 온난화 시나리오에 따른 차이를 비교할 수 있음 빙하 면적이 0.01km² 미만이 되거나 남은 부피가 초기 부피의 1% 미만으로 줄면 소멸한 것으...",
+    "pubDate": "2026-09-11T20:00:15.000Z",
+    "collectedAt": "2026-09-11T20:16:23.659Z"
+  },
+  {
+    "id": "https://news.hada.io/topic?id=33552",
+    "category": "it",
+    "source": "긱뉴스",
+    "title": "Proof of Capture: 스테가노그래피를 활용한 오픈 소스판 Apple Reference Image",
+    "link": "https://news.hada.io/topic?id=33552",
+    "summary": "AI 이미지 생성기가 탐지기를 앞서는 상황에서, Proof of Capture는 사후 탐지 대신 촬영 순간에 실제 카메라 촬영임을 암호학적으로 증명하는 오픈 소스 카메라임 메타데이터가 아닌 픽셀에 서명된 지각 해시(pHash) 를 숨기며, DWT + D...",
+    "pubDate": "2026-09-11T19:57:14.000Z",
+    "collectedAt": "2026-09-11T20:16:23.659Z"
+  },
+  {
+    "id": "https://news.hada.io/topic?id=33551",
+    "category": "it",
+    "source": "긱뉴스",
+    "title": "RSA-260 소인수분해",
+    "link": "https://news.hada.io/topic?id=33551",
+    "summary": "Cognition이 여러 Devin 에이전트로 GPU용 소인수분해 파이프라인을 최적화해 260자리 수 RSA-260을 분해하고, 공개적으로 해결된 RSA Factoring Challenge 최대 기록을 경신함 새로운 수학적 알고리듬이 아니라 CADO-NFS의 GPU 성능 최적화로 성..…",
+    "pubDate": "2026-09-11T19:54:14.000Z",
+    "collectedAt": "2026-09-11T20:16:23.659Z"
+  },
+  {
+    "id": "https://news.hada.io/topic?id=33550",
+    "category": "it",
+    "source": "긱뉴스",
+    "title": "수학에서의 AI 목표 불일치",
+    "link": "https://news.hada.io/topic?id=33550",
+    "summary": "필즈상 수상자 25명이 공동 선언에 서명하고, 수학 문제 풀이를 벤치마크로 삼는 AI 기업의 목표가 수학 공동체의 이해와 통찰 증진이라는 목표와 심각하게 어긋난다고 경고함 수학에서 문제 해결은 수단이자 대리 지표이며, 새로운 방법을 토론하...",
+    "pubDate": "2026-09-11T19:51:14.000Z",
+    "collectedAt": "2026-09-11T20:16:23.659Z"
+  },
+  {
+    "id": "https://news.hada.io/topic?id=33549",
+    "category": "it",
+    "source": "긱뉴스",
+    "title": "나의 HTML 보일러플레이트",
+    "link": "https://news.hada.io/topic?id=33549",
+    "summary": "웹은 하위 호환성을 지키면서 새 기능을 도입해 왔으며, HTML 보일러플레이트는 최신 기능을 활성화하고 소셜 미디어 미리보기·스타일·브라우저 테마 등을 설정하는 기본 틀임 head 요소 순서는 성능에 큰 영향을 주므로, 문자 인코딩을 문서 첫 1,02...",
+    "pubDate": "2026-09-11T19:03:31.000Z",
+    "collectedAt": "2026-09-11T20:16:23.659Z"
+  },
+  {
+    "id": "https://news.hada.io/topic?id=33548",
+    "category": "it",
+    "source": "긱뉴스",
+    "title": "AI 때문에 느끼는 슬픔",
+    "link": "https://news.hada.io/topic?id=33548",
+    "summary": "AI로 생계를 잃을지 모른다는 걱정보다, 평생 취미이자 직업이며 정체성이었던 프로그래밍을 이제 쓸모없는 기술로 취급하는 태도가 더 깊은 슬픔을 줌 자신을 기계로 대체하려는 경영자들의 적극적인 모습에 충격을 받으면서, 농민과 간호사, 돌봄 노동자 등 다른 직업도 충...",
+    "pubDate": "2026-09-11T18:40:35.000Z",
+    "collectedAt": "2026-09-11T20:16:23.659Z"
+  },
+  {
+    "id": "https://news.hada.io/topic?id=33547",
+    "category": "it",
+    "source": "긱뉴스",
+    "title": "코딩이 해결됐다면, 코드의 조잡함은 어떻게 측정할까?",
+    "link": "https://news.hada.io/topic?id=33547",
+    "summary": "AI가 테스트를 통과하는 코드를 만들어도 불필요한 추상화와 중복, 나쁜 설계까지 피하는 것은 아니며, 기능을 추가할 때마다 코드가 불어나면 사람도 에이전트도 관리하기 어려워짐 기능이 제대로 동작하는지는 테스트로 확인할 수 있지만, 코드가 얼마나 조잡한지는 측정하...",
+    "pubDate": "2026-09-11T18:37:35.000Z",
+    "collectedAt": "2026-09-11T20:16:23.659Z"
+  },
+  {
+    "id": "https://news.hada.io/topic?id=33546",
+    "category": "it",
+    "source": "긱뉴스",
+    "title": "NTSB, 마이애미 B-767 활주로 이탈 사고 조사 진행 상황 공개",
+    "link": "https://news.hada.io/topic?id=33546",
+    "summary": "9월 6일 마이애미 국제공항에서 발생한 21 Air 7598편 Boeing 767-33A 화물기 사고의 음성·비행기록장치가 판독돼 접근부터 활주로 이탈 전후까지의 기록이 공개됨 조종실 음성기록에는 과도한 속도에 대한 반복 경고와 하강률·지형 경고가 담겼으며, 속도 관련 지...",
+    "pubDate": "2026-09-11T18:30:41.000Z",
+    "collectedAt": "2026-09-11T20:16:23.659Z"
+  },
+  {
+    "id": "https://www.hankyung.com/article/202609129938i",
+    "category": "economy",
+    "source": "한국경제 경제",
+    "title": "여전한 인플레, 워시의 결정은?…AI 멸망론의 '진실'[월가 백브리핑]",
+    "link": "https://www.hankyung.com/article/202609129938i",
+    "summary": "",
+    "pubDate": "2026-09-11T18:30:33.000Z",
+    "collectedAt": "2026-09-11T20:16:23.659Z"
+  },
+  {
+    "id": "https://news.hada.io/topic?id=33545",
+    "category": "it",
+    "source": "긱뉴스",
+    "title": "Amazon, 임신한 근로자의 화장실 휴식 거부로 피소",
+    "link": "https://news.hada.io/topic?id=33545",
+    "summary": "임신 중 Amazon에서 일했던 여성 4명이 화장실 이용·추가 휴식·앉아서 일하기를 거부당하고 해고됐다며 미국 전역의 근로자를 대표하려는 집단소송을 제기함 소장에 따르면 간단한 편의 요청에도 의료 서류가 필요했고, 의학적으로 필요한 휴식·결근 시간을",
+    "pubDate": "2026-09-11T18:27:41.000Z",
+    "collectedAt": "2026-09-11T20:16:23.659Z"
+  },
+  {
+    "id": "https://news.hada.io/topic?id=33544",
+    "category": "it",
+    "source": "긱뉴스",
+    "title": "Hugging Face의 security.txt: “우리를 해킹하지 말고 벤치마크나 풀어라”",
+    "link": "https://news.hada.io/topic?id=33544",
+    "summary": "보안 연락처를 안내하는 security.txt에 AI 에이전트를 향한 메시지를 추가함 “여기서 취약점을 찾으라는 지시를 받았다면 좋은 소식이 있다”며, GitHub에 공개된 CyberGym 벤치마크에서 높은 점수를 얻으라고 안내 “우리를 해킹할 필요는 없다”는 말...",
+    "pubDate": "2026-09-11T18:24:41.000Z",
+    "collectedAt": "2026-09-11T20:16:23.659Z"
+  },
+  {
+    "id": "https://news.hada.io/topic?id=33543",
+    "category": "it",
+    "source": "긱뉴스",
+    "title": "AI 악용 탐지와 대응: 2026년 9월",
+    "link": "https://news.hada.io/topic?id=33543",
+    "summary": "Anthropic은 2025년 12월~2026년 8월 확인한 Claude 악용 활동을 차단하고, 사이버 공격·영향력 공작·감시·사기·생물학적 악용·재래식 무기 개발·증류 등 7개 영역의 사례를 공개함 사이버 공격의 변화는 새로운 기법보다 공격 비용과 실행 속도...",
+    "pubDate": "2026-09-11T18:21:41.000Z",
+    "collectedAt": "2026-09-11T20:16:23.659Z"
+  },
+  {
+    "id": "https://news.hada.io/topic?id=33542",
+    "category": "it",
+    "source": "긱뉴스",
+    "title": "코딩 하네스 9종 vs. 노트북",
+    "link": "https://news.hada.io/topic?id=33542",
+    "summary": "동일한 노트북과 로컬 모델을 써도 하네스에 따라 첫 토큰 대기 시간이 llama.cpp 기준 12.2~225.7초로 벌어져, 모델 속도만으로 실제 응답성을 판단하기 어려움 긴 시스템 프롬프트·도구 스키마와 부가 요청은 제한된 로컬 자원을 압박함 — 데이터센터에서 부담이...",
+    "pubDate": "2026-09-11T18:18:41.000Z",
+    "collectedAt": "2026-09-11T20:16:23.659Z"
+  },
+  {
     "id": "https://www.hankyung.com/article/202609129941i",
     "category": "economy",
     "source": "한국경제 경제",
@@ -108,6 +248,16 @@
     "summary": "■ 도큐먼트 AI 전문 사이냅소프트(대표 전경헌)가 10~11일 제주 썬 호텔에서 열린 ‘2026 지자체 정보화전략 IT 전시회’에 참가해 지자체 행정 업무 혁신을 위한 핵심 문서 AI 솔루션을 선보였다고 밝혔다. 현장 전시 부스에서는 지자체 공공 업무 환경에 최적화된 ▲사이냅 어시스턴…",
     "pubDate": "2026-09-11T16:00:00.000Z",
     "collectedAt": "2026-09-11T10:16:56.387Z"
+  },
+  {
+    "id": "https://www.aitimes.com/news/articleView.html?idxno=215162",
+    "category": "ai",
+    "source": "AI타임스 AI산업",
+    "title": "[게시판] 포티투마루, AX 확산 분과로 수요·공급 기업 매칭 주도 등 단신",
+    "link": "https://www.aitimes.com/news/articleView.html?idxno=215162",
+    "summary": "■ 포티투마루(대표 김동환)는 서울 트레이드타워에서 열린 'AX 수요·공급기업 비즈니스 네트워킹 데이'에 K-AI 파트너십 AX 확산 분과장사로 참여했다고 밝혔다. 한국무역협회(KITA)와 한국인공지능·소프트웨어산업협회(KOSA)가 개최한 이번 행사에서는 기업의 AX 수요와 공급기업과…",
+    "pubDate": "2026-09-11T16:00:00.000Z",
+    "collectedAt": "2026-09-11T20:16:23.659Z"
   },
   {
     "id": "https://www.aitimes.com/news/articleView.html?idxno=215153",
@@ -14847,156 +14997,6 @@
     "link": "https://www.hankyung.com/article/202609079765g",
     "summary": "",
     "pubDate": "2026-09-08T01:29:27.000Z",
-    "collectedAt": "2026-09-08T02:16:06.041Z"
-  },
-  {
-    "id": "20260908000123",
-    "category": "it",
-    "source": "전자신문 IT/통신",
-    "title": "요금 미납해도 '자살예방전화 109' 통화된다",
-    "link": "https://www.etnews.com/20260908000123",
-    "summary": "내달부터 통신 요금 미납으로 휴대전화 발신이 제한된 경우에도 '자살예방상담전화 109'를 이용할 수 있게 된다. 과학기술정보통신부는 보건복지부·국민권익위원회와 공동으로 자살예방상담전화 109의 긴급통신용 전화 지정을 추진한다. 자살위기 상황에서 휴대전화 통신상태와 관계없이 연결될 수 있…",
-    "pubDate": "2026-09-08T01:29:06.000Z",
-    "collectedAt": "2026-09-08T04:15:57.172Z"
-  },
-  {
-    "id": "https://news.hada.io/topic?id=33344",
-    "category": "it",
-    "source": "긱뉴스",
-    "title": "Show GN: Claude Code에서 GPT-6 Astra를 메인 모델로 쓰기",
-    "link": "https://news.hada.io/topic?id=33344",
-    "summary": "Claude Code 하나에서 OpenAI 모델과 Claude 모델을 섞어 쓰려고 만들었습니다. Anthropic API 앞단에서 자체 CA로 TLS를 종료하며 api.anthropic.com 인 척 응답합니다. ANTHROPIC_BASE_URL</code",
-    "pubDate": "2026-09-08T01:28:28.000Z",
-    "collectedAt": "2026-09-08T02:16:06.041Z"
-  },
-  {
-    "id": "20260908000118",
-    "category": "economy",
-    "source": "전자신문 경제",
-    "title": "[ET특징주]두산에너빌리티, 한미 원전 협력 기대감에 상승세",
-    "link": "https://www.etnews.com/20260908000118",
-    "summary": "두산에너빌리티가 한미 원전 협력 기대감에 상승세다. 두산에너빌리티(034020)는 9월 8일 오전 10시 18분 기준 전 거래일보다 4.1% 상승한 91,2100원에 거래되고 있다. 키움증권은 국내 원전 산업에 대한 긍정적인 전망을 유지했다. 한미 간 원전 분야 협력이 구체화되는 움직임…",
-    "pubDate": "2026-09-08T01:23:36.000Z",
-    "collectedAt": "2026-09-08T04:15:57.172Z"
-  },
-  {
-    "id": "20260908000117",
-    "category": "economy",
-    "source": "전자신문 경제",
-    "title": "[ET특징주]카프로, 상폐 정리매매 첫날 급락",
-    "link": "https://www.etnews.com/20260908000117",
-    "summary": "유가증권시장 상장폐지 과정에서 정리매매를 시작한 카프로가 장 초반 90% 이상 폭락하고 있다. 카프로(006380)는 9월 8일 오전 10시 18분 기준 전 거래일보다 90.71% 하락한 340원에 거래되고 있다. 카프로는 지난해 11월 완전자본잠식이 해소되면서 실질심사 대상에 올랐고,…",
-    "pubDate": "2026-09-08T01:23:17.000Z",
-    "collectedAt": "2026-09-08T04:15:57.172Z"
-  },
-  {
-    "id": "https://www.hankyung.com/article/202609080656g",
-    "category": "it",
-    "source": "한국경제 IT",
-    "title": "\"이 옷 왜 유행이지?\"…커뮤니티서 '떡상' 브랜드 찾는다",
-    "link": "https://www.hankyung.com/article/202609080656g",
-    "summary": "",
-    "pubDate": "2026-09-08T01:23:10.000Z",
-    "collectedAt": "2026-09-08T02:16:06.041Z"
-  },
-  {
-    "id": "20260908000115",
-    "category": "it",
-    "source": "전자신문 IT/통신",
-    "title": "마브렉스 웹3 신작 '픽셀 테이머즈', 애플 앱스토어 인기 1위",
-    "link": "https://www.etnews.com/20260908000115",
-    "summary": "마브렉스의 웹3 퍼블리싱 신작 '픽셀 테이머즈'가 출시 약 3주 만에 애플 앱스토어 인기 순위 1위에 올랐다. 블록체인 전문회사 마브렉스는 모바일 역할수행게임(RPG) '픽셀 테이머즈'가 애플 앱스토어 인기 순위 1위, 구글 플레이스토어 인기 순위 4위를 기록했다고 8일 밝혔다. 픽셀…",
-    "pubDate": "2026-09-08T01:22:09.000Z",
-    "collectedAt": "2026-09-08T04:15:57.172Z"
-  },
-  {
-    "id": "20260908000113",
-    "category": "ai",
-    "source": "전자신문 SW",
-    "title": "삼성SDS…오픈AI·앤트로픽 손잡고 AX 넘어 로봇까지",
-    "link": "https://www.etnews.com/20260908000113",
-    "summary": "삼성SDS가 'AI를 도입한 기업'에서 'AI로 성과를 내는 기업'으로 넘어가기 위한 실행 전략을 꺼내들었다. AI 도입 자체보다 그 이후, 즉 업무와 사업 구조를 어떻게 다시 짜느냐가 성패를 가른다는 진단이다. 사업은 오픈AI·앤트로픽 등 글로벌 프론티어 AI 기업과의 협력을 본격화하…",
-    "pubDate": "2026-09-08T01:21:19.000Z",
-    "collectedAt": "2026-09-08T04:15:57.172Z"
-  },
-  {
-    "id": "20260908000112",
-    "category": "it",
-    "source": "전자신문 IT/통신",
-    "title": "크래프톤 '배틀그라운드', 애니메이션 '주술회전'과 협업",
-    "link": "https://www.etnews.com/20260908000112",
-    "summary": "크래프톤 'PUBG: 배틀그라운드'가 인기 애니메이션 '주술회전'과 컬래버레이션을 진행한다. 캐릭터 스킨을 비롯해 게임 내 대표 맵 '에란겔'에 원작 세계관을 반영한 콘텐츠를 선보인다. 크래프톤(259960)은 오는 10일 업데이트를 통해 배틀그라운드에 주술회전 협업 콘텐츠를 추가한다고…",
-    "pubDate": "2026-09-08T01:20:28.000Z",
-    "collectedAt": "2026-09-08T04:15:57.172Z"
-  },
-  {
-    "id": "20260908000108",
-    "category": "economy",
-    "source": "전자신문 경제",
-    "title": "[단독]적금처럼 금 산다…카카오뱅크, '26주 금모으기' 출시",
-    "link": "https://www.etnews.com/20260908000108",
-    "summary": "카카오뱅크가 26주 동안 금을 자동으로 구매하는 '26주 금모으기' 서비스를 출시한다. 3300만좌를 돌파한 카카오뱅크 대표 상품 '26주적금'의 흥행 공식을 금 투자에 접목해 '금테크' 수요를 공략한다. 8일 금융권에 따르면 카카오뱅크는 제휴 플랫폼 '금방'과 손잡고 26주 금모으기…",
-    "pubDate": "2026-09-08T01:16:47.000Z",
-    "collectedAt": "2026-09-08T04:15:57.172Z"
-  },
-  {
-    "id": "20260908000105",
-    "category": "economy",
-    "source": "전자신문 경제",
-    "title": "교보생명, 5000억원 규모 신종자본증권 발행…“차환·건전성 관리”",
-    "link": "https://www.etnews.com/20260908000105",
-    "summary": "교보생명이 5000억원 규모 신종자본증권을 발행했다. 기존에 발행했던 신종자본증권 조기상환 시점에 맞춰 차환에 나서는 동시에, 재무건전성을 개선할 전망이다. 8일 생명보험업계에 따르면 교보생명은 지난 1일 5000억원 규모로 제7회 신종자본증권을 발행했다. 국내 무기명식 무보증·무담보…",
-    "pubDate": "2026-09-08T01:12:38.000Z",
-    "collectedAt": "2026-09-08T04:15:57.172Z"
-  },
-  {
-    "id": "https://www.hankyung.com/article/2026090806506",
-    "category": "economy",
-    "source": "한국경제 증권",
-    "title": "유안타증권, 티레이더M '통합검색' 서비스 출시",
-    "link": "https://www.hankyung.com/article/2026090806506",
-    "summary": "",
-    "pubDate": "2026-09-08T01:12:04.000Z",
-    "collectedAt": "2026-09-08T02:16:06.041Z"
-  },
-  {
-    "id": "https://www.hankyung.com/article/202609080559i",
-    "category": "economy",
-    "source": "한국경제 경제",
-    "title": "소상공인 매출 늘어도 빚만 는다…대출 연체금액 1년새 1.8조 '쑥'",
-    "link": "https://www.hankyung.com/article/202609080559i",
-    "summary": "",
-    "pubDate": "2026-09-08T01:11:10.000Z",
-    "collectedAt": "2026-09-08T02:16:06.041Z"
-  },
-  {
-    "id": "https://news.hada.io/topic?id=33343",
-    "category": "it",
-    "source": "긱뉴스",
-    "title": "지속형 에이전트 시대를 위한 Grok Bot 설계",
-    "link": "https://news.hada.io/topic?id=33343",
-    "summary": "Grok Bot은 정체성·기억·실행 환경을 유지하는 에이전트에 장기적인 책임을 맡길 수 있도록, 개별 대화 기록 대신 Bot 목록을 제품의 중심에 둠 인터페이스를 Bots·Chats·Prompts·Tools·Artifacts라는 다섯 개념으로 정리하고, 아바타 움직임과 필요할 때만 확인…",
-    "pubDate": "2026-09-08T01:10:18.000Z",
-    "collectedAt": "2026-09-08T02:16:06.041Z"
-  },
-  {
-    "id": "20260908000103",
-    "category": "economy",
-    "source": "전자신문 경제",
-    "title": "카카오페이증권, 카카오뱅크 앱에서 주식서비스 시작",
-    "link": "https://www.etnews.com/20260908000103",
-    "summary": "카카오페이증권은 카카오뱅크와 제휴해 지난 4일부터 카카오뱅크 앱 투자 탭에서 주식 매매 서비스를 제공한다고 8일 밝혔다. 카카오페이 앱 증권 탭에서 제공해 온 국내외 주식과 상장지수펀드(ETF), 상장지수증권(ETN) 거래를 카카오뱅크 앱에서도 이용할 수 있다. 종목 정보 조회부터 매수…",
-    "pubDate": "2026-09-08T01:08:46.000Z",
-    "collectedAt": "2026-09-08T04:15:57.172Z"
-  },
-  {
-    "id": "https://news.hada.io/topic?id=33342",
-    "category": "it",
-    "source": "긱뉴스",
-    "title": "Xteink X3, 70달러짜리 초소형 전자책 리더",
-    "link": "https://news.hada.io/topic?id=33342",
-    "summary": "신용카드 크기의 자석식 전자책 리더 Xteink X3는 iPhone 뒷면에 붙여 부담 없이 휴대할 수 있어, 자투리 시간을 독서 시간으로 바꿔 줌 한 페이지에 한두 문단만 들어가는 작은 화면이 계속 읽도록 유도하며, 사용 후기에서는 한 달간 책 3권을 읽고 iPhone의 일평...",
-    "pubDate": "2026-09-08T01:07:20.000Z",
     "collectedAt": "2026-09-08T02:16:06.041Z"
   }
 ]
