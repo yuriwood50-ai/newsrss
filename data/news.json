@@ -160,6 +160,16 @@
     "collectedAt": "2026-09-11T06:19:18.199Z"
   },
   {
+    "id": "https://news.hada.io/topic?id=33534",
+    "category": "it",
+    "source": "긱뉴스",
+    "title": "창의성이 새로운 해자다",
+    "link": "https://news.hada.io/topic?id=33534",
+    "summary": "AI로 앱과 디자인을 쉽게 복제할 수 있게 되면서, 경쟁 우위는 참신한 결과물 하나가 아니라 독창적인 해결책을 계속 만들어내는 능력에 있음 Flash 시대의 웹은 불편하고 엉뚱했지만, 프로그래머가 아닌 사람들까지 새로운 상호작용을 실험했으며 수많은 실패작 사이에서 좋...",
+    "pubDate": "2026-09-11T13:40:45.000Z",
+    "collectedAt": "2026-09-11T14:16:03.485Z"
+  },
+  {
     "id": "https://www.aitimes.com/news/articleView.html?idxno=215141",
     "category": "ai",
     "source": "AI타임스 AI산업",
@@ -168,6 +178,16 @@
     "summary": "오픈AI가 월스트리트 투자은행과 증권사의 신입 애널리스트나 은행원들이 담당해 온 기업 조사와 재무 분석, 투자 제안서 작성 등을 자동화하는 금융 특화 AI 서비스를 공개했다. 금융 데이터에 대한 직접적인 접근과 최신 AI 모델의 추론 능력을 결합해 금융권 기업용 시장을 본격적으로 공략한…",
     "pubDate": "2026-09-11T13:40:43.000Z",
     "collectedAt": "2026-09-11T06:19:18.199Z"
+  },
+  {
+    "id": "https://news.hada.io/topic?id=33533",
+    "category": "it",
+    "source": "긱뉴스",
+    "title": "Claude, 더 이상 미성년자는 이용할 수 없음",
+    "link": "https://news.hada.io/topic?id=33533",
+    "summary": "소비자용 Claude는 가입 시 18세 이상이라는 연령 조건을 충족하는지 확인해야 하며, 안전 시스템으로 미성년자 이용 가능성을 탐지함 18세 미만 이용 징후가 감지되면 계정이 비활성화되고, 계속 이용하려면 연령 인증을 거쳐야 함 외부 플랫폼 ...",
+    "pubDate": "2026-09-11T13:37:45.000Z",
+    "collectedAt": "2026-09-11T14:16:03.485Z"
   },
   {
     "id": "https://www.aitimes.com/news/articleView.html?idxno=215149",
@@ -180,6 +200,16 @@
     "collectedAt": "2026-09-11T06:19:18.199Z"
   },
   {
+    "id": "https://www.hankyung.com/article/202609119887i",
+    "category": "economy",
+    "source": "한국경제 증권",
+    "title": "[속보] 美 8월 근원 CPI, 컨센서스 웃돌아 금리 인상 가능성 커져",
+    "link": "https://www.hankyung.com/article/202609119887i",
+    "summary": "",
+    "pubDate": "2026-09-11T12:46:31.000Z",
+    "collectedAt": "2026-09-11T14:16:03.485Z"
+  },
+  {
     "id": "https://www.aitimes.com/news/articleView.html?idxno=215138",
     "category": "ai",
     "source": "AI타임스 AI산업",
@@ -188,6 +218,16 @@
     "summary": "앤트로픽은 중국 AI 기업들이 '클로드'를 무단으로 활용해 핵심 기능을 복제하는'증류(distillation)' 공격을 벌였다고 주장했다. 특히 일부 기업은 제3자 프록시 네트워크와 가짜 계정을 이용해 접근 제한을 우회했으며, 자사 AI 서비스를 이용하는 실제 고객의 요청까지 클로드로…",
     "pubDate": "2026-09-11T12:45:24.000Z",
     "collectedAt": "2026-09-11T06:19:18.199Z"
+  },
+  {
+    "id": "https://news.hada.io/topic?id=33532",
+    "category": "it",
+    "source": "긱뉴스",
+    "title": "OpenAI의 Navier-Stokes 발표에 포함된 Lean 4 형식 증명",
+    "link": "https://news.hada.io/topic?id=33532",
+    "summary": "OpenAI는 유체역학의 Navier-Stokes 방정식에 관한 오랜 문제의 증명을 발표하면서, 사람이 읽는 증명과 기계로 검증할 수 있는 Lean 4 형식 증명을 함께 공개함 최근 AI로 해결된 다른 수학적 추측에도 형식 증명이 함께 제공됐으며, 특히 Lean ...",
+    "pubDate": "2026-09-11T12:33:19.000Z",
+    "collectedAt": "2026-09-11T14:16:03.485Z"
   },
   {
     "id": "https://www.aitimes.com/news/articleView.html?idxno=215133",
@@ -14957,46 +14997,6 @@
     "link": "https://www.hankyung.com/article/202609079782i",
     "summary": "",
     "pubDate": "2026-09-08T00:56:23.000Z",
-    "collectedAt": "2026-09-08T02:16:06.041Z"
-  },
-  {
-    "id": "https://www.hankyung.com/article/2026090805696",
-    "category": "economy",
-    "source": "한국경제 증권",
-    "title": "카프로, 정리매매 첫날 90% 넘게 폭락",
-    "link": "https://www.hankyung.com/article/2026090805696",
-    "summary": "",
-    "pubDate": "2026-09-08T00:55:11.000Z",
-    "collectedAt": "2026-09-08T02:16:06.041Z"
-  },
-  {
-    "id": "20260908000091",
-    "category": "economy",
-    "source": "전자신문 경제",
-    "title": "레이어제로, 비댁스 원화 스테이블코인 'KRW1' 멀티체인 확장 지원",
-    "link": "https://www.etnews.com/20260908000091",
-    "summary": "글로벌 블록체인 상호운용성 인프라 기업 레이어제로는 비댁스(BDACS)가 발행한 원화 스테이블코인 'KRW1'에 자사의 옴니체인 대체가능토큰(OFT) 표준을 적용한다고 8일 밝혔다. KRW1은 원화와 1대 1로 가치를 연동하도록 설계된 스테이블코인이다. 비댁스는 발행량에 상응하는 원화…",
-    "pubDate": "2026-09-08T00:52:48.000Z",
-    "collectedAt": "2026-09-08T04:15:57.172Z"
-  },
-  {
-    "id": "20260908000090",
-    "category": "economy",
-    "source": "전자신문 경제",
-    "title": "중진공, 中企 해외진출 '현지 지사' 찾는다…35개국 145개 기관 모집",
-    "link": "https://www.etnews.com/20260908000090",
-    "summary": "중소벤처기업진흥공단(중진공)이 해외 지사를 두기 어려운 중소벤처기업의 현지 진출을 지원할 글로벌 파트너 확충에 나선다. 중진공은 9일부터 28일까지 '2027년 해외민간네트워크' 전문기관을 모집한다고 8일 밝혔다. 모집 규모는 35개국 145개 기관이다. 해외민간네트워크는 중소벤처기업을…",
-    "pubDate": "2026-09-08T00:50:04.000Z",
-    "collectedAt": "2026-09-08T04:15:57.172Z"
-  },
-  {
-    "id": "https://www.hankyung.com/article/202609080522i",
-    "category": "economy",
-    "source": "한국경제 경제",
-    "title": "중진공, 中企 글로벌 도약 지원할 파트너 모집",
-    "link": "https://www.hankyung.com/article/202609080522i",
-    "summary": "",
-    "pubDate": "2026-09-08T00:49:11.000Z",
     "collectedAt": "2026-09-08T02:16:06.041Z"
   }
 ]
