@@ -1,5 +1,15 @@
 [
   {
+    "id": "https://www.hankyung.com/article/202609129941i",
+    "category": "economy",
+    "source": "한국경제 경제",
+    "title": "마이크로소프트의 뒤늦은 후회[박신영의 개장전 요것만]",
+    "link": "https://www.hankyung.com/article/202609129941i",
+    "summary": "",
+    "pubDate": "2026-09-11T17:47:19.000Z",
+    "collectedAt": "2026-09-11T18:18:31.773Z"
+  },
+  {
     "id": "https://www.aitimes.com/news/articleView.html?idxno=215145",
     "category": "ai",
     "source": "AI타임스 AI산업",
@@ -48,6 +58,16 @@
     "summary": "샘 알트먼 오픈AI CEO가 사내 회의에서 최첨단 AI 개발 속도를 늦추는 방안을 검토 중이라며, 경쟁 연구소들의 자발적인 동참을 유도하고 나섰다.11일 블룸버그에 따르면, 알트먼 CEO는 최근 전 직원이 참석한 내부 회의에서 다른 AI 연구소들과 협력해 최신 모델 개발 속도를 공동으로…",
     "pubDate": "2026-09-11T16:51:50.000Z",
     "collectedAt": "2026-09-11T10:16:56.387Z"
+  },
+  {
+    "id": "https://news.hada.io/topic?id=33541",
+    "category": "it",
+    "source": "긱뉴스",
+    "title": "체렌코프 복사 — 매질 속 빛보다 빠르게 이동할 때 생기는 푸른빛",
+    "link": "https://news.hada.io/topic?id=33541",
+    "summary": "체렌코프 복사는 전자·양성자 같은 하전 입자가 특정 매질 속 빛보다 빠르게 이동할 때 발생하는 푸른빛으로, 진공에서의 광속을 넘는 현상은 아님 물속에서는 빛의 속도가 진공에서의 75% 로 줄어들지만, 일부 입자는 그만큼 느려지지 않아 물속...",
+    "pubDate": "2026-09-11T16:33:49.000Z",
+    "collectedAt": "2026-09-11T18:18:31.773Z"
   },
   {
     "id": "https://www.aitimes.com/news/articleView.html?idxno=215146",
@@ -14977,26 +14997,6 @@
     "link": "https://news.hada.io/topic?id=33342",
     "summary": "신용카드 크기의 자석식 전자책 리더 Xteink X3는 iPhone 뒷면에 붙여 부담 없이 휴대할 수 있어, 자투리 시간을 독서 시간으로 바꿔 줌 한 페이지에 한두 문단만 들어가는 작은 화면이 계속 읽도록 유도하며, 사용 후기에서는 한 달간 책 3권을 읽고 iPhone의 일평...",
     "pubDate": "2026-09-08T01:07:20.000Z",
-    "collectedAt": "2026-09-08T02:16:06.041Z"
-  },
-  {
-    "id": "https://www.hankyung.com/article/202609080505g",
-    "category": "it",
-    "source": "한국경제 IT",
-    "title": "\"SK하이닉스 일하기 좋다\"…리뷰 뜯었더니 '종합 1위'",
-    "link": "https://www.hankyung.com/article/202609080505g",
-    "summary": "",
-    "pubDate": "2026-09-08T01:05:24.000Z",
-    "collectedAt": "2026-09-08T02:16:06.041Z"
-  },
-  {
-    "id": "https://news.hada.io/topic?id=33341",
-    "category": "it",
-    "source": "긱뉴스",
-    "title": "Show GN: Dol(돌) - 자체 CouchDB 서버로 동기화하는 마크다운 노트 앱",
-    "link": "https://news.hada.io/topic?id=33341",
-    "summary": "직접 만든 마크다운 노트 앱 Dol(돌) 입니다. 왜 만들었나 기존 노트 앱을 쓰면서 두 가지가 계속 걸렸습니다. Obsidian은 로컬 저장이 기본이지만, 기기 간 동기화를 하려면 유료 Sync를 쓰거나 서드파티 플러그인을 붙여야 합니다 노션이나 에버노트 계열은 동기화는 편하지",
-    "pubDate": "2026-09-08T01:05:09.000Z",
     "collectedAt": "2026-09-08T02:16:06.041Z"
   }
 ]
