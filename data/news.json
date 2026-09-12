@@ -80,6 +80,16 @@
     "collectedAt": "2026-09-12T08:15:15.312Z"
   },
   {
+    "id": "https://news.hada.io/topic?id=33582",
+    "category": "it",
+    "source": "긱뉴스",
+    "title": "젠장, 그래도 만들어라",
+    "link": "https://news.hada.io/topic?id=33582",
+    "summary": "생성형 AI가 직접 만든 코드와 도구의 가치를 떨어뜨리는 듯한 상황에서도, 경쟁 속도보다 만드는 즐거움과 배움을 이유로 창작을 계속할 수 있음 LLM의 코드 생성 능력은 실제로 뛰어나지만, 코드 보조 도구를 쓰는 일이 즐겁거나 그 결과물에 소유감과 자부심을 ...",
+    "pubDate": "2026-09-12T13:33:21.000Z",
+    "collectedAt": "2026-09-12T14:13:45.617Z"
+  },
+  {
     "id": "https://www.aitimes.com/news/articleView.html?idxno=215182",
     "category": "ai",
     "source": "AI타임스 AI산업",
@@ -88,6 +98,16 @@
     "summary": "AI 에이전트의 성능을 좌우하는 요소가 모델 자체의 능력뿐 아니라 이를 둘러싼 실행 환경과 소프트웨어인 ‘하네스(harness)’로 확대되는 가운데, AI가 스스로 실행 시스템을 만들고 개선할 수 있는지를 평가하는 새로운 연구가 나왔다. 바이트댄스 연구진은 최근 대형언어모델(LLM)이…",
     "pubDate": "2026-09-12T11:56:44.000Z",
     "collectedAt": "2026-09-12T04:14:52.484Z"
+  },
+  {
+    "id": "https://www.hankyung.com/article/2026091204577",
+    "category": "economy",
+    "source": "한국경제 경제",
+    "title": "2030 여성들 몰리더니…프로야구 1100만 '신기록' 세웠다",
+    "link": "https://www.hankyung.com/article/2026091204577",
+    "summary": "",
+    "pubDate": "2026-09-12T11:56:07.000Z",
+    "collectedAt": "2026-09-12T14:13:45.617Z"
   },
   {
     "id": "https://www.aitimes.com/news/articleView.html?idxno=215181",
@@ -14977,26 +14997,6 @@
     "link": "https://www.etnews.com/20260908000275",
     "summary": "정진완 우리은행장이 영세자영업자 현장을 찾아 현장의 어려움을 듣고 경영 지원에 나섰다. 우리은행은 지난 7일 서울 마포구 소재 '연화식탁'에서 서민금융진흥원, 사단법인 선한영향력가게와 '인정가게' 현판식을 개최했다고 8일 밝혔다. 정 행장은 “영세자영업자에 대한 실질적인 지원을 통해 자…",
     "pubDate": "2026-09-08T05:46:51.000Z",
-    "collectedAt": "2026-09-08T06:19:57.375Z"
-  },
-  {
-    "id": "https://www.hankyung.com/article/202609081368i",
-    "category": "economy",
-    "source": "한국경제 경제",
-    "title": "[단독] 현대차그룹, 휘발유·HEV용 자율주행차 개발",
-    "link": "https://www.hankyung.com/article/202609081368i",
-    "summary": "",
-    "pubDate": "2026-09-08T05:44:48.000Z",
-    "collectedAt": "2026-09-08T06:19:57.375Z"
-  },
-  {
-    "id": "https://www.hankyung.com/article/202609081364i",
-    "category": "economy",
-    "source": "한국경제 경제",
-    "title": "\"내년엔 하루 27척만 지나갈 수도\"…전 세계 물류업계 '초비상'",
-    "link": "https://www.hankyung.com/article/202609081364i",
-    "summary": "",
-    "pubDate": "2026-09-08T05:40:45.000Z",
     "collectedAt": "2026-09-08T06:19:57.375Z"
   }
 ]
