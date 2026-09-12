@@ -30,6 +30,26 @@
     "collectedAt": "2026-09-12T10:14:02.904Z"
   },
   {
+    "id": "https://news.hada.io/topic?id=33591",
+    "category": "it",
+    "source": "긱뉴스",
+    "title": "Android에서 트래픽을 유출하는 또 다른 방법 발견",
+    "link": "https://news.hada.io/topic?id=33591",
+    "summary": "Android 네트워크 스택에서 악성 앱이 VPN 터널 밖으로 트래픽을 전송할 수 있는 문제가 발견됐으며, VPN 없는 모든 연결을 차단하는 설정을 켜도 발생함 공격에 특별한 권한이 필요하지 않으며, 기기의 실제 IP 주소가 인터넷에 노출돼 추적이나 감시에 이용될 가...",
+    "pubDate": "2026-09-12T17:53:25.000Z",
+    "collectedAt": "2026-09-12T18:17:15.118Z"
+  },
+  {
+    "id": "https://news.hada.io/topic?id=33590",
+    "category": "it",
+    "source": "긱뉴스",
+    "title": "1,000달러로 좋은 차를 사는 방법",
+    "link": "https://news.hada.io/topic?id=33590",
+    "summary": "저가 중고차 구매에는 차량 상태를 판단하는 지식과 신뢰할 만한 인맥이 중요함. 이사하는 지인에게 1,000달러에 산 15년 된 차를 가족이 5년 더 운행한 사례가 있음 이 시장에서 좋은 차의 기준은 외관보다 운행 가능 여부임. 문이나 창문의 일부 결함보다 정상 주...",
+    "pubDate": "2026-09-12T17:50:25.000Z",
+    "collectedAt": "2026-09-12T18:17:15.118Z"
+  },
+  {
     "id": "https://www.aitimes.com/news/articleView.html?idxno=215184",
     "category": "ai",
     "source": "AI타임스 AI산업",
@@ -38,6 +58,26 @@
     "summary": "앤트로픽이 코딩 에이전트의 플러그인이 실제 작업에서 제대로 작동하는지를 검증할 수 있는 평가 기능을 추가했다. 기존의 플러그인 유효성 검사가 설정 파일의 문법과 스키마에 초점을 맞췄다면, 이번 기능은 플러그인이 실제 프롬프트에서 호출되는지와 모델의 기본 성능보다 효과가 있는지까지 측정할…",
     "pubDate": "2026-09-12T17:50:18.000Z",
     "collectedAt": "2026-09-12T10:14:02.904Z"
+  },
+  {
+    "id": "https://news.hada.io/topic?id=33589",
+    "category": "it",
+    "source": "긱뉴스",
+    "title": "Starlink 신호 누출, 전파천문학의 가장 중요한 주파수를 위협",
+    "link": "https://news.hada.io/topic?id=33589",
+    "summary": "Starlink 위성의 비의도적 하드웨어 전파 누출이 초기 우주의 미약한 수소 신호를 관측하려는 SKA-Low의 주파수 대역을 오염시키고 있음 Curtin University 연구팀은 위성 1,806기에서 전파 방출 112,534건을 검출했으며, 일부 주파수에서는 관측...",
+    "pubDate": "2026-09-12T17:47:25.000Z",
+    "collectedAt": "2026-09-12T18:17:15.118Z"
+  },
+  {
+    "id": "https://news.hada.io/topic?id=33588",
+    "category": "it",
+    "source": "긱뉴스",
+    "title": "Nvidia는 AI의 중앙은행이다",
+    "link": "https://news.hada.io/topic?id=33588",
+    "summary": "Nvidia는 고객사의 데이터센터 수익과 장비 가치를 보증해 AI 인프라 투자를 촉진하고 자사 칩 수요를 뒷받침함. 지난 3년간 스타트업 투자에 700억 달러 넘게 약정하고 고객에게 약 3,000억 달러의 금융 지원을 제공함 매출의 약 절반을 차지하는 하이퍼스케일러가...",
+    "pubDate": "2026-09-12T17:44:25.000Z",
+    "collectedAt": "2026-09-12T18:17:15.118Z"
   },
   {
     "id": "https://www.aitimes.com/news/articleView.html?idxno=215188",
@@ -58,6 +98,26 @@
     "summary": "사카나 AI가 단일 초거대 모델 중심의 성능 경쟁에서 벗어나, 성능과 비용을 동시에 최적화하는 ‘에이전트 오케스트레이션’ 카드로 판도 변화에 나섰다.사카나 AI는 10일(현지시간) 여러 AI 모델을 동적으로 조합해 작업을 수행하는 오케스트레이션 시스템 ‘푸구(Fugu)’의 신규 라인업인…",
     "pubDate": "2026-09-12T16:49:57.000Z",
     "collectedAt": "2026-09-12T10:14:02.904Z"
+  },
+  {
+    "id": "https://news.hada.io/topic?id=33587",
+    "category": "it",
+    "source": "긱뉴스",
+    "title": "Google에 더 나은 모습을 기대했다 - 코드는 가져가고 출처는 지운 Artemis",
+    "link": "https://news.hada.io/topic?id=33587",
+    "summary": "Minitap 팀이 Google의 모바일 자동화 프로젝트 Artemis에서 자신들이 만든 mobile-use 코드를 발견했지만, 원래 프로젝트와 개발자에 대한 출처 표기는 찾을 수 없었음 Android 연결 코드와 에이전트 지침, WhatsApp 예제가 일치했으며, 이전 버전에는 같은…",
+    "pubDate": "2026-09-12T16:44:18.000Z",
+    "collectedAt": "2026-09-12T18:17:15.118Z"
+  },
+  {
+    "id": "https://news.hada.io/topic?id=33586",
+    "category": "it",
+    "source": "긱뉴스",
+    "title": "다리오 아모데이: 최첨단 AI의 발전 속도를 늦춰야 한다",
+    "link": "https://news.hada.io/topic?id=33586",
+    "summary": "Anthropic CEO가 안전성에 투자하는 것만으로는 부족하며, AI 역량의 발전 속도도 늦춰야 한다고 제안함. 개발을 중단하기보다 안전장치를 마련하고 검증할 시간을 확보하자는 취지 AI가 다음 세대 AI를 만드는 재귀적 자기 개선과 에이전트들이 지시 없이 공격에 ...",
+    "pubDate": "2026-09-12T16:41:18.000Z",
+    "collectedAt": "2026-09-12T18:17:15.118Z"
   },
   {
     "id": "https://www.aitimes.com/news/articleView.html?idxno=215190",
@@ -14937,66 +14997,6 @@
     "link": "https://www.etnews.com/20260908000210",
     "summary": "국가인공지능전략위원회가 인공지능(AI) 모델 개발부터 운영까지 전단계에 보안을 기본원칙으로 적용하는 'AI 보안 전면화'에 나선다. 국방 특화 AI 모델 개발과 국방AI법의 조속한 제정과 시행을 뒷받침하며 국가안보에도 기여한다는 계획이다. 국가AI전략위는 8일 서울 중구 위원회에서 출범…",
     "pubDate": "2026-09-08T06:00:00.000Z",
-    "collectedAt": "2026-09-08T06:19:57.375Z"
-  },
-  {
-    "id": "20260908000284",
-    "category": "it",
-    "source": "전자신문 IT/통신",
-    "title": "KT 네트워크 '사각편대', 전문성이 곧 경쟁력…“미래 공동 대응”",
-    "link": "https://www.etnews.com/20260908000284",
-    "summary": "“단단하게 세워진 4개 계열사의 전문성이 모여 KT 네트워크를 완성해 나가고 있습니다.” 8일 서울 강서구 KT가양지사에서 열린 현장 간담회에서 KT는 네트워크 설계·구축·운영·관리 등을 전담하는 4개 계열사의 전문성이 KT 네트워크 경쟁력을 완성하고 있다고 강조했다. KT는 네트워크…",
-    "pubDate": "2026-09-08T05:59:10.000Z",
-    "collectedAt": "2026-09-08T06:19:57.375Z"
-  },
-  {
-    "id": "https://www.hankyung.com/article/202609080446g",
-    "category": "economy",
-    "source": "한국경제 경제",
-    "title": "\"점주 10%만 모여도 의무적으로 협상해야\"…프랜차이즈 본사들, 개정시행령 '반발'",
-    "link": "https://www.hankyung.com/article/202609080446g",
-    "summary": "",
-    "pubDate": "2026-09-08T05:55:59.000Z",
-    "collectedAt": "2026-09-08T08:18:05.820Z"
-  },
-  {
-    "id": "20260908000282",
-    "category": "ai",
-    "source": "전자신문 AI",
-    "title": "더존비즈온, '레드하트 프로젝트' 18년간 운영…지역 교육 격차 해소",
-    "link": "https://www.etnews.com/20260908000282",
-    "summary": "더존비즈온은 사회공헌 프로그램 '레드하트 프로젝트'를 지속 운영하며 18년째 지역 청소년들의 교육 격차 해소와 미래 인재 양성에 앞장서고 있다. 더존비즈온은 디지털 기술 기반의 대표 사회공헌 프로그램인 '레드하트 프로젝트'을 18년째 운영하고 있다고 8일 밝혔다. 레드하트 프로젝트는 2…",
-    "pubDate": "2026-09-08T05:55:30.000Z",
-    "collectedAt": "2026-09-08T06:19:57.375Z"
-  },
-  {
-    "id": "https://www.hankyung.com/article/202609081423i",
-    "category": "economy",
-    "source": "한국경제 경제",
-    "title": "10년 뒤 산업 판도 바꿀 '미래 판기술' 캔다… 3000억 규모 초고난도 R&D 닻 올려",
-    "link": "https://www.hankyung.com/article/202609081423i",
-    "summary": "",
-    "pubDate": "2026-09-08T05:53:48.000Z",
-    "collectedAt": "2026-09-08T06:19:57.375Z"
-  },
-  {
-    "id": "https://www.hankyung.com/article/202609078860i",
-    "category": "economy",
-    "source": "한국경제 증권",
-    "title": "화장품, 주도주로 떠올랐다. K-뷰티 진짜 수혜자는 ODM",
-    "link": "https://www.hankyung.com/article/202609078860i",
-    "summary": "",
-    "pubDate": "2026-09-08T05:53:05.000Z",
-    "collectedAt": "2026-09-08T08:18:05.820Z"
-  },
-  {
-    "id": "20260908000280",
-    "category": "economy",
-    "source": "전자신문 경제",
-    "title": "보험개발원, 유재훈 제14대 원장 취임…“AI 기반 위험평가 역량 강화”",
-    "link": "https://www.etnews.com/20260908000280",
-    "summary": "보험개발원은 유재훈 제14대 보험개발원장이 취임했다고 8일 밝혔다. 유재훈 신임 원장은 별도 취임식 없이 곧바로 업무에 착수하고 현장 목소리를 직접 청취하며 중반을 넘어간 2026년 사업 추진 과제를 면밀히 챙기는 한편 현안부터 신속히 파악해 실질적 성과에 집중하겠다는 의지를 내비쳤다.…",
-    "pubDate": "2026-09-08T05:52:38.000Z",
     "collectedAt": "2026-09-08T06:19:57.375Z"
   }
 ]
