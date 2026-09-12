@@ -50,6 +50,66 @@
     "collectedAt": "2026-09-12T02:15:24.696Z"
   },
   {
+    "id": "https://www.hankyung.com/article/2026091189066",
+    "category": "economy",
+    "source": "한국경제 증권",
+    "title": "\"한 달만에 수익률 10%\"…발 빠른 개미들 돈 번 '비결' 있었다 [이수의 ETF줌인]",
+    "link": "https://www.hankyung.com/article/2026091189066",
+    "summary": "",
+    "pubDate": "2026-09-12T06:00:03.000Z",
+    "collectedAt": "2026-09-12T06:18:26.372Z"
+  },
+  {
+    "id": "https://news.hada.io/topic?id=33571",
+    "category": "it",
+    "source": "긱뉴스",
+    "title": "Google 검색, 목적지 주소를 바로 읽을 수 없는 리디렉션 링크 확대",
+    "link": "https://news.hada.io/topic?id=33571",
+    "summary": "검색 결과의 링크가 실제 주소 대신 google.com/goto?url=... 형식으로 바뀌고 있으며, 클릭하면 Google을 거쳐 목적지로 이동함 기존 리디렉션과 달리 링크 문자열만으로 목적지 주소를 복원할 수 없어, HTML에서 주소를 추출하던 수집 방식에 영향을...",
+    "pubDate": "2026-09-12T05:32:34.000Z",
+    "collectedAt": "2026-09-12T06:18:26.372Z"
+  },
+  {
+    "id": "https://www.hankyung.com/article/2026091202657",
+    "category": "economy",
+    "source": "한국경제 경제",
+    "title": "반품 전자기기 971대 사라졌다…9억 빼돌린 범인 정체가",
+    "link": "https://www.hankyung.com/article/2026091202657",
+    "summary": "",
+    "pubDate": "2026-09-12T05:31:31.000Z",
+    "collectedAt": "2026-09-12T06:18:26.372Z"
+  },
+  {
+    "id": "https://www.hankyung.com/article/202609119876i",
+    "category": "economy",
+    "source": "한국경제 경제",
+    "title": "'요즘 소맥 안 마신다' 20일 만에 완판…MZ 푹 빠진 '술' [권용훈의 트렌드워치]",
+    "link": "https://www.hankyung.com/article/202609119876i",
+    "summary": "",
+    "pubDate": "2026-09-12T05:00:08.000Z",
+    "collectedAt": "2026-09-12T06:18:26.372Z"
+  },
+  {
+    "id": "20260912000016",
+    "category": "economy",
+    "source": "전자신문 경제",
+    "title": "김병주 소환에 경영진 사법리스크 커진 MBK…고려아연 경영권 확보도 '난항'",
+    "link": "https://www.etnews.com/20260912000016",
+    "summary": "홈플러스 사태를 수사 중인 검찰이 사모펀드 MBK파트너스 김병주 회장을 재소환해 조사하면서 김 회장과 김광일 MBK 부회장 등의 사법처리 향방에 여론 관심이 쏠리는 것으로 전해졌다. 법조계 일각에서는 기소 가능성이 있다는 전망이 나오는 가운데 MBK 수뇌부의 사법 리스크가 중대기로를 맞…",
+    "pubDate": "2026-09-12T04:54:21.000Z",
+    "collectedAt": "2026-09-12T06:18:26.372Z"
+  },
+  {
+    "id": "https://www.hankyung.com/article/202609119173g",
+    "category": "economy",
+    "source": "한국경제 경제",
+    "title": "손흥민·뷔 썼더니 대박?…\"아메리카노 50잔 더 팔아야\" [김소연의 얼굴전략]",
+    "link": "https://www.hankyung.com/article/202609119173g",
+    "summary": "",
+    "pubDate": "2026-09-12T04:00:01.000Z",
+    "collectedAt": "2026-09-12T06:18:26.372Z"
+  },
+  {
     "id": "https://news.hada.io/topic?id=33569",
     "category": "it",
     "source": "긱뉴스",
@@ -14937,66 +14997,6 @@
     "link": "https://www.etnews.com/20260908000212",
     "summary": "에스투더블유(S2W)가 범죄 수사에 필요한 데이터와 분석 도구를 스스로 선택해 조사하고 결과를 보고서로 만드는 자율형 인공지능(AI) 에이전트를 선보였다. S2W는 범죄 수사 특화 자율형 AI 에이전트 '딥 리서치 인베스티게이터(DRI)'를 출시했다고 8일 밝혔다. DRI는 S2W의 안…",
     "pubDate": "2026-09-08T04:37:03.000Z",
-    "collectedAt": "2026-09-08T06:19:57.375Z"
-  },
-  {
-    "id": "20260908000211",
-    "category": "economy",
-    "source": "전자신문 경제",
-    "title": "2분기 명목 GDP 성장률, 47년 만에 최고...전년 대비 26.4%↑",
-    "link": "https://www.etnews.com/20260908000211",
-    "summary": "올해 2분기 한국의 명목 국내총생산(GDP) 성장률이 전년 동기 대비 26.4% 증가해 47년 만에 최고 수준을 보였다. 실질 GDP 성장률은 속보치와 같은 0.6%(전기 대비)를 기록했고, 국민의 실질 구매력을 나타내는 실질 국내총소득(GDI)은 3.7%로 속보치보다 0.1%포인트(P…",
-    "pubDate": "2026-09-08T04:35:37.000Z",
-    "collectedAt": "2026-09-08T06:19:57.375Z"
-  },
-  {
-    "id": "20260908000204",
-    "category": "economy",
-    "source": "전자신문 경제",
-    "title": "다름달음, 롯데벤처스 투자 유치… 롯데 유통·식품 계열사와 사업협력 가능성 검토",
-    "link": "https://www.etnews.com/20260908000204",
-    "summary": "원재료 전처리 푸드테크 기업 다름달음이 롯데벤처스 투자 유치를 계기로 롯데그룹 식품·유통 계열사들과의 사업협력 기회를 모색하고 있다. 다름달음은 농산물 및 식품 원재료의 형태를 유지한 채 맛과 향미, 기능성 성분을 전처리 공정에서 적용하는 기술을 보유하고 있다. 회사는 스타트업 육성 프…",
-    "pubDate": "2026-09-08T04:35:00.000Z",
-    "collectedAt": "2026-09-08T06:19:57.375Z"
-  },
-  {
-    "id": "https://www.hankyung.com/article/2026090811556",
-    "category": "economy",
-    "source": "한국경제 증권",
-    "title": "NH투자증권, DC·IRP 전용 개인투자용 국채 청약 개시",
-    "link": "https://www.hankyung.com/article/2026090811556",
-    "summary": "",
-    "pubDate": "2026-09-08T04:34:49.000Z",
-    "collectedAt": "2026-09-08T06:19:57.375Z"
-  },
-  {
-    "id": "20260908000205",
-    "category": "economy",
-    "source": "전자신문 경제",
-    "title": "소도몰, 동종업계 '원가마켓' 인수…오프라인 공동구매 플랫폼 사업 확대",
-    "link": "https://www.etnews.com/20260908000205",
-    "summary": "오프라인 공동구매 플랫폼 소도몰(대표 서덕호)이 동종업계 플랫폼 원가마켓(대표 남명원)을 인수하고 유통망과 상품 소싱 역량 확대에 나선다. 소도몰은 원가마켓 인수를 통해 양사가 보유한 오프라인 매장과 지역 기반 고객 네트워크, 상품 소싱 및 물류 역량을 결합한다고 밝혔다. 공동구매 상품…",
-    "pubDate": "2026-09-08T04:32:00.000Z",
-    "collectedAt": "2026-09-08T06:19:57.375Z"
-  },
-  {
-    "id": "https://www.hankyung.com/article/2026090811486",
-    "category": "economy",
-    "source": "한국경제 증권",
-    "title": "한국거래소, ACGA 및 글로벌 기관투자자 라운드테이블 개최",
-    "link": "https://www.hankyung.com/article/2026090811486",
-    "summary": "",
-    "pubDate": "2026-09-08T04:31:23.000Z",
-    "collectedAt": "2026-09-08T06:19:57.375Z"
-  },
-  {
-    "id": "20260908000202",
-    "category": "economy",
-    "source": "전자신문 경제",
-    "title": "스마트터치, 전자칠판 전용 고객지원 앱 'SmartFix' 개발… A/S의 새로운 기준 제시",
-    "link": "https://www.etnews.com/20260908000202",
-    "summary": "전자칠판 전문기업 스마트터치가 전자칠판 사용 중 발생하는 다양한 문제를 고객이 직접 확인하고 해결할 수 있는 전용 고객지원 앱 'SmartFix(스마트픽스)'를 개발했다고 밝혔다. SmartFix는 전자칠판에 기본 탑재되는 대화형 A/S 앱으로, 고객이 별도의 설명서를 찾거나 고객센터에…",
-    "pubDate": "2026-09-08T04:31:00.000Z",
     "collectedAt": "2026-09-08T06:19:57.375Z"
   }
 ]
