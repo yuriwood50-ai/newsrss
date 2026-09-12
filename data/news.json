@@ -1,5 +1,45 @@
 [
   {
+    "id": "https://www.aitimes.com/news/articleView.html?idxno=215193",
+    "category": "ai",
+    "source": "AI타임스 AI산업",
+    "title": "오픈AI, 캘텍 AI 수학 해커톤 후원 철회…수학계 '슬롭 수학' 비판 여파",
+    "link": "https://www.aitimes.com/news/articleView.html?idxno=215193",
+    "summary": "오픈AI가 캘리포니아 공과대학교(CalTech)에서 개최될 예정이던 '캘텍 매스어톤(Caltech Mathathon)' 행사의 후원을 철회했다. 댄 로버츠 오픈AI 연구 총괄은 10일(현지시간) X를 통해 \"수학계 구성원들이 제기한 우려를 고려해 캘텍 매스어톤 후원을 철회하기로 결정했다…",
+    "pubDate": "2026-09-12T18:21:57.000Z",
+    "collectedAt": "2026-09-12T10:14:02.904Z"
+  },
+  {
+    "id": "https://www.aitimes.com/news/articleView.html?idxno=215184",
+    "category": "ai",
+    "source": "AI타임스 AI산업",
+    "title": "앤트로픽, 클로드 코드 '플러그인 평가' 공개…플러그인 성능·기여도 검증",
+    "link": "https://www.aitimes.com/news/articleView.html?idxno=215184",
+    "summary": "앤트로픽이 코딩 에이전트의 플러그인이 실제 작업에서 제대로 작동하는지를 검증할 수 있는 평가 기능을 추가했다. 기존의 플러그인 유효성 검사가 설정 파일의 문법과 스키마에 초점을 맞췄다면, 이번 기능은 플러그인이 실제 프롬프트에서 호출되는지와 모델의 기본 성능보다 효과가 있는지까지 측정할…",
+    "pubDate": "2026-09-12T17:50:18.000Z",
+    "collectedAt": "2026-09-12T10:14:02.904Z"
+  },
+  {
+    "id": "https://www.aitimes.com/news/articleView.html?idxno=215188",
+    "category": "ai",
+    "source": "AI타임스 AI산업",
+    "title": "구글, AI 도구 학습 '툴그래드' 공개...\"답부터 만들고 질문 붙여 성공률 99.8%\"",
+    "link": "https://www.aitimes.com/news/articleView.html?idxno=215188",
+    "summary": "구글이 대형언어모델(LLM)의 도구 사용 능력을 효율적으로 학습하기 위한 새로운 데이터 생성 프레임워크를 공개했다. 복잡한 API 탐색 과정에서 시행착오를 반복하는 기존 방식과 달리, 먼저 검증된 도구 사용 경로를 만든 뒤 이에 맞는 사용자 질의를 생성하는 방식으로 데이터 생성 비용과…",
+    "pubDate": "2026-09-12T17:24:33.000Z",
+    "collectedAt": "2026-09-12T10:14:02.904Z"
+  },
+  {
+    "id": "https://www.aitimes.com/news/articleView.html?idxno=215186",
+    "category": "ai",
+    "source": "AI타임스 AI산업",
+    "title": "사카나, 에이전트 오케스트레이션 ‘푸구’ 새 버전 출시…비용·성능 동시 잡았다",
+    "link": "https://www.aitimes.com/news/articleView.html?idxno=215186",
+    "summary": "사카나 AI가 단일 초거대 모델 중심의 성능 경쟁에서 벗어나, 성능과 비용을 동시에 최적화하는 ‘에이전트 오케스트레이션’ 카드로 판도 변화에 나섰다.사카나 AI는 10일(현지시간) 여러 AI 모델을 동적으로 조합해 작업을 수행하는 오케스트레이션 시스템 ‘푸구(Fugu)’의 신규 라인업인…",
+    "pubDate": "2026-09-12T16:49:57.000Z",
+    "collectedAt": "2026-09-12T10:14:02.904Z"
+  },
+  {
     "id": "https://www.aitimes.com/news/articleView.html?idxno=215190",
     "category": "ai",
     "source": "AI타임스 AI산업",
@@ -60,6 +100,16 @@
     "collectedAt": "2026-09-12T02:15:24.696Z"
   },
   {
+    "id": "https://news.hada.io/topic?id=33578",
+    "category": "it",
+    "source": "긱뉴스",
+    "title": "Navier-Stokes 관련 발표",
+    "link": "https://news.hada.io/topic?id=33578",
+    "summary": "Clay Mathematics Institute(CMI) 는 Navier-Stokes 문제가 해결된 것으로 보인다는 발표에 전 세계 수학계와 함께 기대감을 표함 해당 밀레니엄 문제는 3차원 유클리드 공간에서 Navier-Stokes 해의 존재성과 매끄러움을 묻는 문제임 최...",
+    "pubDate": "2026-09-12T09:32:23.000Z",
+    "collectedAt": "2026-09-12T10:14:02.904Z"
+  },
+  {
     "id": "https://www.aitimes.com/news/articleView.html?idxno=215180",
     "category": "ai",
     "source": "AI타임스 AI산업",
@@ -68,6 +118,46 @@
     "summary": "앤트로픽의 '클로드'가 이란과 러시아, 중국, 예멘 후티 반군 등 미국의 적대 세력과 무장 조직에 의해 미사일 제어, 미군 표적화, 사이버 공격, 민간인 감시 등 전방위적인 군사·공작 활동에 악용된 것으로 밝혀졌다.앤트로픽이 10일(현지시간) 발표한 'AI 오남용 감지 및 대응 보고서'…",
     "pubDate": "2026-09-12T09:22:28.000Z",
     "collectedAt": "2026-09-12T02:15:24.696Z"
+  },
+  {
+    "id": "https://www.hankyung.com/article/202609119493g",
+    "category": "economy",
+    "source": "한국경제 경제",
+    "title": "\"중국에 따라잡힐 판인데\"…반도체 업계 다시 꺼낸 '이 요구' [김대영의 노무스쿨]",
+    "link": "https://www.hankyung.com/article/202609119493g",
+    "summary": "",
+    "pubDate": "2026-09-12T09:00:07.000Z",
+    "collectedAt": "2026-09-12T10:14:02.904Z"
+  },
+  {
+    "id": "https://www.hankyung.com/article/202609119880i",
+    "category": "economy",
+    "source": "한국경제 경제",
+    "title": "\"공장이 모자랄 정도\"…반년 만에 1200만개 팔린 '이 맥주' [권용훈의 트렌드워치]",
+    "link": "https://www.hankyung.com/article/202609119880i",
+    "summary": "",
+    "pubDate": "2026-09-12T09:00:01.000Z",
+    "collectedAt": "2026-09-12T10:14:02.904Z"
+  },
+  {
+    "id": "https://news.hada.io/topic?id=33577",
+    "category": "it",
+    "source": "긱뉴스",
+    "title": "정신에 영향을 주는 약물이 안데스 문명의 부상에 핵심 역할을 함",
+    "link": "https://news.hada.io/topic?id=33577",
+    "summary": "정신에 영향을 주는 약물이 안데스 문명의 부상에 핵심 역할을 함",
+    "pubDate": "2026-09-12T08:39:49.000Z",
+    "collectedAt": "2026-09-12T10:14:02.904Z"
+  },
+  {
+    "id": "https://news.hada.io/topic?id=33576",
+    "category": "it",
+    "source": "긱뉴스",
+    "title": "Pandas는 멸종해야 한다",
+    "link": "https://news.hada.io/topic?id=33576",
+    "summary": "Pandas가 느리다는 이유만으로 복잡한 분산 쿼리 시스템으로 넘어갈 필요는 없음. 약 100GB 부근의 작업은 Polars와 DuckDB 같은 고성능 단일 머신 도구로 처리할 수 있음 Amazon Redshift 통계에 행 크기와 처리량 가정을 적용하면, 테이블의 94.68%는 10.…",
+    "pubDate": "2026-09-12T08:36:49.000Z",
+    "collectedAt": "2026-09-12T10:14:02.904Z"
   },
   {
     "id": "20260911000245",
@@ -14907,96 +14997,6 @@
     "link": "https://www.etnews.com/20260908000243",
     "summary": "NH투자증권이 '퇴직연금 개인투자용 국채'의 첫 청약을 9일 시작한다고 8일 밝혔다. 9월부터 퇴직연금 계좌로 개인투자용 국채에 투자할 수 있는 제도가 도입되면서 열리는 청약이다. 청약은 확정기여형(DC) 및 개인형퇴직연금(IRP) 계좌를 보유한 고객을 대상으로 9일부터 15일까지 5영…",
     "pubDate": "2026-09-08T05:06:59.000Z",
-    "collectedAt": "2026-09-08T06:19:57.375Z"
-  },
-  {
-    "id": "20260908000239",
-    "category": "economy",
-    "source": "전자신문 경제",
-    "title": "하나증권, MTS '하나증권V' 출시 기념 이벤트",
-    "link": "https://www.etnews.com/20260908000239",
-    "summary": "하나증권이 신규 모바일트레이딩시스템(MTS) '하나증권V' 출시 기념 '메가 경품 페스티벌' 오픈 알림 신청 이벤트를 실시한다고 8일 밝혔다. 15일까지 진행되는 이벤트 기간 내에 오픈 알림을 신청한 고객에게는 네이버페이 포인트 3000원과 메가 경품 페스티벌 응모권 3장을 지급한다.…",
-    "pubDate": "2026-09-08T05:05:58.000Z",
-    "collectedAt": "2026-09-08T06:19:57.375Z"
-  },
-  {
-    "id": "https://www.hankyung.com/article/202609081242i",
-    "category": "economy",
-    "source": "한국경제 증권",
-    "title": "美·이란 충돌에 치솟는 국제 유가…정유주도 '들썩'",
-    "link": "https://www.hankyung.com/article/202609081242i",
-    "summary": "",
-    "pubDate": "2026-09-08T05:03:52.000Z",
-    "collectedAt": "2026-09-08T06:19:57.375Z"
-  },
-  {
-    "id": "20260908000124",
-    "category": "ai",
-    "source": "전자신문 AI",
-    "title": "파네시아, 美 메타와 함께 CXL 기반 'AI 데이터센터' 구조 공동 제시",
-    "link": "https://www.etnews.com/20260908000124",
-    "summary": "인공지능(AI) 데이터센터 경쟁 축이 '더 빠른 가속기'에서 '가속기를 얼마나 하나의 시스템처럼 묶느냐'로 이동하고 있다. 수백~수천개 가속기가 하나의 AI 모델을 동시에 처리하는 시대가 열리면서 장치 간 통신 지연과 편차가 전체 시스템 성능을 결정하는 새로운 병목으로 떠올랐다. 한 장…",
-    "pubDate": "2026-09-08T05:00:00.000Z",
-    "collectedAt": "2026-09-08T06:19:57.375Z"
-  },
-  {
-    "id": "20260908000104",
-    "category": "economy",
-    "source": "전자신문 경제",
-    "title": "보험 해지하는 생명보험사 가입자들…수지 적자 15조원 육박",
-    "link": "https://www.etnews.com/20260908000104",
-    "summary": "올 상반기 생명보험 가입자들이 보험계약을 해지해 찾아간 돈이 26조원을 넘어섰다. 해약환급금과 보험금 지급이 빠르게 늘면서 생보업계 보험수지 적자도 15조원에 육박한 상황이다. 보험개발원에 따르면 올해 상반기 생보업계 해약환급금은 26조6199억원으로 전년 동기 19조5991억원보다 3…",
-    "pubDate": "2026-09-08T05:00:00.000Z",
-    "collectedAt": "2026-09-08T06:19:57.375Z"
-  },
-  {
-    "id": "https://www.hankyung.com/article/202609081222i",
-    "category": "economy",
-    "source": "한국경제 경제",
-    "title": "\"이게 삼다수 맞아요?\"…편의점서 생수 사려다 '당혹' [권용훈의 트렌드워치]",
-    "link": "https://www.hankyung.com/article/202609081222i",
-    "summary": "",
-    "pubDate": "2026-09-08T04:58:35.000Z",
-    "collectedAt": "2026-09-08T06:19:57.375Z"
-  },
-  {
-    "id": "20260908000228",
-    "category": "ai",
-    "source": "전자신문 SW",
-    "title": "SDT-그린광학, 양자점 SWIR 카메라 시스템 개발 협력",
-    "link": "https://www.etnews.com/20260908000228",
-    "summary": "SDT는 초정밀 광학 전문기업 그린광학과 양자점(Quantum Dot) 기반 단파적외선(SWIR) 카메라 시스템 공동 개발을 추진한다고 8일 밝혔다. SDT의 양자점 기반 SWIR 카메라 모듈과 그린광학의 광학 렌즈 모듈·하우징 기술을 결합해 완성형 국산 SWIR 카메라 시스템을 개발할…",
-    "pubDate": "2026-09-08T04:51:06.000Z",
-    "collectedAt": "2026-09-08T06:19:57.375Z"
-  },
-  {
-    "id": "20260908000224",
-    "category": "economy",
-    "source": "전자신문 경제",
-    "title": "이호성 하나은행장, '사람 살리는 금융' 릴레이 캠페인 동참",
-    "link": "https://www.etnews.com/20260908000224",
-    "summary": "이호성 하나은행장이 불법사금융 피해 예방과 금융 취약계층 보호를 위한 '사람 살리는 금융 릴레이 캠페인'에 동참했다. 서민금융진흥원 주관으로 시작된 이번 행사는 참여자가 인증 사진을 공식 사회관계망서비스(SNS)에 게시한 뒤 다음 참여자를 지목하는 방식으로 진행한다. 이 행장은 장민영…",
-    "pubDate": "2026-09-08T04:47:55.000Z",
-    "collectedAt": "2026-09-08T06:19:57.375Z"
-  },
-  {
-    "id": "20260908000223",
-    "category": "economy",
-    "source": "전자신문 경제",
-    "title": "신한은행, 6억유로 그린 커버드본드 발행…수요예측 3.8배 몰려",
-    "link": "https://www.etnews.com/20260908000223",
-    "summary": "신한은행이 3.5년 만기 6억유로(약 9444억원) 규모의 친환경 이중상환청구권부 채권(그린 커버드본드)을 발행했다. 해외 기관투자가의 견조한 수요를 확인하며 발행 조건을 대폭 개선했다. 이번 발행은 애초 목표액인 5억유로의 3.8배에 달하는 19억유로의 주문을 모으며 흥행에 성공했다.…",
-    "pubDate": "2026-09-08T04:45:10.000Z",
-    "collectedAt": "2026-09-08T06:19:57.375Z"
-  },
-  {
-    "id": "https://www.hankyung.com/article/2026090811817",
-    "category": "economy",
-    "source": "한국경제 경제",
-    "title": "[속보] 내년 건강보험료 안 오른다…보험료율 7.19% 동결",
-    "link": "https://www.hankyung.com/article/2026090811817",
-    "summary": "",
-    "pubDate": "2026-09-08T04:41:30.000Z",
     "collectedAt": "2026-09-08T06:19:57.375Z"
   }
 ]
