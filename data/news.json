@@ -70,6 +70,26 @@
     "collectedAt": "2026-09-12T08:15:15.312Z"
   },
   {
+    "id": "https://news.hada.io/topic?id=33585",
+    "category": "it",
+    "source": "긱뉴스",
+    "title": "CIA, 9/11을 기념해 대통령 일일 정보보고 공개",
+    "link": "https://news.hada.io/topic?id=33585",
+    "summary": "CIA가 9/11 테러 25주년을 기념해 대통령 일일 정보보고(PDB) 자료 71건을 기밀 해제하고 공개함 이번 자료 모음은 9/11 관련 CIA PDB 기밀 해제 자료의 단일 공개로는 최대 규모이며, 테러 발생 이전 수년과 발생 다음 날의 분석을 포함함 ...",
+    "pubDate": "2026-09-12T15:37:59.000Z",
+    "collectedAt": "2026-09-12T16:15:11.717Z"
+  },
+  {
+    "id": "https://news.hada.io/topic?id=33584",
+    "category": "it",
+    "source": "긱뉴스",
+    "title": "Matt Mullenweg, 축출 후 Automattic 직원들에게 Slack으로 경영권 복귀 알려",
+    "link": "https://news.hada.io/topic?id=33584",
+    "summary": "Matt Mullenweg가 CEO직에서 물러나게 된 지 며칠 만에 Automattic 사내 Slack에서 이사회가 다시 합의했고 자신이 경영권을 되찾았다고 밝힘 이사회는 앞서 Mullenweg를 유급 휴직 처리하고 CFO Mark Davies를 임시 CEO로 임명했으며, 당시 회사..…",
+    "pubDate": "2026-09-12T15:34:59.000Z",
+    "collectedAt": "2026-09-12T16:15:11.717Z"
+  },
+  {
     "id": "https://www.aitimes.com/news/articleView.html?idxno=215189",
     "category": "ai",
     "source": "AI타임스 AI산업",
@@ -78,6 +98,16 @@
     "summary": "오픈AI의 전 임원 피지 시모가 기업공개(IPO)를 앞둔 클라우드 서비스 업체 엔스케일의 이사회에 합류했다. 엔스케일은 11일(현지시간) 시모의 이사회 합류를 공식 발표했다. 시모는 엔스케일 이사직과 함께 오픈AI의 시간제 자문역도 계속 맡는다.다만 엔스케일 이사회에서 오픈AI와 관련된…",
     "pubDate": "2026-09-12T15:31:06.000Z",
     "collectedAt": "2026-09-12T08:15:15.312Z"
+  },
+  {
+    "id": "https://news.hada.io/topic?id=33583",
+    "category": "it",
+    "source": "긱뉴스",
+    "title": "Apple Neural Engine 역공학 하기: LLM의 병목은 연산보다 데이터 이동",
+    "link": "https://news.hada.io/topic?id=33583",
+    "summary": "신경망 전용 칩인 Apple Neural Engine(ANE)이 LLM 실행에서 GPU보다 불리해지는 이유를 내부 구조와 메모리 전송 실험으로 살펴봄 M1 ANE의 연산기는 트랜스포머에 필요한 계산도 수행할 수 있지만, 주변 구조는 같은 가중치를 반복 사용하는 이미지 처리용 신경망(CN…",
+    "pubDate": "2026-09-12T14:35:47.000Z",
+    "collectedAt": "2026-09-12T16:15:11.717Z"
   },
   {
     "id": "https://news.hada.io/topic?id=33582",
@@ -14967,36 +14997,6 @@
     "link": "https://www.etnews.com/20260908000280",
     "summary": "보험개발원은 유재훈 제14대 보험개발원장이 취임했다고 8일 밝혔다. 유재훈 신임 원장은 별도 취임식 없이 곧바로 업무에 착수하고 현장 목소리를 직접 청취하며 중반을 넘어간 2026년 사업 추진 과제를 면밀히 챙기는 한편 현안부터 신속히 파악해 실질적 성과에 집중하겠다는 의지를 내비쳤다.…",
     "pubDate": "2026-09-08T05:52:38.000Z",
-    "collectedAt": "2026-09-08T06:19:57.375Z"
-  },
-  {
-    "id": "https://www.hankyung.com/article/2026090804051",
-    "category": "economy",
-    "source": "한국경제 증권",
-    "title": "\"1억 넣으면 月 180만원 따박따박\"…한 달 만에 1.5조 몰렸다",
-    "link": "https://www.hankyung.com/article/2026090804051",
-    "summary": "",
-    "pubDate": "2026-09-08T05:52:31.000Z",
-    "collectedAt": "2026-09-08T08:18:05.820Z"
-  },
-  {
-    "id": "https://www.hankyung.com/article/202609079068i",
-    "category": "economy",
-    "source": "한국경제 경제",
-    "title": "한화에어로스페이스, 용인에 첫 'GPU 팜'…국방AI 개발 속도",
-    "link": "https://www.hankyung.com/article/202609079068i",
-    "summary": "",
-    "pubDate": "2026-09-08T05:52:11.000Z",
-    "collectedAt": "2026-09-08T06:19:57.375Z"
-  },
-  {
-    "id": "20260908000275",
-    "category": "economy",
-    "source": "전자신문 경제",
-    "title": "정진완 우리은행장 “지역경제 위한 포용금융 선순환 만들 것”",
-    "link": "https://www.etnews.com/20260908000275",
-    "summary": "정진완 우리은행장이 영세자영업자 현장을 찾아 현장의 어려움을 듣고 경영 지원에 나섰다. 우리은행은 지난 7일 서울 마포구 소재 '연화식탁'에서 서민금융진흥원, 사단법인 선한영향력가게와 '인정가게' 현판식을 개최했다고 8일 밝혔다. 정 행장은 “영세자영업자에 대한 실질적인 지원을 통해 자…",
-    "pubDate": "2026-09-08T05:46:51.000Z",
     "collectedAt": "2026-09-08T06:19:57.375Z"
   }
 ]
