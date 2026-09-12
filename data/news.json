@@ -1,5 +1,75 @@
 [
   {
+    "id": "https://news.hada.io/topic?id=33598",
+    "category": "it",
+    "source": "긱뉴스",
+    "title": "네이쥐안",
+    "link": "https://news.hada.io/topic?id=33598",
+    "summary": "네이쥐안(Neijuan, 内卷) 은 노력과 경쟁, 복잡성은 계속 늘어나지만 생산량이나 효율, 공동의 이익은 그만큼 증가하지 않는 상태를 뜻함 참여자들이 한정된 기회를 얻으려고 비슷한 전략을 채택하면 상대적 우위가 사라지고, 기존 지위를 유지하는 데도 더 많은 투...",
+    "pubDate": "2026-09-12T21:40:05.000Z",
+    "collectedAt": "2026-09-12T22:15:05.823Z"
+  },
+  {
+    "id": "https://news.hada.io/topic?id=33597",
+    "category": "it",
+    "source": "긱뉴스",
+    "title": "Usenet-Rewind, Usenet 아카이브 검색 엔진",
+    "link": "https://news.hada.io/topic?id=33597",
+    "summary": "Usenet-Rewind는 1981년부터 현재까지의 Usenet 뉴스그룹 텍스트 게시물을 검색하는 연구용 아카이브임 현대 웹 이전의 대화를 담고 있으며, 초기 기술 지원과 소프트웨어 논쟁을 찾아볼 수 있음 과학 및 학술 토론, 취미 및 팬 커뮤니티...",
+    "pubDate": "2026-09-12T21:37:04.000Z",
+    "collectedAt": "2026-09-12T22:15:05.823Z"
+  },
+  {
+    "id": "https://www.hankyung.com/article/202609120483H",
+    "category": "economy",
+    "source": "한국경제 경제",
+    "title": "'나이키의 굴욕' 한국에서도 현실로…3년째 매출 감소",
+    "link": "https://www.hankyung.com/article/202609120483H",
+    "summary": "",
+    "pubDate": "2026-09-12T21:30:01.000Z",
+    "collectedAt": "2026-09-12T22:15:05.823Z"
+  },
+  {
+    "id": "https://news.hada.io/topic?id=33596",
+    "category": "it",
+    "source": "긱뉴스",
+    "title": "OpenStreetMap에서 첫 편집하기",
+    "link": "https://news.hada.io/topic?id=33596",
+    "summary": "JOSM과 Website Wizard 플러그인으로 주변 상점이나 편의시설에 공식 웹사이트 태그를 추가하는, 15분 이내를 목표로 한 입문 튜토리얼임 website 태그는 전화번호, 영업시간, 이메일 등 추가 정보를 찾는 출발점이며, 편집 내용은 이후 수십 개의 무...",
+    "pubDate": "2026-09-12T20:38:50.000Z",
+    "collectedAt": "2026-09-12T22:15:05.823Z"
+  },
+  {
+    "id": "https://www.hankyung.com/article/202609130503i",
+    "category": "it",
+    "source": "한국경제 IT",
+    "title": "\"정말 오래 기다렸다\"…스타크래프트 신작 2030년 출시",
+    "link": "https://www.hankyung.com/article/202609130503i",
+    "summary": "",
+    "pubDate": "2026-09-12T20:38:38.000Z",
+    "collectedAt": "2026-09-12T22:15:05.823Z"
+  },
+  {
+    "id": "https://news.hada.io/topic?id=33595",
+    "category": "it",
+    "source": "긱뉴스",
+    "title": "Dario에게 보내는 공개서한: 진심이라면 모델 가중치를 공개하라",
+    "link": "https://news.hada.io/topic?id=33595",
+    "summary": "프런티어 AI 개발 속도를 늦추기 위해, 기업이 대중에게 제공하는 모든 AI 모델의 가중치 공개를 법으로 의무화하자고 제안함 공개 의무는 대중에게 제공하는 모델에만 적용하며, 내부용 모델과 연구용 모델은 제외하고 정부의 미출시 모델 접근도 허용함",
+    "pubDate": "2026-09-12T20:35:50.000Z",
+    "collectedAt": "2026-09-12T22:15:05.823Z"
+  },
+  {
+    "id": "https://news.hada.io/topic?id=33594",
+    "category": "it",
+    "source": "긱뉴스",
+    "title": "커넥톰과 물리학을 활용한 초파리 시뮬레이션",
+    "link": "https://news.hada.io/topic?id=33594",
+    "summary": "MuJoCo의 물리적 NeuroMechFly 신체, MaleCNS 연결체 데이터, 그리고 명시적 행동 제어기를 결합한 지역 과실파리 시뮬레이션. 주요 하이브리드 모드는 걷기, 냄새를 따라 먹이를 찾는 행동, 관절식 입술을 통한 접촉 기반 섭식, 몸단장, 수면 압력, 그리고 깨어남을 지원…",
+    "pubDate": "2026-09-12T20:28:52.000Z",
+    "collectedAt": "2026-09-12T22:15:05.823Z"
+  },
+  {
     "id": "https://www.aitimes.com/news/articleView.html?idxno=215194",
     "category": "ai",
     "source": "AI타임스 AI산업",
@@ -14927,76 +14997,6 @@
     "link": "https://www.hankyung.com/article/202609081515i",
     "summary": "",
     "pubDate": "2026-09-08T06:08:33.000Z",
-    "collectedAt": "2026-09-08T08:18:05.820Z"
-  },
-  {
-    "id": "20260908000292",
-    "category": "it",
-    "source": "전자신문 IT/통신",
-    "title": "모경종號 민주당 3기 게임특위 출범 채비... 게임법·세액공제 성과 시험대",
-    "link": "https://www.etnews.com/20260908000292",
-    "summary": "더불어민주당 제 3기 게임산업지원특별위원회가 모경종 의원을 새 위원장으로 내정하고 출범을 준비한다. 게임특위 2기에서 매듭짓지 못한 게임법 전부개정과 게임 제작비 세액공제 등 핵심 입법 과제를 넘겨받는 만큼 정책 제언을 넘어 실질적인 성과를 낼 수 있을지가 관건이다. 8일 게임업계에 따…",
-    "pubDate": "2026-09-08T06:08:13.000Z",
-    "collectedAt": "2026-09-08T10:16:52.233Z"
-  },
-  {
-    "id": "https://www.hankyung.com/article/202609081505i",
-    "category": "economy",
-    "source": "한국경제 경제",
-    "title": "뤼튼 '크랙', 청소년 하루 3시간·월 10만원 제한…보호정책 강화",
-    "link": "https://www.hankyung.com/article/202609081505i",
-    "summary": "",
-    "pubDate": "2026-09-08T06:06:39.000Z",
-    "collectedAt": "2026-09-08T08:18:05.820Z"
-  },
-  {
-    "id": "https://www.hankyung.com/article/2026090803911",
-    "category": "economy",
-    "source": "한국경제 증권",
-    "title": "'989조 잭팟' 예고 떴는데…9월 15~18일에 무슨 일이",
-    "link": "https://www.hankyung.com/article/2026090803911",
-    "summary": "",
-    "pubDate": "2026-09-08T06:06:32.000Z",
-    "collectedAt": "2026-09-08T08:18:05.820Z"
-  },
-  {
-    "id": "https://www.hankyung.com/article/202609081407i",
-    "category": "economy",
-    "source": "한국경제 경제",
-    "title": "AI 인프라 붐이 中 수출 살렸다…반도체값 뛰자 수출 '껑충'",
-    "link": "https://www.hankyung.com/article/202609081407i",
-    "summary": "",
-    "pubDate": "2026-09-08T06:04:06.000Z",
-    "collectedAt": "2026-09-08T08:18:05.820Z"
-  },
-  {
-    "id": "20260908000288",
-    "category": "ai",
-    "source": "전자신문 SW",
-    "title": "한컴·퓨리오사, NPU 기반 AX 시장 공략...온프레미스 AI 시장 공동 진출",
-    "link": "https://www.etnews.com/20260908000288",
-    "summary": "한컴과 퓨리오사AI가 AI 전환(AX) 시장 공략을 위해 손잡았다. 한컴의 에이전틱 운영체계(OS)와 퓨리오사AI의 AI 반도체를 결합한 패키지 제품을 공동 개발해 민간·공공 시장을 본격 공략한다는 구상이다. 한컴은 8일 계열사 한컴이노스트림, 퓨리오사AI와 함께 AX 사업 협력을 위한…",
-    "pubDate": "2026-09-08T06:03:07.000Z",
-    "collectedAt": "2026-09-08T10:16:52.233Z"
-  },
-  {
-    "id": "20260908000286",
-    "category": "ai",
-    "source": "전자신문 SW",
-    "title": "EBS-국가평생교육진흥원, '위대한 수업' AI 등 고등교육 확산",
-    "link": "https://www.etnews.com/20260908000286",
-    "summary": "한국교육방송공사(EBS)가 국가평생교육진흥원(NILE)과 '위대한 수업' 시즌6로 인공지능(AI) 등 고등교육 수준의 지식을 보편화한다. EBS는 8일 서울 중구 한국프레스센터에서 위대한 수업 제작발표회를 열고 50명의 국내외 석학 참여를 알렸다. 세계 최고 지성들의 고등 지식을 대학과…",
-    "pubDate": "2026-09-08T06:01:21.000Z",
-    "collectedAt": "2026-09-08T06:19:57.375Z"
-  },
-  {
-    "id": "https://www.hankyung.com/article/202609078291i",
-    "category": "it",
-    "source": "한국경제 IT",
-    "title": "[단독] 네이버, 헬스케어 전담조직 신설…의료 AI 수익화 시동",
-    "link": "https://www.hankyung.com/article/202609078291i",
-    "summary": "",
-    "pubDate": "2026-09-08T06:00:05.000Z",
     "collectedAt": "2026-09-08T08:18:05.820Z"
   }
 ]
