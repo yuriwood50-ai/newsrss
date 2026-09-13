@@ -1,5 +1,35 @@
 [
   {
+    "id": "https://www.aitimes.com/news/articleView.html?idxno=215204",
+    "category": "ai",
+    "source": "AI타임스 AI산업",
+    "title": "스페이스X, 미공개 고객과 월 1.5조 규모 컴퓨팅 계약 체결",
+    "link": "https://www.aitimes.com/news/articleView.html?idxno=215204",
+    "summary": "스페이스X가 AI 컴퓨팅 수요 급증에 힘입어 고객사 한 곳과 월 11억달러(약 1조5천억원) 규모의 대형 데이터센터 호스팅 계약을 체결했다고 밝혔다. 우주 항공 기업을 넘어 AI 클라우드 인프라 시장의 주요 사업자로 입지를 급격히 확장하고 있음을 보여준다.비즈니스 인사이더에 따르면, 브…",
+    "pubDate": "2026-09-13T11:55:17.000Z",
+    "collectedAt": "2026-09-13T04:21:48.844Z"
+  },
+  {
+    "id": "https://www.aitimes.com/news/articleView.html?idxno=215205",
+    "category": "ai",
+    "source": "AI타임스 AI산업",
+    "title": "구글, 코딩 강화 위해 스타트업 메카나이즈 인재 흡수…2조원대 계약",
+    "link": "https://www.aitimes.com/news/articleView.html?idxno=215205",
+    "summary": "구글이 약점으로 꼽히는 AI 코딩 성능을 끌어올리기 위해 스타트업 메카나이즈(Mechanize) 인원을 대거 영입하는 대형 계약을 단행했다.비즈니스 인사이더는 11일(현지시간) 구글이 메카나이즈의 핵심 기술과 인력을 흡수하기 위한 15억달러(약 2조원) 규모의 인재 확보 계약을 마무리했…",
+    "pubDate": "2026-09-13T11:37:03.000Z",
+    "collectedAt": "2026-09-13T04:21:48.844Z"
+  },
+  {
+    "id": "https://www.aitimes.com/news/articleView.html?idxno=215202",
+    "category": "ai",
+    "source": "AI타임스 AI산업",
+    "title": "\"지침 줄이고 완료 기준 명확히\"...오픈AI가 밝힌 '아스트라' 활용법",
+    "link": "https://www.aitimes.com/news/articleView.html?idxno=215202",
+    "summary": "'GPT-6 아스트라'의 등장으로 코딩 에이전트 활용 방식과 개발자가 작성하는 스킬·프롬프트의 설계 원칙도 다시 점검할 필요가 커지고 있다. 과거에는 모델의 작업을 원하는 방향으로 유도하기 위해 상세한 지침과 반복적인 스캐폴딩이 필요했지만, 모델 성능이 크게 향상되면서 지나친 지시가 오…",
+    "pubDate": "2026-09-13T11:18:20.000Z",
+    "collectedAt": "2026-09-13T04:21:48.844Z"
+  },
+  {
     "id": "https://www.aitimes.com/news/articleView.html?idxno=215197",
     "category": "ai",
     "source": "AI타임스 AI산업",
@@ -78,6 +108,246 @@
     "summary": "다리오 아모데이 앤트로픽 CEO가 최첨단 AI 모델 개발 속도를 조절하자는 제안을 담은 서한을 공개한 가운데, 일론 머스크 CEO와 샘 알트먼 오픈AI CEO가 이에 동의 뜻을 표하며 글로벌 프론티어 AI 개발 속도 조절 논의가 급물살을 타고 있다.아모데이 CEO는 12일(현지시간) 개…",
     "pubDate": "2026-09-13T08:06:24.000Z",
     "collectedAt": "2026-09-13T00:22:34.820Z"
+  },
+  {
+    "id": "https://news.hada.io/topic?id=33611",
+    "category": "it",
+    "source": "긱뉴스",
+    "title": "Bun의 컴파일 시간을 이해하려고 빌드 시각화 도구를 만들었다",
+    "link": "https://news.hada.io/topic?id=33611",
+    "summary": "buildprof는 Linux 빌드 명령이 실행하는 모든 하위 프로세스를 하나의 타임라인으로 보여주는 오픈소스 추적 도구로, 병렬성 부족, 반복 작업, 의존성 다운로드, 오래 걸리는 컴파일과 링크 단계를 확인할 수 있음 Bun의 Zig 빌드를 추적한 결과, 전체 24분 24초 중 최종…",
+    "pubDate": "2026-09-13T04:06:09.000Z",
+    "collectedAt": "2026-09-13T04:21:48.844Z"
+  },
+  {
+    "id": "20260913000060",
+    "category": "ai",
+    "source": "전자신문 SW",
+    "title": "KOSA·메가존클라우드, 도쿄서 AI·SW 기업 일본 진출 지원...현지기업과 1:1 비즈니스 상담회",
+    "link": "https://www.etnews.com/20260913000060",
+    "summary": "한국인공지능·소프트웨어산업협회(KOSA)는 메가존클라우드와 10일부터 양일간 일본 도쿄에서 국내 인공지능(AI)·소프트웨어(SW) 기업의 일본 진출 프로그램을 개최했다고 13일 밝혔다. 행사는 대·중소기업·농어업협력재단의 '대·중소기업 동반진출 지원사업'의 일환으로, 메가존클라우드와 K…",
+    "pubDate": "2026-09-13T03:25:34.000Z",
+    "collectedAt": "2026-09-13T04:21:48.844Z"
+  },
+  {
+    "id": "https://www.hankyung.com/article/202609119022i",
+    "category": "economy",
+    "source": "한국경제 경제",
+    "title": "점심·저녁 밥값 10% 돌려주는 '이 카드'…직장인들 관심",
+    "link": "https://www.hankyung.com/article/202609119022i",
+    "summary": "",
+    "pubDate": "2026-09-13T03:00:08.000Z",
+    "collectedAt": "2026-09-13T04:21:48.844Z"
+  },
+  {
+    "id": "https://www.hankyung.com/article/202609130531i",
+    "category": "economy",
+    "source": "한국경제 증권",
+    "title": "한투, 투자 격변기 '맞춤 상품' 핌코, 칼라일과 공동 개발…'글로벌화' 속도",
+    "link": "https://www.hankyung.com/article/202609130531i",
+    "summary": "",
+    "pubDate": "2026-09-13T03:00:04.000Z",
+    "collectedAt": "2026-09-13T04:21:48.844Z"
+  },
+  {
+    "id": "20260911000249",
+    "category": "economy",
+    "source": "전자신문 경제",
+    "title": "삼성자산운용, '섀도우 AI' 정보유출 막는다…新 보안체계 구축",
+    "link": "https://www.etnews.com/20260911000249",
+    "summary": "삼성자산운용이 생성형 인공지능(AI) 서비스 사용으로 회사 민감정보가 외부로 유출되는 것을 막기 위해 새로운 보안 체계를 도입한다. 업계에 따르면 삼성자산운용은 최근 이상징후 모니터링 솔루션 'Splunk(스플렁크)' 도입을 추진하고 있다. 챗GPT, 클로드, 제미나이 등 생성형 AI…",
+    "pubDate": "2026-09-13T03:00:00.000Z",
+    "collectedAt": "2026-09-13T04:21:48.844Z"
+  },
+  {
+    "id": "20260913000026",
+    "category": "economy",
+    "source": "전자신문 경제",
+    "title": "중기부, 상생협력 촉진 유공자 32점 포상…우수사례 모집",
+    "link": "https://www.etnews.com/20260913000026",
+    "summary": "중소벤처기업부가 대·중소기업과 소상공인 간 상생협력 확산에 기여한 기업과 개인을 발굴해 포상한다. 중기부는 14일부터 다음 달 13일까지 '2026년 상생협력 촉진제도 유공' 포상 후보자를 모집한다고 밝혔다. 이번 포상은 성과공유제와 상생결제, 사업영역보호 등 상생협력 제도에 적극 참여…",
+    "pubDate": "2026-09-13T03:00:00.000Z",
+    "collectedAt": "2026-09-13T04:21:48.844Z"
+  },
+  {
+    "id": "20260913000023",
+    "category": "economy",
+    "source": "전자신문 경제",
+    "title": "중진공, 재창업자 심리회복 돕는다…'재도전 힐링캠프' 모집",
+    "link": "https://www.etnews.com/20260913000023",
+    "summary": "중소벤처기업진흥공단이 실패 경험을 딛고 다시 창업에 나선 재창업자의 심리 회복과 재도전을 지원한다. 중진공은 '재도전 힐링캠프' 참여자를 14일부터 모집한다고 밝혔다. 캠프는 오는 30일부터 다음 달 1일까지 1박 2일간 경기 이천 동원리더스아카데미에서 진행된다. 폐업 이력이 있는 재창…",
+    "pubDate": "2026-09-13T03:00:00.000Z",
+    "collectedAt": "2026-09-13T04:21:48.844Z"
+  },
+  {
+    "id": "20260913000021",
+    "category": "economy",
+    "source": "전자신문 경제",
+    "title": "중기중앙회, '노란우산 가족사랑 동시·그림대회' 개최…600명 참여",
+    "link": "https://www.etnews.com/20260913000021",
+    "summary": "중소기업중앙회는 지난 12일 서울 여의도 한강공원에서 '노란우산 가족사랑 동시·그림대회'를 개최했다고 13일 밝혔다. 노란우산데이(9월 5일)를 기념해 마련된 이번 행사에는 노란우산 가입자 가족 어린이와 현장 참가자 등 약 600명이 참여했다. 참가 어린이들은 '행복이 피어나는 우리 가…",
+    "pubDate": "2026-09-13T03:00:00.000Z",
+    "collectedAt": "2026-09-13T04:21:48.844Z"
+  },
+  {
+    "id": "20260911000277",
+    "category": "economy",
+    "source": "전자신문 경제",
+    "title": "'탄산마그네슘', 광고 고민 풀자 매출 3배↑…TOPS 타고 '브랜드 점프업'",
+    "link": "https://www.etnews.com/20260911000277",
+    "summary": "클라이밍에서 손에 바르는 초크의 원재료인 '탄산마그네슘'. 이 이름을 내건 패션 브랜드 '탄산마그네슘'은 클라이밍 문화를 일상적인 패션으로 풀어내겠다는 목표로 지난해 1월 출발했다. 산과 산양의 뿔 등 클라이밍 요소를 디자인에 녹여 클라이머가 아니어도 부담 없이 입을 수 있도록 한 것이…",
+    "pubDate": "2026-09-13T03:00:00.000Z",
+    "collectedAt": "2026-09-13T04:21:48.844Z"
+  },
+  {
+    "id": "20260913000056",
+    "category": "economy",
+    "source": "전자신문 경제",
+    "title": "말 체험·축제 한눈에…마사회 통합플랫폼 '렛츠런플레이' 선봬",
+    "link": "https://www.etnews.com/20260913000056",
+    "summary": "한국마사회가 경주부터 말 체험, 축제·공원까지 렛츠런파크의 여가 콘텐츠를 한데 모은 고객경험 플랫폼 '렛츠런플레이(Let's Run Play)'를 선보였다. 경마 중심의 공간 이미지를 가족 나들이와 데이트, 휴식 등 종합 여가 공간으로 넓히고 온라인에서 찾은 콘텐츠를 실제 방문으로 연결…",
+    "pubDate": "2026-09-13T02:56:58.000Z",
+    "collectedAt": "2026-09-13T04:21:48.844Z"
+  },
+  {
+    "id": "20260913000055",
+    "category": "economy",
+    "source": "전자신문 경제",
+    "title": "美 금리 인상·유가 급등에 금융당국 'F4 회의' 소집…가계부채 관리·취약 차주 지원 강화",
+    "link": "https://www.etnews.com/20260913000055",
+    "summary": "미국 기준금리 추가 인상 가능성과 국제유가 상승으로 글로벌 금융시장 변동성이 커지면서 금융당국이 확대거시경제금융회의(F4 회의)를 열고 긴급 대응에 나선다. 금융당국은 미 연방공개시장위원회(FOMC) 기준금리 결정 직후인 오는 17일 확대거시경제금융회의를 개최한다. 이번 회의는 경제부총…",
+    "pubDate": "2026-09-13T02:43:24.000Z",
+    "collectedAt": "2026-09-13T04:21:48.844Z"
+  },
+  {
+    "id": "https://news.hada.io/topic?id=33609",
+    "category": "it",
+    "source": "긱뉴스",
+    "title": "Real-SWE: 비공개 실무 기업 코드베이스에서 AI 모델을 평가하는 벤치마크",
+    "link": "https://news.hada.io/topic?id=33609",
+    "summary": "Real-SWE는 실제 기업에서 사용 허가를 받은 비공개 프로덕션 코드베이스와 업무를 바탕으로, 코딩 에이전트가 소프트웨어 엔지니어의 실무를 수행할 수 있는지 평가함 모델 단독이 아니라 모델과 기본 하네스의 조합을 평가하며, 과제마다 8회 독립 실행한 평균 해...",
+    "pubDate": "2026-09-13T02:39:52.000Z",
+    "collectedAt": "2026-09-13T04:21:48.844Z"
+  },
+  {
+    "id": "https://www.hankyung.com/article/202609130988i",
+    "category": "economy",
+    "source": "한국경제 경제",
+    "title": "\"서울대 기술, 中 시장과 연결한다\"…KIC중국과 기술사업화 동맹",
+    "link": "https://www.hankyung.com/article/202609130988i",
+    "summary": "",
+    "pubDate": "2026-09-13T02:38:33.000Z",
+    "collectedAt": "2026-09-13T04:21:48.844Z"
+  },
+  {
+    "id": "https://news.hada.io/topic?id=33608",
+    "category": "it",
+    "source": "긱뉴스",
+    "title": "나만 빼고 모두 AI 개발 속도를 늦춰야 한다",
+    "link": "https://news.hada.io/topic?id=33608",
+    "summary": "AI가 인간의 노동을 대체해 사회 붕괴를 일으킬 수 있다는 명분으로 전 세계 최첨단 모델 연구개발 중단을 요구하지만, 정작 목적은 자기 회사의 추격과 세계 지배라는 풍자임 개발 중단 기간에 Techaro의 Lygma AGI lab이 경쟁사를 따라잡고, In...",
+    "pubDate": "2026-09-13T02:36:52.000Z",
+    "collectedAt": "2026-09-13T04:21:48.844Z"
+  },
+  {
+    "id": "https://www.hankyung.com/article/202609130985i",
+    "category": "economy",
+    "source": "한국경제 경제",
+    "title": "'퍼주기 원조' 지고 '개발금융' 뜬다…韓, 제안형 ODA 선점 나서야",
+    "link": "https://www.hankyung.com/article/202609130985i",
+    "summary": "",
+    "pubDate": "2026-09-13T02:31:58.000Z",
+    "collectedAt": "2026-09-13T04:21:48.844Z"
+  },
+  {
+    "id": "https://www.hankyung.com/article/202609118623i",
+    "category": "economy",
+    "source": "한국경제 경제",
+    "title": "\"금값 비싸도 불티나게 팔리는데\"…금은방 줄폐업 하는 이유 [차이나 워치]",
+    "link": "https://www.hankyung.com/article/202609118623i",
+    "summary": "",
+    "pubDate": "2026-09-13T02:30:02.000Z",
+    "collectedAt": "2026-09-13T04:21:48.844Z"
+  },
+  {
+    "id": "20260913000053",
+    "category": "economy",
+    "source": "전자신문 경제",
+    "title": "금융당국, 주거용 오피스텔 집단대출 '총량 규제 제외' 검토",
+    "link": "https://www.etnews.com/20260913000053",
+    "summary": "금융당국이 주거용 오피스텔 집단대출을 금융회사 가계대출 총량 관리 목표에서 제외하는 방안을 검토한다. 13일 금융권에 따르면 금융위원회는 주거용 오피스텔 집단대출을 금융사 가계대출 총량 관리 한도에서 떼어내는 안을 들여다보고 있다. 정부가 발표한 8·13 부동산 대책에서 주택 집단대출을…",
+    "pubDate": "2026-09-13T02:28:59.000Z",
+    "collectedAt": "2026-09-13T04:21:48.844Z"
+  },
+  {
+    "id": "20260913000052",
+    "category": "it",
+    "source": "전자신문 IT/통신",
+    "title": "블리자드, 2030년 '스타크래프트' 신작 출격…장수 IP 부활 본격화",
+    "link": "https://www.etnews.com/20260913000052",
+    "summary": "블리자드 엔터테인먼트가 대표 지식재산(IP) '스타크래프트' 신작을 2030년 선보인다. 오랜 기간 명맥이 끊겼던 스타크래프트 신작 개발을 공식화하며 대표 IP 부활에 나선다. 블리즈컨에서는 오버워치와 하스스톤 등 기존 주요 게임의 향후 업데이트 계획도 공개했다. 블리자드는 12일(현지…",
+    "pubDate": "2026-09-13T02:27:14.000Z",
+    "collectedAt": "2026-09-13T04:21:48.844Z"
+  },
+  {
+    "id": "20260913000051",
+    "category": "economy",
+    "source": "전자신문 경제",
+    "title": "KB 쏘아올린 '세대교체' 파고…연말 금융권 CEO 54명 연쇄 물갈이 분수령",
+    "link": "https://www.etnews.com/20260913000051",
+    "summary": "KB금융그룹이 과감한 세대교체를 선택하면서 연말연시 임기 만료를 앞둔 주요 금융그룹 최고경영자(CEO) 50여명의 거취에 금융권 시선이 집중되고 있다. 13일 금융권에 따르면 5대 금융그룹(KB·신한·하나·우리·농협) 계열사 최고경영자(CEO) 54명의 임기가 오는 12월 31일 일제히…",
+    "pubDate": "2026-09-13T02:26:30.000Z",
+    "collectedAt": "2026-09-13T04:21:48.844Z"
+  },
+  {
+    "id": "20260913000050",
+    "category": "economy",
+    "source": "전자신문 경제",
+    "title": "강태영 NH농협은행장, 제주 감귤 농가 일손돕기…농산물 소비 촉진 나섰다",
+    "link": "https://www.etnews.com/20260913000050",
+    "summary": "강태영 NH농협은행장이 전국 영업본부장들과 제주 농촌을 찾아 일손돕기를 실시하고 농가 지원에 나섰다. NH농협은행에 따르면 지난 11일 강 은행장과 영업본부장들은 서귀포시 하우스 감귤 재배 농가에서 수확과 선별 작업을 진행했다. 이번 봉사는 11일부터 1박 2일간 열린 영업본부장 회의에…",
+    "pubDate": "2026-09-13T02:19:37.000Z",
+    "collectedAt": "2026-09-13T04:21:48.844Z"
+  },
+  {
+    "id": "https://www.hankyung.com/article/2026091309557",
+    "category": "economy",
+    "source": "한국경제 경제",
+    "title": "\"이제 막 돌인데 '年 4000만원'\"…역대급 금수저들의 정체",
+    "link": "https://www.hankyung.com/article/2026091309557",
+    "summary": "",
+    "pubDate": "2026-09-13T02:17:16.000Z",
+    "collectedAt": "2026-09-13T04:21:48.844Z"
+  },
+  {
+    "id": "https://www.hankyung.com/article/202609130944i",
+    "category": "it",
+    "source": "한국경제 IT",
+    "title": "[단독] 中 킹넷, 위메이드 인수전 뛰어들었다…4000억 투자해 49% 확보",
+    "link": "https://www.hankyung.com/article/202609130944i",
+    "summary": "",
+    "pubDate": "2026-09-13T02:14:00.000Z",
+    "collectedAt": "2026-09-13T04:21:48.844Z"
+  },
+  {
+    "id": "https://www.hankyung.com/article/202609130911i",
+    "category": "economy",
+    "source": "한국경제 증권",
+    "title": "금리보다 주목할 Fed 내부 균열…9월 인상해도 영향 적을 듯",
+    "link": "https://www.hankyung.com/article/202609130911i",
+    "summary": "",
+    "pubDate": "2026-09-13T02:01:01.000Z",
+    "collectedAt": "2026-09-13T04:21:48.844Z"
+  },
+  {
+    "id": "https://www.hankyung.com/article/202609118947g",
+    "category": "economy",
+    "source": "한국경제 경제",
+    "title": "\"전복 선물세트 가격 실화냐\"…명절 대목인데 대체 무슨 일이 [박상경의 영수증 리뷰]",
+    "link": "https://www.hankyung.com/article/202609118947g",
+    "summary": "",
+    "pubDate": "2026-09-13T02:00:04.000Z",
+    "collectedAt": "2026-09-13T04:21:48.844Z"
   },
   {
     "id": "20260913000043",
@@ -14727,276 +14997,6 @@
     "link": "https://www.etnews.com/20260908000222",
     "summary": "네트워크 보안기업 한드림넷을 인수한 대교CNS가 보안사업을 새로운 성장축으로 키운다. 한드림넷의 네트워크 보안을 기반으로 사업 영역을 넓히는 동시에 대교CNS의 시스템통합(SI)·서버 등 기존 정보기술(IT) 인프라 사업과의 시너지를 모색한다 이령 대교CNS 대표 겸 한드림넷 공동대표는…",
     "pubDate": "2026-09-08T08:00:00.000Z",
-    "collectedAt": "2026-09-08T10:16:52.233Z"
-  },
-  {
-    "id": "20260908000299",
-    "category": "economy",
-    "source": "전자신문 경제",
-    "title": "AI 금융서비스 10월 가동…수협, 은행·상호금융 공동 통제체계 구축",
-    "link": "https://www.etnews.com/20260908000299",
-    "summary": "수협이 오는 10월 인공지능(AI) 서비스를 실제 금융업무에 본격 적용하면서 은행과 상호금융이 함께 사용하는 AI 관리체계를 구축한다. AI 활용에 따른 보안·규제 위험을 관리하고 공동 플랫폼의 개발·운영비 부담 기준을 명확히 해 AI 서비스의 안정성과 투자 효율을 함께 높이는 것이 핵…",
-    "pubDate": "2026-09-08T08:00:00.000Z",
-    "collectedAt": "2026-09-08T10:16:52.233Z"
-  },
-  {
-    "id": "https://news.hada.io/topic?id=33357",
-    "category": "it",
-    "source": "긱뉴스",
-    "title": "Show GN: Hermeum - 팀에 필요한 Hermes agent를 딸깍으로 만들고 배포해주는 오픈소스 플랫폼",
-    "link": "https://news.hada.io/topic?id=33357",
-    "summary": "회사에서 팀 마다 직접 에이전트를 만들고 슬랙에 연동하다 보니 사일로가 늘어나는 게 보였습니다. Hermeum은 이 문제를 해결하기 위해서 시작한 프로젝트입니다. Hermeum은 Hermes agent에 소울(soul), 스킬, mcp, 플러그인, 크론을 자동 설정해서 팀에 맞는 에이전…",
-    "pubDate": "2026-09-08T07:52:46.000Z",
-    "collectedAt": "2026-09-08T08:18:05.820Z"
-  },
-  {
-    "id": "https://www.hankyung.com/article/202609081709i",
-    "category": "economy",
-    "source": "한국경제 증권",
-    "title": "\"AI 발목 잡는 건 따로 있다\"…8조 굴리는 美 운용사가 찍은 곳",
-    "link": "https://www.hankyung.com/article/202609081709i",
-    "summary": "",
-    "pubDate": "2026-09-08T07:50:29.000Z",
-    "collectedAt": "2026-09-08T10:16:52.233Z"
-  },
-  {
-    "id": "https://www.hankyung.com/article/202609081685g",
-    "category": "economy",
-    "source": "한국경제 경제",
-    "title": "\"성과급 못받나\", \"퇴사 무섭다\" 반응까지…'월세 70만원 꼼수' 삼성 직원들 '걱정' [이슈+]",
-    "link": "https://www.hankyung.com/article/202609081685g",
-    "summary": "",
-    "pubDate": "2026-09-08T07:49:09.000Z",
-    "collectedAt": "2026-09-08T08:18:05.820Z"
-  },
-  {
-    "id": "20260908000363",
-    "category": "ai",
-    "source": "전자신문 AI",
-    "title": "한국디지털기업협회, 몽골서 '디지털 협력 포럼 2026' 개최…양국 디지털기업 교류 확대",
-    "link": "https://www.etnews.com/20260908000363",
-    "summary": "한국디지털기업협회(DEA)는 지난 3일부터 4일까지 몽골 울란바토르에서 몽골정보기술연합(MITA), 몽골 IT파크(NITP)와 함께 '한국-몽골 디지털 협력 포럼2026'을 개최했다고 8일 밝혔다. 이번 행사는 양국 디지털 산업의 상호 이해를 높이고 기관·기업 간 실질적인 협력 기반을…",
-    "pubDate": "2026-09-08T07:44:04.000Z",
-    "collectedAt": "2026-09-08T10:16:52.233Z"
-  },
-  {
-    "id": "https://www.hankyung.com/article/202609081676i",
-    "category": "economy",
-    "source": "한국경제 경제",
-    "title": "137억→3010억…기지개 켜는 국민참여예산",
-    "link": "https://www.hankyung.com/article/202609081676i",
-    "summary": "",
-    "pubDate": "2026-09-08T07:41:02.000Z",
-    "collectedAt": "2026-09-08T08:18:05.820Z"
-  },
-  {
-    "id": "https://www.hankyung.com/article/202609081374i",
-    "category": "economy",
-    "source": "한국경제 증권",
-    "title": "“적자 끝 보이나”...대한유화, 3분기 흑자전환 전망에 반등 기대",
-    "link": "https://www.hankyung.com/article/202609081374i",
-    "summary": "",
-    "pubDate": "2026-09-08T07:40:36.000Z",
-    "collectedAt": "2026-09-08T08:18:05.820Z"
-  },
-  {
-    "id": "https://news.hada.io/topic?id=33355",
-    "category": "it",
-    "source": "긱뉴스",
-    "title": "Jellyfin 12.0",
-    "link": "https://news.hada.io/topic?id=33355",
-    "summary": "10.11의 데이터베이스 전환을 바탕으로 라이브러리 탐색 성능을 개선하고, 에피소드 다중 버전과 서버 내장 도서·만화 지원을 추가한 새 안정 버전임 재생목록·컬렉션 항목을 개별 행으로 저장해 전체 목록을 읽거나 다시 쓰지 않고도 개수·페이지 조회와 개별 항목...",
-    "pubDate": "2026-09-08T07:36:25.000Z",
-    "collectedAt": "2026-09-08T08:18:05.820Z"
-  },
-  {
-    "id": "https://www.hankyung.com/article/202609081760i",
-    "category": "economy",
-    "source": "한국경제 경제",
-    "title": "삼성전자, ASML과 12인치 포토마스크 개발…2028년 D램에 차세대 EUV 첫 도입",
-    "link": "https://www.hankyung.com/article/202609081760i",
-    "summary": "",
-    "pubDate": "2026-09-08T07:31:27.000Z",
-    "collectedAt": "2026-09-08T08:18:05.820Z"
-  },
-  {
-    "id": "20260908000358",
-    "category": "ai",
-    "source": "전자신문 AI",
-    "title": "내년 SW 예산 '뒷걸음'… AI, '모래 위에 성' 될라",
-    "link": "https://www.etnews.com/20260908000358",
-    "summary": "정부가 내년에도 인공지능(AI)에 대규모 예산 투입을 예고한 가운데 정작 AI 산업 근간인 전통적 소프트웨어(SW) 예산은 뒷걸음질한 것으로 나타났다. AI 투자가 늘어날수록 기반 SW 투자가 병행되어야 하지만 지원 축소로 SW뿐 아니라 AI 경쟁력까지 악화시킬 수 있다는 우려의 목소리…",
-    "pubDate": "2026-09-08T07:30:00.000Z",
-    "collectedAt": "2026-09-08T10:16:52.233Z"
-  },
-  {
-    "id": "20260908000362",
-    "category": "ai",
-    "source": "전자신문 AI",
-    "title": "일레븐랩스, CRO로 오픈AI 출신 애슐리 크레이머 영입",
-    "link": "https://www.etnews.com/20260908000362",
-    "summary": "글로벌 인공지능(AI) 오디오기업 일레븐랩스는 오픈 AI 출신의 애슐리 크레이머를 최고수익책임자(CRO)로 공식 선임했다고 8일 밝혔다. 애슐리 크레이머 신임 CRO는 고성장 기술 기업에서 20년 이상 풍부한 리더십 경험을 쌓은 기업간거래(B2B) 엔터프라이즈 비즈니스 전문가다. 일레븐…",
-    "pubDate": "2026-09-08T07:29:27.000Z",
-    "collectedAt": "2026-09-08T10:16:52.233Z"
-  },
-  {
-    "id": "https://www.hankyung.com/article/202609081765i",
-    "category": "it",
-    "source": "한국경제 IT",
-    "title": "케어캠프, 상반기 매출 7292억·영업익 128억…역대 최대",
-    "link": "https://www.hankyung.com/article/202609081765i",
-    "summary": "",
-    "pubDate": "2026-09-08T07:28:19.000Z",
-    "collectedAt": "2026-09-08T08:18:05.820Z"
-  },
-  {
-    "id": "20260908000359",
-    "category": "ai",
-    "source": "전자신문 AI",
-    "title": "미스트랄AI, 삼성전자·EQT 등 30억유로 투자 확보",
-    "link": "https://www.etnews.com/20260908000359",
-    "summary": "프랑스 인공지능(AI) 기업 미스트랄이 삼성전자 등으로부터 30억유로(약 4조원) 규모 투자를 확보했다. 미스트랄은 8일 시리즈 D 투자 유치를 통해 기업가치 210억유로 이상을 인정받았다고 밝혔다. 창업 3년 만에 유럽 기술기업 사상 최대 규모 지분 투자 유치 기록이다. 이번 투자 라…",
-    "pubDate": "2026-09-08T07:20:01.000Z",
-    "collectedAt": "2026-09-08T10:16:52.233Z"
-  },
-  {
-    "id": "https://www.hankyung.com/article/202609081666i",
-    "category": "economy",
-    "source": "한국경제 증권",
-    "title": "노바티스, 심혈관 치료 신약 임상 실패...주가 3% 떨어져",
-    "link": "https://www.hankyung.com/article/202609081666i",
-    "summary": "",
-    "pubDate": "2026-09-08T07:17:32.000Z",
-    "collectedAt": "2026-09-08T08:18:05.820Z"
-  },
-  {
-    "id": "https://www.hankyung.com/article/202609081294i",
-    "category": "economy",
-    "source": "한국경제 증권",
-    "title": "중단기 국채 발행 불가피… 美 '바이백' 효과 제한적이다",
-    "link": "https://www.hankyung.com/article/202609081294i",
-    "summary": "",
-    "pubDate": "2026-09-08T07:13:16.000Z",
-    "collectedAt": "2026-09-08T08:18:05.820Z"
-  },
-  {
-    "id": "https://www.hankyung.com/article/2026090808066",
-    "category": "economy",
-    "source": "한국경제 증권",
-    "title": "쿼드운용도 공모펀드 진출 채비…당국에 인가 신청",
-    "link": "https://www.hankyung.com/article/2026090808066",
-    "summary": "",
-    "pubDate": "2026-09-08T07:12:46.000Z",
-    "collectedAt": "2026-09-08T08:18:05.820Z"
-  },
-  {
-    "id": "https://www.hankyung.com/article/202609081563g",
-    "category": "it",
-    "source": "한국경제 IT",
-    "title": "지구 24바퀴 길이 광케이블…\"인터넷 끊겼어요\" 신고 한 통에 KT 계열사 4곳 '총출동' [현장+]",
-    "link": "https://www.hankyung.com/article/202609081563g",
-    "summary": "",
-    "pubDate": "2026-09-08T07:11:12.000Z",
-    "collectedAt": "2026-09-08T08:18:05.820Z"
-  },
-  {
-    "id": "https://www.hankyung.com/article/202609081529i",
-    "category": "economy",
-    "source": "한국경제 증권",
-    "title": "'162조원' 대미 투자 진짜 수혜주…JP모간이 꼽은 '톱픽'",
-    "link": "https://www.hankyung.com/article/202609081529i",
-    "summary": "",
-    "pubDate": "2026-09-08T07:09:49.000Z",
-    "collectedAt": "2026-09-08T08:18:05.820Z"
-  },
-  {
-    "id": "20260908000355",
-    "category": "ai",
-    "source": "전자신문 AI",
-    "title": "[포토] 국가AI전략위 1주년 성과보고회 참석하는 하정우",
-    "link": "https://www.etnews.com/20260908000355",
-    "summary": "국가인공지능전략위원회 출범 1주는 성과보고회가 8일 서울 중구 서울스퀘어에서 열렸다. 하정우 AI전략위 부위원장이 행사장에 입장하고 있다.",
-    "pubDate": "2026-09-08T07:08:16.000Z",
-    "collectedAt": "2026-09-08T10:16:52.233Z"
-  },
-  {
-    "id": "20260908000354",
-    "category": "ai",
-    "source": "전자신문 AI",
-    "title": "큐브리드, MS 제치고 공공부문 DBMS 점유율 2위…국산 DBMS 약진 뚜렷",
-    "link": "https://www.etnews.com/20260908000354",
-    "summary": "국산 데이터베이스관리시스템(DBMS) 전문기업 큐브리드가 공공 시장에서 마이크로소프트(MS)를 처음으로 제치고 점유율 2위에 올랐다. 행정안전부와 한국지능정보사회진흥원(NIA)이 공개한 '2026년도 범정부EA기반 공공부문 정보자원 현황 통계보고서'에 따르면 지난해 말 기준 공공부문 D…",
-    "pubDate": "2026-09-08T07:07:52.000Z",
-    "collectedAt": "2026-09-08T10:16:52.233Z"
-  },
-  {
-    "id": "https://www.hankyung.com/article/202609081663i",
-    "category": "economy",
-    "source": "한국경제 경제",
-    "title": "태양광·전기차 묶어 이웃과 전력 나눈다… 제주서 '한국형 크라켄' 첫 실험",
-    "link": "https://www.hankyung.com/article/202609081663i",
-    "summary": "",
-    "pubDate": "2026-09-08T07:03:54.000Z",
-    "collectedAt": "2026-09-08T08:18:05.820Z"
-  },
-  {
-    "id": "https://www.hankyung.com/article/202609081593g",
-    "category": "it",
-    "source": "한국경제 IT",
-    "title": "\"선배님 잘쓰겠습니다\"…이준석, 오픈AI 대표에 '농담' 건넨 이유",
-    "link": "https://www.hankyung.com/article/202609081593g",
-    "summary": "",
-    "pubDate": "2026-09-08T07:03:20.000Z",
-    "collectedAt": "2026-09-08T08:18:05.820Z"
-  },
-  {
-    "id": "20260908000348",
-    "category": "economy",
-    "source": "전자신문 경제",
-    "title": "디알티, 이차전지 재활용 고효율 BM(Black Mass) 양산설비 본격 가동",
-    "link": "https://www.etnews.com/20260908000348",
-    "summary": "디알티(대표 정철원)는 창립 3주년을 맞아 전북특별자치도 군산시 새만금산단 내 군산공장에서 '이차전지 재활용 고효율 BM 양산설비 구축' 기념행사를 열고 양산체계 가동에 본격 착수한다고 밝혔다. 이번 행사는 디알티 창립 3주년을 맞아 고효율 BM 양산설비 본격 가동을 대외적으로 알리는…",
-    "pubDate": "2026-09-08T07:03:17.000Z",
-    "collectedAt": "2026-09-08T10:16:52.233Z"
-  },
-  {
-    "id": "https://www.hankyung.com/article/2026090803971",
-    "category": "economy",
-    "source": "한국경제 증권",
-    "title": "퇴직연금에 '연 8%대' 안전자산 나온다…개인투자용 국채 추가",
-    "link": "https://www.hankyung.com/article/2026090803971",
-    "summary": "",
-    "pubDate": "2026-09-08T07:03:11.000Z",
-    "collectedAt": "2026-09-08T08:18:05.820Z"
-  },
-  {
-    "id": "20260908000345",
-    "category": "ai",
-    "source": "전자신문 AI",
-    "title": "[포토] 인사하는 하정우-김우창",
-    "link": "https://www.etnews.com/20260908000345",
-    "summary": "국가인공지능전략위원회 출범 1주는 성과보고회가 8일 서울 중구 서울스퀘어에서 열렸다. 하정우 AI전략위 부위원장이 김우창 대통령비서실 국가AI정책비서관과 인사하고 있다.",
-    "pubDate": "2026-09-08T07:01:31.000Z",
-    "collectedAt": "2026-09-08T10:16:52.233Z"
-  },
-  {
-    "id": "20260908000344",
-    "category": "ai",
-    "source": "전자신문 AI",
-    "title": "[포토] 인사하는 하정우 AI전략위 부위원장",
-    "link": "https://www.etnews.com/20260908000344",
-    "summary": "국가인공지능전략위원회 출범 1주는 성과보고회가 8일 서울 중구 서울스퀘어에서 열렸다. 하정우 AI전략위 부위원장이 인사말에 앞서 인사하고 있다.",
-    "pubDate": "2026-09-08T07:01:27.000Z",
-    "collectedAt": "2026-09-08T10:16:52.233Z"
-  },
-  {
-    "id": "20260908000343",
-    "category": "ai",
-    "source": "전자신문 AI",
-    "title": "[포토] 축사하는 임문영 의원",
-    "link": "https://www.etnews.com/20260908000343",
-    "summary": "국가인공지능전략위원회 출범 1주는 성과보고회가 8일 서울 중구 서울스퀘어에서 열렸다. 임문영 더불어민주당 의원(전 AI전략위 부위원장)이 축사를 하고 있다.",
-    "pubDate": "2026-09-08T07:01:24.000Z",
     "collectedAt": "2026-09-08T10:16:52.233Z"
   }
 ]
