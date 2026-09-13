@@ -1,5 +1,135 @@
 [
   {
+    "id": "https://news.hada.io/topic?id=33657",
+    "category": "it",
+    "source": "긱뉴스",
+    "title": "에이전트형 AI를 위한 데이터 준비하기",
+    "link": "https://news.hada.io/topic?id=33657",
+    "summary": "사람의 암묵적 지식과 판단에 의존하던 데이터 시스템을 에이전트에 그대로 넘길 수는 없음. 데이터 자체에 신뢰성, 맥락, 추적 가능성, 거버넌스, 실행 가능성을 갖춰야 함 데이터 계약과 격리 게이트로 품질을 검증하고 에이전트에는 인증된 데이터만 노출해야 함...",
+    "pubDate": "2026-09-13T22:02:45.000Z",
+    "collectedAt": "2026-09-13T22:15:03.802Z"
+  },
+  {
+    "id": "https://news.hada.io/topic?id=33656",
+    "category": "it",
+    "source": "긱뉴스",
+    "title": "엔지니어링 매니저의 네 가지 핵심 책임 영역",
+    "link": "https://news.hada.io/topic?id=33656",
+    "summary": "엔지니어링 매니저의 역할은 개인 기여를 넘어 팀 전체의 영향력을 높이는 것임. 소통, 우선순위 조정, 목표 정렬, 의사결정을 지원해 팀이 공동 목표를 효과적으로 달성하도록 해야 함 사람 리더십은 채용과 온보딩뿐 아니라 개인별 동기와 성장 목표를 이해하고,...",
+    "pubDate": "2026-09-13T21:52:05.000Z",
+    "collectedAt": "2026-09-13T22:15:03.802Z"
+  },
+  {
+    "id": "20260914000003",
+    "category": "ai",
+    "source": "전자신문 SW",
+    "title": "美 NSA AI·中 등 5개 조직 신설...사이버 안보 대응 전력 강화",
+    "link": "https://www.etnews.com/20260914000003",
+    "summary": "미국의 사이버 안보를 총괄하는 국방부 산하 국가안보국(NSA)이 인공지능(AI)과 중국 대응 조직 등 5개 조직을 신설한다. 지난 10년간 가장 대규모의 내부 구조조정이다. 워싱턴포스트는 13일(현지시간) NSA가 AI, 중국, 사이버 보안, 전투지원(전쟁 수행), 글로벌 정보 등 5개…",
+    "pubDate": "2026-09-13T21:51:31.000Z",
+    "collectedAt": "2026-09-13T22:15:03.802Z"
+  },
+  {
+    "id": "https://news.hada.io/topic?id=33655",
+    "category": "it",
+    "source": "긱뉴스",
+    "title": "연결을 끊지 않는 Lakebase Postgres의 오토스케일링",
+    "link": "https://news.hada.io/topic?id=33655",
+    "summary": "Lakebase Postgres는 실행 중인 VM의 CPU와 메모리를 조정해 데이터베이스 연결을 끊지 않고 용량을 늘리거나 줄임. Neon의 프로덕션 데이터베이스는 평균적으로 월 32,016회, 약 81초마다 컴퓨트 크기가 바뀜 컴퓨트와 스토리지의 분리가 실시간...",
+    "pubDate": "2026-09-13T21:50:29.000Z",
+    "collectedAt": "2026-09-13T22:15:03.802Z"
+  },
+  {
+    "id": "https://news.hada.io/topic?id=33654",
+    "category": "it",
+    "source": "긱뉴스",
+    "title": "Wasmi 2.0 - 가장 빠른 Wasm 인터프리터를 만드는 기술",
+    "link": "https://news.hada.io/topic?id=33654",
+    "summary": "WebAssembly 인터프리터 Wasmi 2.0이 8개월간의 엔진 개편을 마치고 출시됨. Apple M2 Pro의 자체 벤치마크에서 1.0보다 평균 약 2.2배 빠른 실행 성능을 기록하면서 빠른 시작 속도도 유지함 다음 명령으로 넘어가는 과정을 꼬리 호출로 바꾸고,...",
+    "pubDate": "2026-09-13T21:46:52.000Z",
+    "collectedAt": "2026-09-13T22:15:03.802Z"
+  },
+  {
+    "id": "https://news.hada.io/topic?id=33653",
+    "category": "it",
+    "source": "긱뉴스",
+    "title": "저커버그의 이메일: “케임브리지 애널리티카” (2017)",
+    "link": "https://news.hada.io/topic?id=33653",
+    "summary": "2017년 1월 30일 Facebook 내부 이메일에서 마크 저커버그는 트럼프 캠프의 광고 전략이 실제로 새로운 기술인지, 기존 마케팅 기법을 성공 이후 과장한 것인지 질문함 앤드루 보즈워스는 클린턴 캠프와 달리 트럼프 캠프가 Facebook의 조언과 도구를 적극적으로 활용했다며,",
+    "pubDate": "2026-09-13T21:37:13.000Z",
+    "collectedAt": "2026-09-13T22:15:03.802Z"
+  },
+  {
+    "id": "https://news.hada.io/topic?id=33652",
+    "category": "it",
+    "source": "긱뉴스",
+    "title": "크게 성공하거나 망하거나: 벤처 시장에서 사라지는 중간 지대",
+    "link": "https://news.hada.io/topic?id=33652",
+    "summary": "기업가치 1조 달러 스타트업이 가능하다는 기대가 투자 기준을 바꾸면서, 자본과 유능한 창업자가 가장 거대한 성공을 노리는 분야로 몰리고 있음 투자자들이 유망하다고 보는 일부 AI 분야에는 자금과 관심이 집중되지만, SaaS, 소비자 서비스, 커머스 등은 상대적으로 소외...",
+    "pubDate": "2026-09-13T21:36:38.000Z",
+    "collectedAt": "2026-09-13T22:15:03.802Z"
+  },
+  {
+    "id": "https://news.hada.io/topic?id=33651",
+    "category": "it",
+    "source": "긱뉴스",
+    "title": "바이브 코딩으로 만든 대시보드가 형편없어 보이는 10가지 이유",
+    "link": "https://news.hada.io/topic?id=33651",
+    "summary": "AI에 “보기 좋은 대화형 대시보드”를 요청하면 차트와 필터는 만들어주지만, 사용자가 무엇을 찾고 어디부터 봐야 하는지까지 정리해주지는 못함 월드컵 데이터로 만든 대시보드는 명확한 질문이나 탐색 흐름 없이 정보를 나열하고 모든 요소를 비슷하게 강조해, 중요한 내...",
+    "pubDate": "2026-09-13T21:36:17.000Z",
+    "collectedAt": "2026-09-13T22:15:03.802Z"
+  },
+  {
+    "id": "https://news.hada.io/topic?id=33650",
+    "category": "it",
+    "source": "긱뉴스",
+    "title": "전 세계적 공급 부족으로 Costco가 엔진오일 구매량 제한에 나섬",
+    "link": "https://news.hada.io/topic?id=33650",
+    "summary": "Costco의 Kirkland Signature 완전 합성 엔진오일 10쿼트 묶음 가격이 수년간 유지되던 30달러 중반대에서 57.99달러로 상승함 Kirkland 제품은 회원당 7일마다 2개, 총 20쿼트로 구매량이 제한되며, Mobil 1도 회원당 5개까지만 구매할 수 있음...",
+    "pubDate": "2026-09-13T21:34:13.000Z",
+    "collectedAt": "2026-09-13T22:15:03.802Z"
+  },
+  {
+    "id": "https://news.hada.io/topic?id=33649",
+    "category": "it",
+    "source": "긱뉴스",
+    "title": "Windows에서 AMD GPU로 CUDA 실행하기",
+    "link": "https://news.hada.io/topic?id=33649",
+    "summary": "ZLUDA와 AMD HIP/ROCm을 조합해, NVIDIA CUDA용 Windows 프로그램을 AMD GPU에서 실행할 수 있도록 설치/진단/실행 스크립트를 제공하는 프로젝트 GPU와 드라이버를 확인하고 필요한 구성 요소를 내려받은 뒤, 대상 프로그램에 호환 DLL과 실행 경로를 설정하…",
+    "pubDate": "2026-09-13T20:55:19.000Z",
+    "collectedAt": "2026-09-13T22:15:03.802Z"
+  },
+  {
+    "id": "https://news.hada.io/topic?id=33648",
+    "category": "it",
+    "source": "긱뉴스",
+    "title": "유럽의 ‘덜 쓰기’는 인정받는 것보다 더 큰 역할을 하고 있음",
+    "link": "https://news.hada.io/topic?id=33648",
+    "summary": "EU는 생산액 1유로당 에너지 사용량을 1995년보다 약 44% 줄였으며, 오랜 효율 개선과 에너지 전환이 호르무즈 해협 봉쇄 충격을 견디는 기반이 됨 단열, 히트펌프, 자전거 인프라는 연료 수입과 가계 지출을 지속적으로 줄이지만, GDP 중심 평가는 이런 개선을 소...",
+    "pubDate": "2026-09-13T20:52:19.000Z",
+    "collectedAt": "2026-09-13T22:15:03.802Z"
+  },
+  {
+    "id": "https://news.hada.io/topic?id=33647",
+    "category": "it",
+    "source": "긱뉴스",
+    "title": "미 세관 감독관, 국토안보부 PC에서 하드웨어를 훔친 혐의로 적발",
+    "link": "https://news.hada.io/topic?id=33647",
+    "summary": "FBI가 메인주 세관국경보호국 감독관 Terry “Jiajia” Liu를 정부 재산 절도 및 훼손 혐의로 체포하고 기소함 혐의 대상은 국경 시설 3곳의 국토안보부 컴퓨터 최소 46대로, CPU와 메모리, 하드 드라이브를 빼내 저성능 부품으로 교체한 것으로 ...",
+    "pubDate": "2026-09-13T20:49:19.000Z",
+    "collectedAt": "2026-09-13T22:15:03.802Z"
+  },
+  {
+    "id": "https://news.hada.io/topic?id=33646",
+    "category": "it",
+    "source": "긱뉴스",
+    "title": "그네를 타던 아이를 체포하는 데 사용된 Flock 카메라",
+    "link": "https://news.hada.io/topic?id=33646",
+    "summary": "미국 놀이터와 물놀이장의 Flock 감시 카메라 확산이 아이들의 일상적인 놀이를 처벌과 통제 대상으로 만든다는 비판이 담긴 영상임 Springdale에서는 그네를 타다 파손 사고에 연루된 10세와 12세 자매가 형사 혐의로 법정에 섰으나, 고의성이 없어 책임이 인정되...",
+    "pubDate": "2026-09-13T20:46:19.000Z",
+    "collectedAt": "2026-09-13T22:15:03.802Z"
+  },
+  {
     "id": "https://news.hada.io/topic?id=33645",
     "category": "it",
     "source": "긱뉴스",
@@ -14868,135 +14998,5 @@
     "summary": "",
     "pubDate": "2026-09-08T22:02:01.000Z",
     "collectedAt": "2026-09-09T00:26:01.294Z"
-  },
-  {
-    "id": "https://www.hankyung.com/article/202609081826i",
-    "category": "economy",
-    "source": "한국경제 증권",
-    "title": "주가 빠지는데 국민연금은 담았다…기관이 사들이는 이 종목",
-    "link": "https://www.hankyung.com/article/202609081826i",
-    "summary": "",
-    "pubDate": "2026-09-08T22:00:13.000Z",
-    "collectedAt": "2026-09-09T00:26:01.294Z"
-  },
-  {
-    "id": "https://www.hankyung.com/article/202609081439i",
-    "category": "economy",
-    "source": "한국경제 경제",
-    "title": "일본 15조엔·인도 150억달러…'환율 전쟁'이 글로벌 금융시장 흔든다 [김주완의 글로벌 머니 X파일]",
-    "link": "https://www.hankyung.com/article/202609081439i",
-    "summary": "",
-    "pubDate": "2026-09-08T22:00:02.000Z",
-    "collectedAt": "2026-09-09T00:26:01.294Z"
-  },
-  {
-    "id": "https://www.hankyung.com/article/202609092486i",
-    "category": "economy",
-    "source": "한국경제 경제",
-    "title": "\"급할 때 찾았는데\"…은행 이어 편의점 ATM까지 사라진다",
-    "link": "https://www.hankyung.com/article/202609092486i",
-    "summary": "",
-    "pubDate": "2026-09-08T21:38:28.000Z",
-    "collectedAt": "2026-09-09T00:26:01.294Z"
-  },
-  {
-    "id": "https://www.hankyung.com/article/202609080575i",
-    "category": "economy",
-    "source": "한국경제 경제",
-    "title": "“어릴 때 먹던 그 요구르트가 1위?”…30살 된 '이오'의 반전 [권용훈의 트렌드워치]",
-    "link": "https://www.hankyung.com/article/202609080575i",
-    "summary": "",
-    "pubDate": "2026-09-08T21:00:10.000Z",
-    "collectedAt": "2026-09-08T22:14:55.798Z"
-  },
-  {
-    "id": "https://www.hankyung.com/article/202609081698g",
-    "category": "economy",
-    "source": "한국경제 경제",
-    "title": "흡입력도 배터리도 LG가 나은데…삼성 로청에 '후한 점수' 준 이유",
-    "link": "https://www.hankyung.com/article/202609081698g",
-    "summary": "",
-    "pubDate": "2026-09-08T21:00:08.000Z",
-    "collectedAt": "2026-09-08T22:14:55.798Z"
-  },
-  {
-    "id": "https://news.hada.io/topic?id=33372",
-    "category": "it",
-    "source": "긱뉴스",
-    "title": "LG TV, 오프라인·대기 모드에서도 감시한 사실 드러나",
-    "link": "https://news.hada.io/topic?id=33372",
-    "summary": "Gamers Nexus의 시판 LG OLED TV 조사에서 소유자와 가정에 관한 데이터를 거의 상시 기록·전송하며, 대기 모드나 인터넷 연결 해제 상태에서도 일부 수집을 이어가는 동작이 확인됨 패킷 캡처로 주변 휴대전화·스마트워치 탐색, 위치와 인근 Wi-Fi 네트워크 정보 ...",
-    "pubDate": "2026-09-08T20:38:39.000Z",
-    "collectedAt": "2026-09-08T22:14:55.798Z"
-  },
-  {
-    "id": "https://news.hada.io/topic?id=33371",
-    "category": "it",
-    "source": "긱뉴스",
-    "title": "Google DeepMind, AlphaGenome Atlas 공개",
-    "link": "https://news.hada.io/topic?id=33371",
-    "summary": "이해가 제한적인 비코딩 DNA 영역까지 탐색할 수 있도록, AlphaGenome Atlas는 인간 유전체에서 가능한 90억 개 단일 염기 변화의 조절 영향을 미리 계산한 데이터베이스임 1페타바이트 데이터셋을 빠르게 조회할 수 있으며, AVI 점수",
-    "pubDate": "2026-09-08T19:38:09.000Z",
-    "collectedAt": "2026-09-08T20:15:07.230Z"
-  },
-  {
-    "id": "https://news.hada.io/topic?id=33370",
-    "category": "it",
-    "source": "긱뉴스",
-    "title": "Navier–Stokes 밀레니엄 상금 문제에 관하여",
-    "link": "https://news.hada.io/topic?id=33370",
-    "summary": "약 90년간 미해결이던 3차원 유체의 매끄러움 문제에 대해 OpenAI가 해석적 증명과 Lean 형식화를 공개함. 매끄러운 외력이 작용하는 정지 상태의 유체에서 유한 시간 안에 특이점이 발생하는 구성을 통해 공식 문제의 C·D를 입증했다고 밝힘 해법은 안쪽으로 나선...",
-    "pubDate": "2026-09-08T18:40:32.000Z",
-    "collectedAt": "2026-09-08T20:15:07.230Z"
-  },
-  {
-    "id": "https://www.aitimes.com/news/articleView.html?idxno=214985",
-    "category": "ai",
-    "source": "AI타임스 AI산업",
-    "title": "아이렌 \"AI 컴퓨팅 수요 무한 확장...공급이 수요 못 따라가\"",
-    "link": "https://www.aitimes.com/news/articleView.html?idxno=214985",
-    "summary": "AI 산업의 급성장으로 데이터센터와 컴퓨팅 인프라 투자가 폭발적으로 늘고 있지만, 컴퓨팅 파워 공급이 AI 수요를 따라잡기는 사실상 어려울 것이라는 전망이 나왔다. 엔비디아의 주요 네오클라우드 파트너인 아이렌(Iren)의 다니엘 로버츠 공동 CEO는 AI 데이터센터 구축이 과거의 일반적…",
-    "pubDate": "2026-09-08T18:11:23.000Z",
-    "collectedAt": "2026-09-08T10:16:52.233Z"
-  },
-  {
-    "id": "https://news.hada.io/topic?id=33369",
-    "category": "it",
-    "source": "긱뉴스",
-    "title": "Rust 디버깅 설문조사 2026 결과",
-    "link": "https://news.hada.io/topic?id=33369",
-    "summary": "부족한 디버깅 경험의 원인을 파악하기 위한 첫 설문에 2,300명 이상이 참여했으며, 현재 Rust에서 디버거를 쓰는 응답자는 46% 이상으로 절반에 못 미침 로그·출력 디버깅과 dbg!가 가장 널리 쓰이며, 이를 제외하면 IDE 내 lldb",
-    "pubDate": "2026-09-08T18:02:49.000Z",
-    "collectedAt": "2026-09-08T18:19:39.906Z"
-  },
-  {
-    "id": "https://www.aitimes.com/news/articleView.html?idxno=214998",
-    "category": "ai",
-    "source": "AI타임스 AI산업",
-    "title": "앤트로픽, 'AI 인프라 최적화' 데카르트 인수 포기…8조 대형 거래 무산",
-    "link": "https://www.aitimes.com/news/articleView.html?idxno=214998",
-    "summary": "앤트로픽이 60억달러(약 8조원) 규모로 추진하던 AI 스타트업 데카르트(Decart AI) 인수를 포기한 것으로 알려졌다. 블룸버그는 7일(현지시간) 정통한 소식통을 인용, 앤트로픽이 데카르트 인수를 검토하고 실사를 진행했지만 결국 인수를 진행하지 않기로 했다고 보도했다.다른 형태의…",
-    "pubDate": "2026-09-08T18:01:55.000Z",
-    "collectedAt": "2026-09-08T10:16:52.233Z"
-  },
-  {
-    "id": "https://www.aitimes.com/news/articleView.html?idxno=214981",
-    "category": "ai",
-    "source": "AI타임스 AI산업",
-    "title": "중국 인민해방군, '휴머노이드 로봇 병사' 실전 투입 속도",
-    "link": "https://www.aitimes.com/news/articleView.html?idxno=214981",
-    "summary": "중국 인민해방군(PLA)이 휴머노이드 로봇의 군사적 활용을 연구실과 시연 단계를 넘어 실제 전장에 적용하기 위한 연구에 속도를 내고 있다. 정찰과 물자 수송 같은 보조 임무를 넘어 인간 병사와 함께 전투에 참여하는 '로봇 전투원'을 운용한다는 구상까지 제시되면서 중국의 군용 로봇 개발이…",
-    "pubDate": "2026-09-08T17:47:42.000Z",
-    "collectedAt": "2026-09-08T10:16:52.233Z"
-  },
-  {
-    "id": "https://www.aitimes.com/news/articleView.html?idxno=214982",
-    "category": "ai",
-    "source": "AI타임스 AI산업",
-    "title": "바이트댄스, '월드 모델' 출시 임박...장이밍 창업자 직접 진두지휘",
-    "link": "https://www.aitimes.com/news/articleView.html?idxno=214982",
-    "summary": "틱톡과 시댄스(Seedance)로 영상 생성 AI 분야에서 경쟁력을 확보한 바이트댄스가 ‘월드 모델(World Model)' 시장에 뛰어들었다.7일(현지시간) 블룸버그에 따르면, 바이트댄스는 사용자의 움직임과 음성에 실시간으로 반응하는 가상 세계를 구현하는 '월드 모델' 개발에 착수했다…",
-    "pubDate": "2026-09-08T17:42:14.000Z",
-    "collectedAt": "2026-09-08T10:16:52.233Z"
   }
 ]
