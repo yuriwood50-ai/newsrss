@@ -10,6 +10,36 @@
     "collectedAt": "2026-09-13T10:20:05.288Z"
   },
   {
+    "id": "https://news.hada.io/topic?id=33624",
+    "category": "it",
+    "source": "긱뉴스",
+    "title": "Show GN: 스테인드글래스 완성하는 퍼즐 게임 - The Artisan of Glimmith 클론",
+    "link": "https://news.hada.io/topic?id=33624",
+    "summary": "The Artisan of Glimmith 라는 게임을 재밌게 하고있는데, 주말에 심심해서 클로드와 함께 비슷하게 만들어 봤습니다. 퍼즐을 만드는 과정을 시뮬레이션을 통해 자동으로 생성하게 한게 특징이고요. 여러가지 룰을 엮어서 더 어렵게(?) 즐길 수 있습니다. 에이전트 돌릴 때 시간…",
+    "pubDate": "2026-09-13T13:38:51.000Z",
+    "collectedAt": "2026-09-13T14:14:18.887Z"
+  },
+  {
+    "id": "https://news.hada.io/topic?id=33623",
+    "category": "it",
+    "source": "긱뉴스",
+    "title": "P(doom)",
+    "link": "https://news.hada.io/topic?id=33623",
+    "summary": "AI의 주된 위험은 인류 멸종보다 비공개 모델 기업에 권력과 경제적 이익이 집중되고, 나머지 사회가 비용과 피해를 떠안는 데 있음 Anthropic과 OpenAI 중심의 개발 속도 조절은 공공 데이터로 성장한 소수 미국 기업에 기술의 사용 주체와 방식을 결정할 권한까지...",
+    "pubDate": "2026-09-13T13:34:07.000Z",
+    "collectedAt": "2026-09-13T14:14:18.887Z"
+  },
+  {
+    "id": "https://news.hada.io/topic?id=33622",
+    "category": "it",
+    "source": "긱뉴스",
+    "title": "PuzzleMask: 평범한 문장을 잠재적 AI 공격 수단으로 오용하기",
+    "link": "https://news.hada.io/topic?id=33622",
+    "summary": "일반적인 줄글 속에 악성 명령을 숨겨 사전 검증망을 무력화하고 고성능 인공지능을 조종하는 보안 취약점이 드러났다. 전문 번역 연구진은 인공지능 정책 검사를 무력화하는 프롬프트 조작 기술을 공개했다. 이 기법은 특수 기호 없이 순수한 영어 일반 문장만 활용한다",
+    "pubDate": "2026-09-13T13:03:02.000Z",
+    "collectedAt": "2026-09-13T14:14:18.887Z"
+  },
+  {
     "id": "https://www.aitimes.com/news/articleView.html?idxno=215204",
     "category": "ai",
     "source": "AI타임스 AI산업",
@@ -14968,35 +14998,5 @@
     "summary": "Fandom에서 독립한 Overwatch·Fortnite 위키가 새 독립 도메인 대신 기존 도메인의 하위 도메인에 개설됨. 새 도메인의 개별 문서가 Google 검색에 나타나지 않는 현상을 피하기 위한 선택임 2024년 3월 Google 핵심 업데이트 이후 운영자가 파악한 신규 도메인…",
     "pubDate": "2026-09-08T14:40:23.000Z",
     "collectedAt": "2026-09-08T16:17:05.438Z"
-  },
-  {
-    "id": "https://www.aitimes.com/news/articleView.html?idxno=214990",
-    "category": "ai",
-    "source": "AI타임스 AI산업",
-    "title": "뤼튼 캐릭터챗 '크랙', 내년부터 청소년 '하루 3시간·월 10만원' 제한",
-    "link": "https://www.aitimes.com/news/articleView.html?idxno=214990",
-    "summary": "뤼튼테크놀로지스(대표 이세영)는 AI 엔터테인먼트 콘텐츠 플랫폼 ‘크랙(Crack)’의 청소년 보호 정책 강화 계획을 8일 발표했다.AI 대화와 청소년 보호에 대한 사회적 관심이 커짐에 따라 국내외 사례 검토와 전문가 자문을 거쳐 청소년 일일 이용 시간을 최대 3시간, 월 결제액을 10…",
-    "pubDate": "2026-09-08T14:35:56.000Z",
-    "collectedAt": "2026-09-08T06:19:57.375Z"
-  },
-  {
-    "id": "https://www.aitimes.com/news/articleView.html?idxno=214988",
-    "category": "ai",
-    "source": "AI타임스 AI산업",
-    "title": "뉴엔AI-W컨셉 \"AI로 패션 트렌드 포착해 마케팅 활용\"",
-    "link": "https://www.aitimes.com/news/articleView.html?idxno=214988",
-    "summary": "AI 분석 전문 뉴엔AI(대표 배성환)는 패션 플랫폼 W컨셉(더블유컨셉코리아)과 'AI 기반 분석 플랫폼 공급 계약'을 체결했다고 8일 밝혔다.뉴엔AI는 주요 소셜 미디어, 온라인 커뮤니티, 이커머스 채널 등에서 수집되는 소비자 트렌드 데이터를 API 방식으로 실시간 제공하고, ‘산업…",
-    "pubDate": "2026-09-08T14:34:03.000Z",
-    "collectedAt": "2026-09-08T06:19:57.375Z"
-  },
-  {
-    "id": "https://www.aitimes.com/news/articleView.html?idxno=214986",
-    "category": "ai",
-    "source": "AI타임스 AI산업",
-    "title": "KT, 로봇 데이터 관리 ‘통합 엣지AI 플랫폼’ 구현 나서",
-    "link": "https://www.aitimes.com/news/articleView.html?idxno=214986",
-    "summary": "KT가 피지컬 AI 기반의 무인화 공장 및 제조 공정 자율화 기술 개발에 나선다. 통합 데이터 플랫폼과 엣지 AI를 활용해 다양한 로봇과 AI 시스템을 하나로 연결하고 실시간 관리하는 체계를 구축할 방침이다.KT(대표 박윤영)는 한국과학기술원(KAIST, 총장 배충식), 다임리서치와 피…",
-    "pubDate": "2026-09-08T14:32:38.000Z",
-    "collectedAt": "2026-09-08T06:19:57.375Z"
   }
 ]
