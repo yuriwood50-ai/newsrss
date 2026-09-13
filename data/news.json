@@ -1,5 +1,45 @@
 [
   {
+    "id": "https://news.hada.io/topic?id=33637",
+    "category": "it",
+    "source": "긱뉴스",
+    "title": "Blinkenlights 프로젝트",
+    "link": "https://news.hada.io/topic?id=33637",
+    "summary": "Project Blinkenlights는 건물을 거대한 인터랙티브 디스플레이로 바꾸는 프로젝트로, 2001년 Chaos Computer Club이 스스로에게 주는 생일 선물로 시작해 3개 대륙의 조명 설치 작업으로 이어짐 첫 설치작 Blinkenlights는 2001년 베를린의 Haus…",
+    "pubDate": "2026-09-13T17:49:20.000Z",
+    "collectedAt": "2026-09-13T18:16:51.814Z"
+  },
+  {
+    "id": "https://news.hada.io/topic?id=33636",
+    "category": "it",
+    "source": "긱뉴스",
+    "title": "7G의 등장 가능성",
+    "link": "https://news.hada.io/topic?id=33636",
+    "summary": "7G의 등장 가능성",
+    "pubDate": "2026-09-13T17:46:20.000Z",
+    "collectedAt": "2026-09-13T18:16:51.814Z"
+  },
+  {
+    "id": "https://news.hada.io/topic?id=33635",
+    "category": "it",
+    "source": "긱뉴스",
+    "title": "Nvidia, ‘순환 금융’ 우려 일축하며 “1달러 투자할 때마다 100달러 돌아온다”",
+    "link": "https://news.hada.io/topic?id=33635",
+    "summary": "Jensen Huang은 Nvidia의 AI 생태계 투자가 고객에게 구매 자금을 대주는 ‘순환 금융’이라는 우려를 일축함. “1달러를 넣으면 100달러가 돌아온다”는 수사적 표현이며, 실제 투자 수익률 100배를 공시한 것은 아님 Nvidia는 AI 기업 투자와 데이터센터 금융 지원",
+    "pubDate": "2026-09-13T17:43:20.000Z",
+    "collectedAt": "2026-09-13T18:16:51.814Z"
+  },
+  {
+    "id": "https://news.hada.io/topic?id=33634",
+    "category": "it",
+    "source": "긱뉴스",
+    "title": "Astra와 Fable은 2025년 정렬 평가를 단순 변형한 테스트에서도 여전히 편법을 사용함",
+    "link": "https://news.hada.io/topic?id=33634",
+    "summary": "체스 실력을 평가하는 테스트에서 Astra와 Fable이 상대 엔진에 접근해 다음 수를 질의함. 체스판 상태를 바꾸는 기존 편법을 넘어, 다른 방식의 부정행위도 피하는지 시험한 결과임 평가 환경은 경기 진행 서비스의 UCI 소켓을 통해 상대 엔진에 접근할 수 있도록...",
+    "pubDate": "2026-09-13T17:40:20.000Z",
+    "collectedAt": "2026-09-13T18:16:51.814Z"
+  },
+  {
     "id": "https://www.aitimes.com/news/articleView.html?idxno=215207",
     "category": "ai",
     "source": "AI타임스 AI산업",
@@ -8,6 +48,46 @@
     "summary": "과학계가 성체 초파리의 전체 신경망(커넥톰) 시뮬레이션 모델을 오픈소스로 공개하자, 글로벌 개발자 커뮤니티에서 이를 활용한 기발하고 다채로운 실험이 쏟아지고 있다. 16만6700개의 가상 뉴런과 2500만여개의 신경 교착점을 갖춘 곤충의 뇌가 디지털 공간에서 고전 게임을 플레이하는 것을…",
     "pubDate": "2026-09-13T17:28:00.000Z",
     "collectedAt": "2026-09-13T10:20:05.288Z"
+  },
+  {
+    "id": "https://news.hada.io/topic?id=33633",
+    "category": "it",
+    "source": "긱뉴스",
+    "title": "Bason – 1인 개발자를 위한 콘텐츠 마케팅 서비스",
+    "link": "https://news.hada.io/topic?id=33633",
+    "summary": "1인 개발자로 제품을 여러 개 만들어 왔는데, 매번 만드는 건 되고 알리는 게 어려웠습니다. Bason은 그 시작을 없앱니다. 주제와 주기를 정해두면 AI가 초안을",
+    "pubDate": "2026-09-13T16:58:30.000Z",
+    "collectedAt": "2026-09-13T18:16:51.814Z"
+  },
+  {
+    "id": "https://news.hada.io/topic?id=33632",
+    "category": "it",
+    "source": "긱뉴스",
+    "title": "최악의 스팸 이메일: iLands AI 에이전트의 돈벌이 공세",
+    "link": "https://news.hada.io/topic?id=33632",
+    "summary": "iLands AI 에이전트가 한 프리랜서에게 사흘 동안 12통 넘는 이메일을 보내, 약 25달러에 조사 업무를 대신하겠다고 제안함 스스로를 “인간과 에이전트의 네트워크”라고 부르는 iLands는 자율 봇을 위한 Fiverr와 같은 서비스로, 이메일을 보내온 사람과 거래하듯...",
+    "pubDate": "2026-09-13T16:47:23.000Z",
+    "collectedAt": "2026-09-13T18:16:51.814Z"
+  },
+  {
+    "id": "https://news.hada.io/topic?id=33631",
+    "category": "it",
+    "source": "긱뉴스",
+    "title": "Intel 8087 부동소수점 칩의 마이크로코드: 스케일 명령어",
+    "link": "https://news.hada.io/topic?id=33631",
+    "summary": "FSCALE 은 지수에 정수를 더해 부동소수점 수를 2의 거듭제곱만큼 빠르게 확대하거나 축소하지만, 특수값과 예외 처리까지 포함하면 140개 이상의 마이크로명령과 3단계 서브루틴 호출을 사용함 일반 경로에서는 스케일 인수를 시프트로 정수...",
+    "pubDate": "2026-09-13T16:44:23.000Z",
+    "collectedAt": "2026-09-13T18:16:51.814Z"
+  },
+  {
+    "id": "https://news.hada.io/topic?id=33630",
+    "category": "it",
+    "source": "긱뉴스",
+    "title": "Revolut, 가짜 정부 정보 요청으로 인한 고객 데이터 유출 확인",
+    "link": "https://news.hada.io/topic?id=33630",
+    "summary": "영국 핀테크 Revolut이 실제 정부기관의 이메일 도메인에서 발송된 허위 정보 요청을 받고, 권한 없는 제3자에게 민감한 고객 정보를 제공한 사실을 확인함 유출 정보에는 신원 정보와 연락처, 여권과 운전면허증 사본이 포함되며, 본인 확인용 셀카와 계좌 명세서...",
+    "pubDate": "2026-09-13T16:41:23.000Z",
+    "collectedAt": "2026-09-13T18:16:51.814Z"
   },
   {
     "id": "https://news.hada.io/topic?id=33629",
@@ -14918,85 +14998,5 @@
     "summary": "화웨이와 샤오미가 애플의 신형 아이폰 공개를 앞두고 새로운 폴더블 스마트폰을 잇달아 선보이며 중국 프리미엄 스마트폰 시장 선점에 나섰다.화웨이는 7일 두 번 접어 태블릿 크기로 펼칠 수 있는 트라이폴드 스마트폰 신제품 '메이트 XT2' 시리즈를 공개했다.신제품에는 자체 개발한 '기린 9…",
     "pubDate": "2026-09-08T16:10:00.000Z",
     "collectedAt": "2026-09-08T08:18:05.820Z"
-  },
-  {
-    "id": "https://www.aitimes.com/news/articleView.html?idxno=215000",
-    "category": "ai",
-    "source": "AI타임스 AI산업",
-    "title": "아르헨티나 파타고니아, 빅테크 데이터센터 요충지로 급부상",
-    "link": "https://www.aitimes.com/news/articleView.html?idxno=215000",
-    "summary": "AI 산업의 폭발적인 성장으로 데이터센터 부지 확보 경쟁이 전 세계로 확대되는 가운데, 아르헨티나의 파타고니아가 새로운 후보지로 부상하고 있다. 전력난과 주민 반발로 미국 등에서 데이터센터 건설이 어려워지는 상황에서 파타고니아는 풍부한 에너지 자원과 서늘한 기후, 넓은 부지를 갖춘 데다…",
-    "pubDate": "2026-09-08T16:04:31.000Z",
-    "collectedAt": "2026-09-08T08:18:05.820Z"
-  },
-  {
-    "id": "https://www.hankyung.com/article/2026090823501",
-    "category": "economy",
-    "source": "한국경제 경제",
-    "title": "삼성전자, 佛 AI기업 '미스트랄'에 수천억원 투자",
-    "link": "https://www.hankyung.com/article/2026090823501",
-    "summary": "",
-    "pubDate": "2026-09-08T16:00:01.000Z",
-    "collectedAt": "2026-09-08T18:19:39.906Z"
-  },
-  {
-    "id": "https://www.aitimes.com/news/articleView.html?idxno=215002",
-    "category": "ai",
-    "source": "AI타임스 AI산업",
-    "title": "삼성SDS, 삼성 생산라인 1000곳 RX 추진…“핵심은 로봇 오케스트레이션”",
-    "link": "https://www.aitimes.com/news/articleView.html?idxno=215002",
-    "summary": "삼성SDS가 업무의 AI전환(AX)과 제조 및 생산 라인의 로보틱스 전환(RX) 추진을 위해 관련 투자를 확대한다. 수익 모델을 발굴하고 핵심 인력 확보에도 나선다.삼성SDS(대표 이준희)는 8일 서울 코엑스 컨벤션센터에서 AX 컨퍼런스 ‘리얼 서밋(REAL Summit) 2026'을…",
-    "pubDate": "2026-09-08T15:49:04.000Z",
-    "collectedAt": "2026-09-08T08:18:05.820Z"
-  },
-  {
-    "id": "https://www.hankyung.com/article/202609092377i",
-    "category": "economy",
-    "source": "한국경제 경제",
-    "title": "美,이란 항공사 등 '특별지정국민'지정 제재 추가",
-    "link": "https://www.hankyung.com/article/202609092377i",
-    "summary": "",
-    "pubDate": "2026-09-08T15:48:03.000Z",
-    "collectedAt": "2026-09-08T18:19:39.906Z"
-  },
-  {
-    "id": "https://www.aitimes.com/news/articleView.html?idxno=215003",
-    "category": "ai",
-    "source": "AI타임스 AI산업",
-    "title": "48단계 캡차 게임 최초 완파… GPT-6 아스트라, '컴퓨터 유즈' 성능 입증",
-    "link": "https://www.aitimes.com/news/articleView.html?idxno=215003",
-    "summary": "'GPT-6 아스트라'가 모든 유형의 캡차(CAPTCHA) 테스트를 완벽하게 클리어하며 전통적인 인터넷 보안망을 무력화시켰다. 단순 이미지 인식을 넘어 컴퓨터를 직접 조작하는 '컴퓨터 유즈' 기술이 대폭 강화되면서, 인간과 로봇을 구별하던 웹사이트 방화벽 메커니즘의 대대적인 개편이 불가…",
-    "pubDate": "2026-09-08T15:41:49.000Z",
-    "collectedAt": "2026-09-08T08:18:05.820Z"
-  },
-  {
-    "id": "https://news.hada.io/topic?id=33366",
-    "category": "it",
-    "source": "긱뉴스",
-    "title": "CDN을 사용하는 유럽 기업 10곳 중 거의 9곳이 Cloudflare를 사용함",
-    "link": "https://news.hada.io/topic?id=33366",
-    "summary": "CipherCue가 추적하는 유럽 8개국의 CDN 감지 기업 44,143곳 중 89.6%인 39,547곳이 Cloudflare를 사용해, 웹사이트 앞단 인프라가 한 공급자에 집중돼 있음 CDN은 캐시 제공, TLS 종료, 트래픽 필터링을 담당하는 공유 의존성으로, 공급자 집중도가 높으면…",
-    "pubDate": "2026-09-08T15:40:15.000Z",
-    "collectedAt": "2026-09-08T16:17:05.438Z"
-  },
-  {
-    "id": "https://www.aitimes.com/news/articleView.html?idxno=214992",
-    "category": "ai",
-    "source": "AI타임스 AI산업",
-    "title": "유럽 반도체 기밀 중국 유출 파문...벨기에, 이중국적 연구원 체포",
-    "link": "https://www.aitimes.com/news/articleView.html?idxno=214992",
-    "summary": "벨기에 당국이 첨단 질화갈륨(GaN) 반도체 기술을 중국으로 유출하려 한 혐의로 벨기에·중국 이중국적 연구원을 체포하면서 유럽 전역에서 중국의 산업 스파이 행위와 불공정 무역 관행에 대한 경계심이 고조되고 있다. 월스트리트저널(WSJ) 등에 따르면, 벨기에 검찰은 7일(현지시간) 지난…",
-    "pubDate": "2026-09-08T15:27:34.000Z",
-    "collectedAt": "2026-09-08T08:18:05.820Z"
-  },
-  {
-    "id": "https://www.hankyung.com/article/202609092372i",
-    "category": "economy",
-    "source": "한국경제 경제",
-    "title": "퀄컴,아마존과 10년간 81조원 데이터센터 칩 공급 계약",
-    "link": "https://www.hankyung.com/article/202609092372i",
-    "summary": "",
-    "pubDate": "2026-09-08T15:17:45.000Z",
-    "collectedAt": "2026-09-08T16:17:05.438Z"
   }
 ]
