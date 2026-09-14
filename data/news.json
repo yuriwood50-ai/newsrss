@@ -260,6 +260,66 @@
     "collectedAt": "2026-09-14T04:16:21.602Z"
   },
   {
+    "id": "https://www.hankyung.com/article/202609144160i",
+    "category": "economy",
+    "source": "한국경제 경제",
+    "title": "스페이스X,이달말 나스닥100지수 비중 1.28%→2.82%로↑",
+    "link": "https://www.hankyung.com/article/202609144160i",
+    "summary": "",
+    "pubDate": "2026-09-14T11:16:08.000Z",
+    "collectedAt": "2026-09-14T12:21:01.951Z"
+  },
+  {
+    "id": "https://news.hada.io/topic?id=33689",
+    "category": "it",
+    "source": "긱뉴스",
+    "title": "WebKit, Top-Level Await 버그를 고치기 위해 Safari 모듈 로더를 C++로 전면 재작성",
+    "link": "https://news.hada.io/topic?id=33689",
+    "summary": "WebKit이 Safari의 Top-Level Await(TLA) 구현을 ECMAScript 명세에 완전히 맞추기 위해 기존 모듈 로더를 사실상 처음부터 다시 작성 기존 구현에서는 특정 상황에서 모듈의 평가가 끝나기 전에 import()가 완료되면서 Cannot access '...'…",
+    "pubDate": "2026-09-14T11:15:05.000Z",
+    "collectedAt": "2026-09-14T12:21:01.951Z"
+  },
+  {
+    "id": "https://news.hada.io/topic?id=33688",
+    "category": "it",
+    "source": "긱뉴스",
+    "title": "Git에서 Fossil로 전환하기 (2025)",
+    "link": "https://news.hada.io/topic?id=33688",
+    "summary": "Git의 Rust 필수화 제안에 반감을 느낀 개발자가 개인 프로젝트를 Fossil로 옮기고, 저장소 이전부터 자체 서버 운영과 일상적인 사용법까지 정리함 Fossil은 C로 작성된 작고 자원 소모가 적은 버전 관리 도구로, 스테이징 영역 없이 Subversion에 가까운 단순한 ...",
+    "pubDate": "2026-09-14T11:03:43.000Z",
+    "collectedAt": "2026-09-14T12:21:01.951Z"
+  },
+  {
+    "id": "https://www.hankyung.com/article/2026091441587",
+    "category": "economy",
+    "source": "한국경제 경제",
+    "title": "\"이건희 회장이 봤다면 눈물\"…삼성 노노 갈등 '선 넘었다'",
+    "link": "https://www.hankyung.com/article/2026091441587",
+    "summary": "",
+    "pubDate": "2026-09-14T10:52:22.000Z",
+    "collectedAt": "2026-09-14T12:21:01.951Z"
+  },
+  {
+    "id": "https://www.hankyung.com/article/202609144058i",
+    "category": "economy",
+    "source": "한국경제 경제",
+    "title": "\"AI 위험 통제 필요\" 거물들 경고에…美·中 정부 동시 비난",
+    "link": "https://www.hankyung.com/article/202609144058i",
+    "summary": "",
+    "pubDate": "2026-09-14T10:16:11.000Z",
+    "collectedAt": "2026-09-14T12:21:01.951Z"
+  },
+  {
+    "id": "https://www.hankyung.com/article/2026091440061",
+    "category": "economy",
+    "source": "한국경제 경제",
+    "title": "26년 핀테크 한우물 \"제2의 네·카·토 탄생 돕겠다\"",
+    "link": "https://www.hankyung.com/article/2026091440061",
+    "summary": "",
+    "pubDate": "2026-09-14T09:42:21.000Z",
+    "collectedAt": "2026-09-14T12:21:01.951Z"
+  },
+  {
     "id": "https://news.hada.io/topic?id=33687",
     "category": "it",
     "source": "긱뉴스",
@@ -270,6 +330,36 @@
     "collectedAt": "2026-09-14T10:15:49.692Z"
   },
   {
+    "id": "https://www.hankyung.com/article/2026091440021",
+    "category": "it",
+    "source": "한국경제 IT",
+    "title": "AI로 근육 분석·OLED 화질 개선…9월 엔지니어상 수상",
+    "link": "https://www.hankyung.com/article/2026091440021",
+    "summary": "",
+    "pubDate": "2026-09-14T09:41:15.000Z",
+    "collectedAt": "2026-09-14T12:21:01.951Z"
+  },
+  {
+    "id": "https://www.hankyung.com/article/2026091440031",
+    "category": "economy",
+    "source": "한국경제 경제",
+    "title": "JT저축銀, 스마일런 마라톤대회 후원",
+    "link": "https://www.hankyung.com/article/2026091440031",
+    "summary": "",
+    "pubDate": "2026-09-14T09:40:08.000Z",
+    "collectedAt": "2026-09-14T12:21:01.951Z"
+  },
+  {
+    "id": "https://www.hankyung.com/article/2026091440041",
+    "category": "economy",
+    "source": "한국경제 경제",
+    "title": "우리금융, 저소득 조손가정에 추석선물",
+    "link": "https://www.hankyung.com/article/2026091440041",
+    "summary": "",
+    "pubDate": "2026-09-14T09:39:05.000Z",
+    "collectedAt": "2026-09-14T12:21:01.951Z"
+  },
+  {
     "id": "https://news.hada.io/topic?id=33686",
     "category": "it",
     "source": "긱뉴스",
@@ -278,6 +368,36 @@
     "summary": "Nike가 수년간의 기업가치 하락 끝에 9월 21일 S&P 100에서 제외될 예정이며, S&P 500에는 계속 남음 시가총액은 2021년 11월 정점인 2,640억 달러에서 약 570억 달러로 78% 감소했고, 2026년에만 36% 줄어듦 2026회계연도 매출...",
     "pubDate": "2026-09-14T09:38:37.000Z",
     "collectedAt": "2026-09-14T10:15:49.692Z"
+  },
+  {
+    "id": "https://www.hankyung.com/article/2026091439961",
+    "category": "economy",
+    "source": "한국경제 경제",
+    "title": "고영철 신협중앙회장, 아시아신협연합회장 선출",
+    "link": "https://www.hankyung.com/article/2026091439961",
+    "summary": "",
+    "pubDate": "2026-09-14T09:35:15.000Z",
+    "collectedAt": "2026-09-14T12:21:01.951Z"
+  },
+  {
+    "id": "https://www.hankyung.com/article/2026091439971",
+    "category": "economy",
+    "source": "한국경제 경제",
+    "title": "[포토] 오뚜기, 고(故) 함태호 명예회장 10주기 추모식",
+    "link": "https://www.hankyung.com/article/2026091439971",
+    "summary": "",
+    "pubDate": "2026-09-14T09:34:02.000Z",
+    "collectedAt": "2026-09-14T12:21:01.951Z"
+  },
+  {
+    "id": "https://www.hankyung.com/article/2026091441197",
+    "category": "it",
+    "source": "한국경제 IT",
+    "title": "제22회 경암상 수상자에 장하석 케임브리지대학교 교수 등 4명",
+    "link": "https://www.hankyung.com/article/2026091441197",
+    "summary": "",
+    "pubDate": "2026-09-14T09:32:08.000Z",
+    "collectedAt": "2026-09-14T12:21:01.951Z"
   },
   {
     "id": "https://www.hankyung.com/article/2026091440261",
@@ -14878,125 +14998,5 @@
     "summary": "",
     "pubDate": "2026-09-09T10:00:10.000Z",
     "collectedAt": "2026-09-09T12:20:53.641Z"
-  },
-  {
-    "id": "https://www.hankyung.com/article/2026090938336",
-    "category": "economy",
-    "source": "한국경제 증권",
-    "title": "\"상폐는 겨우 피했는데…\" 정부가 내민 '퇴로'의 현실 [분석+]",
-    "link": "https://www.hankyung.com/article/2026090938336",
-    "summary": "",
-    "pubDate": "2026-09-09T10:00:09.000Z",
-    "collectedAt": "2026-09-09T12:20:53.641Z"
-  },
-  {
-    "id": "20260909000404",
-    "category": "ai",
-    "source": "전자신문 SW",
-    "title": "비상교육, 초등 연구모임 '반올림스쿨'과 예비교원 네트워킹 지원",
-    "link": "https://www.etnews.com/20260909000404",
-    "summary": "비상교육이 '반올림스쿨'과 비상교육 본사에서 예비 교원 네트워킹 캠프를 개최했다. 반올림스쿨은 초등교사들이 함께 교육 콘텐츠를 연구·개발하는 연구모임이다. 반올림콘텐츠스쿨과 반올림디지털스쿨을 중심으로 수업자료 개발과 교원 연수, 교육 콘텐츠 제작 등을 진행하고 있다. 이번 캠프는 반올림…",
-    "pubDate": "2026-09-09T09:49:23.000Z",
-    "collectedAt": "2026-09-09T14:15:37.711Z"
-  },
-  {
-    "id": "https://www.hankyung.com/article/2026090947541",
-    "category": "economy",
-    "source": "한국경제 경제",
-    "title": "국민銀, '한손 한책' 동참…육군훈련소에 책 5400권 기증",
-    "link": "https://www.hankyung.com/article/2026090947541",
-    "summary": "",
-    "pubDate": "2026-09-09T09:47:34.000Z",
-    "collectedAt": "2026-09-09T12:20:53.641Z"
-  },
-  {
-    "id": "https://www.hankyung.com/article/2026090947551",
-    "category": "economy",
-    "source": "한국경제 경제",
-    "title": "LG전자, 미얀마 청소년 교육환경 개선",
-    "link": "https://www.hankyung.com/article/2026090947551",
-    "summary": "",
-    "pubDate": "2026-09-09T09:46:18.000Z",
-    "collectedAt": "2026-09-09T12:20:53.641Z"
-  },
-  {
-    "id": "https://www.hankyung.com/article/2026090947631",
-    "category": "economy",
-    "source": "한국경제 경제",
-    "title": "김익환 \"K패션 인재 육성 적극 지원\"",
-    "link": "https://www.hankyung.com/article/2026090947631",
-    "summary": "",
-    "pubDate": "2026-09-09T09:34:57.000Z",
-    "collectedAt": "2026-09-09T12:20:53.641Z"
-  },
-  {
-    "id": "https://news.hada.io/topic?id=33432",
-    "category": "it",
-    "source": "긱뉴스",
-    "title": "AI도 의식을 가질 수 있을까: ‘의식의 어려운 문제’가 다시 중요해진 이유",
-    "link": "https://news.hada.io/topic?id=33432",
-    "summary": "핵심 요점 철학자 데이비드 차머스는 의식을 ‘1인칭 관점에서 느껴지는 주관적 경험’ 으로 정의하며, 물리적·계산적 과정이 왜 이러한 경험을 만들어내는지를 설명하는 문제를 ‘의식의 어려운 문제(Hard Problem)’ 라고 규정함.",
-    "pubDate": "2026-09-09T09:34:01.000Z",
-    "collectedAt": "2026-09-09T10:17:13.124Z"
-  },
-  {
-    "id": "https://www.hankyung.com/article/2026090947391",
-    "category": "economy",
-    "source": "한국경제 경제",
-    "title": "[포토] 미래 모빌리티 한자리에",
-    "link": "https://www.hankyung.com/article/2026090947391",
-    "summary": "",
-    "pubDate": "2026-09-09T09:30:24.000Z",
-    "collectedAt": "2026-09-09T12:20:53.641Z"
-  },
-  {
-    "id": "https://www.hankyung.com/article/2026090945851",
-    "category": "economy",
-    "source": "한국경제 경제",
-    "title": "\"IMF 겪은 세대가 빚 다 갚자\"…30년만에 약속 지켰다",
-    "link": "https://www.hankyung.com/article/2026090945851",
-    "summary": "",
-    "pubDate": "2026-09-09T09:27:53.000Z",
-    "collectedAt": "2026-09-09T12:20:53.641Z"
-  },
-  {
-    "id": "https://www.hankyung.com/article/2026090945841",
-    "category": "economy",
-    "source": "한국경제 경제",
-    "title": "올 韓 GDP 3000조…1997년 대비 5배 성장",
-    "link": "https://www.hankyung.com/article/2026090945841",
-    "summary": "",
-    "pubDate": "2026-09-09T09:25:09.000Z",
-    "collectedAt": "2026-09-09T12:20:53.641Z"
-  },
-  {
-    "id": "https://www.hankyung.com/article/2026090947221",
-    "category": "economy",
-    "source": "한국경제 증권",
-    "title": "\"삼전닉스에 절반 투자\"…미래에셋, 日서 ETF 출격",
-    "link": "https://www.hankyung.com/article/2026090947221",
-    "summary": "",
-    "pubDate": "2026-09-09T09:22:14.000Z",
-    "collectedAt": "2026-09-09T10:17:13.124Z"
-  },
-  {
-    "id": "https://www.hankyung.com/article/2026090947321",
-    "category": "economy",
-    "source": "한국경제 증권",
-    "title": "美 ETF 출시 '역대 최대'…25%는 레버리지·인버스",
-    "link": "https://www.hankyung.com/article/2026090947321",
-    "summary": "",
-    "pubDate": "2026-09-09T09:20:51.000Z",
-    "collectedAt": "2026-09-09T10:17:13.124Z"
-  },
-  {
-    "id": "https://www.hankyung.com/article/2026090947281",
-    "category": "economy",
-    "source": "한국경제 증권",
-    "title": "美 자산운용사 디렉시온, 韓증시 2배 ETF 출시 검토",
-    "link": "https://www.hankyung.com/article/2026090947281",
-    "summary": "",
-    "pubDate": "2026-09-09T09:20:19.000Z",
-    "collectedAt": "2026-09-09T10:17:13.124Z"
   }
 ]
