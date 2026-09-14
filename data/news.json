@@ -130,6 +130,16 @@
     "collectedAt": "2026-09-14T08:18:09.061Z"
   },
   {
+    "id": "https://www.hankyung.com/article/202609154304i",
+    "category": "economy",
+    "source": "한국경제 경제",
+    "title": "MS,AI 개발지침 발표\"사람이 AI보다 중요하다\"대원칙",
+    "link": "https://www.hankyung.com/article/202609154304i",
+    "summary": "",
+    "pubDate": "2026-09-14T15:46:00.000Z",
+    "collectedAt": "2026-09-14T16:15:46.578Z"
+  },
+  {
     "id": "https://www.aitimes.com/news/articleView.html?idxno=215238",
     "category": "ai",
     "source": "AI타임스 AI산업",
@@ -140,6 +150,16 @@
     "collectedAt": "2026-09-14T08:18:09.061Z"
   },
   {
+    "id": "https://news.hada.io/topic?id=33697",
+    "category": "it",
+    "source": "긱뉴스",
+    "title": "Show GN: Foundation Model Engineering - 학습부터 서빙까지 다루는 한·영 온라인 교재",
+    "link": "https://news.hada.io/topic?id=33697",
+    "summary": "파운데이션 모델의 구조부터 학습, 추론, RAG, 에이전트, 평가까지 다루는 온라인 교재를 만들고 있습니다. 한국어와 영어로 읽을 수 있고, 가입 없이 전체 내용을 볼 수 있습니다. 기법의 정의만 설명하기보다는 어떤 병목을 해결하는지, 메모리나 지연 시간에서 무엇을 얻고 잃는지까지 연결…",
+    "pubDate": "2026-09-14T15:37:09.000Z",
+    "collectedAt": "2026-09-14T16:15:46.578Z"
+  },
+  {
     "id": "https://www.aitimes.com/news/articleView.html?idxno=215225",
     "category": "ai",
     "source": "AI타임스 AI산업",
@@ -148,6 +168,16 @@
     "summary": "시진핑 중국 국가주석이 브릭스(BRICS) 회원국을 중심으로 AI와 디지털 기술 분야의 협력을 강화하겠다는 구상을 내놨다. 중국이 주도하는 개방형 AI 생태계를 글로벌 사우스 국가들로 확대해 미국을 비롯한 서방 중심의 기술 질서에 맞서고, AI 분야에서 영향력을 확대하려는 전략이다.시…",
     "pubDate": "2026-09-14T15:36:10.000Z",
     "collectedAt": "2026-09-14T08:18:09.061Z"
+  },
+  {
+    "id": "https://news.hada.io/topic?id=33696",
+    "category": "it",
+    "source": "긱뉴스",
+    "title": "효과적인 소프트웨어 설계 문서 작성법",
+    "link": "https://news.hada.io/topic?id=33696",
+    "summary": "설계 문서는 구현 전에 어려운 문제와 중요한 결정을 검토하고, 팀원 및 협력 팀의 피드백을 모아 잘못된 구현에 시간을 낭비하지 않도록 돕는 도구임 문서에 담을 결정은 틀렸을 때의 비용으로 판단함. 언어나 저장소처럼 바꾸기 어려운 선택에 집중하고, 몇 시간...",
+    "pubDate": "2026-09-14T15:35:35.000Z",
+    "collectedAt": "2026-09-14T16:15:46.578Z"
   },
   {
     "id": "https://www.aitimes.com/news/articleView.html?idxno=215228",
@@ -190,6 +220,26 @@
     "collectedAt": "2026-09-14T08:18:09.061Z"
   },
   {
+    "id": "https://www.hankyung.com/article/202609144293i",
+    "category": "economy",
+    "source": "한국경제 경제",
+    "title": "월가에 몰아치는 3가지 폭풍[박신영의 개장전 요것만]",
+    "link": "https://www.hankyung.com/article/202609144293i",
+    "summary": "",
+    "pubDate": "2026-09-14T15:05:43.000Z",
+    "collectedAt": "2026-09-14T16:15:46.578Z"
+  },
+  {
+    "id": "https://www.hankyung.com/article/202609144296i",
+    "category": "economy",
+    "source": "한국경제 경제",
+    "title": "트럼프,\"AI속도조절 불필요.똑똑한 대통령이 안전장치\"주장",
+    "link": "https://www.hankyung.com/article/202609144296i",
+    "summary": "",
+    "pubDate": "2026-09-14T15:01:00.000Z",
+    "collectedAt": "2026-09-14T16:15:46.578Z"
+  },
+  {
     "id": "https://www.aitimes.com/news/articleView.html?idxno=215249",
     "category": "ai",
     "source": "AI타임스 정책",
@@ -200,6 +250,26 @@
     "collectedAt": "2026-09-14T10:15:49.692Z"
   },
   {
+    "id": "https://news.hada.io/topic?id=33695",
+    "category": "it",
+    "source": "긱뉴스",
+    "title": "Apple Siri의 AI를 Claude와 ChatGPT로 교체할 수 있는 코드 발견",
+    "link": "https://news.hada.io/topic?id=33695",
+    "summary": "iOS 27과 macOS Golden Gate의 비공개 프레임워크에서 새로운 Siri가 외부 AI 모델과 깊이 연동하도록 설계된 정황이 발견됨 Model Delegation은 Claude를 기존 ChatGPT처럼 Siri 확장 기능으로 연결하며, 시연에서는 Claude가 미리 알림 요청…",
+    "pubDate": "2026-09-14T14:36:47.000Z",
+    "collectedAt": "2026-09-14T16:15:46.578Z"
+  },
+  {
+    "id": "https://news.hada.io/topic?id=33694",
+    "category": "it",
+    "source": "긱뉴스",
+    "title": "RP2350을 위한 386 PC",
+    "link": "https://news.hada.io/topic?id=33694",
+    "summary": "FRANK 386은 RP2350 기반 Raspberry Pi Pico 2에서 DOS, Windows 3.x, Windows 95, Linux 등을 부팅할 수 있는 i386 PC 에뮬레이터임 i386 전체 명령어 에뮬레이션과 i486/i586 일부 기능, 선택적 x87 FPU를 지원하며,…",
+    "pubDate": "2026-09-14T14:33:47.000Z",
+    "collectedAt": "2026-09-14T16:15:46.578Z"
+  },
+  {
     "id": "https://www.aitimes.com/news/articleView.html?idxno=215216",
     "category": "ai",
     "source": "AI타임스 AI산업",
@@ -208,6 +278,26 @@
     "summary": "다리오 아모데이 앤트로픽 CEO가 최첨단 AI 개발 속도를 늦추기 위한 가장 큰 난제로 중국과의 경쟁을 꼽았다. 미국과 민주주의 국가들이 일방적으로 AI 개발을 늦출 경우 중국이 기술적·군사적 주도권을 확보할 수 있는 만큼, 안전성을 위해 속도를 조절하면서도 미국의 AI 패권을 지켜야…",
     "pubDate": "2026-09-14T14:32:15.000Z",
     "collectedAt": "2026-09-14T06:21:55.833Z"
+  },
+  {
+    "id": "https://www.hankyung.com/article/202609144289i",
+    "category": "economy",
+    "source": "한국경제 경제",
+    "title": "[속보]10년물 미국채 수익률 5% 돌파…2023년10월이후 처음",
+    "link": "https://www.hankyung.com/article/202609144289i",
+    "summary": "",
+    "pubDate": "2026-09-14T14:27:23.000Z",
+    "collectedAt": "2026-09-14T16:15:46.578Z"
+  },
+  {
+    "id": "https://www.hankyung.com/article/202609144281i",
+    "category": "economy",
+    "source": "한국경제 경제",
+    "title": "美 증시, AI 감속 우려에 유가 급등…반도체주 일제히 하락",
+    "link": "https://www.hankyung.com/article/202609144281i",
+    "summary": "",
+    "pubDate": "2026-09-14T14:18:09.000Z",
+    "collectedAt": "2026-09-14T16:15:46.578Z"
   },
   {
     "id": "https://www.hankyung.com/article/202609144265i",
@@ -14908,95 +14998,5 @@
     "summary": "오픈AI가 AI 이미지 생성 기술의 속도와 정밀도를 한단계 끌어올리며 이미지 제작 경험을 확장했다. 여기에 사용자가 직접 그린 간단한 손그림을 AI에 전달해 원하는 이미지를 만들 수 있도록 하는 새로운 기능까지 추가하며 텍스트 중심의 이미지 생성 방식에서 한 단계 나아갔다. 오픈AI는…",
     "pubDate": "2026-09-09T12:23:26.000Z",
     "collectedAt": "2026-09-09T04:15:33.883Z"
-  },
-  {
-    "id": "https://news.hada.io/topic?id=33437",
-    "category": "it",
-    "source": "긱뉴스",
-    "title": "Show GN: Wave 프로그래밍 언어",
-    "link": "https://news.hada.io/topic?id=33437",
-    "summary": "작년에 Wave를 한 번 소개를 했었는데, 이후 프로젝트가 많이 바뀌어서 다시 한번 소개합니다. Wave는 C, Rust 등의 저수준 언어에서 영향을 받아 개발하고 있는 프로그래밍 언어입니다. 현재 LLVM을 백엔드로 사용해 네이티브 코드로 컴파일하며, 시스템 프로그래밍을 포함한 다양한…",
-    "pubDate": "2026-09-09T12:09:04.000Z",
-    "collectedAt": "2026-09-09T12:20:53.641Z"
-  },
-  {
-    "id": "https://www.aitimes.com/news/articleView.html?idxno=215029",
-    "category": "ai",
-    "source": "AI타임스 AI산업",
-    "title": "AWS, 국내 우주·위성 스타트업 대상 엑셀러레이터 프로그램 실시",
-    "link": "https://www.aitimes.com/news/articleView.html?idxno=215029",
-    "summary": "아마존웹서비스(AWS)는 우주항공청(KASA), 메가존클라우드와 국내 우주·위성 스타트업을 지원하는 'AWS 스페이스 엑셀러레이터: 한국 2026'을 시작한다고 9일 밝혔다.2021년 출범해 6년째를 맞는 이번 프로그램은 4주간 진행되며, 선정 스타트업에는 최대 10만달러 상당의 클라우…",
-    "pubDate": "2026-09-09T12:05:50.000Z",
-    "collectedAt": "2026-09-09T04:15:33.883Z"
-  },
-  {
-    "id": "https://www.hankyung.com/article/202609092819g",
-    "category": "economy",
-    "source": "한국경제 경제",
-    "title": "\"동네 편의점 탈탈 털었다\"…SNS서 난리난 '뜻밖의 디저트' [셀럽픽]",
-    "link": "https://www.hankyung.com/article/202609092819g",
-    "summary": "",
-    "pubDate": "2026-09-09T12:00:18.000Z",
-    "collectedAt": "2026-09-09T14:15:37.711Z"
-  },
-  {
-    "id": "https://www.hankyung.com/article/2026090946851",
-    "category": "it",
-    "source": "한국경제 IT",
-    "title": "\"63세인데 요즘 더 잘 나간다\"…'두 번째 전성기' 맞은 비결",
-    "link": "https://www.hankyung.com/article/2026090946851",
-    "summary": "",
-    "pubDate": "2026-09-09T12:00:01.000Z",
-    "collectedAt": "2026-09-09T12:20:53.641Z"
-  },
-  {
-    "id": "20260909000414",
-    "category": "economy",
-    "source": "전자신문 경제",
-    "title": "영화 제작에 이어 책 출간까지…전화성 대표, 스타트업 '성장의 공식' 풀었다",
-    "link": "https://www.etnews.com/20260909000414",
-    "summary": "전화성 씨엔티테크 대표가 영어 제작에 이어 이번에는 스타트업의 성장 공식을 담은 책을 펴냈다. 20년 넘게 창업가와 투자자로 활동하며 축적한 경험을 바탕으로 스타트업의 성패를 가르는 공통적인 패턴을 하나의 모델로 정리했다. 전화성 대표는 2003년 푸드테크 기업을 창업한 이후 20년 넘…",
-    "pubDate": "2026-09-09T11:50:16.000Z",
-    "collectedAt": "2026-09-09T14:15:37.711Z"
-  },
-  {
-    "id": "https://www.aitimes.com/news/articleView.html?idxno=215026",
-    "category": "ai",
-    "source": "AI타임스 AI산업",
-    "title": "한국MS, 산업별 AX 사례 공유하는 '인더스트리 서밋' 개최",
-    "link": "https://www.aitimes.com/news/articleView.html?idxno=215026",
-    "summary": "한국마이크로소프트(MS)는 오는 30일 서울 코엑스 그랜드볼룸에서 산업별 AX 전략과 현장 사례를 공유하는 '마이크로소프트 인더스트리 서밋'을 개최한다고 밝혔다.이번 행사는 금융, 리테일, 제조, 헬스케어·교육 분야의 AI 활용 경험과 프론티어 트랜스포메이션 방향을 공유하며, 마이크로소…",
-    "pubDate": "2026-09-09T11:39:39.000Z",
-    "collectedAt": "2026-09-09T04:15:33.883Z"
-  },
-  {
-    "id": "https://www.aitimes.com/news/articleView.html?idxno=215021",
-    "category": "ai",
-    "source": "AI타임스 AI산업",
-    "title": "오픈AI, 수학계 난제 해결 발표...NYU·앤트로픽과 '표절' 공방",
-    "link": "https://www.aitimes.com/news/articleView.html?idxno=215021",
-    "summary": "오픈AI가 수학계의 대표적 난제에 대한 새로운 증명을 AI로 도출했다고 발표했다. 그러나 연구 과정에서 뉴욕대학교(NYU) 수학자와 앤트로픽 연구진의 비공개 연구가 오픈AI의 AI 시스템에 활용된 것 아니냐는 논란이 불거졌다. 오픈AI는 8일(현지시간) 내부 AI 시스템이 수학계의 대표…",
-    "pubDate": "2026-09-09T11:37:03.000Z",
-    "collectedAt": "2026-09-09T04:15:33.883Z"
-  },
-  {
-    "id": "https://news.hada.io/topic?id=33436",
-    "category": "it",
-    "source": "긱뉴스",
-    "title": "Tesla의 Solar Roof 단종으로 설치업체들이 수십만 달러 손실을 떠안음",
-    "link": "https://news.hada.io/topic?id=33436",
-    "summary": "인력·장비·교육에 수십만 달러를 투자한 인증 설치업체들이 Tesla의 Solar Roof 공급 중단으로 투자 손실과 진행 중인 프로젝트 변경 부담을 떠안음 미국 내 설치량은 약 7년간 3,000개 시스템에 그쳤고, 최고 실적도 주당 21~32건으로 Elon Musk가 약속한 주당 1,.…",
-    "pubDate": "2026-09-09T11:33:25.000Z",
-    "collectedAt": "2026-09-09T12:20:53.641Z"
-  },
-  {
-    "id": "https://www.hankyung.com/article/202609094929i",
-    "category": "economy",
-    "source": "한국경제 경제",
-    "title": "美, 캐나다 관세 부과→캐나다 보복관세→美 수입금지로 또 보복",
-    "link": "https://www.hankyung.com/article/202609094929i",
-    "summary": "",
-    "pubDate": "2026-09-09T11:32:10.000Z",
-    "collectedAt": "2026-09-09T14:15:37.711Z"
   }
 ]
