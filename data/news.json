@@ -1,5 +1,45 @@
 [
   {
+    "id": "https://news.hada.io/topic?id=33706",
+    "category": "it",
+    "source": "긱뉴스",
+    "title": "분산 시스템의 고전 논문들 (2017)",
+    "link": "https://news.hada.io/topic?id=33706",
+    "summary": "분산 시스템 연구에 영향을 준 고전 논문 10편을 모아, 이 분야의 문제 영역을 더 잘 이해하기 위한 출발점으로 삼을 수 있는 목록임 시간과 사건 순서, 분산 스냅샷을 통한 전역 상태 결정에 관한 논문을 포함함 비잔틴 장군 문제와 결...",
+    "pubDate": "2026-09-14T19:51:36.000Z",
+    "collectedAt": "2026-09-14T20:15:59.432Z"
+  },
+  {
+    "id": "https://news.hada.io/topic?id=33705",
+    "category": "it",
+    "source": "긱뉴스",
+    "title": "Pion, 어떤 기업이든 자율적으로 운영하도록 설계된 에이전트",
+    "link": "https://news.hada.io/topic?id=33705",
+    "summary": "Andon Labs가 실제 사업의 자율 운영에 사용해 온 Pion을 연구 프리뷰로 공개함. 더 다양한 사업에서 AI의 자원 확보 능력과 실패 양상을 실험하려는 목적임 Vending-Bench에서는 모델 성능이 빠르게 향상됐지만, 시뮬레이션 결과만으로는 현실의 복잡한 상황에서 ...",
+    "pubDate": "2026-09-14T19:48:36.000Z",
+    "collectedAt": "2026-09-14T20:15:59.432Z"
+  },
+  {
+    "id": "https://news.hada.io/topic?id=33704",
+    "category": "it",
+    "source": "긱뉴스",
+    "title": "iOS 27, iPadOS 27, macOS 27",
+    "link": "https://news.hada.io/topic?id=33704",
+    "summary": "Apple이 주요 플랫폼 업데이트 배포를 시작하며, 개인 맥락과 화면 내용을 이해하고 앱 작업을 수행하는 Siri AI와 차세대 Apple Intelligence 기능을 도입함 Siri AI는 영어 베타로 먼저 제공되며, 한국어를 포함한 5개 언어는...",
+    "pubDate": "2026-09-14T19:45:36.000Z",
+    "collectedAt": "2026-09-14T20:15:59.432Z"
+  },
+  {
+    "id": "https://news.hada.io/topic?id=33703",
+    "category": "it",
+    "source": "긱뉴스",
+    "title": "Steam Frame 가격, 1,059달러부터 시작",
+    "link": "https://news.hada.io/topic?id=33703",
+    "summary": "Steam Frame 가격, 1,059달러부터 시작",
+    "pubDate": "2026-09-14T19:42:35.000Z",
+    "collectedAt": "2026-09-14T20:15:59.432Z"
+  },
+  {
     "id": "https://www.aitimes.com/news/articleView.html?idxno=215233",
     "category": "ai",
     "source": "AI타임스 AI산업",
@@ -14958,45 +14998,5 @@
     "summary": "",
     "pubDate": "2026-09-09T13:05:38.000Z",
     "collectedAt": "2026-09-09T14:15:37.711Z"
-  },
-  {
-    "id": "https://www.hankyung.com/article/2026090944836",
-    "category": "economy",
-    "source": "한국경제 경제",
-    "title": "최태원 제안에 키옥시아 '거절'…한일 낸드 동맹 '엇박자' [강경주의 테크X]",
-    "link": "https://www.hankyung.com/article/2026090944836",
-    "summary": "",
-    "pubDate": "2026-09-09T13:00:01.000Z",
-    "collectedAt": "2026-09-09T14:15:37.711Z"
-  },
-  {
-    "id": "20260909000403",
-    "category": "ai",
-    "source": "전자신문 AI",
-    "title": "과기정통부, 프랑스와 AI·반도체·양자 기술 협력 본격화",
-    "link": "https://www.etnews.com/20260909000403",
-    "summary": "과학기술정보통신부가 이재명 대통령 프랑스 국빈 방문을 계기로 양국 인공지능(AI)·반도체·양자 기술 분야 협력을 강화한다. 과기정통부는 프랑스 파리에서 양해각서(MOU) 체결로 양국 과학기술·디지털 파트너십을 공고히 다졌다고 9일 밝혔다. 지난 4월 에마뉘엘 마크롱 프랑스 대통령 방한…",
-    "pubDate": "2026-09-09T13:00:00.000Z",
-    "collectedAt": "2026-09-09T14:15:37.711Z"
-  },
-  {
-    "id": "https://www.hankyung.com/article/2026090949857",
-    "category": "it",
-    "source": "한국경제 IT",
-    "title": "AI 연구원 1만명 투입…90년 수학 난제 88시간 만에 풀었다",
-    "link": "https://www.hankyung.com/article/2026090949857",
-    "summary": "",
-    "pubDate": "2026-09-09T12:47:31.000Z",
-    "collectedAt": "2026-09-09T14:15:37.711Z"
-  },
-  {
-    "id": "https://www.aitimes.com/news/articleView.html?idxno=215022",
-    "category": "ai",
-    "source": "AI타임스 AI산업",
-    "title": "메타, 개인용 AI 에이전트 '뮤즈' 공개...실생활 자동화 시장 출사표",
-    "link": "https://www.aitimes.com/news/articleView.html?idxno=215022",
-    "summary": "메타가 소비자를 대상으로 일상적인 업무를 대행하는 새로운 개인용 AI 에이전트를 공개했다. 단순히 질문에 답하는 기존 AI 챗봇에서 벗어나 사용자의 목표를 이해하고 필요한 작업을 스스로 계획·실행하는 ‘자율 동작형 AI’로 실생활 자동화 시장에 출사표를 던졌다. 메타는 8일(현지시간)…",
-    "pubDate": "2026-09-09T12:45:35.000Z",
-    "collectedAt": "2026-09-09T04:15:33.883Z"
   }
 ]
