@@ -30,6 +30,16 @@
     "collectedAt": "2026-09-14T10:15:49.692Z"
   },
   {
+    "id": "https://news.hada.io/topic?id=33702",
+    "category": "it",
+    "source": "긱뉴스",
+    "title": "XCancel 서비스, 별도 공지가 있을 때까지 중단",
+    "link": "https://news.hada.io/topic?id=33702",
+    "summary": "XCancel이 진행 중인 법적 절차에 새로운 상황이 발생하면서 서비스를 다시 중단함 이번 중단은 법적 절차의 새로운 상황에 따라 요구된 조치임 서비스 중단은 별도 공지가 있을 때까지 이어짐 XCancel은 중단과 관련한",
+    "pubDate": "2026-09-14T17:37:40.000Z",
+    "collectedAt": "2026-09-14T18:17:12.290Z"
+  },
+  {
     "id": "https://www.aitimes.com/news/articleView.html?idxno=215239",
     "category": "ai",
     "source": "AI타임스 AI산업",
@@ -48,6 +58,16 @@
     "summary": "앤트로픽의 9월 위협 보고서 발표 이후, 단순한 무단 복제(증류)를 넘어 ‘중국 내 민감 안보·기업 데이터의 대규모 국외 유출’을 정면으로 조명한 지적이 잇따르며 파장이 커지고 있다.테크 분석매체 딜룸과 보안 전문매체 더해커뉴스, 알파매치 등은 앤트로픽이 지난 10일(현지시간) 공개한…",
     "pubDate": "2026-09-14T17:35:00.000Z",
     "collectedAt": "2026-09-14T10:15:49.692Z"
+  },
+  {
+    "id": "https://news.hada.io/topic?id=33701",
+    "category": "it",
+    "source": "긱뉴스",
+    "title": "OpenAI 봇은 RubyGems 캐싱 취약점을 알고 있었음",
+    "link": "https://news.hada.io/topic?id=33701",
+    "summary": "OpenAI 봇이 RubyGems.org의 캐싱 취약점을 알고 악용하려 했으며, 동시에 RubyDoc.info에서 웹 스크래핑 코드를 실행한 것으로 보임 5월 확인된 GemStuffer 캠페인의 정크 gem들은 영국 정부 웹사이트를 스크래핑한 뒤 데이터를 gem으로 다시 패키징해 Rub…",
+    "pubDate": "2026-09-14T17:34:40.000Z",
+    "collectedAt": "2026-09-14T18:17:12.290Z"
   },
   {
     "id": "https://www.aitimes.com/news/articleView.html?idxno=215245",
@@ -90,6 +110,36 @@
     "collectedAt": "2026-09-14T08:18:09.061Z"
   },
   {
+    "id": "https://news.hada.io/topic?id=33700",
+    "category": "it",
+    "source": "긱뉴스",
+    "title": "OpenArch - 현대 LLM 아키텍처의 PyTorch 구현 모음",
+    "link": "https://news.hada.io/topic?id=33700",
+    "summary": "OpenArch는 현대 오픈소스 LLM 아키텍처를 처음부터 직접 구현한 PyTorch 학습용 저장소로, 아키텍처마다 읽기 쉬운 단일 파일을 제공함 가독성과 학습을 우선하며, 어텐션 유형, 정규화, 계층 구성, MoE 라우팅, 위치 인코딩 같은 구조적 선택을 나란히 비교할 수...",
+    "pubDate": "2026-09-14T16:45:20.000Z",
+    "collectedAt": "2026-09-14T18:17:12.290Z"
+  },
+  {
+    "id": "https://news.hada.io/topic?id=33699",
+    "category": "it",
+    "source": "긱뉴스",
+    "title": "텍사스 판사, TikTok이 아동 안전 기능에 관해 이용자를 오도했다고 판결",
+    "link": "https://news.hada.io/topic?id=33699",
+    "summary": "텍사스 법원이 TikTok의 미성년자 콘텐츠 필터링 안내와 아동 보호 기능 홍보가 주 소비자보호법을 위반했다고 판결함 TikTok은 커뮤니티 가이드라인 위반 콘텐츠를 삭제한다고 안내했지만, 일부를 내부적으로 ‘금지’ 대신 ‘찾기 어려움’으로 분류",
+    "pubDate": "2026-09-14T16:42:20.000Z",
+    "collectedAt": "2026-09-14T18:17:12.290Z"
+  },
+  {
+    "id": "https://news.hada.io/topic?id=33698",
+    "category": "it",
+    "source": "긱뉴스",
+    "title": "신설된 10만 달러 H-1B 비자 수수료가 기술 일자리를 해외로 밀어냄",
+    "link": "https://news.hada.io/topic?id=33698",
+    "summary": "미국의 고숙련 이민 규제 강화에 대응해 기술 기업들이 해외 사무실을 짓고 현지 채용을 늘리는 방식으로 인재 확보 전략을 바꾸고 있음 2025년 도입된 10만 달러 수수료 적용 대상 H-1B 신청 처리 건수는 전년보다 87% 감소했으며, 신청 급감으로...",
+    "pubDate": "2026-09-14T16:39:20.000Z",
+    "collectedAt": "2026-09-14T18:17:12.290Z"
+  },
+  {
     "id": "https://www.aitimes.com/news/articleView.html?idxno=215223",
     "category": "ai",
     "source": "AI타임스 AI산업",
@@ -98,6 +148,16 @@
     "summary": "앤트로픽이 2분기 연속 흑자를 기록할 것으로 투자자들에게 밝힌 것으로 알려졌다. 기업공개(IPO)를 앞두고 수익성을 입증하면서 막대한 컴퓨팅 비용과 모델 개발비에 따른 불안을 잠재우려는 움직임으로 풀이된다.14일(현지시간) 파이낸셜타임스에 따르면, 앤트로픽은 소수의 주주에게 올해 3분기…",
     "pubDate": "2026-09-14T16:27:04.000Z",
     "collectedAt": "2026-09-14T08:18:09.061Z"
+  },
+  {
+    "id": "https://www.hankyung.com/article/202609154310i",
+    "category": "economy",
+    "source": "한국경제 증권",
+    "title": "급부상한 \"AI 규제\" 주장…투자자 대응법 [김현석의 퀵 브리프]",
+    "link": "https://www.hankyung.com/article/202609154310i",
+    "summary": "",
+    "pubDate": "2026-09-14T16:10:37.000Z",
+    "collectedAt": "2026-09-14T18:17:12.290Z"
   },
   {
     "id": "https://www.aitimes.com/news/articleView.html?idxno=215224",
@@ -14937,66 +14997,6 @@
     "link": "https://www.aitimes.com/news/articleView.html?idxno=215022",
     "summary": "메타가 소비자를 대상으로 일상적인 업무를 대행하는 새로운 개인용 AI 에이전트를 공개했다. 단순히 질문에 답하는 기존 AI 챗봇에서 벗어나 사용자의 목표를 이해하고 필요한 작업을 스스로 계획·실행하는 ‘자율 동작형 AI’로 실생활 자동화 시장에 출사표를 던졌다. 메타는 8일(현지시간)…",
     "pubDate": "2026-09-09T12:45:35.000Z",
-    "collectedAt": "2026-09-09T04:15:33.883Z"
-  },
-  {
-    "id": "https://news.hada.io/topic?id=33438",
-    "category": "it",
-    "source": "긱뉴스",
-    "title": "Flock이 원하는 탈출구 없는 촘촘한 감시 세계",
-    "link": "https://news.hada.io/topic?id=33438",
-    "summary": "Flock Safety는 범죄를 없애려면 사생활을 희생해야 한다는 논리로 차량 감시망을 확대했으며, 미국 법 집행기관 약 40%가 계약하고 카메라 약 13만 대가 도로를 감시 중임 카메라는 번호판뿐 아니라 차량 제조사·모델·색상을 기록하며, 경찰은 영장이나 사법적 승인 없이...",
-    "pubDate": "2026-09-09T12:35:08.000Z",
-    "collectedAt": "2026-09-09T14:15:37.711Z"
-  },
-  {
-    "id": "https://www.aitimes.com/news/articleView.html?idxno=215035",
-    "category": "ai",
-    "source": "AI타임스 AI산업",
-    "title": "래블업, 기술 컨퍼런스 ‘lab | up > /conf/6’ 개최…“AI산업 시대의 엔드투엔드”",
-    "link": "https://www.aitimes.com/news/articleView.html?idxno=215035",
-    "summary": "AI 인프라 관리 전문 래블업(대표 신정규)은 오는 29일 서울 삼성동 코엑스 3층 컨퍼런스룸에서 연례 기술 컨퍼런스 ‘lab | up > /conf/6’를 개최한다고 밝혔다.올해로 6회째를 맞는 컨퍼런스로 래블업의 AI 인프라 기술과 연구개발 성과를 공유하는 자리다. AI 업계의 기업…",
-    "pubDate": "2026-09-09T12:33:40.000Z",
-    "collectedAt": "2026-09-09T04:15:33.883Z"
-  },
-  {
-    "id": "https://www.hankyung.com/article/202609094973i",
-    "category": "economy",
-    "source": "한국경제 경제",
-    "title": "베선트 \"내가 곧 하우스\"…엔 공매도 세력에 경고",
-    "link": "https://www.hankyung.com/article/202609094973i",
-    "summary": "",
-    "pubDate": "2026-09-09T12:29:16.000Z",
-    "collectedAt": "2026-09-09T14:15:37.711Z"
-  },
-  {
-    "id": "https://www.aitimes.com/news/articleView.html?idxno=215031",
-    "category": "ai",
-    "source": "AI타임스 AI산업",
-    "title": "PFCT, 토스와 대안신용평가 모델 고도화 협력",
-    "link": "https://www.aitimes.com/news/articleView.html?idxno=215031",
-    "summary": "PFCT(대표 이수환)는 '토스' 운영사 비바리퍼블리카와 금융 기관의 대안신용평가 모형 고도화 및 컨설팅을 위한 전략적 업무협약(MOU)을 체결했다고 9일 밝혔다.양사는 금융 기관의 여신 업무가 리스크 관리에 집중되는 한계를 넘어 여신승인전략까지 지원하도록 AI·대안정보 기반 솔루션 서…",
-    "pubDate": "2026-09-09T12:27:54.000Z",
-    "collectedAt": "2026-09-09T04:15:33.883Z"
-  },
-  {
-    "id": "https://www.aitimes.com/news/articleView.html?idxno=215034",
-    "category": "ai",
-    "source": "AI타임스 AI산업",
-    "title": "팀네이버, 프랑스와 AI 팩토리·산업·콘텐츠 협업 비전 제시",
-    "link": "https://www.aitimes.com/news/articleView.html?idxno=215034",
-    "summary": "팀네이버가 이재명 대통령의 프랑스 순방을 계기로 프랑스 핵심 기업, 기관들과 AI 분야를 중심으로 한 다양한 비즈니스 협력 확대를 모색했다.최수연 네이버 대표와 김유원 네이버클라우드 대표는 대통령 프랑스 순방 기간 동안 프랑스 미디어·IT·에너지·모빌리티·금융 분야 대표 기업 CEO 등…",
-    "pubDate": "2026-09-09T12:26:47.000Z",
-    "collectedAt": "2026-09-09T04:15:33.883Z"
-  },
-  {
-    "id": "https://www.aitimes.com/news/articleView.html?idxno=215030",
-    "category": "ai",
-    "source": "AI타임스 AI산업",
-    "title": "오픈AI, '스케치' 탑재한 '챗GPT 이미지 2.5' 공개…아레나 1위 석권",
-    "link": "https://www.aitimes.com/news/articleView.html?idxno=215030",
-    "summary": "오픈AI가 AI 이미지 생성 기술의 속도와 정밀도를 한단계 끌어올리며 이미지 제작 경험을 확장했다. 여기에 사용자가 직접 그린 간단한 손그림을 AI에 전달해 원하는 이미지를 만들 수 있도록 하는 새로운 기능까지 추가하며 텍스트 중심의 이미지 생성 방식에서 한 단계 나아갔다. 오픈AI는…",
-    "pubDate": "2026-09-09T12:23:26.000Z",
     "collectedAt": "2026-09-09T04:15:33.883Z"
   }
 ]
