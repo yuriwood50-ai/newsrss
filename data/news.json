@@ -200,6 +200,36 @@
     "collectedAt": "2026-09-15T10:16:05.061Z"
   },
   {
+    "id": "https://news.hada.io/topic?id=33742",
+    "category": "it",
+    "source": "긱뉴스",
+    "title": "단일 노드 로컬 S3를 위한 MinIO 대안",
+    "link": "https://news.hada.io/topic?id=33742",
+    "summary": "로컬 S3를 사용하는 데모와 호환성 검증 환경에서 MinIO를 최소한의 변경으로 대체할 후보들을 비교함. Docker 이미지, S3 호환성, 무료 사용을 필수 조건으로 삼았으며 프로덕션용 분산 스토리지 평가는 제외함 S3Proxy와 SeaweedFS는 설정이 간단하고 실제 DuckD..…",
+    "pubDate": "2026-09-15T15:45:20.000Z",
+    "collectedAt": "2026-09-15T16:15:41.472Z"
+  },
+  {
+    "id": "https://news.hada.io/topic?id=33741",
+    "category": "it",
+    "source": "긱뉴스",
+    "title": "CSS-Tricks, 다시 불확실한 상태에 놓이다",
+    "link": "https://news.hada.io/topic?id=33741",
+    "summary": "CSS-Tricks가 다시 운영 중단 상태에 놓였으며, 소유주 DigitalOcean의 소통 부재로 향후 운영 여부가 불확실함 DigitalOcean은 2023년 운영 인력을 해고한 뒤 2024년 수석 편집자 Geoff Graham을 재고용해 사이트를 재가동했지만, 다시 활동이 멈춤 G…",
+    "pubDate": "2026-09-15T15:42:19.000Z",
+    "collectedAt": "2026-09-15T16:15:41.472Z"
+  },
+  {
+    "id": "https://news.hada.io/topic?id=33740",
+    "category": "it",
+    "source": "긱뉴스",
+    "title": "Java 27 출시",
+    "link": "https://news.hada.io/topic?id=33740",
+    "summary": "Java 27의 참조 구현인 JDK 27이 정식 출시(GA) 됐으며, 빌드 35가 프로덕션용 GA 빌드로 확정됨 이번 릴리스에는 9개 JEP와 수백 건의 소규모 개선, 수천 건의 버그 수정이 포함됨 G1을 모든 환경의 기본 가비지 컬렉터로 지정하고,",
+    "pubDate": "2026-09-15T15:39:19.000Z",
+    "collectedAt": "2026-09-15T16:15:41.472Z"
+  },
+  {
     "id": "https://www.aitimes.com/news/articleView.html?idxno=215296",
     "category": "ai",
     "source": "AI타임스 AI산업",
@@ -218,6 +248,16 @@
     "summary": "카카오가 지난해 5월부터 독립 앱 및 PC 웹서비스 형태로 선보인 AI 메이트 '카나나' 서비스를 10월15일 자로 종료한다.카카오는 15일 공지 사항을 통해 '카나나' 서비스를 오는 10월15일 종료하고 관련 사용자 데이터도 안전하게 파기할 예정이라고 밝혔다.독립 앱 형태의 AI 메이…",
     "pubDate": "2026-09-15T15:26:25.000Z",
     "collectedAt": "2026-09-15T08:18:04.094Z"
+  },
+  {
+    "id": "https://www.hankyung.com/article/202609166955i",
+    "category": "economy",
+    "source": "한국경제 경제",
+    "title": "UBS,\"팰런티어,소프트웨어 주식중 저평가\"…목표가↑",
+    "link": "https://www.hankyung.com/article/202609166955i",
+    "summary": "",
+    "pubDate": "2026-09-15T15:16:20.000Z",
+    "collectedAt": "2026-09-15T16:15:41.472Z"
   },
   {
     "id": "https://www.aitimes.com/news/articleView.html?idxno=215292",
@@ -240,6 +280,16 @@
     "collectedAt": "2026-09-15T06:20:48.717Z"
   },
   {
+    "id": "https://news.hada.io/topic?id=33739",
+    "category": "it",
+    "source": "긱뉴스",
+    "title": "OpenArm - 오픈소스 7자유도 휴머노이드 로봇 팔",
+    "link": "https://news.hada.io/topic?id=33739",
+    "summary": "OpenArm은 접촉이 많은 환경에서 피지컬 AI를 연구하고 배치하기 위한 7자유도 휴머노이드 로봇 팔임 높은 역구동성(backdrivability)과 순응성(compliance) 을 갖추고, 안전한 인간-로봇 상호작용과 실제 응용에 필요한 가반하중을 고려해 설계됨 사람 크...",
+    "pubDate": "2026-09-15T14:51:59.000Z",
+    "collectedAt": "2026-09-15T16:15:41.472Z"
+  },
+  {
     "id": "https://www.aitimes.com/news/articleView.html?idxno=215275",
     "category": "ai",
     "source": "AI타임스 AI산업",
@@ -248,6 +298,46 @@
     "summary": "의료 AI 전문 코로로직(대표 황경래)은 카카오벤처스와 서울대기술지주로부터 시드 투자를 유치했다고 15일 밝혔다. 투자 금액은 비공개다.코로로직은 관상동맥조영술에서 환자와 의료진의 방사선 피폭을 줄이는 AI 솔루션 '앤지오필름'을 개발 중이며, 분당서울대병원 순환기내과 강시혁 교수팀이…",
     "pubDate": "2026-09-15T14:50:00.000Z",
     "collectedAt": "2026-09-15T08:18:04.094Z"
+  },
+  {
+    "id": "https://news.hada.io/topic?id=33738",
+    "category": "it",
+    "source": "긱뉴스",
+    "title": "미국, 우주 무기 배치 사실 처음으로 인정",
+    "link": "https://news.hada.io/topic?id=33738",
+    "summary": "미국이 지구 궤도에 우주 무기를 배치했다는 사실을 처음으로 공식 인정함 Troy Meink 미 공군 장관은 적대 행위로부터 미군을 보호하기 위해 필요하다고 밝혔지만, 무기의 성능과 배치 시점은 공개하지 않음 미 우주군은 우주 통제 임무에 물리적...",
+    "pubDate": "2026-09-15T14:48:59.000Z",
+    "collectedAt": "2026-09-15T16:15:41.472Z"
+  },
+  {
+    "id": "https://news.hada.io/topic?id=33737",
+    "category": "it",
+    "source": "긱뉴스",
+    "title": "Show HN: 새소리를 듣고 1800년대 삽화로 그려 보여주는 전자잉크 액자",
+    "link": "https://news.hada.io/topic?id=33737",
+    "summary": "fugleramme는 새소리를 실시간으로 감지하고, 해당 새의 실제 1800년대 박물학 삽화를 Raspberry Pi 기반 전자잉크 액자에 보여주는 프로젝트로, AI 처리는 모두 로컬에서 실행됨 BirdNET-Go가 마이크 입력을 분류하면 API를 주기적으로 조회해 종에 맞는 삽화를 배…",
+    "pubDate": "2026-09-15T14:45:59.000Z",
+    "collectedAt": "2026-09-15T16:15:41.472Z"
+  },
+  {
+    "id": "https://news.hada.io/topic?id=33736",
+    "category": "it",
+    "source": "긱뉴스",
+    "title": "25년간의 대규모 감시, 이제 충분하다",
+    "link": "https://news.hada.io/topic?id=33736",
+    "summary": "9/11 이후 도입된 대규모 감시가 대테러와 국가안보를 넘어 일상적인 법 집행과 민간 보안으로 확산됐지만, 효과와 비용을 종합적으로 검증한 분석은 없음 정부는 통신사와 인터넷 기업, 데이터 중개업체 등 민간 기업의 수집 정보에 크게 의존하며, 기업의 데이터...",
+    "pubDate": "2026-09-15T14:42:59.000Z",
+    "collectedAt": "2026-09-15T16:15:41.472Z"
+  },
+  {
+    "id": "https://www.hankyung.com/article/202609156934i",
+    "category": "economy",
+    "source": "한국경제 경제",
+    "title": "블버그 \"美무기소진 심각…확보가능한 정밀탄약, 동맹국 공동생산 등 필요\"",
+    "link": "https://www.hankyung.com/article/202609156934i",
+    "summary": "",
+    "pubDate": "2026-09-15T14:14:14.000Z",
+    "collectedAt": "2026-09-15T16:15:41.472Z"
   },
   {
     "id": "https://www.aitimes.com/news/articleView.html?idxno=215282",
@@ -14907,96 +14997,6 @@
     "link": "https://news.hada.io/topic?id=33490",
     "summary": "영국 록 밴드 Muse가 Instagram과 X에서 수년간 쓰던 계정명을 Meta의 새 AI 에이전트 Muse가 사용하게 됐지만, 이전 경위는 공개되지 않음 밴드는 두 플랫폼 모두 @museband로 계정명을 바꿨으며, Instagram 변경 시점은 보도와 팬들의 목격담이...",
     "pubDate": "2026-09-10T16:55:52.000Z",
-    "collectedAt": "2026-09-10T18:17:22.717Z"
-  },
-  {
-    "id": "https://news.hada.io/topic?id=33489",
-    "category": "it",
-    "source": "긱뉴스",
-    "title": "Hitachi, 태양광 친화적 전기요금제에 대응하는 CO2 히트펌프 온수기 출시",
-    "link": "https://news.hada.io/topic?id=33489",
-    "summary": "태양광 발전 확대에 따라 낮 시간 온수 가열을 장려하는 일본 전기요금제에 맞춰, Hitachi Global Life Solutions가 요금제 대응을 확대한 EcoCute Y 시리즈를 공개함 일본 가정용 370리터·460리터 모델을 2026년 11월부터 순차 판매하며, 지원 요금제는 리…",
-    "pubDate": "2026-09-10T16:52:52.000Z",
-    "collectedAt": "2026-09-10T18:17:22.717Z"
-  },
-  {
-    "id": "https://news.hada.io/topic?id=33488",
-    "category": "it",
-    "source": "긱뉴스",
-    "title": "Sony 웹사이트에서 디지털 게임을 ‘소유한다’고 표현한 사례 목록",
-    "link": "https://news.hada.io/topic?id=33488",
-    "summary": "Sony 공식 지원·상품·블로그 페이지는 업그레이드, 공유, 스트리밍, 리뷰 자격을 안내하며 ‘이미 소유한 게임’, ‘소유자’라는 표현을 쓰지만, 약관은 구매자가 제품을 소유하지 않는다고 명시함 캘리포니아 구매자 4명은 “Buy Now”·“Confirm Purchase”가 소...",
-    "pubDate": "2026-09-10T16:49:52.000Z",
-    "collectedAt": "2026-09-10T18:17:22.717Z"
-  },
-  {
-    "id": "https://www.aitimes.com/news/articleView.html?idxno=215106",
-    "category": "ai",
-    "source": "AI타임스 AI산업",
-    "title": "수노, 워너뮤직·BMG 손잡고 정식 라이선스 'v6' AI 음악 모델 출시",
-    "link": "https://www.aitimes.com/news/articleView.html?idxno=215106",
-    "summary": "AI 음악 생성 스타트업 수노(Suno)가 워너뮤직그룹, BMG와 협력해 정식 라이선스를 확보한 음악을 기반으로 새로운 음악을 생성할 수 있는 AI 모델을 출시했다.수노는 9일(현지시간) 워너뮤직그룹 및 BMG와 협력해 개발한 ‘v6’ 세대 AI 음악 모델 제품군을 공개했다.참여 아티스…",
-    "pubDate": "2026-09-10T16:47:04.000Z",
-    "collectedAt": "2026-09-10T08:16:33.565Z"
-  },
-  {
-    "id": "https://news.hada.io/topic?id=33487",
-    "category": "it",
-    "source": "긱뉴스",
-    "title": "Rust, Microsoft의 Tier-1 언어로 자리 잡음",
-    "link": "https://news.hada.io/topic?id=33487",
-    "summary": "Microsoft는 Rust를 C++, C#, TypeScript와 함께 내부 개발에서 가장 잘 지원하는 Tier-1 언어로 운영하며, 로컬 개발부터 프로덕션까지 보안 도구 체인·개발 도구·품질 검증·플랫폼 통합·SDL 요구사항 준수를 지원함 대체 코드 생성 백엔드 rustc_codeg…",
-    "pubDate": "2026-09-10T16:46:51.000Z",
-    "collectedAt": "2026-09-10T18:17:22.717Z"
-  },
-  {
-    "id": "https://www.hankyung.com/article/2026091076641",
-    "category": "economy",
-    "source": "한국경제 경제",
-    "title": "[포토] 최태원, 울산서 AX 현장 경영",
-    "link": "https://www.hankyung.com/article/2026091076641",
-    "summary": "",
-    "pubDate": "2026-09-10T16:36:47.000Z",
-    "collectedAt": "2026-09-10T18:17:22.717Z"
-  },
-  {
-    "id": "https://www.aitimes.com/news/articleView.html?idxno=215107",
-    "category": "ai",
-    "source": "AI타임스 AI산업",
-    "title": "메가프로젝트 재생에너지 공급 의무화에 찬성 63% 넘어",
-    "link": "https://www.aitimes.com/news/articleView.html?idxno=215107",
-    "summary": "기후·에너지 커뮤니케이션 전문 기후미디어허브가 여론조사 기관 엠브레인에 의뢰해 전국 만 20~69세 남녀 5000명을 대상으로 실시한 조사 결과, 반도체 클러스터·AI 데이터센터 등 ‘3대 메가프로젝트’ 사용 전력의 일정 비율 이상을 재생에너지로 공급하도록 의무화하는 제도에 63.2%가…",
-    "pubDate": "2026-09-10T16:32:26.000Z",
-    "collectedAt": "2026-09-10T08:16:33.565Z"
-  },
-  {
-    "id": "https://www.aitimes.com/news/articleView.html?idxno=215101",
-    "category": "ai",
-    "source": "AI타임스 AI산업",
-    "title": "딥시크, 연내 IPO 추진…씨틱증권 주관사 선정해 스타마켓 상장 준비",
-    "link": "https://www.aitimes.com/news/articleView.html?idxno=215101",
-    "summary": "딥시크가 중국 본토 기업공개(IPO)를 추진하기 위해 씨틱증권(CITIC Securities)을 주관사로 선정한 것으로 알려졌다. 상하이증권거래소의 기술 기업 중심 시장인 스타마켓(STAR Market) 상장을 위한 절차에 착수할 계획으로, 딥시크의 IPO 추진이 구체적인 단계에 접어들…",
-    "pubDate": "2026-09-10T16:12:53.000Z",
-    "collectedAt": "2026-09-10T08:16:33.565Z"
-  },
-  {
-    "id": "https://www.aitimes.com/news/articleView.html?idxno=215090",
-    "category": "ai",
-    "source": "AI타임스 AI산업",
-    "title": "앤트로픽, ‘미소스 5.1’ 영국 AISI 사전 검증  거부...'AI 보호주의' 논란",
-    "link": "https://www.aitimes.com/news/articleView.html?idxno=215090",
-    "summary": "최첨단 AI 모델을 둘러싼 국가 간 기술 접근 경쟁이 안전성 검증 영역으로까지 번지고 있다. 앤트로픽이 최신 모델에 대한 사전 접근 권한을 미국 내 검증 기관으로 제한하면서, 동맹국인 영국의 AI 안전 연구 기관조차 최신 기술을 검증하지 못하는 상황이 발생했다. 9일(현지시간) 파이낸셜…",
-    "pubDate": "2026-09-10T16:04:06.000Z",
-    "collectedAt": "2026-09-10T08:16:33.565Z"
-  },
-  {
-    "id": "https://www.hankyung.com/article/202609117709i",
-    "category": "economy",
-    "source": "한국경제 증권",
-    "title": "Fed가 금리 올린다면 뉴욕 증시에서 벌어질 일 [김현석의 퀵 브리프]",
-    "link": "https://www.hankyung.com/article/202609117709i",
-    "summary": "",
-    "pubDate": "2026-09-10T15:58:28.000Z",
     "collectedAt": "2026-09-10T18:17:22.717Z"
   }
 ]
