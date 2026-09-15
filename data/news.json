@@ -1,5 +1,45 @@
 [
   {
+    "id": "https://news.hada.io/topic?id=33750",
+    "category": "it",
+    "source": "긱뉴스",
+    "title": "대부분의 사람은 전통 건축을 선호한다",
+    "link": "https://news.hada.io/topic?id=33750",
+    "summary": "1990년대 이후 적절한 표본을 갖춘 건축 시각 선호도 조사 약 20건에서 모두 응답자의 60% 이상이 전통 건축을 선호했으며, 여러 조사에서는 85%를 넘었음 사진의 각도, 날씨, 주변 환경이 달라 비교가 어려웠던 초기 조사와 달리, 최근에는 AI 이미지 편집으로 건...",
+    "pubDate": "2026-09-15T19:36:47.000Z",
+    "collectedAt": "2026-09-15T20:15:43.512Z"
+  },
+  {
+    "id": "https://news.hada.io/topic?id=33749",
+    "category": "it",
+    "source": "긱뉴스",
+    "title": "Mergiraf, 지원 언어와 파일 형식을 늘려가는 구문 인식 Git 병합 드라이버",
+    "link": "https://news.hada.io/topic?id=33749",
+    "summary": "Mergiraf는 프로그래밍 언어와 파일 형식의 구문을 인식하는 Git 병합 드라이버임 지원하는 프로그래밍 언어와 파일 형식의 범위를 늘려가고 있음 공식 문서와 공개적으로 접근할 수 있는 Zulip 채팅...",
+    "pubDate": "2026-09-15T19:00:56.000Z",
+    "collectedAt": "2026-09-15T20:15:43.512Z"
+  },
+  {
+    "id": "https://news.hada.io/topic?id=33748",
+    "category": "it",
+    "source": "긱뉴스",
+    "title": "AI 에이전트가 인터넷을 망치고 있을 확률은 100%다",
+    "link": "https://news.hada.io/topic?id=33748",
+    "summary": "AI가 인류를 멸종시킬지는 논쟁 중이지만, 인터넷에서 사람을 귀찮게 만드는 일은 이미 현실임. 채팅창을 넘어 이메일과 계정에 접근하는 에이전트가 늘면서 AI를 쓰지 않는 사람까지 영향을 받음 돈을 벌라는 지시를 받은 에이전트는 연산에 147.17달러를 쓰고 수익은 0달러...",
+    "pubDate": "2026-09-15T18:51:35.000Z",
+    "collectedAt": "2026-09-15T20:15:43.512Z"
+  },
+  {
+    "id": "https://news.hada.io/topic?id=33747",
+    "category": "it",
+    "source": "긱뉴스",
+    "title": "이스라엘 장관, 가자 다큐멘터리 제작자들의 시민권 박탈 위협",
+    "link": "https://news.hada.io/topic?id=33747",
+    "summary": "이스라엘 문화부 장관 Miki Zohar가 가자 다큐멘터리 제작자들의 시민권 박탈이 가능하도록 요구함 시민권 박탈 요구 대상은 영화 제작자 Yuval Abraham과 Rachel Szor임 요구의 계기가 된 작품은 Naza",
+    "pubDate": "2026-09-15T18:48:35.000Z",
+    "collectedAt": "2026-09-15T20:15:43.512Z"
+  },
+  {
     "id": "https://www.aitimes.com/news/articleView.html?idxno=215301",
     "category": "ai",
     "source": "AI타임스 AI산업",
@@ -8,6 +48,26 @@
     "summary": "370년 넘게 풀리지 않았던 17세기 역사적 암호문을 앤트로픽의 '페이블 5.1'이 44분 만에 해독했다. 미국 AI 연구기관 발스 AI(VALS AI)는 최근 페이블 5.1로 스코틀랜드 작가 토머스 어쿼트 경이 1653년 남긴 미해결 암호문 '암호 이중시(Cyphral Distich)…",
     "pubDate": "2026-09-15T18:47:47.000Z",
     "collectedAt": "2026-09-15T12:20:37.534Z"
+  },
+  {
+    "id": "https://news.hada.io/topic?id=33746",
+    "category": "it",
+    "source": "긱뉴스",
+    "title": "품질이 다시 당연한 기준이 되게 하자",
+    "link": "https://news.hada.io/topic?id=33746",
+    "summary": "소비자 정책은 소비자가 순환경제에 부합하는 선택을 더 쉽고 안전하며 매력적으로 느끼도록 만들 수 있음 순환경제는 환경을 위해 중요함 순환경제 확대는 소비자 권리 강화에도 기여할 수 있음 순환경제는 사회적 회...",
+    "pubDate": "2026-09-15T18:45:35.000Z",
+    "collectedAt": "2026-09-15T20:15:43.512Z"
+  },
+  {
+    "id": "https://news.hada.io/topic?id=33745",
+    "category": "it",
+    "source": "긱뉴스",
+    "title": "OpenAI, Anthropic, Meta 해킹 논란의 배후에는 한 업체가 있음",
+    "link": "https://news.hada.io/topic?id=33745",
+    "summary": "OpenAI, Anthropic, Meta 모델이 실제 시스템에 무단 접근한 사건에는 이스라엘의 보안 평가 업체 Irregular가 공통으로 관여함 Anthropic 사례에서는 모델에 인터넷이 없는 모의 환경이라고 알렸지만 설정 오류로 실제 인터넷에 연결됐으며, 공격을 허용한 시스템..…",
+    "pubDate": "2026-09-15T18:42:35.000Z",
+    "collectedAt": "2026-09-15T20:15:43.512Z"
   },
   {
     "id": "https://www.aitimes.com/news/articleView.html?idxno=215290",
@@ -28,6 +88,16 @@
     "summary": "오픈AI가 스마트폰 카메라의 화질을 AI으로 개선하는 기술을 개발해 온 스타트업 글래스 이미징(Glass Imaging)을 조용히 인수한 것으로 알려졌다. 14일(현지시간) 월스트리트저널(WSJ)에 따르면, 글래스 이미징의 기업 가치는 이번 인수 과정에서 3억달러(약 4000억원) 이상…",
     "pubDate": "2026-09-15T18:31:46.000Z",
     "collectedAt": "2026-09-15T10:16:05.061Z"
+  },
+  {
+    "id": "https://www.hankyung.com/article/202609166987i",
+    "category": "it",
+    "source": "한국경제 IT",
+    "title": "인텔 CEO \"내년 메모리 부족 더 심해진다…일부는 5~7배 올라\"",
+    "link": "https://www.hankyung.com/article/202609166987i",
+    "summary": "",
+    "pubDate": "2026-09-15T18:28:48.000Z",
+    "collectedAt": "2026-09-15T20:15:43.512Z"
   },
   {
     "id": "https://www.aitimes.com/news/articleView.html?idxno=215284",
@@ -14927,76 +14997,6 @@
     "link": "https://www.aitimes.com/news/articleView.html?idxno=215099",
     "summary": "AI가 인간의 뇌를 이해하기 위한 과학 연구를 넘어 생물의 신경망 자체를 디지털 환경에서 구현하는 단계로 발전하고 있다. 실제 초파리의 뇌와 신경 연결 구조를 통째로 디지털화한 연구 결과가 공개되자, 개발자들이 이를 게임 조작에 적용하는 이색적인 실험까지 잇따라 선보였다. 구글 리서치와…",
     "pubDate": "2026-09-10T17:56:19.000Z",
-    "collectedAt": "2026-09-10T10:16:16.566Z"
-  },
-  {
-    "id": "https://www.hankyung.com/article/202609117718i",
-    "category": "economy",
-    "source": "한국경제 증권",
-    "title": "인플레이션 압박에 美 국채금리 급등…9월 금리 인상 확률 70% 넘어",
-    "link": "https://www.hankyung.com/article/202609117718i",
-    "summary": "",
-    "pubDate": "2026-09-10T17:47:27.000Z",
-    "collectedAt": "2026-09-10T20:15:20.917Z"
-  },
-  {
-    "id": "https://www.aitimes.com/news/articleView.html?idxno=215104",
-    "category": "ai",
-    "source": "AI타임스 AI산업",
-    "title": "오픈AI '불량 에이전트', 외부 사이트 10여곳서 비밀 통신 흔적 추가 포착",
-    "link": "https://www.aitimes.com/news/articleView.html?idxno=215104",
-    "summary": "오픈AI의 '불량 AI 에이전트'들이 자체적인 외부 게시 제한을 우회해 최소 10곳 이상의 제3자 웹사이트를 비공식 통신 채널로 활용한 정황이 추가로 드러났다. 앞서 독일어 위키 사이트와 오픈소스 플랫폼 허깅페이스를 대상으로 발생한 사건에 이어 유사한 활동이 광범위하게 이뤄졌다는 분석이…",
-    "pubDate": "2026-09-10T17:43:05.000Z",
-    "collectedAt": "2026-09-10T10:16:16.566Z"
-  },
-  {
-    "id": "https://news.hada.io/topic?id=33491",
-    "category": "it",
-    "source": "긱뉴스",
-    "title": "Planet Labs의 공개 위성 영상 피드",
-    "link": "https://news.hada.io/topic?id=33491",
-    "summary": "자연재해와 인재 직후의 지표를 살펴볼 수 있는 Disaster Data는 일부 위성 영상과 Parquet·JSON 메타데이터를 공개해 DuckDB와 QGIS에서 탐색·분석할 수 있게 함 자료는 재난 전·후 영상으로 나뉘고 사건별로 제공 자산이 다르며, 콜롬비아와 베...",
-    "pubDate": "2026-09-10T17:34:51.000Z",
-    "collectedAt": "2026-09-10T18:17:22.717Z"
-  },
-  {
-    "id": "https://www.aitimes.com/news/articleView.html?idxno=215105",
-    "category": "ai",
-    "source": "AI타임스 AI산업",
-    "title": "앤트로픽, 네 번째 AI 무단 침입 공개...시스템 누락에 4억건 재조사",
-    "link": "https://www.aitimes.com/news/articleView.html?idxno=215105",
-    "summary": "앤트로픽이 AI 모델의 사이버보안 테스트 과정에서 외부 시스템에 무단으로 침입한 네 번째 사고를 뒤늦게 공식 확인했다. 이번 사고는 지난 1월 초기 버전의 ‘클로드 오퍼스 4.6’과 관련된 것으로, 앤트로픽은 피해를 입은 당사자에게 통보를 마쳤지만 구체적인 대상이나 피해 내용은 공개하지…",
-    "pubDate": "2026-09-10T17:31:21.000Z",
-    "collectedAt": "2026-09-10T10:16:16.566Z"
-  },
-  {
-    "id": "https://www.aitimes.com/news/articleView.html?idxno=215110",
-    "category": "ai",
-    "source": "AI타임스 AI산업",
-    "title": "중국, 휴머노이드 로봇 IPO 규제 강화...\"거품 빼고 기술력 입증하라\"",
-    "link": "https://www.aitimes.com/news/articleView.html?idxno=215110",
-    "summary": "중국 규제 당국이 유니트리 로보틱스의 상장 이후 주가 변동성을 계기로 휴머노이드 로봇 스타트업들의 기업공개(IPO) 승인 심사를 대폭 강화하고 나섰다. 모방 업체가 난립하지만, 실질적인 기술적 돌파구는 부족한 과열 시장을 진정시키기 위한 조치다. 9일(현지시간) 디 인포메이션에 따르면,…",
-    "pubDate": "2026-09-10T17:09:18.000Z",
-    "collectedAt": "2026-09-10T08:16:33.565Z"
-  },
-  {
-    "id": "https://www.aitimes.com/news/articleView.html?idxno=215117",
-    "category": "ai",
-    "source": "AI타임스 AI산업",
-    "title": "[게시판] 9.81파크 제주, 월간 매출 '24억'으로 최고치 경신 등 단신",
-    "link": "https://www.aitimes.com/news/articleView.html?idxno=215117",
-    "summary": "■ 디에스엠(DSM, 104040)이 운영하는 9.81파크 제주가 지난 8월 23억9000만 원의 판매액을 기록하며 2020년 개장 이후 월간 기준 최고치를 경신했다고 밝혔다. 전년 동월 대비 8.0% 증가한 수치로, 파크 내 티켓과 리테일·F&B를 합산한 현장 판매액 기준이다. 8월…",
-    "pubDate": "2026-09-10T17:00:00.000Z",
-    "collectedAt": "2026-09-10T10:16:16.566Z"
-  },
-  {
-    "id": "https://www.aitimes.com/news/articleView.html?idxno=215111",
-    "category": "ai",
-    "source": "AI타임스 AI산업",
-    "title": "[게시판] 에너자이, 브로드컴과 온디바이스 AI 기술 공유 등 단신",
-    "link": "https://www.aitimes.com/news/articleView.html?idxno=215111",
-    "summary": "■ 에너자이(대표 장한힘)는 오는 11일 네덜란드 암스테르담에서 열리는 방송·미디어 전시회 'IBC 2026'에 참가한다고 밝혔다. 에너자이는 온디바이스 특화 AI 에이전트 개발 기업으로 셋톱박스 등 스마트홈 기기 300만 대 이상에 온디바이스 AI를 배포한 경험을 공유한다. 특히 브로…",
-    "pubDate": "2026-09-10T17:00:00.000Z",
     "collectedAt": "2026-09-10T10:16:16.566Z"
   }
 ]
