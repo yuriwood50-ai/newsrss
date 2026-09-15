@@ -70,6 +70,16 @@
     "collectedAt": "2026-09-15T10:16:05.061Z"
   },
   {
+    "id": "https://news.hada.io/topic?id=33744",
+    "category": "it",
+    "source": "긱뉴스",
+    "title": "Capsule - 데이터를 SQLite에 저장하는 단일 파일 웹 앱",
+    "link": "https://news.hada.io/topic?id=33744",
+    "summary": "Capsule은 UI, 미디어 자산, 로컬 SQLite 데이터를 하나의 .capsule 파일에 담아 문서처럼 공유하고 실행하는 앱 도구임 AI 프롬프트로 HTML UI와 스키마를 갖춘 앱을 생성하고, 프롬프트나 MCP 코딩 도구로 기능과 스키마를 수정할 수 있음",
+    "pubDate": "2026-09-15T17:32:16.000Z",
+    "collectedAt": "2026-09-15T18:17:37.424Z"
+  },
+  {
     "id": "https://www.aitimes.com/news/articleView.html?idxno=215300",
     "category": "ai",
     "source": "AI타임스 AI산업",
@@ -188,6 +198,16 @@
     "summary": "인포시즈(대표 탁정수)는 박준 전 SK텔레콤 부사장을 최고 사업책임자(CBO)로 영입했다고 15일 밝혔다.인포시즈는 엔터프라이즈 AI 솔루션 '액시엄'과 '델타플로우', '고스' 등을 제공하는 기업으로 올해 4월 130억원 규모의 투자를 유치했다.비정형 데이터를 온톨로지와 그래프 데이터…",
     "pubDate": "2026-09-15T16:35:06.000Z",
     "collectedAt": "2026-09-15T08:18:04.094Z"
+  },
+  {
+    "id": "https://news.hada.io/topic?id=33743",
+    "category": "it",
+    "source": "긱뉴스",
+    "title": "Show GN: yss Embeded operating system",
+    "link": "https://news.hada.io/topic?id=33743",
+    "summary": "ARM Cortex-M 기반에서 동작하는 운영체제이자 임베디드 개발 프레임워크입니다. 2007년부터 취미로 개발을 시작해 출퇴근 길과 주말에 조금씩 작업했습니다. 2015년부터 지금까지 근무했던 회사들의 상용 제품 개발에 적용되었고 개발이 완료되어 해당 제품은 시중에 판매되고 있습니다.…",
+    "pubDate": "2026-09-15T16:34:04.000Z",
+    "collectedAt": "2026-09-15T18:17:37.424Z"
   },
   {
     "id": "https://www.aitimes.com/news/articleView.html?idxno=215312",
@@ -14978,25 +14998,5 @@
     "summary": "■ 에너자이(대표 장한힘)는 오는 11일 네덜란드 암스테르담에서 열리는 방송·미디어 전시회 'IBC 2026'에 참가한다고 밝혔다. 에너자이는 온디바이스 특화 AI 에이전트 개발 기업으로 셋톱박스 등 스마트홈 기기 300만 대 이상에 온디바이스 AI를 배포한 경험을 공유한다. 특히 브로…",
     "pubDate": "2026-09-10T17:00:00.000Z",
     "collectedAt": "2026-09-10T10:16:16.566Z"
-  },
-  {
-    "id": "https://www.aitimes.com/news/articleView.html?idxno=215109",
-    "category": "ai",
-    "source": "AI타임스 AI산업",
-    "title": "'데빈' 개발사 코그니션, 몸값 64조 달성...4개월 만에 85% 급등",
-    "link": "https://www.aitimes.com/news/articleView.html?idxno=215109",
-    "summary": "최초의 AI 코딩 에이전트 ‘데빈(Devin)’을 개발한 코그니션(Cognition)이 불과 4개월 만에 기업 가치를 크게 높이며 또 한 번 대규모 자금 조달에 성공했다. 코그니션은 9일(현지시간) 20억달러(약 2조7000억원) 규모의 시리즈E 투자를 유치하며 기업 가치를 480억달러…",
-    "pubDate": "2026-09-10T16:59:56.000Z",
-    "collectedAt": "2026-09-10T08:16:33.565Z"
-  },
-  {
-    "id": "https://news.hada.io/topic?id=33490",
-    "category": "it",
-    "source": "긱뉴스",
-    "title": "밴드 Muse, Meta의 새 AI 에이전트 Muse에 소셜 미디어 계정명을 빼앗김",
-    "link": "https://news.hada.io/topic?id=33490",
-    "summary": "영국 록 밴드 Muse가 Instagram과 X에서 수년간 쓰던 계정명을 Meta의 새 AI 에이전트 Muse가 사용하게 됐지만, 이전 경위는 공개되지 않음 밴드는 두 플랫폼 모두 @museband로 계정명을 바꿨으며, Instagram 변경 시점은 보도와 팬들의 목격담이...",
-    "pubDate": "2026-09-10T16:55:52.000Z",
-    "collectedAt": "2026-09-10T18:17:22.717Z"
   }
 ]
