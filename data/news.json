@@ -180,6 +180,26 @@
     "collectedAt": "2026-09-16T06:20:12.985Z"
   },
   {
+    "id": "https://news.hada.io/topic?id=33786",
+    "category": "it",
+    "source": "긱뉴스",
+    "title": "OpenBSD용 GEFS: 극초기 미리보기",
+    "link": "https://news.hada.io/topic?id=33786",
+    "summary": "9front용으로 개발한 GEFS의 OpenBSD 이식판이 실험 가능한 단계에 도달함. 버그가 많은 초기 상태로, 프로덕션 사용은 불가하며 특히 오류 발생 시 데이터 손실이 예상됨 GEFS는 충돌 안전성, 스냅샷, 쓰기 시 복사(CoW) 를 갖춘 파일 시스템이며...",
+    "pubDate": "2026-09-16T14:01:56.000Z",
+    "collectedAt": "2026-09-16T14:16:35.434Z"
+  },
+  {
+    "id": "https://news.hada.io/topic?id=33785",
+    "category": "it",
+    "source": "긱뉴스",
+    "title": "Mistral x Mozilla: 프라이버시를 지키는 다국어 AI 브라우징",
+    "link": "https://news.hada.io/topic?id=33785",
+    "summary": "Mistral과 Mozilla가 협력해 Firefox의 AI 브라우징 도우미 Smart Window 베타에 Mistral 모델을 적용함 Smart Window는 복잡한 검색을 이해하고, 이전에 열었다가 떠난 중요한 내용을 기억하며, 브라우저 탭을 바탕으로 필요한 정보를 찾도록 도움 Mi…",
+    "pubDate": "2026-09-16T13:32:34.000Z",
+    "collectedAt": "2026-09-16T14:16:35.434Z"
+  },
+  {
     "id": "https://www.aitimes.com/news/articleView.html?idxno=215338",
     "category": "ai",
     "source": "AI타임스 AI산업",
@@ -210,6 +230,16 @@
     "collectedAt": "2026-09-16T06:20:12.985Z"
   },
   {
+    "id": "https://www.hankyung.com/article/202609169631i",
+    "category": "economy",
+    "source": "한국경제 경제",
+    "title": "EU,\"상상초월 해킹AI,적들의 손에 들어갈 것…AI 위험예방 방안 서둘러야\"",
+    "link": "https://www.hankyung.com/article/202609169631i",
+    "summary": "",
+    "pubDate": "2026-09-16T13:19:29.000Z",
+    "collectedAt": "2026-09-16T14:16:35.434Z"
+  },
+  {
     "id": "https://www.aitimes.com/news/articleView.html?idxno=215328",
     "category": "ai",
     "source": "AI타임스 AI산업",
@@ -228,6 +258,16 @@
     "summary": "멘탯(대표 전병욱)은 IT 전문 출판사 제이펍과 AI 라이선싱 계약을 체결했다고 16일 밝혔다.멘탯은 출판사와 AI 기업을 연결해 도서 콘텐츠의 AI 학습·인용을 지원하는 도서 라이선싱 플랫폼이다. 이번 계약으로 정식 라이선스에 따라 제이펍의 IT 전문서 100여종이 AI 학습 및 인용…",
     "pubDate": "2026-09-16T13:07:34.000Z",
     "collectedAt": "2026-09-16T06:20:12.985Z"
+  },
+  {
+    "id": "https://www.hankyung.com/article/2026091689496",
+    "category": "economy",
+    "source": "한국경제 증권",
+    "title": "\"다신 주식 안 해\"…삼전닉스 물린 개미들 돌변하더니 결국 [분석+]",
+    "link": "https://www.hankyung.com/article/2026091689496",
+    "summary": "",
+    "pubDate": "2026-09-16T13:00:01.000Z",
+    "collectedAt": "2026-09-16T14:16:35.434Z"
   },
   {
     "id": "https://www.aitimes.com/news/articleView.html?idxno=215333",
@@ -288,6 +328,26 @@
     "summary": "오픈AI가 기업공개(IPO)에 앞서 1조2000억달러(약 1640조원)의 기업 가치를 목표로 추가 투자 유치를 추진하는 것으로 알려졌다. 최신 AI 모델의 수요가 빠르게 늘자, 몸값을 올리고 IPO 전 필요한 자금을 확보하려는 움직임으로 풀이된다.15일(현지시간) 파이낸셜타임스에 따르면…",
     "pubDate": "2026-09-16T12:13:37.000Z",
     "collectedAt": "2026-09-16T04:15:37.661Z"
+  },
+  {
+    "id": "https://www.hankyung.com/article/202609169603i",
+    "category": "economy",
+    "source": "한국경제 경제",
+    "title": "BYD 추격 나선 지리차…브라질 현지생산으로 승부수 [차이나 워치]",
+    "link": "https://www.hankyung.com/article/202609169603i",
+    "summary": "",
+    "pubDate": "2026-09-16T12:00:54.000Z",
+    "collectedAt": "2026-09-16T14:16:35.434Z"
+  },
+  {
+    "id": "https://www.hankyung.com/article/2026091695917",
+    "category": "it",
+    "source": "한국경제 IT",
+    "title": "\"나 정말 당했어\"…'유부남이 성추행' BJ 파이, 1심 무죄에 오열",
+    "link": "https://www.hankyung.com/article/2026091695917",
+    "summary": "",
+    "pubDate": "2026-09-16T11:37:00.000Z",
+    "collectedAt": "2026-09-16T14:16:35.434Z"
   },
   {
     "id": "https://news.hada.io/topic?id=33784",
@@ -14937,66 +14997,6 @@
     "link": "https://www.hankyung.com/article/2026091307217",
     "summary": "",
     "pubDate": "2026-09-12T23:15:48.000Z",
-    "collectedAt": "2026-09-13T00:22:34.820Z"
-  },
-  {
-    "id": "https://news.hada.io/topic?id=33600",
-    "category": "it",
-    "source": "긱뉴스",
-    "title": "AI가 스스로 더 나은 AI를 만드는 날은 얼마나 가까웠나?",
-    "link": "https://news.hada.io/topic?id=33600",
-    "summary": "재귀적 자기개선(RSI) 은 AI가 더 나은 AI를 만들고, 그 AI가 다시 다음 개선을 이끄는 순환으로, 실험 실행뿐 아니라 연구 방향과 다음 목표까지 스스로 정해야 함 현재의 모델과 강화학습을 확대하면 인간 연구자를 넘어설 수 있다는 기대와, 주어진 목표를 잘 푸는 능력이...",
-    "pubDate": "2026-09-12T23:11:55.000Z",
-    "collectedAt": "2026-09-13T00:22:34.820Z"
-  },
-  {
-    "id": "https://news.hada.io/topic?id=33599",
-    "category": "it",
-    "source": "긱뉴스",
-    "title": "60년간 삶을 지켜본 7 Up 출연자들, 이제 작별을 고하다",
-    "link": "https://news.hada.io/topic?id=33599",
-    "summary": "1964년 서로 다른 사회경제적 배경의 일곱 살 어린이 14명으로 시작한 7 Up이 마지막 편 70 Up으로 막을 내림 영국의 계급 체계가 어린 시절부터 삶을 어떻게 형성하는지 살피려던 단발성 다큐멘터리가, 7년마다 출연자들의 삶을 따라가는 역대 최...",
-    "pubDate": "2026-09-12T23:08:55.000Z",
-    "collectedAt": "2026-09-13T00:22:34.820Z"
-  },
-  {
-    "id": "https://www.hankyung.com/article/2026091179876",
-    "category": "economy",
-    "source": "한국경제 증권",
-    "title": "\"금리 흔들려도 AI 성장 유효\"…코스피 7000선 안착할까 [주간전망]",
-    "link": "https://www.hankyung.com/article/2026091179876",
-    "summary": "",
-    "pubDate": "2026-09-12T23:00:07.000Z",
-    "collectedAt": "2026-09-13T00:22:34.820Z"
-  },
-  {
-    "id": "https://www.hankyung.com/article/202609119442i",
-    "category": "economy",
-    "source": "한국경제 증권",
-    "title": "역대급 수주에도 주가 흔들린 삼성전기…향후 이벤트 및 접근 전략은",
-    "link": "https://www.hankyung.com/article/202609119442i",
-    "summary": "",
-    "pubDate": "2026-09-12T23:00:02.000Z",
-    "collectedAt": "2026-09-13T00:22:34.820Z"
-  },
-  {
-    "id": "https://www.hankyung.com/article/202609119263g",
-    "category": "economy",
-    "source": "한국경제 경제",
-    "title": "\"5kg 찌며 쓴 피자 백서\"…삼성웰스토리가 피자에 '진심'인 이유 [씬메이커]",
-    "link": "https://www.hankyung.com/article/202609119263g",
-    "summary": "",
-    "pubDate": "2026-09-12T22:30:04.000Z",
-    "collectedAt": "2026-09-13T00:22:34.820Z"
-  },
-  {
-    "id": "https://www.hankyung.com/article/202609080821i",
-    "category": "economy",
-    "source": "한국경제 경제",
-    "title": "이사 보수, 절차만큼 적정성에도 주목할 때 [디엘지 기업법무 핵심노트]",
-    "link": "https://www.hankyung.com/article/202609080821i",
-    "summary": "",
-    "pubDate": "2026-09-12T22:00:09.000Z",
     "collectedAt": "2026-09-13T00:22:34.820Z"
   }
 ]
