@@ -110,6 +110,36 @@
     "collectedAt": "2026-09-16T08:16:29.208Z"
   },
   {
+    "id": "https://www.hankyung.com/article/202609179698i",
+    "category": "economy",
+    "source": "한국경제 경제",
+    "title": "세계최고수익률 국부펀드,\"미국증시 조정 가능성\"경고",
+    "link": "https://www.hankyung.com/article/202609179698i",
+    "summary": "",
+    "pubDate": "2026-09-16T15:44:09.000Z",
+    "collectedAt": "2026-09-16T16:16:01.355Z"
+  },
+  {
+    "id": "https://news.hada.io/topic?id=33791",
+    "category": "it",
+    "source": "긱뉴스",
+    "title": "해커들이 Flock 카메라 내부에 접근, 데이터로 드러난 시스템 작동 방식",
+    "link": "https://news.hada.io/topic?id=33791",
+    "summary": "해커 집단이 Flock 카메라 한 대를 철거한 뒤 내부 데이터를 추출함 확보한 파일에는 수천 개의 동영상이 포함돼 있음 장치의 이미지 촬영 기록을 담은 로그도 함께 추출함 로그에 따르면 이 카메라는 21일 동안 이미지...",
+    "pubDate": "2026-09-16T15:35:44.000Z",
+    "collectedAt": "2026-09-16T16:16:01.355Z"
+  },
+  {
+    "id": "https://news.hada.io/topic?id=33790",
+    "category": "it",
+    "source": "긱뉴스",
+    "title": "Salesforce 전 세계 서비스 장애",
+    "link": "https://news.hada.io/topic?id=33790",
+    "summary": "Salesforce 전 세계 서비스 장애",
+    "pubDate": "2026-09-16T15:32:44.000Z",
+    "collectedAt": "2026-09-16T16:16:01.355Z"
+  },
+  {
     "id": "https://www.aitimes.com/news/articleView.html?idxno=215349",
     "category": "ai",
     "source": "AI타임스 AI산업",
@@ -130,6 +160,46 @@
     "collectedAt": "2026-09-16T08:16:29.208Z"
   },
   {
+    "id": "https://www.hankyung.com/article/202609169687i",
+    "category": "economy",
+    "source": "한국경제 경제",
+    "title": "노보, 신약개발속도 올리려 \"앤트로픽과 협력\" 발표",
+    "link": "https://www.hankyung.com/article/202609169687i",
+    "summary": "",
+    "pubDate": "2026-09-16T15:04:48.000Z",
+    "collectedAt": "2026-09-16T16:16:01.355Z"
+  },
+  {
+    "id": "https://news.hada.io/topic?id=33789",
+    "category": "it",
+    "source": "긱뉴스",
+    "title": "FPGA로 Voodoo Graphics와 1990년대 후반 게이밍 PC 재현하기",
+    "link": "https://news.hada.io/topic?id=33789",
+    "summary": "zSST는 3dfx Voodoo Graphics를 SystemVerilog로 구현한 오픈소스 프로젝트로, z486 CPU와 결합한 z486 XL에서 Tomb Raider의 원래 3dfx 렌더러를 실행함 삼각형 렌더링, 텍스처 필터링과 밉매핑, 깊이/알파 테스트, 안개, 블렌딩 등 핵심…",
+    "pubDate": "2026-09-16T14:41:25.000Z",
+    "collectedAt": "2026-09-16T16:16:01.355Z"
+  },
+  {
+    "id": "https://news.hada.io/topic?id=33788",
+    "category": "it",
+    "source": "긱뉴스",
+    "title": "Show GN: gksdud - 씹힘 없고 빠릿빠릿한 Mac 한영 전환",
+    "link": "https://news.hada.io/topic?id=33788",
+    "summary": "Mac에서 한영 전환을 세팅하는 게 항상 귀찮았습니다. 그래서 복잡한 설정 없는 빠릿빠릿한 한영 전환을 목표로 한영 키 유틸 gksdud을 만들어봤습",
+    "pubDate": "2026-09-16T14:38:51.000Z",
+    "collectedAt": "2026-09-16T16:16:01.355Z"
+  },
+  {
+    "id": "https://news.hada.io/topic?id=33787",
+    "category": "it",
+    "source": "긱뉴스",
+    "title": "Google Play 앱 심사, 이제 일주일을 넘기는 일이 잦아짐",
+    "link": "https://news.hada.io/topic?id=33787",
+    "summary": "Google Play 앱 심사에 이제 일주일 넘게 걸리는 일이 잦아졌다며 개발자 Daniel Gultsch가 불만을 표함 12년 이상 유지된 Android 앱이 월 1회만 업데이트하는 경우에는 심사 우선순위를 높여야 한다고 요구함 댓글에서 한 개발자는 자신의 앱 심사가 보...",
+    "pubDate": "2026-09-16T14:38:25.000Z",
+    "collectedAt": "2026-09-16T16:16:01.355Z"
+  },
+  {
     "id": "https://www.aitimes.com/news/articleView.html?idxno=215345",
     "category": "ai",
     "source": "AI타임스 AI산업",
@@ -140,6 +210,16 @@
     "collectedAt": "2026-09-16T06:20:12.985Z"
   },
   {
+    "id": "https://www.hankyung.com/article/202609169677i",
+    "category": "economy",
+    "source": "한국경제 경제",
+    "title": "\"애플, 기업용 AI서버 개발중…자체 칩탑재 29년 출시\" [더인포메이션]",
+    "link": "https://www.hankyung.com/article/202609169677i",
+    "summary": "",
+    "pubDate": "2026-09-16T14:34:12.000Z",
+    "collectedAt": "2026-09-16T16:16:01.355Z"
+  },
+  {
     "id": "https://www.aitimes.com/news/articleView.html?idxno=215339",
     "category": "ai",
     "source": "AI타임스 AI산업",
@@ -148,6 +228,16 @@
     "summary": "일론 머스크 CEO가 테슬라와 스페이스X의 합병 가능성을 다시 한번 시사했다. 두 회사가 다양한 분야에서 협력을 확대하고 있는 만큼, 앞으로 두 기업의 관계가 어떤 형태로 발전할지는 정해지지 않았다는 취지다.디 인포메이션에 따르면, 머스크는 15일(현지시간) 열린 ‘올인 서밋’에 화상으…",
     "pubDate": "2026-09-16T14:29:19.000Z",
     "collectedAt": "2026-09-16T06:20:12.985Z"
+  },
+  {
+    "id": "https://www.hankyung.com/article/202609169675i",
+    "category": "economy",
+    "source": "한국경제 경제",
+    "title": "국채금리가 발목잡는 AI 주가…야데니도 주가 전망 낮췄다 [박신영의 개장전 요것만]",
+    "link": "https://www.hankyung.com/article/202609169675i",
+    "summary": "",
+    "pubDate": "2026-09-16T14:29:15.000Z",
+    "collectedAt": "2026-09-16T16:16:01.355Z"
   },
   {
     "id": "https://www.aitimes.com/news/articleView.html?idxno=215341",
@@ -188,6 +278,16 @@
     "summary": "9front용으로 개발한 GEFS의 OpenBSD 이식판이 실험 가능한 단계에 도달함. 버그가 많은 초기 상태로, 프로덕션 사용은 불가하며 특히 오류 발생 시 데이터 손실이 예상됨 GEFS는 충돌 안전성, 스냅샷, 쓰기 시 복사(CoW) 를 갖춘 파일 시스템이며...",
     "pubDate": "2026-09-16T14:01:56.000Z",
     "collectedAt": "2026-09-16T14:16:35.434Z"
+  },
+  {
+    "id": "https://www.hankyung.com/article/202609169659i",
+    "category": "economy",
+    "source": "한국경제 경제",
+    "title": "美 8월 소매판매 예상 크게 웃돈 1.2%↑…금리 인상 기대 강화",
+    "link": "https://www.hankyung.com/article/202609169659i",
+    "summary": "",
+    "pubDate": "2026-09-16T13:51:06.000Z",
+    "collectedAt": "2026-09-16T16:16:01.355Z"
   },
   {
     "id": "https://news.hada.io/topic?id=33785",
@@ -14897,106 +14997,6 @@
     "link": "https://www.hankyung.com/article/2026091193536",
     "summary": "",
     "pubDate": "2026-09-13T00:00:11.000Z",
-    "collectedAt": "2026-09-13T00:22:34.820Z"
-  },
-  {
-    "id": "https://www.hankyung.com/article/202609118869i",
-    "category": "economy",
-    "source": "한국경제 경제",
-    "title": "수술 끝났다고 끝이 아니다…뇌·심혈관 보험 체크포인트",
-    "link": "https://www.hankyung.com/article/202609118869i",
-    "summary": "",
-    "pubDate": "2026-09-13T00:00:10.000Z",
-    "collectedAt": "2026-09-13T00:22:34.820Z"
-  },
-  {
-    "id": "https://www.hankyung.com/article/202609118713i",
-    "category": "economy",
-    "source": "한국경제 경제",
-    "title": "박사과정 앞둔 50대, 3년간 월급 '뚝'…\"지금 주식 팔까요?\"",
-    "link": "https://www.hankyung.com/article/202609118713i",
-    "summary": "",
-    "pubDate": "2026-09-13T00:00:07.000Z",
-    "collectedAt": "2026-09-13T00:22:34.820Z"
-  },
-  {
-    "id": "https://www.hankyung.com/article/202609119251g",
-    "category": "economy",
-    "source": "한국경제 경제",
-    "title": "\"서두르면 어정쩡한 L2++만\"…엔비디아로 먼저 가는 현대차 속내 [현장+]",
-    "link": "https://www.hankyung.com/article/202609119251g",
-    "summary": "",
-    "pubDate": "2026-09-13T00:00:03.000Z",
-    "collectedAt": "2026-09-13T00:22:34.820Z"
-  },
-  {
-    "id": "20260913000009",
-    "category": "it",
-    "source": "전자신문 IT/통신",
-    "title": "LG유플러스, 추석 앞두고 보이스피싱 24시간 대응체계 가동",
-    "link": "https://www.etnews.com/20260913000009",
-    "summary": "LG유플러스가 추석 연휴를 앞두고 보이스피싱과 스미싱 피해 예방을 위해 24시간 특별 대응체계를 가동한다. AI 기반 분석 시스템을 활용해 악성 앱 제어 서버를 추적하고 경찰과 공조해 차단 대응을 강화한다. LG유플러스는 이달 말까지 서울 마곡사옥에서 보이스피싱·스미싱 전담 모니터링 체…",
-    "pubDate": "2026-09-13T00:00:00.000Z",
-    "collectedAt": "2026-09-13T00:22:34.820Z"
-  },
-  {
-    "id": "20260913000013",
-    "category": "it",
-    "source": "전자신문 IT/통신",
-    "title": "SKT, 경남 4개군과 '찾아가는 서비스'…고령층 디지털 지원",
-    "link": "https://www.etnews.com/20260913000013",
-    "summary": "SK텔레콤이 경남 산청·함양·거창·합천군과 손잡고 고령층을 대상으로 한 '찾아가는 서비스'를 확대한다. 보이스피싱 예방 교육부터 휴대폰 점검·상담까지 현장에서 지원한다. SK텔레콤은 지난 11일 경남 4개 군과 지역 주민의 안전한 통신 서비스 이용과 디지털 정보격차 해소를 위한 '찾아가…",
-    "pubDate": "2026-09-12T23:55:54.000Z",
-    "collectedAt": "2026-09-13T00:22:34.820Z"
-  },
-  {
-    "id": "https://news.hada.io/topic?id=33602",
-    "category": "it",
-    "source": "긱뉴스",
-    "title": "Waymo, 차량을 세우고 ‘고스트 건’을 소지한 미성년 승객들을 경찰에 신고",
-    "link": "https://news.hada.io/topic?id=33602",
-    "summary": "샌프란시스코에서 Waymo 자율주행차에 탑승한 미성년자 2명이 불법 ‘고스트 건’ 소지 혐의로 체포됨 Waymo는 총기 관련 서비스 약관 위반을 감지한 뒤 차량을 세우고 긴급 서비스에 신고했으며, 경찰에 전적으로 협조했다고 밝힘 경찰에 따르면 차량 수...",
-    "pubDate": "2026-09-12T23:38:55.000Z",
-    "collectedAt": "2026-09-13T00:22:34.820Z"
-  },
-  {
-    "id": "20260913000012",
-    "category": "economy",
-    "source": "전자신문 경제",
-    "title": "하나은행, 우즈베키스탄 투자산업통상부와 업무협약…연내 대표사무소 설립 추진",
-    "link": "https://www.etnews.com/20260913000012",
-    "summary": "하나은행이 지난 11일 우즈베키스탄 투자산업통상부와 업무협약(MOU)을 체결하고 중앙아시아 시장 진출을 본격화한다. 하나은행은 오는 16일 서울에서 개최되는 '제1회 한-중앙아시아 정상회의'를 앞두고 양국 금융·경제 협력 기반을 강화한다. 양 기관은 이번 협약을 바탕으로 우즈베키스탄 내…",
-    "pubDate": "2026-09-12T23:37:23.000Z",
-    "collectedAt": "2026-09-13T00:22:34.820Z"
-  },
-  {
-    "id": "https://news.hada.io/topic?id=33601",
-    "category": "it",
-    "source": "긱뉴스",
-    "title": "Linux용 Zoom 클라이언트, X11 클립보드에 기록되는 모든 내용을 선제적으로 읽음",
-    "link": "https://news.hada.io/topic?id=33601",
-    "summary": "Linux용 Zoom 7.1.5에서 사용자의 붙여넣기 동작 없이 X11 클립보드 내용을 읽는 동작이 관찰됨. 이전에 사용하던 6.6에서는 나타나지 않았음 읽기 대상은 일반적으로 Ctrl+C/Ctrl+V로 사용하는 CLIPBOARD 선택 영역으로 보이며, 텍스트 선택 후 가운데 클릭으로…",
-    "pubDate": "2026-09-12T23:35:55.000Z",
-    "collectedAt": "2026-09-13T00:22:34.820Z"
-  },
-  {
-    "id": "20260913000006",
-    "category": "economy",
-    "source": "전자신문 경제",
-    "title": "수은, '생산적 포용금융' 전격 도입…기술특례대출 신설",
-    "link": "https://www.etnews.com/20260913000006",
-    "summary": "한국수출입은행이 중소·벤처기업의 창업부터 도약, 재기까지 지원하는 종합 금융 프로그램인 '수은형 생산적 포용금융'을 본격 시행한다. 우선 기술력은 갖췄으나 매출액이 적어 대출 심사에 어려움을 겪는 벤처기업을 대상으로 신용평가 대신 기술평가를 활용하는 '기술특례대출'을 신설한다. 연간 매…",
-    "pubDate": "2026-09-12T23:23:28.000Z",
-    "collectedAt": "2026-09-13T00:22:34.820Z"
-  },
-  {
-    "id": "https://www.hankyung.com/article/2026091307217",
-    "category": "economy",
-    "source": "한국경제 경제",
-    "title": "\"국회의원 아니었으면 몰빵\"…이준석이 콕 집은 '이 종목'",
-    "link": "https://www.hankyung.com/article/2026091307217",
-    "summary": "",
-    "pubDate": "2026-09-12T23:15:48.000Z",
     "collectedAt": "2026-09-13T00:22:34.820Z"
   }
 ]
