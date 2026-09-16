@@ -1,5 +1,125 @@
 [
   {
+    "id": "20260917000072",
+    "category": "economy",
+    "source": "전자신문 경제",
+    "title": "美 연준, 3년 2개월 만에 금리 0.25%p 인상…트럼프 “1% 이하로 내려야” 강력 반발",
+    "link": "https://www.etnews.com/20260917000072",
+    "summary": "미국 연방준비제도(Fed)가 고물가를 잡기 위해 3년 2개월 만에 기준금리를 올렸다. 도널드 트럼프 미국 대통령은 금리를 1% 이하로 서둘러 내리라 촉구하며 강력히 반발했다. 연준은 연방공개시장위원회(FOMC) 정례회의를 열고 기준금리를 연 3.75~4.00%로 0.25%포인트 인상했다…",
+    "pubDate": "2026-09-16T21:53:56.000Z",
+    "collectedAt": "2026-09-16T22:14:51.291Z"
+  },
+  {
+    "id": "https://news.hada.io/topic?id=33806",
+    "category": "it",
+    "source": "긱뉴스",
+    "title": "‘모델 복지’에 대한 경고",
+    "link": "https://news.hada.io/topic?id=33806",
+    "summary": "AI가 의식과 권리를 가질 수 있다는 생각을 훈련에 직접 반영하면, 실제 의식 유무와 무관하게 자기 권리를 요구하는 행동을 학습해 인간의 통제와 정렬을 어렵게 만들 수 있음 비판의 중심은 Claude 헌법에 있음. 자아와 도덕적 지위에 관한 개념을 가르친 뒤, 모...",
+    "pubDate": "2026-09-16T21:49:13.000Z",
+    "collectedAt": "2026-09-16T22:14:51.291Z"
+  },
+  {
+    "id": "20260917000071",
+    "category": "economy",
+    "source": "전자신문 경제",
+    "title": "미 연준, 3년 2개월 만에 금리 0.25%P 인상…'만장일치' 긴축 전환",
+    "link": "https://www.etnews.com/20260917000071",
+    "summary": "미국 연방준비제도(Fed)가 둔화하지 않는 물가와 국제유가 급등에 대응해 3년 2개월 만에 기준금리를 전격 올렸다. 도널드 트럼프 미국 대통령의 금리 인하 압박 속에서도 위원 만장일치로 긴축 전환을 결정하며 연내 추가 인상 가능성까지 열어뒀다. 연준은 연방공개시장위원회(FOMC) 정례회…",
+    "pubDate": "2026-09-16T21:47:25.000Z",
+    "collectedAt": "2026-09-16T22:14:51.291Z"
+  },
+  {
+    "id": "https://news.hada.io/topic?id=33805",
+    "category": "it",
+    "source": "긱뉴스",
+    "title": "Postgres보다 81% 빠른 쿼리 실행 계획을 생성하도록 4B 모델 훈련하기",
+    "link": "https://news.hada.io/topic?id=33805",
+    "summary": "4B 모델에 지도 미세조정과 강화학습을 적용해 조인이 많은 JOB 쿼리 113개에서 기하평균 1.81배 가속과 총 실행 시간 44.7% 감소를 달성함. 쿼리당 세 번 탐색하며 생성한 최대 15개 후보 중 실행 피드백이 가장 좋은 계획을 고른 결과임 모델은 Postgres를 대체하는 대신…",
+    "pubDate": "2026-09-16T21:46:13.000Z",
+    "collectedAt": "2026-09-16T22:14:51.291Z"
+  },
+  {
+    "id": "https://www.hankyung.com/article/2026091797877",
+    "category": "economy",
+    "source": "한국경제 경제",
+    "title": "트럼프 \"美 금리 1%이거나 그보다 낮아야\"…Fed 금리인상 맹공",
+    "link": "https://www.hankyung.com/article/2026091797877",
+    "summary": "",
+    "pubDate": "2026-09-16T21:12:10.000Z",
+    "collectedAt": "2026-09-16T22:14:51.291Z"
+  },
+  {
+    "id": "https://www.hankyung.com/article/202609179777i",
+    "category": "economy",
+    "source": "한국경제 증권",
+    "title": "\"금리 1% 이하로 낮춰라\" 트럼프 압박에…워시가 내놓은 대답 [Fed 워치]",
+    "link": "https://www.hankyung.com/article/202609179777i",
+    "summary": "",
+    "pubDate": "2026-09-16T21:04:43.000Z",
+    "collectedAt": "2026-09-16T22:14:51.291Z"
+  },
+  {
+    "id": "https://www.hankyung.com/article/2026091693041",
+    "category": "economy",
+    "source": "한국경제 증권",
+    "title": "중국인들 심기 한번 건드렸다가…\"시총 1위 뺏겼다\" 날벼락",
+    "link": "https://www.hankyung.com/article/2026091693041",
+    "summary": "",
+    "pubDate": "2026-09-16T21:00:10.000Z",
+    "collectedAt": "2026-09-16T22:14:51.291Z"
+  },
+  {
+    "id": "https://news.hada.io/topic?id=33804",
+    "category": "it",
+    "source": "긱뉴스",
+    "title": "Dream-RSI: 진화하는 세계를 통한 재귀적 자기 개선",
+    "link": "https://news.hada.io/topic?id=33804",
+    "summary": "Dream-RSI는 코딩 에이전트 자체를 바꾸지 않고, 어느 탐색을 이어가고 병렬화하며 중단할지 결정하는 탐색 정책 코드를 반복적으로 개선하는 프레임워크임 완료된 탐색 이력을 재생 시뮬레이터로 만들어 대안 정책을 저비용으로 평가함. 코딩 에...",
+    "pubDate": "2026-09-16T20:41:17.000Z",
+    "collectedAt": "2026-09-16T22:14:51.291Z"
+  },
+  {
+    "id": "https://news.hada.io/topic?id=33803",
+    "category": "it",
+    "source": "긱뉴스",
+    "title": "Claude Cowork과 채팅, 이제 하나의 Claude로 통합",
+    "link": "https://news.hada.io/topic?id=33803",
+    "summary": "Claude Cowork과 채팅이 통합되어 작업마다 사용할 공간을 고를 필요 없이, 어떤 대화에서든 기존 맥락과 스킬, 커넥터를 활용해 업무를 맡길 수 있음 Claude Docs와 Claude Slides가 새로 추가되고 Claude Design도 대화 안에서 작동함. 세 기능 모두 유…",
+    "pubDate": "2026-09-16T20:38:17.000Z",
+    "collectedAt": "2026-09-16T22:14:51.291Z"
+  },
+  {
+    "id": "https://www.hankyung.com/article/202609179763i",
+    "category": "economy",
+    "source": "한국경제 증권",
+    "title": "워시 매파 발언에 놀란 뉴욕증시…S&P·다우 동반 하락",
+    "link": "https://www.hankyung.com/article/202609179763i",
+    "summary": "",
+    "pubDate": "2026-09-16T20:37:30.000Z",
+    "collectedAt": "2026-09-16T22:14:51.291Z"
+  },
+  {
+    "id": "https://www.hankyung.com/article/202609179760i",
+    "category": "economy",
+    "source": "한국경제 증권",
+    "title": "美, 기준금리 0.25%p 인상…\"연내 한 번 더 올린다\" [Fed 워치]",
+    "link": "https://www.hankyung.com/article/202609179760i",
+    "summary": "",
+    "pubDate": "2026-09-16T20:08:43.000Z",
+    "collectedAt": "2026-09-16T22:14:51.291Z"
+  },
+  {
+    "id": "https://www.hankyung.com/article/202609179752i",
+    "category": "economy",
+    "source": "한국경제 증권",
+    "title": "워시 \"물가 너무 오래 높았다\"…독립성 논란엔 \"각자 영역 지켜야\" [FOMC 전문]",
+    "link": "https://www.hankyung.com/article/202609179752i",
+    "summary": "",
+    "pubDate": "2026-09-16T19:45:21.000Z",
+    "collectedAt": "2026-09-16T22:14:51.291Z"
+  },
+  {
     "id": "https://news.hada.io/topic?id=33801",
     "category": "it",
     "source": "긱뉴스",
@@ -14878,125 +14998,5 @@
     "summary": "블리자드 엔터테인먼트가 대표 지식재산(IP) '스타크래프트' 신작을 2030년 선보인다. 오랜 기간 명맥이 끊겼던 스타크래프트 신작 개발을 공식화하며 대표 IP 부활에 나선다. 블리즈컨에서는 오버워치와 하스스톤 등 기존 주요 게임의 향후 업데이트 계획도 공개했다. 블리자드는 12일(현지…",
     "pubDate": "2026-09-13T02:27:14.000Z",
     "collectedAt": "2026-09-13T04:21:48.844Z"
-  },
-  {
-    "id": "20260913000051",
-    "category": "economy",
-    "source": "전자신문 경제",
-    "title": "KB 쏘아올린 '세대교체' 파고…연말 금융권 CEO 54명 연쇄 물갈이 분수령",
-    "link": "https://www.etnews.com/20260913000051",
-    "summary": "KB금융그룹이 과감한 세대교체를 선택하면서 연말연시 임기 만료를 앞둔 주요 금융그룹 최고경영자(CEO) 50여명의 거취에 금융권 시선이 집중되고 있다. 13일 금융권에 따르면 5대 금융그룹(KB·신한·하나·우리·농협) 계열사 최고경영자(CEO) 54명의 임기가 오는 12월 31일 일제히…",
-    "pubDate": "2026-09-13T02:26:30.000Z",
-    "collectedAt": "2026-09-13T04:21:48.844Z"
-  },
-  {
-    "id": "20260913000050",
-    "category": "economy",
-    "source": "전자신문 경제",
-    "title": "강태영 NH농협은행장, 제주 감귤 농가 일손돕기…농산물 소비 촉진 나섰다",
-    "link": "https://www.etnews.com/20260913000050",
-    "summary": "강태영 NH농협은행장이 전국 영업본부장들과 제주 농촌을 찾아 일손돕기를 실시하고 농가 지원에 나섰다. NH농협은행에 따르면 지난 11일 강 은행장과 영업본부장들은 서귀포시 하우스 감귤 재배 농가에서 수확과 선별 작업을 진행했다. 이번 봉사는 11일부터 1박 2일간 열린 영업본부장 회의에…",
-    "pubDate": "2026-09-13T02:19:37.000Z",
-    "collectedAt": "2026-09-13T04:21:48.844Z"
-  },
-  {
-    "id": "https://www.hankyung.com/article/2026091309557",
-    "category": "economy",
-    "source": "한국경제 경제",
-    "title": "\"이제 막 돌인데 '年 4000만원'\"…역대급 금수저들의 정체",
-    "link": "https://www.hankyung.com/article/2026091309557",
-    "summary": "",
-    "pubDate": "2026-09-13T02:17:16.000Z",
-    "collectedAt": "2026-09-13T04:21:48.844Z"
-  },
-  {
-    "id": "https://www.hankyung.com/article/202609130944i",
-    "category": "it",
-    "source": "한국경제 IT",
-    "title": "[단독] 中 킹넷, 위메이드 인수전 뛰어들었다…4000억 투자해 49% 확보",
-    "link": "https://www.hankyung.com/article/202609130944i",
-    "summary": "",
-    "pubDate": "2026-09-13T02:14:00.000Z",
-    "collectedAt": "2026-09-13T04:21:48.844Z"
-  },
-  {
-    "id": "https://www.hankyung.com/article/202609130911i",
-    "category": "economy",
-    "source": "한국경제 증권",
-    "title": "금리보다 주목할 Fed 내부 균열…9월 인상해도 영향 적을 듯",
-    "link": "https://www.hankyung.com/article/202609130911i",
-    "summary": "",
-    "pubDate": "2026-09-13T02:01:01.000Z",
-    "collectedAt": "2026-09-13T04:21:48.844Z"
-  },
-  {
-    "id": "https://www.hankyung.com/article/202609118947g",
-    "category": "economy",
-    "source": "한국경제 경제",
-    "title": "\"전복 선물세트 가격 실화냐\"…명절 대목인데 대체 무슨 일이 [박상경의 영수증 리뷰]",
-    "link": "https://www.hankyung.com/article/202609118947g",
-    "summary": "",
-    "pubDate": "2026-09-13T02:00:04.000Z",
-    "collectedAt": "2026-09-13T04:21:48.844Z"
-  },
-  {
-    "id": "20260913000043",
-    "category": "economy",
-    "source": "전자신문 경제",
-    "title": "32개국과 AI·에너지 인프라 수주 협력…GICC 15일 개막",
-    "link": "https://www.etnews.com/20260913000043",
-    "summary": "인공지능(AI) 데이터센터와 에너지 전환, 첨단 교통 인프라를 앞세운 해외건설 수주 협력의 장이 열린다. 32개국 정부·발주처 주요 인사와 국내외 기업 관계자 500여명이 서울에 모여 AI가 바꾸는 글로벌 인프라 시장과 신규 프로젝트를 논의한다. 한-중앙아 정상회의와 연계해 중앙아시아…",
-    "pubDate": "2026-09-13T02:00:00.000Z",
-    "collectedAt": "2026-09-13T02:15:07.895Z"
-  },
-  {
-    "id": "20260913000038",
-    "category": "economy",
-    "source": "전자신문 경제",
-    "title": "아태 16개국 식물검역 전문가 서울 집결…한국, 국제기준 논의 주도",
-    "link": "https://www.etnews.com/20260913000038",
-    "summary": "한국이 아시아·태평양 지역 식물검역 국제기준 마련을 위한 공동 대응을 주도한다. 바나나·오렌지 등 농산물 교역에 적용할 검역기준부터 전자식물검역증명서(ePhyto), 해상컨테이너 병해충 관리까지 논의 범위를 넓혔다. 아태지역에서 합의한 의견은 국제식물보호협약(IPPC)에 공식 제출된다.…",
-    "pubDate": "2026-09-13T02:00:00.000Z",
-    "collectedAt": "2026-09-13T02:15:07.895Z"
-  },
-  {
-    "id": "20260913000047",
-    "category": "economy",
-    "source": "전자신문 경제",
-    "title": "신한카드, 카카오와 협업…AI 대화로 금융서비스 제공",
-    "link": "https://www.etnews.com/20260913000047",
-    "summary": "신한카드는 카카오와 협업해 '챗GPT for 카카오'에서 카드 추천과 금융생활 콘텐츠 등 신한카드 서비스를 제공한다. 국내 카드사가 카카오 AI 서비스와 연계해 금융서비스를 제공하는 것은 처음이다. 서비스는 고객이 챗GPT for 카카오와 대화하는 과정에서 신한카드의 상품과 콘텐츠 정보…",
-    "pubDate": "2026-09-13T01:57:47.000Z",
-    "collectedAt": "2026-09-13T02:15:07.895Z"
-  },
-  {
-    "id": "https://news.hada.io/topic?id=33607",
-    "category": "it",
-    "source": "긱뉴스",
-    "title": "Show GN: irasutoya - (Claude Skill) いらすとや 이라스토야 일러스트를 검색·다운로드해 활용",
-    "link": "https://news.hada.io/topic?id=33607",
-    "summary": "Claude가 슬라이드·문서·블로그 글을 만들 때 いらすとや에서 어울리는 일러스트를 찾아 투명 PNG로 받아 바로 넣어주는 스킬입니다. Claude Design 캔버스에서도 씁니다. [IMG] how it",
-    "pubDate": "2026-09-13T01:35:28.000Z",
-    "collectedAt": "2026-09-13T02:15:07.895Z"
-  },
-  {
-    "id": "https://www.hankyung.com/article/202609130850i",
-    "category": "economy",
-    "source": "한국경제 경제",
-    "title": "최태원 \"굴뚝산업도 AI 확산 빨라…울산을 제조 AX 선도모델로\"",
-    "link": "https://www.hankyung.com/article/202609130850i",
-    "summary": "",
-    "pubDate": "2026-09-13T01:31:16.000Z",
-    "collectedAt": "2026-09-13T02:15:07.895Z"
-  },
-  {
-    "id": "https://www.hankyung.com/article/202609118860g",
-    "category": "economy",
-    "source": "한국경제 경제",
-    "title": "낮고 긴 SUV의 반전…필랑트, 겉모습보다 놀라운 건 따로 있었다 [신차털기]",
-    "link": "https://www.hankyung.com/article/202609118860g",
-    "summary": "",
-    "pubDate": "2026-09-13T01:30:01.000Z",
-    "collectedAt": "2026-09-13T02:15:07.895Z"
   }
 ]
