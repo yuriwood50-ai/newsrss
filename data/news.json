@@ -1,5 +1,55 @@
 [
   {
+    "id": "https://news.hada.io/topic?id=33801",
+    "category": "it",
+    "source": "긱뉴스",
+    "title": "OpenAI, Sponsored Agents로 ChatGPT 광고 확대",
+    "link": "https://news.hada.io/topic?id=33801",
+    "summary": "OpenAI가 ChatGPT 광고를 클릭하면 기업이 후원하는 에이전트와 대화할 수 있는 Sponsored Agents를 미국 일부 광고주와 테스트 중임 후원 에이전트와의 대화는 명확히 표시되며, ChatGPT의 독립적인 답변 및 사용자의 기존 대화와 분리됨 광고주는",
+    "pubDate": "2026-09-16T19:32:48.000Z",
+    "collectedAt": "2026-09-16T20:17:20.558Z"
+  },
+  {
+    "id": "https://www.hankyung.com/article/202609179742i",
+    "category": "economy",
+    "source": "한국경제 증권",
+    "title": "[질의응답] 케빈 워시, \"물가 너무 오래 높은 상태…금융 여건 긴축적이지 않다\" [Fed 워치]",
+    "link": "https://www.hankyung.com/article/202609179742i",
+    "summary": "",
+    "pubDate": "2026-09-16T19:10:13.000Z",
+    "collectedAt": "2026-09-16T20:17:20.558Z"
+  },
+  {
+    "id": "https://www.hankyung.com/article/202609179736i",
+    "category": "economy",
+    "source": "한국경제 증권",
+    "title": "[속보] 케빈 워시 \"현재 금융여건 긴축적이지 않다\"...추가 인상 예고 [Fed 워치]",
+    "link": "https://www.hankyung.com/article/202609179736i",
+    "summary": "",
+    "pubDate": "2026-09-16T18:48:33.000Z",
+    "collectedAt": "2026-09-16T20:17:20.558Z"
+  },
+  {
+    "id": "https://www.hankyung.com/article/202609179733i",
+    "category": "economy",
+    "source": "한국경제 증권",
+    "title": "\"인플레 너무 높으며, 이런 상태 너무 오래 지속됐다\" [Fed 워치]",
+    "link": "https://www.hankyung.com/article/202609179733i",
+    "summary": "",
+    "pubDate": "2026-09-16T18:42:58.000Z",
+    "collectedAt": "2026-09-16T20:17:20.558Z"
+  },
+  {
+    "id": "https://news.hada.io/topic?id=33800",
+    "category": "it",
+    "source": "긱뉴스",
+    "title": "발표가 좋았다면 발표자에게 말해주세요",
+    "link": "https://news.hada.io/topic?id=33800",
+    "summary": "발표가 좋았다면 짧게라도 발표자에게 직접 전할 가치가 있음. 발표자는 많은 노력을 들여 준비하며, 청중이 즐겼는지와 발표가 괜찮았는지 알고 싶어 함 피드백 없는 침묵은 발표자를 불안하게 만들 수 있음. 온라인 반응이 하나도 없어 발표가 와닿지 않았는지 걱...",
+    "pubDate": "2026-09-16T18:34:19.000Z",
+    "collectedAt": "2026-09-16T20:17:20.558Z"
+  },
+  {
     "id": "https://www.aitimes.com/news/articleView.html?idxno=215363",
     "category": "ai",
     "source": "AI타임스 AI산업",
@@ -8,6 +58,16 @@
     "summary": "넘즈AI(대표 유재민)는 자체 정형 데이터 파운데이션 모델(TFM) '코실로(Causilo)'가 글로벌 데이터 AI 평가 플랫폼 '탭아레나(TabArena)'의 종합·분류·회귀 엘로(Elo) 평가에서 1위를 차지했다고 16일 밝혔다.코실로는 51개 데이터셋을 대상으로 진행한 종합 성적을…",
     "pubDate": "2026-09-16T18:25:00.000Z",
     "collectedAt": "2026-09-16T18:18:05.317Z"
+  },
+  {
+    "id": "https://www.hankyung.com/article/202609179715i",
+    "category": "economy",
+    "source": "한국경제 증권",
+    "title": "Fed, 美 기준금리 인상…\"연내 한 번 더 올린다\" [Fed 워치]",
+    "link": "https://www.hankyung.com/article/202609179715i",
+    "summary": "",
+    "pubDate": "2026-09-16T18:20:33.000Z",
+    "collectedAt": "2026-09-16T20:17:20.558Z"
   },
   {
     "id": "https://www.hankyung.com/article/202609179726i",
@@ -14937,66 +14997,6 @@
     "link": "https://www.hankyung.com/article/202609118860g",
     "summary": "",
     "pubDate": "2026-09-13T01:30:01.000Z",
-    "collectedAt": "2026-09-13T02:15:07.895Z"
-  },
-  {
-    "id": "20260913000037",
-    "category": "economy",
-    "source": "전자신문 경제",
-    "title": "KB국민카드, 행정안전부와 지역 청년 정착 지원",
-    "link": "https://www.etnews.com/20260913000037",
-    "summary": "KB국민카드는 행정안전부와 지역 청년 정착과 경제 활성화 지원에 나선다. KB국민카드는 지난 11일 전북특별자치도 익산시 청년마을 '지구장이마을'에서 행정안전부와 'KB 지역 청년 온기 나눔' 업무협약을 체결했다고 13일 밝혔다. KB 지역청년 온기 나눔은 행정안전부의 '청년마을 만들기…",
-    "pubDate": "2026-09-13T01:18:35.000Z",
-    "collectedAt": "2026-09-13T02:15:07.895Z"
-  },
-  {
-    "id": "https://news.hada.io/topic?id=33606",
-    "category": "it",
-    "source": "긱뉴스",
-    "title": "Dreeve - 운동 데이터를 직접 보관하고 분석하는 셀프 호스팅 대시보드",
-    "link": "https://news.hada.io/topic?id=33606",
-    "summary": "달리기와 사이클링 등 운동 기록을 내 서버에 모아 얼마나 꾸준히 운동했고, 어디를 다녔으며, 기록이 어떻게 달라졌는지 살펴보는 오픈소스 대시보드 이전 이름은 Statistics for Strava이며, Strava 연동뿐 아니라 운동 기기에서 내보낸 FIT/TCX/GPX 파일도 가져..…",
-    "pubDate": "2026-09-13T01:10:02.000Z",
-    "collectedAt": "2026-09-13T02:15:07.895Z"
-  },
-  {
-    "id": "https://www.hankyung.com/article/2026091307447",
-    "category": "economy",
-    "source": "한국경제 경제",
-    "title": "\"할리우드 한복판에 LG TV 뜬다\"…에미상 공식 파트너 선정",
-    "link": "https://www.hankyung.com/article/2026091307447",
-    "summary": "",
-    "pubDate": "2026-09-13T01:00:09.000Z",
-    "collectedAt": "2026-09-13T02:15:07.895Z"
-  },
-  {
-    "id": "https://www.hankyung.com/article/2026091307337",
-    "category": "economy",
-    "source": "한국경제 경제",
-    "title": "\"아이들도, 선생님도 '만족도 최상'\"…화제의 '삼성 수업' 뭐길래",
-    "link": "https://www.hankyung.com/article/2026091307337",
-    "summary": "",
-    "pubDate": "2026-09-13T01:00:06.000Z",
-    "collectedAt": "2026-09-13T02:15:07.895Z"
-  },
-  {
-    "id": "https://www.hankyung.com/article/202609130753i",
-    "category": "economy",
-    "source": "한국경제 경제",
-    "title": "\"궁금해서 한번, 맛있어서 또\"…2030 지갑 홀린 디저트 정체 [프라이스&]",
-    "link": "https://www.hankyung.com/article/202609130753i",
-    "summary": "",
-    "pubDate": "2026-09-13T01:00:04.000Z",
-    "collectedAt": "2026-09-13T02:15:07.895Z"
-  },
-  {
-    "id": "20260913000007",
-    "category": "it",
-    "source": "전자신문 IT/통신",
-    "title": "삼성전자, '갤럭시 AI 클래스' 2학기 모집…AI 윤리·활용법 신설",
-    "link": "https://www.etnews.com/20260913000007",
-    "summary": "삼성전자가 초·중학생을 대상으로 갤럭시 기기를 활용해 인공지능(AI)을 배우는 체험형 교육 프로그램 '갤럭시 AI 클래스' 2학기 참여 학급을 모집한다. 삼성전자는 전국 초등학교 고학년과 중학생을 대상으로 '갤럭시 AI 클래스' 2학기 모집을 시작한다고 13일 밝혔다. 담당 교사가 학급…",
-    "pubDate": "2026-09-13T01:00:00.000Z",
     "collectedAt": "2026-09-13T02:15:07.895Z"
   }
 ]
