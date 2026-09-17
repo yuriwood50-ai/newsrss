@@ -1,5 +1,125 @@
 [
   {
+    "id": "https://news.hada.io/topic?id=33862",
+    "category": "it",
+    "source": "긱뉴스",
+    "title": "모두가 제정신을 잃었다",
+    "link": "https://news.hada.io/topic?id=33862",
+    "summary": "AI 대응이 하루 업무의 75% 이상을 차지하면서 일의 즐거움까지 잃은 경험에서 출발해, 윤리와 실제 효과를 따지지 않는 조직의 AI 도입 열풍을 비판함 보안의 병목은 취약점을 찾는 것이 아니라 실제 시스템에 패치를 적용하는 일인데, 조직들은 AI로 수천 건의 취...",
+    "pubDate": "2026-09-17T22:02:15.000Z",
+    "collectedAt": "2026-09-17T22:14:44.178Z"
+  },
+  {
+    "id": "https://www.hankyung.com/article/2026091720541",
+    "category": "it",
+    "source": "한국경제 IT",
+    "title": "\"50도 폭염에도 36㎏ 번쩍\"…오스틴서 美물류 뚫은 K로봇팔",
+    "link": "https://www.hankyung.com/article/2026091720541",
+    "summary": "",
+    "pubDate": "2026-09-17T22:00:09.000Z",
+    "collectedAt": "2026-09-17T22:14:44.178Z"
+  },
+  {
+    "id": "20260918000001",
+    "category": "ai",
+    "source": "전자신문 AI",
+    "title": "英 찰스 3세 'AI 위험성' 경고…젠슨 황 “SNS 같은 규제 안 돼”",
+    "link": "https://www.etnews.com/20260918000001",
+    "summary": "찰스 3세 영국 국왕이 글로벌 인공지능(AI)의 급격한 발달에 따른 인류 존립의 위험성을 경고하고 인간의 통제권을 지켜야 한다고 AI 업계에 촉구했다. 17일(현지시간) 찰스 3세는 스코틀랜드 덤프리스하우스에서 연 회의에서 젠슨 황 엔비디아 최고경영자(CEO), 딥마인드 공동 창업자인…",
+    "pubDate": "2026-09-17T21:57:40.000Z",
+    "collectedAt": "2026-09-17T22:14:44.178Z"
+  },
+  {
+    "id": "https://news.hada.io/topic?id=33861",
+    "category": "it",
+    "source": "긱뉴스",
+    "title": "Mysetup - 다른 사람의 AI 도구와 실제 작업 방식을 살펴보는 커뮤니티",
+    "link": "https://news.hada.io/topic?id=33861",
+    "summary": "어떤 모델을 쓰는지뿐 아니라 에이전트, 스킬, 연결 도구를 어떻게 조합해 일하는지 공개하고 서로 배우는 공간 개인별 페이지에 작업 흐름과 설정, 시행착오를 정리하며, 변경 이력과 팔로우로 다른 사람의 환경이 바뀌는 과정도 따라갈 수 있음 여러 에...",
+    "pubDate": "2026-09-17T21:52:16.000Z",
+    "collectedAt": "2026-09-17T22:14:44.178Z"
+  },
+  {
+    "id": "https://news.hada.io/topic?id=33860",
+    "category": "it",
+    "source": "긱뉴스",
+    "title": "셀프스토리지라는 미국의 종교",
+    "link": "https://news.hada.io/topic?id=33860",
+    "summary": "미국은 세계 셀프스토리지 보관 용량의 약 90% 를 차지하며, 연간 매출은 400억 달러 이상으로 추산됨. 집에 둘 곳이 없는 물건을 보관하는 사업이 기관투자자도 투자하는 부동산 자산군으로 성장함 업계의 주요 수요는 사망, 거처 상실, 이혼, 주거 규모 축소라는 ‘4D",
+    "pubDate": "2026-09-17T21:52:15.000Z",
+    "collectedAt": "2026-09-17T22:14:44.178Z"
+  },
+  {
+    "id": "https://news.hada.io/topic?id=33859",
+    "category": "it",
+    "source": "긱뉴스",
+    "title": "항공유 절약하기",
+    "link": "https://news.hada.io/topic?id=33859",
+    "summary": "Scikit-decide, OpenAP, NOAA 바람 데이터를 결합하면 바람 조건을 반영해 연료 소비를 줄이는 비행 경로를 오픈소스로 탐색할 수 있음 항공기 성능 모델과 경로 탐색을 연결해 기종, 중량, 속도, 고도, 기상 조건을 설정하고 연료 소비를 목적 함수로 최적화함",
+    "pubDate": "2026-09-17T21:02:16.000Z",
+    "collectedAt": "2026-09-17T22:14:44.178Z"
+  },
+  {
+    "id": "https://news.hada.io/topic?id=33858",
+    "category": "it",
+    "source": "긱뉴스",
+    "title": "가동률 백분율 표기, 이제 그만하면 안 될까?",
+    "link": "https://news.hada.io/topic?id=33858",
+    "summary": "서비스 상태 페이지가 인프라 전문가뿐 아니라 일반 사용자도 보는 공개 인터페이스가 된 만큼, 가동률 백분율만으로는 장애의 체감 규모를 전달하기 어려움 99.9%와 99.99% 는 비슷해 보이지만, 다운타임은 후자가 전자의 10분의 1임 인프라 전문가는",
+    "pubDate": "2026-09-17T21:02:15.000Z",
+    "collectedAt": "2026-09-17T22:14:44.178Z"
+  },
+  {
+    "id": "https://www.hankyung.com/article/2026091716686",
+    "category": "economy",
+    "source": "한국경제 증권",
+    "title": "돌아온 외인, 8월 국내주식 3400억 순매수…8개월 만에 '사자'",
+    "link": "https://www.hankyung.com/article/2026091716686",
+    "summary": "",
+    "pubDate": "2026-09-17T21:00:08.000Z",
+    "collectedAt": "2026-09-17T22:14:44.178Z"
+  },
+  {
+    "id": "https://www.hankyung.com/article/202609171684g",
+    "category": "economy",
+    "source": "한국경제 경제",
+    "title": "\"달아서 안 먹었는데…\" 2030 '해장템'으로 대박 난 사연 [트렌드+]",
+    "link": "https://www.hankyung.com/article/202609171684g",
+    "summary": "",
+    "pubDate": "2026-09-17T21:00:05.000Z",
+    "collectedAt": "2026-09-17T22:14:44.178Z"
+  },
+  {
+    "id": "https://www.hankyung.com/article/2026091720841",
+    "category": "economy",
+    "source": "한국경제 증권",
+    "title": "\"삼전닉스 주춤할 때 치솟았다\"…뒤에서 웃은 종목 뭐길래",
+    "link": "https://www.hankyung.com/article/2026091720841",
+    "summary": "",
+    "pubDate": "2026-09-17T21:00:03.000Z",
+    "collectedAt": "2026-09-17T22:14:44.178Z"
+  },
+  {
+    "id": "https://news.hada.io/topic?id=33857",
+    "category": "it",
+    "source": "긱뉴스",
+    "title": "돛의 귀환: 화물선이 다시 바람을 이용하기 시작함",
+    "link": "https://news.hada.io/topic?id=33857",
+    "summary": "현대식 풍력 추진 시스템을 장착한 대형 상선이 100척을 넘어섰으며, 대부분은 기존 엔진을 대체하기보다 바람을 활용할 수 있는 조건에서 연료 소비를 줄임 로터 세일과 날개형 돛이 벌크선과 유조선을 넘어 컨테이너선으로 확대되고 있으며, LNG 운반선 적용도 연...",
+    "pubDate": "2026-09-17T20:52:16.000Z",
+    "collectedAt": "2026-09-17T22:14:44.178Z"
+  },
+  {
+    "id": "https://news.hada.io/topic?id=33856",
+    "category": "it",
+    "source": "긱뉴스",
+    "title": "내가 필즈상 수상자들의 서한에 서명하지 않은 이유",
+    "link": "https://news.hada.io/topic?id=33856",
+    "summary": "필즈상 수상자 25명이 AI의 빠른 문제 풀이가 수학의 토대를 해칠 수 있다고 경고했지만, 같은 수상자로서 위기에는 동의해도 그 원인과 대응에는 다른 판단을 내림 수학에는 개념을 이해하려고 문제를 푸는 사람도, 문제를 풀려고 개념을 이해하는 사람도 있으며,...",
+    "pubDate": "2026-09-17T20:52:15.000Z",
+    "collectedAt": "2026-09-17T22:14:44.178Z"
+  },
+  {
     "id": "https://news.hada.io/topic?id=33855",
     "category": "it",
     "source": "긱뉴스",
@@ -148,6 +268,16 @@
     "summary": "모티프테크놀로지스가 ‘모티프 3(Motif 3)’ 모델의 무료 API를 한시적으로 공개한다. 모티프 3는 아티피셜 애널리시스 인텔리전스 인덱스(AAII) 에서 평균 점수 47점을 기록하며 국내 AI 모델로서 최고 성능을 입증한 모델이다.임정환 모티프테크놀로지스 대표는 오는 29일까지 A…",
     "pubDate": "2026-09-17T16:56:07.000Z",
     "collectedAt": "2026-09-17T08:17:13.233Z"
+  },
+  {
+    "id": "https://www.aitimes.com/news/articleView.html?idxno=215425",
+    "category": "ai",
+    "source": "AI타임스 AI산업",
+    "title": "\"AI가 진료 기록 대신 써준다\"...픽스업헬스, 의료 자동화 솔루션 출시",
+    "link": "https://www.aitimes.com/news/articleView.html?idxno=215425",
+    "summary": "의료 AI 전문 픽스업헬스(대표 임상원)는 원격 재활 치료 모니터링(RTM) 솔루션에 엠비언트 AI 기술을 적용한 ‘RTM 솔루션 2.0’을 선보였다고 17일 밝혔다.픽스업헬스는 의료기관이 원격 모니터링과 처방을 통해 환자의 재활을 효율적으로 관리하고, 보험 청구도 원스톱으로 지원하도록…",
+    "pubDate": "2026-09-17T16:55:00.000Z",
+    "collectedAt": "2026-09-17T22:14:44.178Z"
   },
   {
     "id": "https://news.hada.io/topic?id=33851",
@@ -14867,136 +14997,6 @@
     "link": "https://www.hankyung.com/article/2026091439501",
     "summary": "",
     "pubDate": "2026-09-14T08:41:19.000Z",
-    "collectedAt": "2026-09-14T10:15:49.692Z"
-  },
-  {
-    "id": "https://www.hankyung.com/article/2026091439511",
-    "category": "economy",
-    "source": "한국경제 경제",
-    "title": "1800조 굴리는 국민연금 CIO에 이규홍",
-    "link": "https://www.hankyung.com/article/2026091439511",
-    "summary": "",
-    "pubDate": "2026-09-14T08:41:01.000Z",
-    "collectedAt": "2026-09-14T10:15:49.692Z"
-  },
-  {
-    "id": "https://www.hankyung.com/article/2026091439571",
-    "category": "it",
-    "source": "한국경제 IT",
-    "title": "\"500만원인데 20분 만에 다 팔렸다\"…난리 난 '이 상품' 정체",
-    "link": "https://www.hankyung.com/article/2026091439571",
-    "summary": "",
-    "pubDate": "2026-09-14T08:40:23.000Z",
-    "collectedAt": "2026-09-14T10:15:49.692Z"
-  },
-  {
-    "id": "https://www.hankyung.com/article/2026091439561",
-    "category": "economy",
-    "source": "한국경제 경제",
-    "title": "지폐 안 쓰는데 최대 매출…'사라질 공기업'이라던 조폐공사의 반전",
-    "link": "https://www.hankyung.com/article/2026091439561",
-    "summary": "",
-    "pubDate": "2026-09-14T08:38:56.000Z",
-    "collectedAt": "2026-09-14T10:15:49.692Z"
-  },
-  {
-    "id": "https://www.hankyung.com/article/2026091439401",
-    "category": "economy",
-    "source": "한국경제 경제",
-    "title": "美 10년물 국채, 지금이 매수 타이밍?",
-    "link": "https://www.hankyung.com/article/2026091439401",
-    "summary": "",
-    "pubDate": "2026-09-14T08:36:36.000Z",
-    "collectedAt": "2026-09-14T10:15:49.692Z"
-  },
-  {
-    "id": "https://www.hankyung.com/article/2026091439391",
-    "category": "economy",
-    "source": "한국경제 증권",
-    "title": "美 기업에 날아드는 '고금리 청구서'",
-    "link": "https://www.hankyung.com/article/2026091439391",
-    "summary": "",
-    "pubDate": "2026-09-14T08:36:18.000Z",
-    "collectedAt": "2026-09-14T10:15:49.692Z"
-  },
-  {
-    "id": "https://www.hankyung.com/article/2026091438631",
-    "category": "it",
-    "source": "한국경제 IT",
-    "title": "'AI 대신 누가 네이버 써요?' 발칵 뒤집혔는데…'놀라운 반전'",
-    "link": "https://www.hankyung.com/article/2026091438631",
-    "summary": "",
-    "pubDate": "2026-09-14T08:32:15.000Z",
-    "collectedAt": "2026-09-14T10:15:49.692Z"
-  },
-  {
-    "id": "https://www.hankyung.com/article/2026091438621",
-    "category": "it",
-    "source": "한국경제 IT",
-    "title": "\"AI직원 채용해 창업하세요\"…한컴, 업무 플랫폼 美 도전",
-    "link": "https://www.hankyung.com/article/2026091438621",
-    "summary": "",
-    "pubDate": "2026-09-14T08:31:22.000Z",
-    "collectedAt": "2026-09-14T10:15:49.692Z"
-  },
-  {
-    "id": "https://www.hankyung.com/article/2026091438591",
-    "category": "it",
-    "source": "한국경제 IT",
-    "title": "LG AI \"화장품 소재 개발, 22개월→1일로 단축\"",
-    "link": "https://www.hankyung.com/article/2026091438591",
-    "summary": "",
-    "pubDate": "2026-09-14T08:30:47.000Z",
-    "collectedAt": "2026-09-14T10:15:49.692Z"
-  },
-  {
-    "id": "https://www.hankyung.com/article/2026091438571",
-    "category": "it",
-    "source": "한국경제 IT",
-    "title": "로봇청소기가 찍은 집안 영상…제조회사 서버엔 안 남는다",
-    "link": "https://www.hankyung.com/article/2026091438571",
-    "summary": "",
-    "pubDate": "2026-09-14T08:30:23.000Z",
-    "collectedAt": "2026-09-14T10:15:49.692Z"
-  },
-  {
-    "id": "https://www.hankyung.com/article/2026091438581",
-    "category": "it",
-    "source": "한국경제 IT",
-    "title": "스픽 즈윅 CEO \"AI 통역 시대에도 외국어 학습 늘 것\"",
-    "link": "https://www.hankyung.com/article/2026091438581",
-    "summary": "",
-    "pubDate": "2026-09-14T08:30:02.000Z",
-    "collectedAt": "2026-09-14T10:15:49.692Z"
-  },
-  {
-    "id": "20260914000429",
-    "category": "it",
-    "source": "전자신문 IT/통신",
-    "title": "MBC 신임 사장에 이성주 확정…임기 3년",
-    "link": "https://www.etnews.com/20260914000429",
-    "summary": "MBC 신임 사장에 이성주 iMBC 경영이사가 최종 선임됐다. MBC는 14일 주주총회를 열고 이성주 내정자에 대한 신임 사장 선임안을 원안대로 가결했다. MBC 대주주이자 관리·감독기구인 방송문화진흥회(방문진)는 전날 임시 이사회를 열고 이 내정자와 전동건 전 울산MBC 사장 2명의…",
-    "pubDate": "2026-09-14T08:29:34.000Z",
-    "collectedAt": "2026-09-14T10:15:49.692Z"
-  },
-  {
-    "id": "https://www.hankyung.com/article/2026091438531",
-    "category": "it",
-    "source": "한국경제 IT",
-    "title": "알지노믹스 \"RNA 플랫폼 수출 확대\"",
-    "link": "https://www.hankyung.com/article/2026091438531",
-    "summary": "",
-    "pubDate": "2026-09-14T08:29:20.000Z",
-    "collectedAt": "2026-09-14T10:15:49.692Z"
-  },
-  {
-    "id": "https://www.hankyung.com/article/2026091438551",
-    "category": "economy",
-    "source": "한국경제 경제",
-    "title": "매출 3배·기업가치 4배…오너·PEF 협업이 만든 알에프메디컬",
-    "link": "https://www.hankyung.com/article/2026091438551",
-    "summary": "",
-    "pubDate": "2026-09-14T08:28:44.000Z",
     "collectedAt": "2026-09-14T10:15:49.692Z"
   }
 ]
