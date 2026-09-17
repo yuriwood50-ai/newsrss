@@ -1,5 +1,35 @@
 [
   {
+    "id": "https://news.hada.io/topic?id=33855",
+    "category": "it",
+    "source": "긱뉴스",
+    "title": "Jean-Pierre Serre, 100세를 맞다",
+    "link": "https://news.hada.io/topic?id=33855",
+    "summary": "Jean-Pierre Serre는 대수적 위상수학, 대수기하학, 대수적 정수론에 중요한 공헌을 한 프랑스 수학자로, 여러 수학 분야가 현대적 형태를 갖추는 데 핵심 역할을 함 스펙트럴 열(spectral sequence) 을 올다발의 호몰로지 연구에 적용해 호몰로지 군과 호모토피 군..…",
+    "pubDate": "2026-09-17T19:52:17.000Z",
+    "collectedAt": "2026-09-17T20:17:08.278Z"
+  },
+  {
+    "id": "https://news.hada.io/topic?id=33854",
+    "category": "it",
+    "source": "긱뉴스",
+    "title": "역공학으로 구현한 Jev 유사 모델",
+    "link": "https://news.hada.io/topic?id=33854",
+    "summary": "Jevlike는 텍스트 문맥과 매번 달라질 수 있는 선택지 목록을 받아, 답을 단어별로 생성하지 않고 한 번의 처리로 선택지별 확률을 계산하는 소형 모델임 각 선택지를 쿼리 벡터로 만들어 문맥 토큰에 어텐션을 적용하고, 선택지별 문맥 벡터와의 점수를 계산한 뒤...",
+    "pubDate": "2026-09-17T19:52:16.000Z",
+    "collectedAt": "2026-09-17T20:17:08.278Z"
+  },
+  {
+    "id": "https://news.hada.io/topic?id=33853",
+    "category": "it",
+    "source": "긱뉴스",
+    "title": "나는 LLM이 마음에 들지 않는다",
+    "link": "https://news.hada.io/topic?id=33853",
+    "summary": "AI와 LLM의 생산성 향상 가능성에 대한 기대와 위험에 대한 두려움이 공존하지만, 직접 대화할 때 가장 강하게 드는 감정은 비호감임 LLM은 유용한 답변과 지어낸 내용을 똑같이 확신에 찬 태도로 말하며, 오류를 지적받아도 겉으로만 후회하는 듯...",
+    "pubDate": "2026-09-17T19:52:15.000Z",
+    "collectedAt": "2026-09-17T20:17:08.278Z"
+  },
+  {
     "id": "https://www.aitimes.com/news/articleView.html?idxno=215401",
     "category": "ai",
     "source": "AI타임스 AI산업",
@@ -14967,36 +14997,6 @@
     "link": "https://www.hankyung.com/article/2026091438551",
     "summary": "",
     "pubDate": "2026-09-14T08:28:44.000Z",
-    "collectedAt": "2026-09-14T10:15:49.692Z"
-  },
-  {
-    "id": "https://www.hankyung.com/article/2026091438521",
-    "category": "it",
-    "source": "한국경제 IT",
-    "title": "병든 세포 찾는 '약물 운반트럭' AOC",
-    "link": "https://www.hankyung.com/article/2026091438521",
-    "summary": "",
-    "pubDate": "2026-09-14T08:28:02.000Z",
-    "collectedAt": "2026-09-14T10:15:49.692Z"
-  },
-  {
-    "id": "https://www.hankyung.com/article/2026091438471",
-    "category": "economy",
-    "source": "한국경제 경제",
-    "title": "판매대금 조기 정산…공영홈쇼핑 거래 '껑충'",
-    "link": "https://www.hankyung.com/article/2026091438471",
-    "summary": "",
-    "pubDate": "2026-09-14T08:26:53.000Z",
-    "collectedAt": "2026-09-14T10:15:49.692Z"
-  },
-  {
-    "id": "https://www.hankyung.com/article/2026091438481",
-    "category": "economy",
-    "source": "한국경제 경제",
-    "title": "[단독] 한미반도체 패키징 장비…머스크 '테라팹'에 공급",
-    "link": "https://www.hankyung.com/article/2026091438481",
-    "summary": "",
-    "pubDate": "2026-09-14T08:26:08.000Z",
     "collectedAt": "2026-09-14T10:15:49.692Z"
   }
 ]
