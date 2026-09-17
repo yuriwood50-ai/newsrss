@@ -240,6 +240,26 @@
     "collectedAt": "2026-09-17T06:20:50.816Z"
   },
   {
+    "id": "https://www.hankyung.com/article/2026091724031",
+    "category": "it",
+    "source": "한국경제 IT",
+    "title": "네이버, 배민 인수 철회…우버가 단독으로 매수",
+    "link": "https://www.hankyung.com/article/2026091724031",
+    "summary": "",
+    "pubDate": "2026-09-17T13:54:55.000Z",
+    "collectedAt": "2026-09-17T14:16:52.088Z"
+  },
+  {
+    "id": "https://news.hada.io/topic?id=33842",
+    "category": "it",
+    "source": "긱뉴스",
+    "title": "HarnessTax: 코딩 에이전트에서 하네스는 얼마나 중요할까?",
+    "link": "https://news.hada.io/topic?id=33842",
+    "summary": "7개 모델과 3개 하네스의 21개 조합을 평가한 결과, 두 벤치마크에서 하네스 선택은 작업 성공률보다 토큰 비용에 더 큰 영향을 미쳤으며, 같은 모델이 비슷한 성공률을 내는 데 비용은 최대 5배 차이 났음 Claude Code는 공통 모델 기준 SWE-ben...",
+    "pubDate": "2026-09-17T13:52:14.000Z",
+    "collectedAt": "2026-09-17T14:16:52.088Z"
+  },
+  {
     "id": "https://www.aitimes.com/news/articleView.html?idxno=215387",
     "category": "ai",
     "source": "AI타임스 AI산업",
@@ -248,6 +268,26 @@
     "summary": "LG유플러스(대표 홍범식)는 현대엘리베이터와 'AI 기반 원격관제 시스템 고도화 및 보안 분야 협력'을 위한 업무협약을 체결했다고 17일 밝혔다.양사는 현대엘리베이터의 스마트 원격관제 플랫폼 '미리(MIRI)'와 승강기 간 통신 구간에 LGU+의 사물지능통신(M2M) 서비스를 적용해 원…",
     "pubDate": "2026-09-17T13:44:47.000Z",
     "collectedAt": "2026-09-17T06:20:50.816Z"
+  },
+  {
+    "id": "https://news.hada.io/topic?id=33841",
+    "category": "it",
+    "source": "긱뉴스",
+    "title": "OpenSpec - 가볍고 구성을 조정할 수 있는 AI 명세 프레임워크",
+    "link": "https://news.hada.io/topic?id=33841",
+    "summary": "OpenSpec은 만들려는 소프트웨어의 요구사항을 명세로 작성하고 관리하며, 작업이 진행되는 동안 팀과 코딩 에이전트가 같은 목표를 유지하도록 돕는 프레임워크임 요구사항을 구체화하고 원하는 대상을 제대로 기술하는지 확인하며, 구현이 명세와 일치하...",
+    "pubDate": "2026-09-17T13:42:15.000Z",
+    "collectedAt": "2026-09-17T14:16:52.088Z"
+  },
+  {
+    "id": "https://news.hada.io/topic?id=33840",
+    "category": "it",
+    "source": "긱뉴스",
+    "title": "Neovim, 2023년 받은 약 80만 달러 상당의 Bitcoin 기부금이 사용되지 않은 채 남아 있음",
+    "link": "https://news.hada.io/topic?id=33840",
+    "summary": "Neovim 기부 주소에 2023년 입금된 10 Bitcoin이 사용되지 않은 채 남아 있다는 게시물이 올라옴 이 기부금의 가치는 게시물 기준 약 80만 달러임 확인에 사용한 주소는 Neovim 웹사이트 하단에 있는 Bitcoin 기부 주소임 거래...",
+    "pubDate": "2026-09-17T13:42:14.000Z",
+    "collectedAt": "2026-09-17T14:16:52.088Z"
   },
   {
     "id": "https://www.aitimes.com/news/articleView.html?idxno=215391",
@@ -260,6 +300,26 @@
     "collectedAt": "2026-09-17T06:20:50.816Z"
   },
   {
+    "id": "https://www.hankyung.com/article/2026091718256",
+    "category": "economy",
+    "source": "한국경제 경제",
+    "title": "\"한동안 코스피 잠잠했는데\"…美 금리 인상에 개미 '초긴장' [분석+]",
+    "link": "https://www.hankyung.com/article/2026091718256",
+    "summary": "",
+    "pubDate": "2026-09-17T13:00:04.000Z",
+    "collectedAt": "2026-09-17T14:16:52.088Z"
+  },
+  {
+    "id": "https://www.hankyung.com/article/202609179876g",
+    "category": "economy",
+    "source": "한국경제 경제",
+    "title": "단종된 '추억의 라면'도 뚝딱…1만 권 '스프 처방전'의 비밀 [현장+]",
+    "link": "https://www.hankyung.com/article/202609179876g",
+    "summary": "",
+    "pubDate": "2026-09-17T13:00:01.000Z",
+    "collectedAt": "2026-09-17T14:16:52.088Z"
+  },
+  {
     "id": "https://www.aitimes.com/news/articleView.html?idxno=215379",
     "category": "ai",
     "source": "AI타임스 AI산업",
@@ -268,6 +328,16 @@
     "summary": "미국 성인 10명 중 6명 이상이 고도화된 AI가 장기적으로 인류를 파괴할 위험이 있다고 보는 것으로 나타났다. AI 업계 주요 인사들이 개발 속도를 늦춰야 한다는 목소리를 내는 가운데, 미국에서도 AI 개발을 일시적으로 중단해야 한다는 의견이 지속적인 개발을 주장하는 의견보다 많은 것…",
     "pubDate": "2026-09-17T12:59:46.000Z",
     "collectedAt": "2026-09-17T04:16:17.574Z"
+  },
+  {
+    "id": "https://news.hada.io/topic?id=33838",
+    "category": "it",
+    "source": "긱뉴스",
+    "title": "온라인 도박 시장 확대 후 도박장애로 인한 응급실 방문 두 배로 증가",
+    "link": "https://news.hada.io/topic?id=33838",
+    "summary": "캐나다 온타리오주에서 단일 경기 스포츠 베팅 합법화와 온라인 도박 시장 확대 이후 도박장애 관련 응급실 방문이 두 배로 늘었으며, 증가세는 주로 젊은 남성에게 집중됨 연구 종료 시점의 방문 건수는 10~29세 남성에서 예상치보다 154%, 30~44세 남성에서 116%...",
+    "pubDate": "2026-09-17T12:52:13.000Z",
+    "collectedAt": "2026-09-17T14:16:52.088Z"
   },
   {
     "id": "https://www.aitimes.com/news/articleView.html?idxno=215385",
@@ -290,6 +360,26 @@
     "collectedAt": "2026-09-17T04:16:17.574Z"
   },
   {
+    "id": "https://www.hankyung.com/article/202609172394i",
+    "category": "economy",
+    "source": "한국경제 경제",
+    "title": "삼표그룹, 서울국제어린이영화제 후원…영유아 상영관에 1100명 몰려",
+    "link": "https://www.hankyung.com/article/202609172394i",
+    "summary": "",
+    "pubDate": "2026-09-17T12:47:58.000Z",
+    "collectedAt": "2026-09-17T14:16:52.088Z"
+  },
+  {
+    "id": "https://www.hankyung.com/article/202609172362i",
+    "category": "economy",
+    "source": "한국경제 경제",
+    "title": "카니 \"EU와 동맹 긍정적\"…트럼프와의 전쟁서 우군 얻어",
+    "link": "https://www.hankyung.com/article/202609172362i",
+    "summary": "",
+    "pubDate": "2026-09-17T12:47:50.000Z",
+    "collectedAt": "2026-09-17T14:16:52.088Z"
+  },
+  {
     "id": "https://www.aitimes.com/news/articleView.html?idxno=215381",
     "category": "ai",
     "source": "AI타임스 AI산업",
@@ -310,6 +400,26 @@
     "collectedAt": "2026-09-17T04:16:17.574Z"
   },
   {
+    "id": "https://news.hada.io/topic?id=33837",
+    "category": "it",
+    "source": "긱뉴스",
+    "title": "후원으로 이어온 Servo 개발 1년",
+    "link": "https://news.hada.io/topic?id=33837",
+    "summary": "Servo는 월간 기부금으로 운영하는 첫 유급 역할을 통해 장기 메인테이너 Josh Bowman-Matthews가 파트타임으로 기여자 경험을 개선하도록 지원함 지난 1년 동안 풀 리퀘스트 1,150건을 검토하고 신규 메인테이너 8명을 추천하며 기여자 지원에 집중함 신...",
+    "pubDate": "2026-09-17T12:42:14.000Z",
+    "collectedAt": "2026-09-17T14:16:52.088Z"
+  },
+  {
+    "id": "https://news.hada.io/topic?id=33836",
+    "category": "it",
+    "source": "긱뉴스",
+    "title": "2014년에 만든 임시 PHP 코드가 설치 2,000만 회에 육박했다. 오늘 사용 중단을 권고한다",
+    "link": "https://news.hada.io/topic?id=33836",
+    "summary": "AOL CMS 이전을 위해 만든 174줄짜리 http_build_url 폴리필이 12년간 설치 2,000만 회에 육박한 끝에 사용 중단 권고(deprecated) 상태로 전환됨 PHP 5.2에서 5.3으로 업그레이드하며 제거한 pecl_http v1의 함수를 대신하도록 만들었으...",
+    "pubDate": "2026-09-17T12:42:13.000Z",
+    "collectedAt": "2026-09-17T14:16:52.088Z"
+  },
+  {
     "id": "https://www.aitimes.com/news/articleView.html?idxno=215375",
     "category": "ai",
     "source": "AI타임스 AI산업",
@@ -318,6 +428,16 @@
     "summary": "안토니우 구테흐스 유엔 사무총장이 AI의 잠재적 위험에 대응하기 위해 국제사회가 공동의 안전장치를 마련해야 한다고 촉구했다. AI 규제 강화를 둘러싸고 도널드 트럼프 미국 대통령이 기존 안전장치로 충분하다는 입장을 밝힌 가운데 나온 발언이다.로이터 등에 따르면, 구테흐스 사무총장은 16…",
     "pubDate": "2026-09-17T12:39:44.000Z",
     "collectedAt": "2026-09-17T04:16:17.574Z"
+  },
+  {
+    "id": "https://www.hankyung.com/article/202609172385i",
+    "category": "economy",
+    "source": "한국경제 경제",
+    "title": "한솔제지, 美 라벨시장 공략…접착제 덜 쓰는 '백배리어' 기술 공개",
+    "link": "https://www.hankyung.com/article/202609172385i",
+    "summary": "",
+    "pubDate": "2026-09-17T12:35:21.000Z",
+    "collectedAt": "2026-09-17T14:16:52.088Z"
   },
   {
     "id": "https://www.aitimes.com/news/articleView.html?idxno=215376",
@@ -360,6 +480,16 @@
     "collectedAt": "2026-09-17T04:16:17.574Z"
   },
   {
+    "id": "https://www.hankyung.com/article/202609171641g",
+    "category": "economy",
+    "source": "한국경제 경제",
+    "title": "\"18년 만에 쫓겨나는 신세\"…잘 나가던 나이키, 무슨 일이? [갓신상]",
+    "link": "https://www.hankyung.com/article/202609171641g",
+    "summary": "",
+    "pubDate": "2026-09-17T12:00:05.000Z",
+    "collectedAt": "2026-09-17T14:16:52.088Z"
+  },
+  {
     "id": "https://www.aitimes.com/news/articleView.html?idxno=215373",
     "category": "ai",
     "source": "AI타임스 AI산업",
@@ -378,6 +508,16 @@
     "summary": "앤트로픽이 별도 제공되던 '클로드 코워크(Claude Cowork)' 브랜드를 종료하고, 관련 에이전트 기능을 클로드 챗봇 기본 인터페이스 전반에 통합한다. 이에 따라 사용자는 대화형 인터페이스와 장기 실행 에이전트 작업 공간 중 하나를 직접 선택해야 했던 번거로움 없이, 하나의 대화창…",
     "pubDate": "2026-09-17T11:36:42.000Z",
     "collectedAt": "2026-09-17T04:16:17.574Z"
+  },
+  {
+    "id": "https://www.hankyung.com/article/202609172344i",
+    "category": "it",
+    "source": "한국경제 IT",
+    "title": "네이버, 배달의민족 인수 추진 공식 철회",
+    "link": "https://www.hankyung.com/article/202609172344i",
+    "summary": "",
+    "pubDate": "2026-09-17T11:35:50.000Z",
+    "collectedAt": "2026-09-17T14:16:52.088Z"
   },
   {
     "id": "https://www.aitimes.com/news/articleView.html?idxno=215370",
@@ -14857,146 +14997,6 @@
     "link": "https://www.hankyung.com/article/202609143176i",
     "summary": "",
     "pubDate": "2026-09-14T07:50:28.000Z",
-    "collectedAt": "2026-09-14T10:15:49.692Z"
-  },
-  {
-    "id": "20260914000408",
-    "category": "economy",
-    "source": "전자신문 경제",
-    "title": "비큐에이아이, 'K-ICT WEEK in BUSAN 2026'서 'AI서퍼 브리프' 서비스 설명회 개최",
-    "link": "https://www.etnews.com/20260914000408",
-    "summary": "AI 데이터 전문기업 비큐에이아이는 지난 9일부터 11일까지 부산 벡스코에서 열린 'K-ICT WEEK in BUSAN 2026'에 참가해 미디어 모니터링 서비스 'AI서퍼 Brief(브리프)' 설명회를 개최했다고 밝혔다. 오는 10월 오픈 예정인 AI서퍼 브리프는 자사와 브랜드, 경쟁…",
-    "pubDate": "2026-09-14T07:45:18.000Z",
-    "collectedAt": "2026-09-14T10:15:49.692Z"
-  },
-  {
-    "id": "https://news.hada.io/topic?id=33682",
-    "category": "it",
-    "source": "긱뉴스",
-    "title": "JPEG XL에 반대하는 이유",
-    "link": "https://news.hada.io/topic?id=33682",
-    "summary": "JPEG XL은 웹 밖에서는 매력적인 기술이지만, 웹에 필요한 손실 압축 효율과 빠른 디코딩에서는 최적화된 AVIF보다 경쟁력이 떨어져 브라우저 도입 필요성이 불분명함 웹 이미지의 대부분은 범용성 높은 손실 압축으로 처리할 수 있음. 무손실 압축의 이점만으로 새...",
-    "pubDate": "2026-09-14T07:42:19.000Z",
-    "collectedAt": "2026-09-14T08:18:09.061Z"
-  },
-  {
-    "id": "https://news.hada.io/topic?id=33681",
-    "category": "it",
-    "source": "긱뉴스",
-    "title": "Mullenweg, 이사회의 축출 시도 이후 CEO로 복귀",
-    "link": "https://news.hada.io/topic?id=33681",
-    "summary": "WordPress.com의 모회사 Automattic이 이사회 표결로 유급 휴직에 들어갔던 Matt Mullenweg의 CEO 복귀를 공식 확인함 회사는 Mullenweg가 이사회의 전폭적인 지지를 받는 회장 겸 CEO라고 밝혔지만, 앞서 그를 휴직시킨 이유는 알려지지 않음",
-    "pubDate": "2026-09-14T07:39:19.000Z",
-    "collectedAt": "2026-09-14T08:18:09.061Z"
-  },
-  {
-    "id": "https://www.hankyung.com/article/202609143669i",
-    "category": "economy",
-    "source": "한국경제 경제",
-    "title": "로봇 스타트업 트위니, 몸값 2000억원 돌파…6개월 만에 800억원 뛰어",
-    "link": "https://www.hankyung.com/article/202609143669i",
-    "summary": "",
-    "pubDate": "2026-09-14T07:37:01.000Z",
-    "collectedAt": "2026-09-14T10:15:49.692Z"
-  },
-  {
-    "id": "20260914000405",
-    "category": "ai",
-    "source": "전자신문 AI",
-    "title": "융기원, 한국지방행정연구원과 AI 지방행정 혁신 협력",
-    "link": "https://www.etnews.com/20260914000405",
-    "summary": "경기도·서울대학교 공동출연법인인 차세대융합기술연구원(원장 김연상)이 한국지방행정연구원과 인공지능(AI) 기반 지방행정 혁신과 지역 전략산업 경쟁력 강화를 위한 협력에 들어갔다. 융기원은 지난 11일 연구원에서 한국지방행정연구원과 'AI 기반 지방행정 혁신 및 지역 전략산업 경쟁력 강화'…",
-    "pubDate": "2026-09-14T07:35:56.000Z",
-    "collectedAt": "2026-09-14T10:15:49.692Z"
-  },
-  {
-    "id": "https://www.hankyung.com/article/202609143584g",
-    "category": "economy",
-    "source": "한국경제 경제",
-    "title": "\"그냥 와서 노세요\"…마트 매대 치웠더니 벌어진 놀라운 일 [트렌드+]",
-    "link": "https://www.hankyung.com/article/202609143584g",
-    "summary": "",
-    "pubDate": "2026-09-14T07:35:24.000Z",
-    "collectedAt": "2026-09-14T10:15:49.692Z"
-  },
-  {
-    "id": "https://www.hankyung.com/article/202609143699i",
-    "category": "economy",
-    "source": "한국경제 증권",
-    "title": "[포토] 코스피 6700선 붕괴…3.26% 하락",
-    "link": "https://www.hankyung.com/article/202609143699i",
-    "summary": "",
-    "pubDate": "2026-09-14T07:35:22.000Z",
-    "collectedAt": "2026-09-14T10:15:49.692Z"
-  },
-  {
-    "id": "https://www.hankyung.com/article/202609143603i",
-    "category": "economy",
-    "source": "한국경제 증권",
-    "title": "\"2년 만에 최고치 치솟은 운임비\"…성수기 겹친 해운주, 주가 상승할까",
-    "link": "https://www.hankyung.com/article/202609143603i",
-    "summary": "",
-    "pubDate": "2026-09-14T07:32:52.000Z",
-    "collectedAt": "2026-09-14T10:15:49.692Z"
-  },
-  {
-    "id": "https://www.hankyung.com/article/202609143697i",
-    "category": "economy",
-    "source": "한국경제 경제",
-    "title": "올해는 도날드덕도 온다…디즈니와 함께 인천 앞바다 '런'",
-    "link": "https://www.hankyung.com/article/202609143697i",
-    "summary": "",
-    "pubDate": "2026-09-14T07:31:22.000Z",
-    "collectedAt": "2026-09-14T10:15:49.692Z"
-  },
-  {
-    "id": "20260914000403",
-    "category": "economy",
-    "source": "전자신문 경제",
-    "title": "씨엔티테크, AI·3DGS 기반 3D 공간 플랫폼 서비스 기업 '메타로지'에 투자",
-    "link": "https://www.etnews.com/20260914000403",
-    "summary": "투자 전문 액셀러레이터 씨엔티테크(대표 전화성)는 인공지능(AI)과 3DGS 원천기술을 기반으로 3D 공모전 운영·전시 플랫폼 '온전(ON:展)'을 운영하는 메타로지(대표 장석봉)에 투자했다고 밝혔다. 이번 투자는 씨엔티테크 고유계정을 통해 이뤄졌으며, 투자 금액은 양 사 합의에 따라…",
-    "pubDate": "2026-09-14T07:31:13.000Z",
-    "collectedAt": "2026-09-14T10:15:49.692Z"
-  },
-  {
-    "id": "https://www.hankyung.com/article/2026091422881",
-    "category": "economy",
-    "source": "한국경제 경제",
-    "title": "'세계 최강' 미국시장 뚫은 K방산…글로벌 영토확장 거침없다",
-    "link": "https://www.hankyung.com/article/2026091422881",
-    "summary": "",
-    "pubDate": "2026-09-14T07:27:04.000Z",
-    "collectedAt": "2026-09-14T10:15:49.692Z"
-  },
-  {
-    "id": "https://www.hankyung.com/article/202609142586g",
-    "category": "it",
-    "source": "한국경제 IT",
-    "title": "AI로 '보고서 뚝딱'…그런데 임원 질문 한 마디에 말문 막혔다",
-    "link": "https://www.hankyung.com/article/202609142586g",
-    "summary": "",
-    "pubDate": "2026-09-14T07:27:02.000Z",
-    "collectedAt": "2026-09-14T08:18:09.061Z"
-  },
-  {
-    "id": "https://www.hankyung.com/article/2026091422821",
-    "category": "economy",
-    "source": "한국경제 경제",
-    "title": "인사 업무 빠르게 대체하는 AI…기업 인재전략의 새 과제",
-    "link": "https://www.hankyung.com/article/2026091422821",
-    "summary": "",
-    "pubDate": "2026-09-14T07:25:48.000Z",
-    "collectedAt": "2026-09-14T10:15:49.692Z"
-  },
-  {
-    "id": "https://www.hankyung.com/article/2026091422831",
-    "category": "economy",
-    "source": "한국경제 경제",
-    "title": "미래전 준비하는 K-방산…'AI·무인시스템' 개발 속도낸다",
-    "link": "https://www.hankyung.com/article/2026091422831",
-    "summary": "",
-    "pubDate": "2026-09-14T07:25:28.000Z",
     "collectedAt": "2026-09-14T10:15:49.692Z"
   }
 ]
