@@ -260,6 +260,16 @@
     "collectedAt": "2026-09-18T04:16:19.515Z"
   },
   {
+    "id": "https://www.hankyung.com/article/2026091844941",
+    "category": "economy",
+    "source": "한국경제 증권",
+    "title": "\"주식할 돈으로 서울에 집 사랬잖아\"…20년 수익률 어떻길래",
+    "link": "https://www.hankyung.com/article/2026091844941",
+    "summary": "",
+    "pubDate": "2026-09-18T12:00:05.000Z",
+    "collectedAt": "2026-09-18T12:19:42.327Z"
+  },
+  {
     "id": "https://www.aitimes.com/news/articleView.html?idxno=215430",
     "category": "ai",
     "source": "AI타임스 AI산업",
@@ -268,6 +278,76 @@
     "summary": "앤트로픽이 AI를 단순한 코드 작성 도구를 넘어 장기적인 소프트웨어 개발 프로젝트 전체를 총괄하는 방향으로 진화시키고 있다. 개발자가 개별 작업을 일일이 지시하는 방식에서 벗어나, AI가 스스로 여러 작업을 병렬로 배분하고 과거 결정 사항까지 기억하며 개발 전 과정을 지속 조율하도록 만…",
     "pubDate": "2026-09-18T11:56:41.000Z",
     "collectedAt": "2026-09-18T04:16:19.515Z"
+  },
+  {
+    "id": "https://news.hada.io/topic?id=33890",
+    "category": "it",
+    "source": "긱뉴스",
+    "title": "Microsoft 임원, AI 스크래핑을 ‘인류 역사상 최대 규모의 노동 절도’라고 칭해",
+    "link": "https://news.hada.io/topic?id=33890",
+    "summary": "The New York Times의 저작권 소송에서 새로 공개된 서면에 AI 학습을 절도에 빗댄 Microsoft 내부 발언과 언론사의 존립을 위협할 수 있다는 OpenAI 경영진의 발언이 담김 다만 새 정보 상당수는 The Times 측 준비서면에서 나왔으며, 근거 증거물은 여전히 비…",
+    "pubDate": "2026-09-18T11:52:19.000Z",
+    "collectedAt": "2026-09-18T12:19:42.327Z"
+  },
+  {
+    "id": "https://news.hada.io/topic?id=33889",
+    "category": "it",
+    "source": "긱뉴스",
+    "title": "x86 에뮬레이션의 골칫거리",
+    "link": "https://news.hada.io/topic?id=33889",
+    "summary": "ARM에서 x86 프로그램을 실행하려면 x86-TSO 메모리 모델을 재현해야 하며, ARM의 느슨한 메모리 순서 규칙과의 차이가 성능과 정확성 모두에 부담을 줌 FEAT_LRCPC는 일반적인 메모리 읽기 성능을 크게 개선하지만, 비정렬 접근과 쓰기까지 모두 해결하지는 못함...",
+    "pubDate": "2026-09-18T11:52:18.000Z",
+    "collectedAt": "2026-09-18T12:19:42.327Z"
+  },
+  {
+    "id": "https://news.hada.io/topic?id=33888",
+    "category": "it",
+    "source": "긱뉴스",
+    "title": "Jemalloc 5.4.0",
+    "link": "https://news.hada.io/topic?id=33888",
+    "summary": "160개 이상의 커밋을 담은 릴리스로, 리팩터링과 버그 수정, 테스트 커버리지 개선, 옵션 정리 등 기술 부채 해소와 이식성 개선에 집중함 tcache 정책이 고정된 재충전/비우기 방식에서 관측 수요에 적응하는 방식으로 바뀜. 기존 제어 옵션 7개가 제거되며, 해당...",
+    "pubDate": "2026-09-18T11:52:17.000Z",
+    "collectedAt": "2026-09-18T12:19:42.327Z"
+  },
+  {
+    "id": "https://www.hankyung.com/article/2026091844761",
+    "category": "economy",
+    "source": "한국경제 경제",
+    "title": "\"설립 2년 만에 7500억 회사 됐다\"…투자자들 몰린 '이 기술'",
+    "link": "https://www.hankyung.com/article/2026091844761",
+    "summary": "",
+    "pubDate": "2026-09-18T11:00:07.000Z",
+    "collectedAt": "2026-09-18T12:19:42.327Z"
+  },
+  {
+    "id": "https://www.hankyung.com/article/202609183061g",
+    "category": "economy",
+    "source": "한국경제 경제",
+    "title": "'품절, 품절, 또 품절'…99만개 팔린 빵, 매장 가도 없는 이유 [트렌드+]",
+    "link": "https://www.hankyung.com/article/202609183061g",
+    "summary": "",
+    "pubDate": "2026-09-18T11:00:03.000Z",
+    "collectedAt": "2026-09-18T12:19:42.327Z"
+  },
+  {
+    "id": "https://www.hankyung.com/article/202609184415i",
+    "category": "economy",
+    "source": "한국경제 증권",
+    "title": "긴축·AI 공포 이겨낸 증시…다음주에는 이 둘의 만남이 기다린다 [다음주 주요 변수 미리보기]",
+    "link": "https://www.hankyung.com/article/202609184415i",
+    "summary": "",
+    "pubDate": "2026-09-18T10:21:30.000Z",
+    "collectedAt": "2026-09-18T12:19:42.327Z"
+  },
+  {
+    "id": "https://www.hankyung.com/article/2026091845671",
+    "category": "economy",
+    "source": "한국경제 증권",
+    "title": "\"골프장 300억이면 산다\"…韓 기업들 돈 싸들고 몰린 곳이",
+    "link": "https://www.hankyung.com/article/2026091845671",
+    "summary": "",
+    "pubDate": "2026-09-18T10:00:02.000Z",
+    "collectedAt": "2026-09-18T12:19:42.327Z"
   },
   {
     "id": "https://news.hada.io/topic?id=33887",
@@ -14918,85 +14998,5 @@
     "summary": "",
     "pubDate": "2026-09-15T02:05:00.000Z",
     "collectedAt": "2026-09-15T04:16:28.865Z"
-  },
-  {
-    "id": "20260915000167",
-    "category": "economy",
-    "source": "전자신문 경제",
-    "title": "이소영 “배달앱 수수료에 소상공인 고통…공공배달앱 경쟁력 키울 것”",
-    "link": "https://www.etnews.com/20260915000167",
-    "summary": "이소영 중소벤처기업부 장관 후보자가 배달앱 수수료 등 플랫폼 비용으로 인한 소상공인의 부담을 낮추기 위해 공공배달앱의 경쟁력을 높이겠다고 밝혔다. 1200억원이 넘는 내년도 관련 예산도 단순히 할인쿠폰을 지급하는 방식에서 벗어나 보다 효율적으로 활용할 필요가 있다고 강조했다. 탄소중립…",
-    "pubDate": "2026-09-15T02:04:02.000Z",
-    "collectedAt": "2026-09-15T04:16:28.865Z"
-  },
-  {
-    "id": "https://www.hankyung.com/article/202609155194i",
-    "category": "economy",
-    "source": "한국경제 증권",
-    "title": "\"같은 삼성전자인데\"…본주는 사고 우선주 판 '1% 초고수들' 왜",
-    "link": "https://www.hankyung.com/article/202609155194i",
-    "summary": "",
-    "pubDate": "2026-09-15T02:01:47.000Z",
-    "collectedAt": "2026-09-15T04:16:28.865Z"
-  },
-  {
-    "id": "https://www.hankyung.com/article/202609144195i",
-    "category": "economy",
-    "source": "한국경제 경제",
-    "title": "\"소주를 왜 섞어 마시나\"…2030 홈술족 늘어나더니 '불티' [권 기자의 장바구니]",
-    "link": "https://www.hankyung.com/article/202609144195i",
-    "summary": "",
-    "pubDate": "2026-09-15T02:00:01.000Z",
-    "collectedAt": "2026-09-15T04:16:28.865Z"
-  },
-  {
-    "id": "20260915000159",
-    "category": "economy",
-    "source": "전자신문 경제",
-    "title": "우분 이어 돈분도 연료로…농식품부, 히트펌프 실증 착수",
-    "link": "https://www.etnews.com/20260915000159",
-    "summary": "그동안 퇴비화에 의존했던 돼지분뇨를 수시간 만에 고체연료로 바꾸는 기술이 현장 실증에 들어간다. 높은 수분 함량 탓에 소 분뇨보다 연료화가 어려웠던 돼지분뇨까지 에너지 자원으로 전환할 수 있을지가 관건이다. 정부가 추진하는 가축분뇨 고체연료화의 범위도 우분 중심에서 돈분으로 넓어질 전망…",
-    "pubDate": "2026-09-15T02:00:00.000Z",
-    "collectedAt": "2026-09-15T02:17:10.265Z"
-  },
-  {
-    "id": "20260915000109",
-    "category": "economy",
-    "source": "전자신문 경제",
-    "title": "K식자재, 美 B2B 시장 공략…IFDA 콘퍼런스에 첫 한국관",
-    "link": "https://www.etnews.com/20260915000109",
-    "summary": "농림축산식품부가 K푸드 최대 수출시장인 미국에서 기업 간 거래(B2B) 식자재 시장 공략에 나섰다. 장류·소스와 냉동 간편식 등을 앞세워 마트·소매점 중심의 소비자 거래(B2C)를 넘어 급식·외식 등 대규모 수요처로 K푸드 수출 영토를 넓힌다. 농식품부는 14~15일(현지시간) 미국 텍…",
-    "pubDate": "2026-09-15T02:00:00.000Z",
-    "collectedAt": "2026-09-15T02:17:10.265Z"
-  },
-  {
-    "id": "20260915000069",
-    "category": "economy",
-    "source": "전자신문 경제",
-    "title": "농어촌 기본소득 무주·진안·곡성, 돌봄·먹거리 서비스 연계",
-    "link": "https://www.etnews.com/20260915000069",
-    "summary": "농어촌 기본소득 시범지역인 전북 무주·진안과 전남 곡성에서 기본소득과 지역 생활서비스를 연계하는 사업이 추진된다. 주민에게 지급되는 기본소득으로 늘어날 소비와 서비스 수요를 지역 사회연대경제 조직이 흡수해 농촌의 부족한 돌봄·먹거리 서비스를 보완하는 방식이다. 농림축산식품부는 사회연대경…",
-    "pubDate": "2026-09-15T02:00:00.000Z",
-    "collectedAt": "2026-09-15T02:17:10.265Z"
-  },
-  {
-    "id": "https://www.hankyung.com/article/202609155314i",
-    "category": "it",
-    "source": "한국경제 IT",
-    "title": "“오름테라퓨틱, ADC 한계 넘는 DAC 선두주자…BMS 임상이 재평가 분수령”",
-    "link": "https://www.hankyung.com/article/202609155314i",
-    "summary": "",
-    "pubDate": "2026-09-15T01:53:49.000Z",
-    "collectedAt": "2026-09-15T04:16:28.865Z"
-  },
-  {
-    "id": "20260915000162",
-    "category": "it",
-    "source": "전자신문 IT/통신",
-    "title": "삼성·버라이즌, 6G '통신·센싱 융합' 실증…AI로 군중 밀집도 파악",
-    "link": "https://www.etnews.com/20260915000162",
-    "summary": "삼성전자가 미국 버라이즌과 6G 핵심 기술인 통신·센싱 융합(ISAC)을 실제 대규모 행사에 적용해 군중 밀집도를 실시간으로 파악하는 데 성공했다. 별도 센서나 네트워크 장비를 추가하지 않고 기존 통신 인프라와 소프트웨어만으로 구현했다. 삼성전자는 지난 7월 미국 텍사스에서 열린 글로벌…",
-    "pubDate": "2026-09-15T01:52:46.000Z",
-    "collectedAt": "2026-09-15T02:17:10.265Z"
   }
 ]
