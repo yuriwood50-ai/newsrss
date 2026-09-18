@@ -1,5 +1,95 @@
 [
   {
+    "id": "https://www.aitimes.com/news/articleView.html?idxno=215477",
+    "category": "ai",
+    "source": "AI타임스 AI산업",
+    "title": "오픈AI, 앤트로픽 '클로드'에 뚫렸다...핵심 코드 저장소까지 노출",
+    "link": "https://www.aitimes.com/news/articleView.html?idxno=215477",
+    "summary": "독립 보안 연구진이 앤트로픽의 '클로드'를 활용해 오픈AI 직원의 계정에 침입하고 비공개 코드 저장소에 접근한 사건이 발생했다.월스트리트저널은 17일(현지시간) 보안 전문 기업 해크트론 AI(Hacktron AI) 소속 연구진 3명이 앤트로픽의 클로드를 이용해 오픈AI의 내부 소프트웨어…",
+    "pubDate": "2026-09-19T06:16:26.000Z",
+    "collectedAt": "2026-09-18T22:14:18.851Z"
+  },
+  {
+    "id": "https://news.hada.io/topic?id=33912",
+    "category": "it",
+    "source": "긱뉴스",
+    "title": "북한 핵실험이 수년간 이어지는 지진을 촉발함",
+    "link": "https://news.hada.io/topic?id=33912",
+    "summary": "2017년 북한의 최대 규모 핵실험 이후 풍계리 주변의 지진 활동이 줄지 않고 2025년까지 증가했으며, 일부 지진은 실험장에서 20~30km 떨어진 곳에서도 발생함 중국과 한국에서 수집한 지진 기록을 분석해 지진 1,399건을 찾아냈으며, 대부분 규모 2 미만이지만 발...",
+    "pubDate": "2026-09-18T21:42:20.000Z",
+    "collectedAt": "2026-09-18T22:14:18.851Z"
+  },
+  {
+    "id": "https://news.hada.io/topic?id=33911",
+    "category": "it",
+    "source": "긱뉴스",
+    "title": "한국, 개인정보 유출 과징금 상한을 매출의 10%로 인상",
+    "link": "https://news.hada.io/topic?id=33911",
+    "summary": "개정 개인정보보호법에 따라 고의나 중대한 과실로 1,000만 명 이상의 개인정보를 유출한 기업에는 전체 매출의 최대 10% 과징금을 부과할 수 있으며, 기존 상한은 3%였음 유출이 확정되지 않아도 개인정보 노출 가능성이 높다고 판단하면 72시간 이내 이용...",
+    "pubDate": "2026-09-18T21:42:19.000Z",
+    "collectedAt": "2026-09-18T22:14:18.851Z"
+  },
+  {
+    "id": "https://news.hada.io/topic?id=33910",
+    "category": "it",
+    "source": "긱뉴스",
+    "title": "Android 17, 3.x 이후 처음으로 AOSP에 공개하지 않고 새 API 추가",
+    "link": "https://news.hada.io/topic?id=33910",
+    "summary": "Android 17 QPR1에 추가된 표준 Android API가 현재 Pixel에만 제공되며, AOSP와 다른 제조사에는 2026년 12월 QPR2를 통해 공개될 예정임 GrapheneOS에 따르면 Pixel 외 기기에도 필요한 표준 Android 플랫폼 보안 패치 일부가 일반 보안…",
+    "pubDate": "2026-09-18T21:02:18.000Z",
+    "collectedAt": "2026-09-18T22:14:18.851Z"
+  },
+  {
+    "id": "https://www.hankyung.com/article/2026091844221",
+    "category": "economy",
+    "source": "한국경제 경제",
+    "title": "\"우리들의 뽀통령이 어쩌다\"…테이프 '칭칭' 얼굴 가려진 이유",
+    "link": "https://www.hankyung.com/article/2026091844221",
+    "summary": "",
+    "pubDate": "2026-09-18T21:00:12.000Z",
+    "collectedAt": "2026-09-18T22:14:18.851Z"
+  },
+  {
+    "id": "https://www.hankyung.com/article/202609078130i",
+    "category": "economy",
+    "source": "한국경제 경제",
+    "title": "“70만원 받던 배우였습니다”…10년 뒤 그 무대가 바뀌었다 [권용훈의 직업불만족(族)]",
+    "link": "https://www.hankyung.com/article/202609078130i",
+    "summary": "",
+    "pubDate": "2026-09-18T21:00:05.000Z",
+    "collectedAt": "2026-09-18T22:14:18.851Z"
+  },
+  {
+    "id": "20260918000242",
+    "category": "economy",
+    "source": "전자신문 경제",
+    "title": "[ET톡] 삼성전자, 내부 기강 다잡아야 '초격차' 지킨다",
+    "link": "https://www.etnews.com/20260918000242",
+    "summary": "“삼성 내부 긴장이 완전히 풀린 것 같습니다” 최근 만난 삼성전자 전직 임원이 내부 사정을 바라보며 한 말이다. 디바이스솔루션(DS)부문 일부 직원의 주거 지원금 부정 수급 의혹과 노조 지도부 특혜 논란 등 잡음이 잇따르고 있기 때문이다. 인공지능(AI) 반도체 특수로 삼성전자 실적은…",
+    "pubDate": "2026-09-18T21:00:00.000Z",
+    "collectedAt": "2026-09-18T22:14:18.851Z"
+  },
+  {
+    "id": "https://news.hada.io/topic?id=33909",
+    "category": "it",
+    "source": "긱뉴스",
+    "title": "생각을 멈추는 방식이 통하는 시점은 오지 않음",
+    "link": "https://news.hada.io/topic?id=33909",
+    "summary": "LLM의 결과를 검증 없이 받아들이거나 오류 수정을 다시 맡기기만 하는 방식은 모델이 발전해도 직원에게 유효한 전략이 되지 못함 지금은 이런 방식으로 만든 소프트웨어에 심각한 문제가 남고, 미래에 LLM이 혼자 훌륭한 소프트웨어를 만들게 된다면 기업은 중간에서 요청...",
+    "pubDate": "2026-09-18T20:52:20.000Z",
+    "collectedAt": "2026-09-18T22:14:18.851Z"
+  },
+  {
+    "id": "https://news.hada.io/topic?id=33908",
+    "category": "it",
+    "source": "긱뉴스",
+    "title": "Conway의 추측을 바이브 코딩으로 증명해 봤다",
+    "link": "https://news.hada.io/topic?id=33908",
+    "summary": "수학 비전문가가 약 한 달간 AI 에이전트와 Lean을 활용해 50년 된 Conway의 세분화 추측에 대한 형식 증명을 얻음. 기계적 검사는 통과했지만, 수학자들의 독립 검증은 아직 받지 않음 AI에게 한 번에 증명을 맡기거나 여러 에이전트가 서로 검토하게 하는 것만으...",
+    "pubDate": "2026-09-18T20:52:18.000Z",
+    "collectedAt": "2026-09-18T22:14:18.851Z"
+  },
+  {
     "id": "https://news.hada.io/topic?id=33907",
     "category": "it",
     "source": "긱뉴스",
@@ -14907,96 +14997,6 @@
     "link": "https://www.etnews.com/20260915000242",
     "summary": "삼성생명은 지난 4월 필요한 보장을 패키지형 구성으로 선보인 디지털 전용 상품 삼성 팩 건강보험(무배당·무해약환급금형)에 건강관리 리워드와 서비스를 더한 삼성 팩 건강보험Care+를 새롭게 선보인다고 15일 밝혔다. 기존 삼성 팩 건강보험은 암·뇌혈관질환·심장질환 등 3대 질환 보장을…",
     "pubDate": "2026-09-15T04:29:15.000Z",
-    "collectedAt": "2026-09-15T06:20:48.717Z"
-  },
-  {
-    "id": "https://www.hankyung.com/article/202609155638g",
-    "category": "economy",
-    "source": "한국경제 경제",
-    "title": "아시아나 마일리지, 앞으로 10년간 대한항공서 쓴다",
-    "link": "https://www.hankyung.com/article/202609155638g",
-    "summary": "",
-    "pubDate": "2026-09-15T04:26:50.000Z",
-    "collectedAt": "2026-09-15T06:20:48.717Z"
-  },
-  {
-    "id": "https://www.hankyung.com/article/202609155342i",
-    "category": "economy",
-    "source": "한국경제 경제",
-    "title": "\"침대 파는 회사 맞아?\"…28년째 쌀 44억어치 기부",
-    "link": "https://www.hankyung.com/article/202609155342i",
-    "summary": "",
-    "pubDate": "2026-09-15T04:17:09.000Z",
-    "collectedAt": "2026-09-15T06:20:48.717Z"
-  },
-  {
-    "id": "20260915000238",
-    "category": "ai",
-    "source": "전자신문 SW",
-    "title": "넥스비원-클라이온, 클라우드·ERP 사업 협력 위한 Sales 파트너십 계약 체결",
-    "link": "https://www.etnews.com/20260915000238",
-    "summary": "SAP 비즈니스 원 기반 전사자원관리(ERP) 전문기업 넥스비원(대표 김태룡)은 클라우드 통합 서비스 기업 클라이온(대표 김주성)과 세일즈 파트너십 계약을 체결했다고 15일 밝혔다. 협약에 따라 클라이온은 기존 고객사를 대상으로 넥스비원의 ERP(SAP 비즈니스 원), 제조실행시스템(M…",
-    "pubDate": "2026-09-15T04:15:36.000Z",
-    "collectedAt": "2026-09-15T06:20:48.717Z"
-  },
-  {
-    "id": "20260915000236",
-    "category": "economy",
-    "source": "전자신문 경제",
-    "title": "스파크랩그룹, '기후·지속가능성' 스타트업 발굴한다…경진대회 참가기업 모집",
-    "link": "https://www.etnews.com/20260915000236",
-    "summary": "액셀러레이터 스파크랩그룹이 기후·지속가능성 분야 스타트업을 발굴하는 경진대회 '트루제로 글로벌 프라이즈'를 신설해 참가 기업을 오는 28일까지 모집한다고 15일 밝혔다. 총 상금은 7만 5000달러다. 스파크랩그룹과 튀르키예 소재 스파크랩 트루제로 공동 주최인 이번 대회는 28일 마감된…",
-    "pubDate": "2026-09-15T04:12:03.000Z",
-    "collectedAt": "2026-09-15T06:20:48.717Z"
-  },
-  {
-    "id": "https://www.hankyung.com/article/202609154520i",
-    "category": "economy",
-    "source": "한국경제 증권",
-    "title": "\"MLCC보다 공급난 심각해진다\" … 골드만삭스가 찜한 삼성전기 新먹거리",
-    "link": "https://www.hankyung.com/article/202609154520i",
-    "summary": "",
-    "pubDate": "2026-09-15T04:00:02.000Z",
-    "collectedAt": "2026-09-15T06:20:48.717Z"
-  },
-  {
-    "id": "20260915000228",
-    "category": "economy",
-    "source": "전자신문 경제",
-    "title": "항공안전기술원 노조 “교통안전공단 통폐합 철회해야”",
-    "link": "https://www.etnews.com/20260915000228",
-    "summary": "항공안전기술원 노동조합이 정부의 한국교통안전공단 통합 방침에 반발하고 나섰다. 항공기 인증·시험·기술검증을 담당하는 전문기관을 종합 교통안전기관에 흡수하면 항공안전 전문성과 독립성이 약화될 수 있다며 통폐합 철회를 요구했다. 전국공공전문노동조합 항공안전기술원지부는 15일 성명을 내고 “…",
-    "pubDate": "2026-09-15T03:57:54.000Z",
-    "collectedAt": "2026-09-15T04:16:28.865Z"
-  },
-  {
-    "id": "https://www.hankyung.com/article/2026091556006",
-    "category": "economy",
-    "source": "한국경제 증권",
-    "title": "\"앤트로픽 상장도 노린다\"…AI·반도체 ETF 4종 나란히 출격",
-    "link": "https://www.hankyung.com/article/2026091556006",
-    "summary": "",
-    "pubDate": "2026-09-15T03:56:15.000Z",
-    "collectedAt": "2026-09-15T06:20:48.717Z"
-  },
-  {
-    "id": "20260915000226",
-    "category": "ai",
-    "source": "전자신문 AI",
-    "title": "서울시 '손목닥터9988' 자치구에 개방…지역축제에도 쓴다",
-    "link": "https://www.etnews.com/20260915000226",
-    "summary": "서울시 건강관리 플랫폼 '손목닥터9988'을 앞으로는 자치구가 주관하는 지역축제와 행사에서도 활용할 수 있게 된다. 서울시는 손목닥터9988에 '커뮤니티' 기능을 신설해 자치구의 활용 권한을 확대하고 15일부터 11개 자치구에서 시범운영에 들어간다고 밝혔다. 〈본지 2026년 5월 4일…",
-    "pubDate": "2026-09-15T03:56:08.000Z",
-    "collectedAt": "2026-09-15T04:16:28.865Z"
-  },
-  {
-    "id": "https://www.hankyung.com/article/202609155616i",
-    "category": "economy",
-    "source": "한국경제 경제",
-    "title": "소비 0.4%·투자 -7.2%…中, 제조업만 나홀로 질주 [차이나 워치]",
-    "link": "https://www.hankyung.com/article/202609155616i",
-    "summary": "",
-    "pubDate": "2026-09-15T03:53:21.000Z",
     "collectedAt": "2026-09-15T06:20:48.717Z"
   }
 ]
