@@ -230,6 +230,36 @@
     "collectedAt": "2026-09-18T06:19:32.736Z"
   },
   {
+    "id": "https://news.hada.io/topic?id=33894",
+    "category": "it",
+    "source": "긱뉴스",
+    "title": "CrowdSec 소스 코드 유출",
+    "link": "https://news.hada.io/topic?id=33894",
+    "summary": "CrowdSec이 2026년 5월 발생한 GitHub 비공개 소스 코드 유출을 9월 16일 통보받고 확인함 CrowdSec에 따르면 고객 데이터나 로그인 정보는 유출되지 않았으며, 현재까지 횡적 이동에 악용할 수 있는 토큰이나 자격 증명 등의 유출도 발견하지 못함 유출 ...",
+    "pubDate": "2026-09-18T13:32:17.000Z",
+    "collectedAt": "2026-09-18T14:15:37.062Z"
+  },
+  {
+    "id": "https://news.hada.io/topic?id=33893",
+    "category": "it",
+    "source": "긱뉴스",
+    "title": "황금 못, 그리고 Vale(n) 프로그래밍 언어의 부활",
+    "link": "https://news.hada.io/topic?id=33893",
+    "summary": "Valen은 Rust 라이브러리를 직접 활용하면서 언어 경계를 넘는 제네릭과 메모리 안전성을 지원하려는 실험적 언어이며, Rust 그래픽 라이브러리를 호출해 첫 렌더링에 성공함 C ABI를 통한 연동 대신 rustc 내부 API와 컴파일러 패치를 이용해, Valen의 타입이 Rus...",
+    "pubDate": "2026-09-18T13:12:18.000Z",
+    "collectedAt": "2026-09-18T14:15:37.062Z"
+  },
+  {
+    "id": "https://news.hada.io/topic?id=33892",
+    "category": "it",
+    "source": "긱뉴스",
+    "title": "주의: 저명한 Rust 개발자를 겨냥한 표적 공격",
+    "link": "https://news.hada.io/topic?id=33892",
+    "summary": "rust-lang 구성원과 인기 크레이트 소유자의 기기와 계정을 탈취해 악성코드를 배포하려는 공격 캠페인이 진행 중인 것으로 추정됨 공격자는 채용, 프로젝트, 계약 기회를 미끼로 화상 통화를 마련한 뒤, 오디오 코덱 설치나 명령 실행을 유도함 간단한 신...",
+    "pubDate": "2026-09-18T13:12:17.000Z",
+    "collectedAt": "2026-09-18T14:15:37.062Z"
+  },
+  {
     "id": "https://www.aitimes.com/news/articleView.html?idxno=215447",
     "category": "ai",
     "source": "AI타임스 AI산업",
@@ -240,6 +270,16 @@
     "collectedAt": "2026-09-18T04:16:19.515Z"
   },
   {
+    "id": "https://www.hankyung.com/article/202609183926g",
+    "category": "economy",
+    "source": "한국경제 경제",
+    "title": "\"이번엔 일본 안 가요\"…'이 나라' 1150만명 몰리자 벌어진 일 [플라잇톡]",
+    "link": "https://www.hankyung.com/article/202609183926g",
+    "summary": "",
+    "pubDate": "2026-09-18T13:00:03.000Z",
+    "collectedAt": "2026-09-18T14:15:37.062Z"
+  },
+  {
     "id": "https://www.aitimes.com/news/articleView.html?idxno=215434",
     "category": "ai",
     "source": "AI타임스 AI산업",
@@ -248,6 +288,16 @@
     "summary": "찰스 3세 영국 국왕이 세계 주요 AI 기업 수장들을 만나 고도화되는 AI가 통제에서 벗어나거나 악의적인 세력의 손에 들어갈 가능성에 대비해 충분한 안전장치를 마련해야 한다고 촉구했다. BBC 등에 따르면, 찰스 국왕은 17일(현지시간) 스코틀랜드 에어셔의 덤프리스 하우스에서 젠슨 황…",
     "pubDate": "2026-09-18T12:53:33.000Z",
     "collectedAt": "2026-09-18T04:16:19.515Z"
+  },
+  {
+    "id": "https://news.hada.io/topic?id=33891",
+    "category": "it",
+    "source": "긱뉴스",
+    "title": "OpenJev",
+    "link": "https://news.hada.io/topic?id=33891",
+    "summary": "OpenJev는 브라우저의 로컬 모델로 선택지 확률을 직접 읽는 방식과 같은 분포를 JSON으로 생성하는 방식을 실행하고 비교하는 실험임 직접 판독은 제공된 선택지 토큰의 로짓만 정규화하며, 생성 방식은 모델이 추정한 선택지별 확률을 토큰 단위...",
+    "pubDate": "2026-09-18T12:42:17.000Z",
+    "collectedAt": "2026-09-18T14:15:37.062Z"
   },
   {
     "id": "https://www.aitimes.com/news/articleView.html?idxno=215435",
@@ -14947,56 +14997,6 @@
     "link": "https://www.etnews.com/20260915000174",
     "summary": "YTN이 유진그룹에 매각되는 과정에서 방송통신위원회(방통위)의 부당한 개입이 있었다는 감사원 발표로 YTN 주가가 급등했다. 15일 오전 11시 5분 기준 YTN(040300) 주가는 전 거래일 대비 29.80%(상한가) 상승한 2635원에 거래되고 있다. 감사원은 전날 '공공기관 자산…",
     "pubDate": "2026-09-15T02:21:00.000Z",
-    "collectedAt": "2026-09-15T04:16:28.865Z"
-  },
-  {
-    "id": "https://www.hankyung.com/article/202609155397g",
-    "category": "economy",
-    "source": "한국경제 경제",
-    "title": "홈플러스 임금체불 3871억 '역대 최대'…664억 아직 미청산",
-    "link": "https://www.hankyung.com/article/202609155397g",
-    "summary": "",
-    "pubDate": "2026-09-15T02:19:44.000Z",
-    "collectedAt": "2026-09-15T04:16:28.865Z"
-  },
-  {
-    "id": "20260915000170",
-    "category": "it",
-    "source": "전자신문 IT/통신",
-    "title": "삼성 갤럭시Z8, 美 컨슈머리포트 폴더블 평가 1위",
-    "link": "https://www.etnews.com/20260915000170",
-    "summary": "삼성전자 '갤럭시Z폴드8 울트라'가 미국 소비자 전문지 컨슈머리포트의 폴더블 스마트폰 평가에서 1위를 차지했다. 갤럭시Z플립8과 폴드8도 최상위권에 이름을 올렸다. 15일 컨슈머리포트 등에 따르면 갤럭시Z폴드8 울트라는 디스플레이와 후면 사진·동영상, 전면 카메라 등 카메라 전 항목에서…",
-    "pubDate": "2026-09-15T02:10:19.000Z",
-    "collectedAt": "2026-09-15T04:16:28.865Z"
-  },
-  {
-    "id": "https://www.hankyung.com/article/202609155396i",
-    "category": "economy",
-    "source": "한국경제 경제",
-    "title": "中 시장 어렵다더니…사흘 만에 146건 상담 '깜짝 성과'",
-    "link": "https://www.hankyung.com/article/202609155396i",
-    "summary": "",
-    "pubDate": "2026-09-15T02:06:17.000Z",
-    "collectedAt": "2026-09-15T04:16:28.865Z"
-  },
-  {
-    "id": "20260915000169",
-    "category": "ai",
-    "source": "전자신문 AI",
-    "title": "햇빛으로 전기이륜차 충전, 침수는 AI로 예측…광명시, 스마트도시 전환 속도",
-    "link": "https://www.etnews.com/20260915000169",
-    "summary": "경기 광명시가 도시에서 생산한 태양광 전력을 친환경 교통수단에 공급하고, 빗물과 수위 데이터를 분석해 침수 위험을 미리 파악하는 탄소중립 스마트도시 조성에 나섰다. 에너지·교통·안전·데이터 등 4대 분야 스마트서비스 10개를 하나의 운영체계로 연결하는 사업으로, 국비와 시비, 민간투자를…",
-    "pubDate": "2026-09-15T02:05:49.000Z",
-    "collectedAt": "2026-09-15T04:16:28.865Z"
-  },
-  {
-    "id": "https://www.hankyung.com/article/202609155350H",
-    "category": "economy",
-    "source": "한국경제 경제",
-    "title": "김밥 한 줄도 사치됐나…2500원짜리 '반줄'에 몰린 사람들",
-    "link": "https://www.hankyung.com/article/202609155350H",
-    "summary": "",
-    "pubDate": "2026-09-15T02:05:00.000Z",
     "collectedAt": "2026-09-15T04:16:28.865Z"
   }
 ]
