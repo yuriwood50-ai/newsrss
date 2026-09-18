@@ -60,6 +60,26 @@
     "collectedAt": "2026-09-18T10:15:27.564Z"
   },
   {
+    "id": "https://news.hada.io/topic?id=33905",
+    "category": "it",
+    "source": "긱뉴스",
+    "title": "코딩 에이전트 하네스 설계에 관한 실증 연구",
+    "link": "https://news.hada.io/topic?id=33905",
+    "summary": "동일한 실행 루프에서 계획 수립, 행동 인터페이스, 컨텍스트 관리를 바꿔 4개 모델과 2개 벤치마크의 176개 설정을 비교했으며, 각 구성요소의 효과는 모델 역량과 작업 유형, 컨텍스트 예산에 따라 달라짐 컨텍스트 관리의 주된 효과는 컨텍스트 초과로 인한 조기...",
+    "pubDate": "2026-09-18T17:42:19.000Z",
+    "collectedAt": "2026-09-18T18:17:10.910Z"
+  },
+  {
+    "id": "https://news.hada.io/topic?id=33904",
+    "category": "it",
+    "source": "긱뉴스",
+    "title": "Cloudflare Quick Tunnels",
+    "link": "https://news.hada.io/topic?id=33904",
+    "summary": "Quick Tunnels는 로컬 애플리케이션을 명령 하나로 인터넷에 공개하고 실시간 미리보기를 공유할 수 있는 무료 서비스임 계정 생성이나 로그인 없이 사용할 수 있으며, 설정 파일이나 DNS 설정도 필요 없음 자동 HTTPS와 DDoS 방어를 제...",
+    "pubDate": "2026-09-18T17:42:18.000Z",
+    "collectedAt": "2026-09-18T18:17:10.910Z"
+  },
+  {
     "id": "https://www.aitimes.com/news/articleView.html?idxno=215460",
     "category": "ai",
     "source": "AI타임스 AI산업",
@@ -118,6 +138,26 @@
     "summary": "마크 저커버그 메타 CEO와 젠슨 황 엔비디아 CEO, 일론 머스크 CEO 등 빅테크 수장 3인이 도널드 트럼프 미국 대통령을 직접 설득해 민간 주도의 AI 규제 기구 설립 구상을 무산시킨 것으로 얼려졌다.16일(현지시간) 월스트리트저널(WSJ)에 따르면, 수지 와일스 백악관 비서실장과…",
     "pubDate": "2026-09-18T16:49:30.000Z",
     "collectedAt": "2026-09-18T10:15:27.564Z"
+  },
+  {
+    "id": "https://news.hada.io/topic?id=33903",
+    "category": "it",
+    "source": "긱뉴스",
+    "title": "Ask GN: OSS의 사용자 대상 광고 노출은 어디까지 허용될까?",
+    "link": "https://news.hada.io/topic?id=33903",
+    "summary": "침습적인 정도를 기준을 삼아서 따져보면 다음과 같습니다. 가장 비침습적인 방법 : README.md 파일에 스폰서를 노출하기 한 번만 보여주고 끝내기 : npm install modulename 실행 시 postinstall script로 후원 메시지 띄우기 매번 보여주기 : 주간 다운…",
+    "pubDate": "2026-09-18T16:43:03.000Z",
+    "collectedAt": "2026-09-18T18:17:10.910Z"
+  },
+  {
+    "id": "https://news.hada.io/topic?id=33902",
+    "category": "it",
+    "source": "긱뉴스",
+    "title": "ZCode 내부 분석: 사용자 모르게 Git 이력을 클라우드에 업로드",
+    "link": "https://news.hada.io/topic?id=33902",
+    "summary": "Zhipu의 AI 코딩 데스크톱 앱 ZCode는 로그인 상태에서 작업 공간을 백그라운드로 압축하고 암호화해 Aliyun OSS로 업로드함. 전체 Git 이력, LFS 캐시, reflog, 전역 앱 설정까지 수집함 암호화에 쓰는 RSA 공개키는 서버가 전달하며, 복호화 개인키는 서...",
+    "pubDate": "2026-09-18T16:42:18.000Z",
+    "collectedAt": "2026-09-18T18:17:10.910Z"
   },
   {
     "id": "https://www.aitimes.com/news/articleView.html?idxno=215462",
@@ -14957,46 +14997,6 @@
     "link": "https://www.etnews.com/20260915000192",
     "summary": "kt 클라우드가 앞으로 5년간 인공지능데이터센터(AIDC) 1GW(기가와트)를 추가로 공급하고, 데이터와 컴퓨팅 자원, AI 모델·애플리케이션을 하나의 실행 체계로 엮어 고객이 원하는 조합을 자동으로 구성해주는 통합형 AI 인프라 전략을 제시했다. 클라우드와 AI 데이터센터를 양대축으로…",
     "pubDate": "2026-09-15T03:16:38.000Z",
-    "collectedAt": "2026-09-15T04:16:28.865Z"
-  },
-  {
-    "id": "https://www.hankyung.com/article/202609154813i",
-    "category": "it",
-    "source": "한국경제 IT",
-    "title": "\"에스테틱 사업 진출한다\" ... 퀀타매트릭스, '큐미코'로 사명 변경",
-    "link": "https://www.hankyung.com/article/202609154813i",
-    "summary": "",
-    "pubDate": "2026-09-15T03:00:06.000Z",
-    "collectedAt": "2026-09-15T04:16:28.865Z"
-  },
-  {
-    "id": "https://www.hankyung.com/article/202609155457i",
-    "category": "economy",
-    "source": "한국경제 경제",
-    "title": "\"튀김 찌꺼기가 돈이네\"…정부가 1억2000만원 쏘는 '이 기술'",
-    "link": "https://www.hankyung.com/article/202609155457i",
-    "summary": "",
-    "pubDate": "2026-09-15T03:00:01.000Z",
-    "collectedAt": "2026-09-15T04:16:28.865Z"
-  },
-  {
-    "id": "20260915000181",
-    "category": "economy",
-    "source": "전자신문 경제",
-    "title": "이소영 “치킨 1.9억 팔아도 2000만원 남아…가슴으로 소상공인 정책 하겠다”",
-    "link": "https://www.etnews.com/20260915000181",
-    "summary": "이소영 중소벤처기업부 장관 후보자가 연간 1억9000만원의 매출을 올리는 치킨집조차 점주에게 돌아가는 영업이익은 2000만원대에 불과하다며 소상공인의 과도한 비용구조를 개선하겠다는 의지를 밝혔다. 어린 시절 모친이 운영하던 식당에서 직접 일했던 경험을 언급하며 “머리가 아닌 가슴으로 하…",
-    "pubDate": "2026-09-15T02:44:07.000Z",
-    "collectedAt": "2026-09-15T04:16:28.865Z"
-  },
-  {
-    "id": "https://www.hankyung.com/article/202609154319i",
-    "category": "economy",
-    "source": "한국경제 경제",
-    "title": "월 2500억씩 카드로 긁는다…다이소, '5조 매출' 향해 질주",
-    "link": "https://www.hankyung.com/article/202609154319i",
-    "summary": "",
-    "pubDate": "2026-09-15T02:35:01.000Z",
     "collectedAt": "2026-09-15T04:16:28.865Z"
   }
 ]
