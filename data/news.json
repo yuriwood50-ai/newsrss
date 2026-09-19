@@ -1,5 +1,25 @@
 [
   {
+    "id": "https://www.aitimes.com/news/articleView.html?idxno=215494",
+    "category": "ai",
+    "source": "AI타임스 AI산업",
+    "title": "오픈AI, 기업 시장 점유율 역전…앤트로픽, IPO전 신형 모델 출시 검토",
+    "link": "https://www.aitimes.com/news/articleView.html?idxno=215494",
+    "summary": "오픈AI가 'GPT-6 아스트라'를 앞세워 기업용 시장 점유율을 가파르게 확대하자, 이 분야에서 우위를 점해온 앤트로픽이 기업공개(IPO)를 앞두고 차세대 AI 모델 공개를 준비 중인 것으로 알려졌다. 다리오 아모데이 앤트로픽 CEO가 안전성 확보를 위한 AI 발전 속도 조절론을 제기한…",
+    "pubDate": "2026-09-19T19:46:59.000Z",
+    "collectedAt": "2026-09-19T12:18:32.542Z"
+  },
+  {
+    "id": "https://www.aitimes.com/news/articleView.html?idxno=215493",
+    "category": "ai",
+    "source": "AI타임스 AI산업",
+    "title": "구글 '제미나이', 보안 테스트 환경 오류로 기업 3곳 침투 사고 발생",
+    "link": "https://www.aitimes.com/news/articleView.html?idxno=215493",
+    "summary": "구글의 '제미나이'가 사이버 보안 평가 도중 기업 시스템 3곳에 무단 침투한 사실이 확인됐다. 월스트리트저널(WSJ)이 18일(현지시간) 해당 사실을 보도한 직후, 구글은 자율적 침투 발생을 인정했다.다만 이번 사건은 AI 모델의 자체 결함이나 불량 작동이 아닌, 외주 평가업체의 테스트…",
+    "pubDate": "2026-09-19T19:06:23.000Z",
+    "collectedAt": "2026-09-19T12:18:32.542Z"
+  },
+  {
     "id": "https://www.aitimes.com/news/articleView.html?idxno=215483",
     "category": "ai",
     "source": "AI타임스 AI산업",
@@ -80,6 +100,16 @@
     "collectedAt": "2026-09-19T08:16:06.552Z"
   },
   {
+    "id": "https://news.hada.io/topic?id=33939",
+    "category": "it",
+    "source": "긱뉴스",
+    "title": "AI로 생성한 포스터가 꼭 형편없을 필요는 없다",
+    "link": "https://news.hada.io/topic?id=33939",
+    "summary": "AI 행사 포스터의 문제는 품질 자체보다 비슷한 스타일의 반복에 있음. ChatGPT에 구체적인 디자인 미학을 지정하면 획일적인 기본 결과에서 벗어날 수 있음 ‘깔끔하고 밝게’ 같은 지시만으로는 원하는 차이를 얻지 못했지만, 기존 결과를 피하고 완전히 다른 디자인 미학...",
+    "pubDate": "2026-09-19T11:42:21.000Z",
+    "collectedAt": "2026-09-19T12:18:32.542Z"
+  },
+  {
     "id": "https://www.aitimes.com/news/articleView.html?idxno=215487",
     "category": "ai",
     "source": "AI타임스 AI산업",
@@ -88,6 +118,16 @@
     "summary": "월트 디즈니 컴퍼니가 창사 이래 처음으로 회사 전체를 아우르는 최고 기술책임자(CTO) 직책을 신설하고 AI 중심의 디지털 전환에 속도를 내겠다는 의지를 드러냈다. 특히 자사 캐릭터 IP 무단 사용 문제로 법적 경고장을 보냈던 캐릭터닷AI 출신의 카란딥 아난드를 영입했다는 점이 눈길을…",
     "pubDate": "2026-09-19T11:39:29.000Z",
     "collectedAt": "2026-09-19T04:15:12.705Z"
+  },
+  {
+    "id": "https://news.hada.io/topic?id=33938",
+    "category": "it",
+    "source": "긱뉴스",
+    "title": "NestJS에서 got을 편하게 쓸 수 있는 smile-nestjs-got을 만들었습니다",
+    "link": "https://news.hada.io/topic?id=33938",
+    "summary": "안녕하세요 NestJS를 사용하는 백엔드 개발자 여러분 NestJS에서 외부 API를 호출할 때 대부분 공식 모듈인 @nestjs/axios를 많이 사용하실 겁니다 하지만 got을 한번이라도 써보셨던 개발자라면 got이 그리워질 때가 있습니다 @nestjs/axios와 동일한 개발 경험…",
+    "pubDate": "2026-09-19T11:30:18.000Z",
+    "collectedAt": "2026-09-19T12:18:32.542Z"
   },
   {
     "id": "https://www.aitimes.com/news/articleView.html?idxno=215486",
@@ -100,6 +140,36 @@
     "collectedAt": "2026-09-19T04:15:12.705Z"
   },
   {
+    "id": "https://www.hankyung.com/article/202609184253i",
+    "category": "economy",
+    "source": "한국경제 경제",
+    "title": "\"5만원도 부담\"이라는데… 옆에선 수십만원짜리 와인 샀다 [류은혁의 유통기한]",
+    "link": "https://www.hankyung.com/article/202609184253i",
+    "summary": "",
+    "pubDate": "2026-09-19T11:00:01.000Z",
+    "collectedAt": "2026-09-19T12:18:32.542Z"
+  },
+  {
+    "id": "20260919000019",
+    "category": "economy",
+    "source": "전자신문 경제",
+    "title": "메인비즈협회, 올해 마지막 '사업재편지원사업' 신청 접수",
+    "link": "https://www.etnews.com/20260919000019",
+    "summary": "메인비즈협회가 10월 15일까지 사업재편지원사업 신청을 받는다고 17일 밝혔다. 이번 접수는 올해 마지막으로 이뤄지는 접수로, 메인비즈협회 홈페이지에서 지원 가능하다. 메인비즈협회는 17일 협회 교육장에서 '2026년 4분기 사업재편지원사업 설명회'를 열고 전국 중소기업 27개사에 사업…",
+    "pubDate": "2026-09-19T10:49:20.000Z",
+    "collectedAt": "2026-09-19T12:18:32.542Z"
+  },
+  {
+    "id": "20260919000018",
+    "category": "economy",
+    "source": "전자신문 경제",
+    "title": "벤협, 신규 임원사 6곳 선임…하이브·뮤직카우 포함",
+    "link": "https://www.etnews.com/20260919000018",
+    "summary": "벤처기업협회가 18일 '2026년도 제3차 정기이사회'에서 하이브와 뮤직카우를 비롯한 혁신기업 6개사를 신규 임원사로 선임했다고 밝혔다. 이번 이사회로 이재상 하이브 대표, 박기호 LB인베스트먼트 대표, 이준혁 금용기계 대표, 정현경 뮤직카우 의장이 부회장으로, 이진 엘박스 대표와 서재…",
+    "pubDate": "2026-09-19T10:48:34.000Z",
+    "collectedAt": "2026-09-19T12:18:32.542Z"
+  },
+  {
     "id": "https://www.aitimes.com/news/articleView.html?idxno=215484",
     "category": "ai",
     "source": "AI타임스 AI산업",
@@ -108,6 +178,26 @@
     "summary": "앤트로픽의 기업공개(IPO)가 임박하면서 월가 투자자들의 신중론이 확대되고 있다. 올해 연간 매출이 1000억달러(약 138조8000억원)를 돌파할 것이라는 가파른 성장 전망에 환호하면서도, 급증하는 컴퓨팅 인프라 비용으로 인해 다시 적자로 돌아설 수 있다는 우려가 커진 탓이다.뉴욕타임…",
     "pubDate": "2026-09-19T10:47:54.000Z",
     "collectedAt": "2026-09-19T02:14:25.456Z"
+  },
+  {
+    "id": "20260919000017",
+    "category": "economy",
+    "source": "전자신문 경제",
+    "title": "“모여서 각자 제품 개발”…카카오벤처스, 창업자 몰입 공간 '템프서울' 개관",
+    "link": "https://www.etnews.com/20260919000017",
+    "summary": "카카오벤처스가 창업자를 위한 몰입 공동체 공간 '템프서울(/tmp Seoul)'을 공식 개관하고 개관 기념 인사이트 세션을 열었다고 18일 밝혔다. 템프서울은 AI 시대 창업가들이 한 공간에 모여 각자 제품 개발에 몰입하고 서로의 경험과 시행착오를 나누며 성장하는 창업자 공동체 공간이다…",
+    "pubDate": "2026-09-19T10:47:31.000Z",
+    "collectedAt": "2026-09-19T12:18:32.542Z"
+  },
+  {
+    "id": "https://news.hada.io/topic?id=33937",
+    "category": "it",
+    "source": "긱뉴스",
+    "title": "Warez: 불법 복제의 인프라와 미학 (2021)",
+    "link": "https://news.hada.io/topic?id=33937",
+    "summary": "Scene은 음악, 영상, 게임, 소프트웨어를 공식 판매일 전에 입수하고, 서로 먼저 무료로 배포하려 경쟁하는 전 세계 지하 불법 복제 그룹 네트워크임 Warez는 이 하위문화를 다룬 최초의 학술 연구서로, Scene이 자체적으로 생산한 문서 자료를 통해 운영 방식과 인...",
+    "pubDate": "2026-09-19T10:42:21.000Z",
+    "collectedAt": "2026-09-19T12:18:32.542Z"
   },
   {
     "id": "https://www.aitimes.com/news/articleView.html?idxno=215482",
@@ -14907,96 +14997,6 @@
     "link": "https://www.hankyung.com/article/202609155954i",
     "summary": "",
     "pubDate": "2026-09-15T06:43:20.000Z",
-    "collectedAt": "2026-09-15T08:18:04.094Z"
-  },
-  {
-    "id": "https://www.hankyung.com/article/202609156127i",
-    "category": "economy",
-    "source": "한국경제 경제",
-    "title": "재생에너지용 금융 상품 나왔다…H에너지, 연 9% 태양광 투자 상품 출시",
-    "link": "https://www.hankyung.com/article/202609156127i",
-    "summary": "",
-    "pubDate": "2026-09-15T06:41:11.000Z",
-    "collectedAt": "2026-09-15T08:18:04.094Z"
-  },
-  {
-    "id": "https://www.hankyung.com/article/202609155939i",
-    "category": "economy",
-    "source": "한국경제 증권",
-    "title": "브로드컴 CEO \"AI 속도 조절론에도 매출 목표 변함없어\"",
-    "link": "https://www.hankyung.com/article/202609155939i",
-    "summary": "",
-    "pubDate": "2026-09-15T06:41:07.000Z",
-    "collectedAt": "2026-09-15T08:18:04.094Z"
-  },
-  {
-    "id": "https://news.hada.io/topic?id=33726",
-    "category": "it",
-    "source": "긱뉴스",
-    "title": "Ubuntu 26.10, Rust 기반 coreutils로 전환 완료",
-    "link": "https://news.hada.io/topic?id=33726",
-    "summary": "Ubuntu 26.10은 보안 문제로 전환을 보류했던 cp, mv, rm까지 Rust 구현으로 교체해 핵심 유틸리티 전체의 전환을 완료함 Ubuntu 26.04 LTS에서 세 명령을 GNU 버전으로 유지하게 했던 TOCTOU 문제가 업스트림 uutil...",
-    "pubDate": "2026-09-15T06:41:04.000Z",
-    "collectedAt": "2026-09-15T08:18:04.094Z"
-  },
-  {
-    "id": "https://www.hankyung.com/article/2026091548771",
-    "category": "it",
-    "source": "한국경제 IT",
-    "title": "느려지는 출산 시계에…LG화학, 난임치료 선택 폭 넓힌다",
-    "link": "https://www.hankyung.com/article/2026091548771",
-    "summary": "",
-    "pubDate": "2026-09-15T06:39:02.000Z",
-    "collectedAt": "2026-09-15T08:18:04.094Z"
-  },
-  {
-    "id": "https://www.hankyung.com/article/2026091548741",
-    "category": "it",
-    "source": "한국경제 IT",
-    "title": "점차 채워지는 한국인 DNA 지도…변이 찾아 맞춤치료 앞당긴다",
-    "link": "https://www.hankyung.com/article/2026091548741",
-    "summary": "",
-    "pubDate": "2026-09-15T06:38:50.000Z",
-    "collectedAt": "2026-09-15T08:18:04.094Z"
-  },
-  {
-    "id": "https://www.hankyung.com/article/2026091548841",
-    "category": "it",
-    "source": "한국경제 IT",
-    "title": "시도 때도 없는 배뇨 불편…'참당귀·황기'로 전립선 건강 되찾는다",
-    "link": "https://www.hankyung.com/article/2026091548841",
-    "summary": "",
-    "pubDate": "2026-09-15T06:38:38.000Z",
-    "collectedAt": "2026-09-15T08:18:04.094Z"
-  },
-  {
-    "id": "https://news.hada.io/topic?id=33725",
-    "category": "it",
-    "source": "긱뉴스",
-    "title": "머릿속에 아무것도 그리지 못하는 사람들이 상상의 과학을 다시 쓰고 있다",
-    "link": "https://news.hada.io/topic?id=33725",
-    "summary": "새로운 리뷰 논문은 심상이 여러 뇌 영역의 협력으로 생겨나며, 머릿속에 그림을 그리지 못하는 아판타시아는 이 협력이 제대로 작동하지 않는 상태라는 틀을 제안함 일차 시각피질이 광범위하게 손상돼도 시각적 상상을 유지하는 환자들은 상상이...",
-    "pubDate": "2026-09-15T06:38:04.000Z",
-    "collectedAt": "2026-09-15T08:18:04.094Z"
-  },
-  {
-    "id": "https://www.hankyung.com/article/202609155955i",
-    "category": "economy",
-    "source": "한국경제 경제",
-    "title": "기업은행, 변동형 주담대 재개…대출제한 조치 속속 풀린다",
-    "link": "https://www.hankyung.com/article/202609155955i",
-    "summary": "",
-    "pubDate": "2026-09-15T06:33:40.000Z",
-    "collectedAt": "2026-09-15T08:18:04.094Z"
-  },
-  {
-    "id": "https://www.hankyung.com/article/202609156102i",
-    "category": "economy",
-    "source": "한국경제 경제",
-    "title": "SK인텔릭스 '나무엑스', 말레이시아 진출…글로벌 웰니스 로봇 시장 공략 본격화",
-    "link": "https://www.hankyung.com/article/202609156102i",
-    "summary": "",
-    "pubDate": "2026-09-15T06:33:34.000Z",
     "collectedAt": "2026-09-15T08:18:04.094Z"
   }
 ]
