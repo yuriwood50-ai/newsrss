@@ -100,6 +100,56 @@
     "collectedAt": "2026-09-19T08:16:06.552Z"
   },
   {
+    "id": "https://news.hada.io/topic?id=33944",
+    "category": "it",
+    "source": "긱뉴스",
+    "title": "Laya - Jev의 오픈소스 버전",
+    "link": "https://news.hada.io/topic?id=33944",
+    "summary": "Laya는 텍스트를 생성하는 대신 구조화된 질문에 선택지, 점수, 불리언 확률을 반환하는 비자기회귀형 의사결정 모델군으로, 여러 질문을 한 번의 순전파로 처리함 양방향 인코더 기반으로 단일 GPU에서 질문 하나를 32.8ms, 질문 10개를 배치 처리할 때 질문당",
+    "pubDate": "2026-09-19T13:52:21.000Z",
+    "collectedAt": "2026-09-19T14:14:11.440Z"
+  },
+  {
+    "id": "https://news.hada.io/topic?id=33943",
+    "category": "it",
+    "source": "긱뉴스",
+    "title": "수학이 증명 이상이라면, 증명 이외의 기여도 더 높이 평가해야 한다",
+    "link": "https://news.hada.io/topic?id=33943",
+    "summary": "수학의 목표가 인간의 이해를 넓히는 것이라면, 새로운 증명뿐 아니라 아이디어를 어떻게 떠올릴 수 있는지 밝혀 주는 설명에도 비슷한 수준의 학문적 인정을 부여해야 함 발상의 동기를 드러내는 설명(motivated explanation) 은 정의와 구성을 처음부터 주기보다...",
+    "pubDate": "2026-09-19T13:42:21.000Z",
+    "collectedAt": "2026-09-19T14:14:11.440Z"
+  },
+  {
+    "id": "https://news.hada.io/topic?id=33942",
+    "category": "it",
+    "source": "긱뉴스",
+    "title": "GPT-6 Astra, 제1차 세계대전 독일 무선 암호 해독",
+    "link": "https://news.hada.io/topic?id=33942",
+    "summary": "GPT-6 Astra가 1918년 11월 27일 송신된 독일의 ADFGVX 무선 암호문을 해독함. 다만 최초 해독인지는 확인되지 않았으며, 알려진 선행 해독 사례가 없다는 단서가 있음 복원한 메시지는 영국 순양함의 세바스토폴 입항과 26일 연합국 함대...",
+    "pubDate": "2026-09-19T12:42:21.000Z",
+    "collectedAt": "2026-09-19T14:14:11.440Z"
+  },
+  {
+    "id": "https://news.hada.io/topic?id=33941",
+    "category": "it",
+    "source": "긱뉴스",
+    "title": "Show GN: ARAM Emulator - WIPI·SKVM·Raptor 한국 피처폰 소프트웨어 에뮬레이터",
+    "link": "https://news.hada.io/topic?id=33941",
+    "summary": "안녕하세요. 2000년대 한국 피처폰 소프트웨어를 현대 환경에서 다시 실행하기 위한 ARAM Emulator를 만들고 있습니다. ARAM은 WIPI·SKVM·Raptor 계열의 피처폰 게임과 앱을 Windows, macOS, Linux, Android 및 웹 브라우저에서 실행하는 에뮬레…",
+    "pubDate": "2026-09-19T12:39:05.000Z",
+    "collectedAt": "2026-09-19T14:14:11.440Z"
+  },
+  {
+    "id": "https://news.hada.io/topic?id=33940",
+    "category": "it",
+    "source": "긱뉴스",
+    "title": "유닛 테스트는 버그를 잡는다기보다 영역 표시를 하는 것",
+    "link": "https://news.hada.io/topic?id=33940",
+    "summary": "버그를 잡는 데 그다지 효과적이지 않은 유닛 테스트가 왜 업계에서 유일하게 보편화된 테스트 방법이 됐는지를 분석한 글 하드웨어 관점에서 소프트웨어 테스트는 끔찍해 보임 (저자는 하드웨어 개발 경험이 많은 프로그래머) 소프트웨어는 \"나중에 고치면 된다\"는 문화로 버그투...",
+    "pubDate": "2026-09-19T12:35:42.000Z",
+    "collectedAt": "2026-09-19T14:14:11.440Z"
+  },
+  {
     "id": "https://news.hada.io/topic?id=33939",
     "category": "it",
     "source": "긱뉴스",
@@ -14947,56 +14997,6 @@
     "link": "https://www.hankyung.com/article/202609156174g",
     "summary": "",
     "pubDate": "2026-09-15T06:53:08.000Z",
-    "collectedAt": "2026-09-15T08:18:04.094Z"
-  },
-  {
-    "id": "https://www.hankyung.com/article/2026091548641",
-    "category": "it",
-    "source": "한국경제 IT",
-    "title": "이충근 \"췌장암 신약, 생존기간 두 배로 늘려…환자들에 기회 생길 것\"",
-    "link": "https://www.hankyung.com/article/2026091548641",
-    "summary": "",
-    "pubDate": "2026-09-15T06:48:54.000Z",
-    "collectedAt": "2026-09-15T08:18:04.094Z"
-  },
-  {
-    "id": "20260915000366",
-    "category": "economy",
-    "source": "전자신문 경제",
-    "title": "평택이오스, 평택에코센터 자원순환 성과로 '저탄소 인증' 획득",
-    "link": "https://www.etnews.com/20260915000366",
-    "summary": "평택시 대표 환경기초시설인 평택에코센터를 운영·관리하는 평택이오스(대표 현동수)가 도시재생안전협회로부터 저탄소 인증을 획득했다. 이번 인증은 대규모 폐기물 처리시설이 단순히 폐기물을 처리하는 공간을 넘어 자원순환과 에너지 생산, 온실가스 감축을 실천하는 친환경 기반 시설로 전환하고 있다…",
-    "pubDate": "2026-09-15T06:46:39.000Z",
-    "collectedAt": "2026-09-15T08:18:04.094Z"
-  },
-  {
-    "id": "https://www.hankyung.com/article/2026091548681",
-    "category": "it",
-    "source": "한국경제 IT",
-    "title": "의약품 넘어 에스테틱·건기식까지…바이오 R&D 종횡무진",
-    "link": "https://www.hankyung.com/article/2026091548681",
-    "summary": "",
-    "pubDate": "2026-09-15T06:44:57.000Z",
-    "collectedAt": "2026-09-15T08:18:04.094Z"
-  },
-  {
-    "id": "https://www.hankyung.com/article/2026091561476",
-    "category": "economy",
-    "source": "한국경제 증권",
-    "title": "美 국채금리 상승에 3조 던진 외국인…코스피 하락 마감",
-    "link": "https://www.hankyung.com/article/2026091561476",
-    "summary": "",
-    "pubDate": "2026-09-15T06:43:21.000Z",
-    "collectedAt": "2026-09-15T08:18:04.094Z"
-  },
-  {
-    "id": "https://www.hankyung.com/article/202609155954i",
-    "category": "economy",
-    "source": "한국경제 경제",
-    "title": "[단독] 환율 급락에…기업들 사업전략 다시 짠다",
-    "link": "https://www.hankyung.com/article/202609155954i",
-    "summary": "",
-    "pubDate": "2026-09-15T06:43:20.000Z",
     "collectedAt": "2026-09-15T08:18:04.094Z"
   }
 ]
