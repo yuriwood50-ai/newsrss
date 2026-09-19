@@ -100,6 +100,16 @@
     "collectedAt": "2026-09-19T08:16:06.552Z"
   },
   {
+    "id": "https://news.hada.io/topic?id=33945",
+    "category": "it",
+    "source": "긱뉴스",
+    "title": "OpenAI는 자체 LLM으로 Jalapeño 칩을 어떻게 설계했나",
+    "link": "https://news.hada.io/topic?id=33945",
+    "summary": "OpenAI는 자체 LLM으로 첫 AI 가속기 Jalapeño의 설계를 가속했으며, 초기 아키텍처 구상부터 첫 실리콘까지 20개월 미만, 첫 RTL부터 제조용 설계 확정까지 9개월이 걸림 프로젝트 기간 평균 100명 미만의 OpenAI 팀이 시스템 설계를 맡고, Broadcom",
+    "pubDate": "2026-09-19T14:42:21.000Z",
+    "collectedAt": "2026-09-19T16:14:47.825Z"
+  },
+  {
     "id": "https://news.hada.io/topic?id=33944",
     "category": "it",
     "source": "긱뉴스",
@@ -14987,16 +14997,6 @@
     "link": "https://www.hankyung.com/article/202609156087i",
     "summary": "",
     "pubDate": "2026-09-15T06:57:44.000Z",
-    "collectedAt": "2026-09-15T08:18:04.094Z"
-  },
-  {
-    "id": "https://www.hankyung.com/article/202609156174g",
-    "category": "it",
-    "source": "한국경제 IT",
-    "title": "넥슨, '블루 아카이브' 메인 스토리 2부 업데이트…'드럼통 속에 있는 것'",
-    "link": "https://www.hankyung.com/article/202609156174g",
-    "summary": "",
-    "pubDate": "2026-09-15T06:53:08.000Z",
     "collectedAt": "2026-09-15T08:18:04.094Z"
   }
 ]
