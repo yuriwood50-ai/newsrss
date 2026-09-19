@@ -1,5 +1,45 @@
 [
   {
+    "id": "https://news.hada.io/topic?id=33955",
+    "category": "it",
+    "source": "긱뉴스",
+    "title": "TIN - Postgres용 전문 검색",
+    "link": "https://news.hada.io/topic?id=33955",
+    "summary": "PlanetScale이 Postgres 전문 검색 확장 TIN(Text INdex) 을 정식 출시함. PlanetScale의 모든 Postgres 및 Neki 데이터베이스에서 사용할 수 있음 불리언/구문/스팬 검색, 퍼지/와일드카드/정규식 매칭부터 COUNT(*)와 BM25 상위 결과…",
+    "pubDate": "2026-09-19T21:42:22.000Z",
+    "collectedAt": "2026-09-19T22:13:51.517Z"
+  },
+  {
+    "id": "https://www.hankyung.com/article/202609183572i",
+    "category": "economy",
+    "source": "한국경제 경제",
+    "title": "치킨·불고기 넘어 족발·곱창까지…홍콩에 부는 'K푸드 2.0' [권용훈의 트렌드워치]",
+    "link": "https://www.hankyung.com/article/202609183572i",
+    "summary": "",
+    "pubDate": "2026-09-19T21:00:02.000Z",
+    "collectedAt": "2026-09-19T22:13:51.517Z"
+  },
+  {
+    "id": "20260918000240",
+    "category": "ai",
+    "source": "전자신문 AI",
+    "title": "[ET시선]K로봇, 기술만으론 이길 수 없다",
+    "link": "https://www.etnews.com/20260918000240",
+    "summary": "중국 로봇 산업은 기술 경쟁을 넘어 자본 경쟁으로 확장되고 있다. 유니트리 상장에 이어 애지봇·갤럭시아AI 등도 기업공개(IPO)를 추진하며 양산과 인공지능(AI)과 핵심 부품 투자를 위한 대규모 자금 확보에 나섰다. 최근 만난 국내 로봇기업 대표들도 중국과 경쟁하려면 기술력만으로는 부…",
+    "pubDate": "2026-09-19T21:00:00.000Z",
+    "collectedAt": "2026-09-19T22:13:51.517Z"
+  },
+  {
+    "id": "https://news.hada.io/topic?id=33954",
+    "category": "it",
+    "source": "긱뉴스",
+    "title": "과학은 오픈 소프트웨어다",
+    "link": "https://news.hada.io/topic?id=33954",
+    "summary": "현대 과학, 적어도 계산과학에서 오픈소스 소프트웨어는 과학 그 자체임. 소프트웨어는 예측 모델을 실행 가능한 형태로 담고 공유하는 수단이기 때문임 재현성은 같은 결과를 반복하는 데 그치지 않음. 다른 사람이 과학적 아이디어를 자신의 모델에 통합하고, 검...",
+    "pubDate": "2026-09-19T20:42:22.000Z",
+    "collectedAt": "2026-09-19T22:13:51.517Z"
+  },
+  {
     "id": "https://www.aitimes.com/news/articleView.html?idxno=215494",
     "category": "ai",
     "source": "AI타임스 AI산업",
@@ -14957,46 +14997,6 @@
     "link": "https://www.hankyung.com/article/202609155797i",
     "summary": "",
     "pubDate": "2026-09-15T07:04:19.000Z",
-    "collectedAt": "2026-09-15T08:18:04.094Z"
-  },
-  {
-    "id": "https://www.hankyung.com/article/202609156048g",
-    "category": "it",
-    "source": "한국경제 IT",
-    "title": "'160만원→40만원' 반의 반토막…1030 돌아서자 벌어진 일",
-    "link": "https://www.hankyung.com/article/202609156048g",
-    "summary": "",
-    "pubDate": "2026-09-15T07:04:07.000Z",
-    "collectedAt": "2026-09-15T08:18:04.094Z"
-  },
-  {
-    "id": "https://www.hankyung.com/article/202609156145i",
-    "category": "economy",
-    "source": "한국경제 증권",
-    "title": "삼전닉스 또 반등 못했는데…주가 15%씩 뛴 소부장 종목들",
-    "link": "https://www.hankyung.com/article/202609156145i",
-    "summary": "",
-    "pubDate": "2026-09-15T07:03:34.000Z",
-    "collectedAt": "2026-09-15T08:18:04.094Z"
-  },
-  {
-    "id": "https://www.hankyung.com/article/202609155800i",
-    "category": "economy",
-    "source": "한국경제 증권",
-    "title": "미래에셋, 4천억 손실 vs 8천억 이익…너무 다른 실적 전망",
-    "link": "https://www.hankyung.com/article/202609155800i",
-    "summary": "",
-    "pubDate": "2026-09-15T07:03:22.000Z",
-    "collectedAt": "2026-09-15T08:18:04.094Z"
-  },
-  {
-    "id": "https://www.hankyung.com/article/202609156214i",
-    "category": "economy",
-    "source": "한국경제 경제",
-    "title": "블루어드, '2026 대한민국 일자리 으뜸기업' 선정",
-    "link": "https://www.hankyung.com/article/202609156214i",
-    "summary": "",
-    "pubDate": "2026-09-15T07:02:01.000Z",
     "collectedAt": "2026-09-15T08:18:04.094Z"
   }
 ]
