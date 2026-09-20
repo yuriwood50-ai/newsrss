@@ -1,5 +1,15 @@
 [
   {
+    "id": "https://news.hada.io/topic?id=34011",
+    "category": "it",
+    "source": "긱뉴스",
+    "title": "Pirate Face - LLM 모델을 삭제로부터 구하는 서비스",
+    "link": "https://news.hada.io/topic?id=34011",
+    "summary": "Pirate Face는 Hugging Face의 오픈 모델을 체크섬으로 검증한 토렌트로 미러링하고, 단일 기업 대신 P2P 네트워크가 보관하도록 하는 서비스임 토렌트에 내장된 Hugging Face 웹 시드로 피어가 없어도 다운로드할 수 있으며, 원본이 삭제되면 시...",
+    "pubDate": "2026-09-20T17:42:25.000Z",
+    "collectedAt": "2026-09-20T18:16:19.989Z"
+  },
+  {
     "id": "https://www.aitimes.com/news/articleView.html?idxno=215506",
     "category": "ai",
     "source": "AI타임스 AI산업",
@@ -30,6 +40,16 @@
     "collectedAt": "2026-09-20T08:16:20.759Z"
   },
   {
+    "id": "https://news.hada.io/topic?id=34010",
+    "category": "it",
+    "source": "긱뉴스",
+    "title": "UTF-8000: 무제한 UTF-8",
+    "link": "https://news.hada.io/topic?id=34010",
+    "summary": "UTF-8000은 ASCII와 UTF-8을 포함하면서 임의 크기의 정수를 인코딩하도록 확장한 독립 제안으로, Unicode Consortium이 승인하거나 대표하는 표준은 아님 UTF-8의 선두 비트를 자기 동기화 비트와 길이 표시 비트로 분리하고, 길이 표시 비트를 연속 바이트에 걸쳐…",
+    "pubDate": "2026-09-20T16:52:25.000Z",
+    "collectedAt": "2026-09-20T18:16:19.989Z"
+  },
+  {
     "id": "https://www.aitimes.com/news/articleView.html?idxno=215507",
     "category": "ai",
     "source": "AI타임스 AI산업",
@@ -38,6 +58,16 @@
     "summary": "카카오모빌리티(대표 류긍선)가 태국과 체코의 교통부 인사들을 대상으로 시승 및 이용 과정 체험 등을 제공하며 국내 자율주행 서비스를 직접 선보였다고 20일 밝혔다. 먼저, 17일에는 시리퐁 앙카사쿨키앗 태국 교통부 차관을 비롯한 태국 정부 관계자로 구성된 대표단이 경기도 성남시 카카오모…",
     "pubDate": "2026-09-20T16:45:00.000Z",
     "collectedAt": "2026-09-20T12:18:17.469Z"
+  },
+  {
+    "id": "https://news.hada.io/topic?id=34009",
+    "category": "it",
+    "source": "긱뉴스",
+    "title": "ZK-JPEG - 영지식 이미지 편집 및 압축",
+    "link": "https://news.hada.io/topic?id=34009",
+    "summary": "ZK-JPEG은 비밀로 유지되는 커밋된 입력으로부터 이미지가 올바르게 JPEG 압축되었음을 증명하는 암호학적 도구임 카메라의 디지털 서명은 이미지 출처를 증명하지만, 손실 압축이나 피사체 보호를 위한 흐림 처리와 영역 가리기도 서명을 무효화함 기존 ...",
+    "pubDate": "2026-09-20T16:42:25.000Z",
+    "collectedAt": "2026-09-20T18:16:19.989Z"
   },
   {
     "id": "https://www.aitimes.com/news/articleView.html?idxno=215495",
@@ -14968,35 +14998,5 @@
     "summary": "신한카드는 신한금융그룹의 통합 슈퍼앱 '신한 슈퍼SOL' 고객 모집·이용 활성화를 위해 SNS 행사를 30일까지 진행한다고 16일 밝혔다. 행사는 '타임슬립'을 콘셉트로 한 게임 형식으로 진행된다. 참여 단계는 △신한카드 공식 인스타그램의 행사 안내 게시물을 눌러 20년 전 금융생활 공…",
     "pubDate": "2026-09-16T00:30:50.000Z",
     "collectedAt": "2026-09-16T04:15:37.661Z"
-  },
-  {
-    "id": "20260916000056",
-    "category": "economy",
-    "source": "전자신문 경제",
-    "title": "디셈버 핀트, 증시 국면 따라 ETF 비중 조절하는 AI 자문 출시",
-    "link": "https://www.etnews.com/20260916000056",
-    "summary": "디셈버앤컴퍼니가 국내 증시 흐름에 따라 상장지수펀드(ETF) 투자 비중을 조절하는 자문 솔루션 '한국ETF 국면대응'을 출시했다고 16일 밝혔다. 한국ETF 국면대응은 자체 인공지능(AI) 투자엔진 '아이작(ISAAC)'이 코스피200과 섹터 ETF 데이터를 분석해 시장을 상승 또는 하…",
-    "pubDate": "2026-09-16T00:30:18.000Z",
-    "collectedAt": "2026-09-16T04:15:37.661Z"
-  },
-  {
-    "id": "https://www.hankyung.com/article/202609167204i",
-    "category": "economy",
-    "source": "한국경제 경제",
-    "title": "美 경제계 '막후 실세'도 담았다…AI가 되살린 시게이트 [핫픽!미국주식]",
-    "link": "https://www.hankyung.com/article/202609167204i",
-    "summary": "",
-    "pubDate": "2026-09-16T00:30:05.000Z",
-    "collectedAt": "2026-09-16T02:15:32.881Z"
-  },
-  {
-    "id": "https://news.hada.io/topic?id=33760",
-    "category": "it",
-    "source": "긱뉴스",
-    "title": "TermDOM - HTML, CSS와 DOM으로 터미널 UI 만들기",
-    "link": "https://news.hada.io/topic?id=33760",
-    "summary": "웹 개발에 익숙한 HTML, CSS와 DOM API로 터미널 UI와 대화형 CLI를 만드는 JavaScript/TypeScript 라이브러리 별도의 터미널 위젯 API를 배우는 대신, HTML 요소를 만들고 DOM을 수정하는 방식으로 화면을 구성 노드가 바뀌면 스타일과 배치를 다시 계산…",
-    "pubDate": "2026-09-16T00:30:02.000Z",
-    "collectedAt": "2026-09-16T02:15:32.881Z"
   }
 ]
