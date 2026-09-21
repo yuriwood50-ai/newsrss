@@ -160,6 +160,36 @@
     "collectedAt": "2026-09-21T06:22:41.414Z"
   },
   {
+    "id": "20260921000445",
+    "category": "economy",
+    "source": "전자신문 경제",
+    "title": "'그린바이오 소재' 케이바이오게이트웨이, 12억원 규모 시드투자 유치",
+    "link": "https://www.etnews.com/20260921000445",
+    "summary": "그린바이오 기능성 소재 기업 케이바이오게이트웨이가 약 12억원 규모의 시드투자를 유치했다고 21일 밝혔다. 이번 시드투자는 기술보증기금이 리드했으며 블루포인트파트너스, 와이앤아처 등이 참여했다. 투자금은 자체 개발한 유산균 'DH24(Lactiplantibacillus plantarum…",
+    "pubDate": "2026-09-21T13:46:47.000Z",
+    "collectedAt": "2026-09-21T14:15:22.392Z"
+  },
+  {
+    "id": "https://news.hada.io/topic?id=34069",
+    "category": "it",
+    "source": "긱뉴스",
+    "title": "jev-leftpad - Jev로 값 왼쪽에 패딩 추가",
+    "link": "https://news.hada.io/topic?id=34069",
+    "summary": "jev-leftpad는 값의 왼쪽에 붙일 공백 수를 Jev 모델이 선택하도록 하는 패키지로, padStart() 한 줄이면 가능한 작업에 모델을 호출함 모델이 space_0부터 space_10까지의 선택지 중 하나를 고르면, JavaScript가 해당 개...",
+    "pubDate": "2026-09-21T13:36:50.000Z",
+    "collectedAt": "2026-09-21T14:15:22.392Z"
+  },
+  {
+    "id": "https://news.hada.io/topic?id=34068",
+    "category": "it",
+    "source": "긱뉴스",
+    "title": "Disney+, 새 이용약관으로 모든 구독 요금제에서 영화 시작 전 광고 허용",
+    "link": "https://news.hada.io/topic?id=34068",
+    "summary": "Disney+ 가 2025년 1월 구독 약관을 변경해, ‘광고 없음’으로 판매하는 요금제를 포함한 모든 구독 등급에 광고가 들어갈 수 있도록 함 광고 없는 요금제는 일반적으로 상업 광고로 재생이 중단되지 않지만, 스트리밍 권리나 기타 제약, 실시간 방송과 특별 행사...",
+    "pubDate": "2026-09-21T13:33:50.000Z",
+    "collectedAt": "2026-09-21T14:15:22.392Z"
+  },
+  {
     "id": "https://www.aitimes.com/news/articleView.html?idxno=215522",
     "category": "ai",
     "source": "AI타임스 AI산업",
@@ -168,6 +198,26 @@
     "summary": "중국 내수 소비 시장이 스마트 기술과 헬스케어, 고품질 제품 중심으로 급격히 재편되면서, 올해 들어 스마트 안경을 비롯한 웨어러블 첨단 기기 판매량이 두 배 이상 증가한 것으로 나타났다.20일 중국 상무부의 발표에 따르면 2026년 1월부터 8월까지 주요 중국 온라인 플랫폼을 통한 스마…",
     "pubDate": "2026-09-21T13:08:03.000Z",
     "collectedAt": "2026-09-21T06:22:41.414Z"
+  },
+  {
+    "id": "https://www.hankyung.com/article/202609219285i",
+    "category": "economy",
+    "source": "한국경제 경제",
+    "title": "오픈AI에 올인한 이 회사, 또 15조원 정크본드 발행 추진",
+    "link": "https://www.hankyung.com/article/202609219285i",
+    "summary": "",
+    "pubDate": "2026-09-21T13:06:57.000Z",
+    "collectedAt": "2026-09-21T14:15:22.392Z"
+  },
+  {
+    "id": "https://www.hankyung.com/article/2026092181966",
+    "category": "economy",
+    "source": "한국경제 경제",
+    "title": "\"또 사이드카 쏟아지나\"…한숨 돌리던 개미들 떨게 한 '경고' [분석+]",
+    "link": "https://www.hankyung.com/article/2026092181966",
+    "summary": "",
+    "pubDate": "2026-09-21T13:00:04.000Z",
+    "collectedAt": "2026-09-21T14:15:22.392Z"
   },
   {
     "id": "https://www.aitimes.com/news/articleView.html?idxno=215515",
@@ -180,6 +230,36 @@
     "collectedAt": "2026-09-21T04:15:38.602Z"
   },
   {
+    "id": "https://www.hankyung.com/article/2026092192797",
+    "category": "economy",
+    "source": "한국경제 경제",
+    "title": "\"마트 갔다간 8만원 더 쓴다\"…추석 장보기 가장 싼 곳은",
+    "link": "https://www.hankyung.com/article/2026092192797",
+    "summary": "",
+    "pubDate": "2026-09-21T12:45:18.000Z",
+    "collectedAt": "2026-09-21T14:15:22.392Z"
+  },
+  {
+    "id": "https://news.hada.io/topic?id=34067",
+    "category": "it",
+    "source": "긱뉴스",
+    "title": "Show HN: Mini-AGI - 8GB VRAM에서 학습하는 동적 지속 학습 모델",
+    "link": "https://news.hada.io/topic?id=34067",
+    "summary": "mini-AGI는 단일 8GB VRAM GPU에서 처음부터 학습하고, 읽는 데이터에 따라 전문가 풀과 연산 깊이를 바꾸는 바이트 단위 언어 모델임 가중치와 옵티마이저 상태를 디스크에 저장하고 필요한 전문가만 GPU에 올리므로, 전체 파라미터 수보다 현재 작업 집합이 VRAM...",
+    "pubDate": "2026-09-21T12:38:05.000Z",
+    "collectedAt": "2026-09-21T14:15:22.392Z"
+  },
+  {
+    "id": "https://news.hada.io/topic?id=34066",
+    "category": "it",
+    "source": "긱뉴스",
+    "title": "ZuckOff, Meta 안경이 당신을 보기 전에 먼저 감지하는 무료 앱",
+    "link": "https://news.hada.io/topic?id=34066",
+    "summary": "ZuckOff는 주변 스마트 안경의 Bluetooth 신호를 감지해 같은 공간에 기기가 있는지 알려주는 앱으로, iPhone에서 기본 스캔 기능을 무료로 제공함 모델별 Bluetooth 신호로 만든 디지털 지문을 활용하며, Ray-Ban Meta, Oakley Meta, Snap Spe…",
+    "pubDate": "2026-09-21T12:35:05.000Z",
+    "collectedAt": "2026-09-21T14:15:22.392Z"
+  },
+  {
     "id": "https://www.aitimes.com/news/articleView.html?idxno=215510",
     "category": "ai",
     "source": "AI타임스 AI산업",
@@ -188,6 +268,16 @@
     "summary": "미국 트럼프 행정부가 AI 개발 속도 조절을 요구하는 AI 기업들을 향해 정부의 강제 조치를 기다리지 말고 자체적으로 개발을 중단하거나 늦추면 된다는 입장을 밝혔다.마이클 크라치오스 백악관 과학기술정책실장은 20일(현지시간) 폭스뉴스와의 인터뷰에서 AI 개발 속도가 지나치게 빠르다고 우…",
     "pubDate": "2026-09-21T12:32:52.000Z",
     "collectedAt": "2026-09-21T04:15:38.602Z"
+  },
+  {
+    "id": "20260921000441",
+    "category": "it",
+    "source": "전자신문 IT/통신",
+    "title": "“영상 339개 삭제”…'수익 창출' 비상 걸린 먹방 유튜버, 쯔양·히밥도?",
+    "link": "https://www.etnews.com/20260921000441",
+    "summary": "한국을 대표하는 글로벌 콘텐츠 중 하나인 '먹방(Mukbang)' 산업이 세계 최대 동영상 플랫폼 유튜브의 전격적인 규제 강화로 전례 없는 위기에 직면했다. 유튜브가 섭식장애 및 폭식 유발 위험에 관한 가이드라인을 엄격히 개편하면서, 주요 먹방 크리에이터들의 수익 창출 경로가 막히고 콘…",
+    "pubDate": "2026-09-21T12:30:06.000Z",
+    "collectedAt": "2026-09-21T14:15:22.392Z"
   },
   {
     "id": "https://www.aitimes.com/news/articleView.html?idxno=215511",
@@ -14907,96 +14997,6 @@
     "link": "https://www.hankyung.com/article/202608313706i",
     "summary": "",
     "pubDate": "2026-09-17T01:03:49.000Z",
-    "collectedAt": "2026-09-17T02:15:25.773Z"
-  },
-  {
-    "id": "20260917000177",
-    "category": "economy",
-    "source": "전자신문 경제",
-    "title": "카카오페이증권, 금융감독원과 '신혼부부 금융문화 토크쇼' 공동 후원",
-    "link": "https://www.etnews.com/20260917000177",
-    "summary": "카카오페이증권은 금융감독원과 '신혼부부 금융문화 토크쇼'를 공공 후원한다고 17일 밝혔다. 금융과행복네트워크가 주관하는 토크쇼는 신혼부부가 금융에 대한 생각을 나누고 자산 형성의 밑그림을 그려볼 수 있도록 마련됐다. 토크쇼는 10월 15일 오후 3시부터 5시까지 서울 명동 온즈드롬에서…",
-    "pubDate": "2026-09-17T01:03:37.000Z",
-    "collectedAt": "2026-09-17T02:15:25.773Z"
-  },
-  {
-    "id": "20260917000175",
-    "category": "economy",
-    "source": "전자신문 경제",
-    "title": "수협은행, 사이버 복원력 높인다",
-    "link": "https://www.etnews.com/20260917000175",
-    "summary": "수협은행이 사이버 공격의 유입을 막는 데 초점을 맞췄던 보안체계를 침입 이후 공격자의 움직임까지 추적하고 피해 확산을 차단하는 방향으로 고도화한다. 인공지능(AI)과 클라우드 활용 확대 등으로 금융회사 전산 환경이 복잡해지는 상황에서 해킹을 완전히 차단하는 것뿐 아니라 사고 발생 시 피…",
-    "pubDate": "2026-09-17T01:03:16.000Z",
-    "collectedAt": "2026-09-17T02:15:25.773Z"
-  },
-  {
-    "id": "https://www.hankyung.com/article/202608313573i",
-    "category": "it",
-    "source": "한국경제 IT",
-    "title": "[COVER STORY⑥ COMPANY]삼양바이오팜 “고분자·지질 결합한 SENS… RNA 전달 한계 넘는다”",
-    "link": "https://www.hankyung.com/article/202608313573i",
-    "summary": "",
-    "pubDate": "2026-09-17T01:02:23.000Z",
-    "collectedAt": "2026-09-17T02:15:25.773Z"
-  },
-  {
-    "id": "20260917000173",
-    "category": "economy",
-    "source": "전자신문 경제",
-    "title": "웰컴금융그룹, 전국 각지서 임직원 봉사활동 전개",
-    "link": "https://www.etnews.com/20260917000173",
-    "summary": "웰컴금융그룹(회장 손종주)이 오는 10월까지 총 7회에 걸쳐 지역사회 곳곳에서 임직원이 직접 참여하는 봉사활동을 진행한다고 17일 밝혔다. 이번 봉사활동은 지역아동센터와 노인종합복지관 등을 대상으로 기관별·대상별 특성에 맞춰 진행된다. 웰컴금융그룹 임직원들은 △아동 대상 실내 놀이 및…",
-    "pubDate": "2026-09-17T01:01:23.000Z",
-    "collectedAt": "2026-09-17T02:15:25.773Z"
-  },
-  {
-    "id": "https://www.hankyung.com/article/2026091705676",
-    "category": "economy",
-    "source": "한국경제 증권",
-    "title": "에프앤가이드·포필러스, 디지털자산 공동 리서치 보고서 발간",
-    "link": "https://www.hankyung.com/article/2026091705676",
-    "summary": "",
-    "pubDate": "2026-09-17T01:00:52.000Z",
-    "collectedAt": "2026-09-17T02:15:25.773Z"
-  },
-  {
-    "id": "https://www.hankyung.com/article/202609168000i",
-    "category": "economy",
-    "source": "한국경제 경제",
-    "title": "방산 신소재 만드는 포스코…함정용 고연성강·방탄강 개발",
-    "link": "https://www.hankyung.com/article/202609168000i",
-    "summary": "",
-    "pubDate": "2026-09-17T01:00:11.000Z",
-    "collectedAt": "2026-09-17T02:15:25.773Z"
-  },
-  {
-    "id": "https://www.hankyung.com/article/202609168854i",
-    "category": "it",
-    "source": "한국경제 IT",
-    "title": "“한미약품, 추가 기술수출 기대…삼중작용 비만약 주목”",
-    "link": "https://www.hankyung.com/article/202609168854i",
-    "summary": "",
-    "pubDate": "2026-09-17T01:00:05.000Z",
-    "collectedAt": "2026-09-17T02:15:25.773Z"
-  },
-  {
-    "id": "20260917000158",
-    "category": "economy",
-    "source": "전자신문 경제",
-    "title": "LG전자, 송편 빚으며 따뜻한 나눔 실천",
-    "link": "https://www.etnews.com/20260917000158",
-    "summary": "LG전자 임직원이 추석을 앞두고 장애인 복지시설을 찾아 따뜻한 나눔을 실천했다. LG전자 임직원들의 자발적인 참여로 구성된 라이프스굿(Life's Good) 봉사단은 서울 마포구 소재 염리장애인주간보호센터를 찾아 센터 이용 장애인들과 송편을 빚고 전을 부치며 추석 음식을 준비하는가 하면…",
-    "pubDate": "2026-09-17T01:00:00.000Z",
-    "collectedAt": "2026-09-17T02:15:25.773Z"
-  },
-  {
-    "id": "https://www.hankyung.com/article/2026091704627",
-    "category": "economy",
-    "source": "한국경제 증권",
-    "title": "美 금리 인상에 원·달러 환율 1380원 코앞까지 상승",
-    "link": "https://www.hankyung.com/article/2026091704627",
-    "summary": "",
-    "pubDate": "2026-09-17T00:59:16.000Z",
     "collectedAt": "2026-09-17T02:15:25.773Z"
   }
 ]
