@@ -1,5 +1,35 @@
 [
   {
+    "id": "https://news.hada.io/topic?id=34083",
+    "category": "it",
+    "source": "긱뉴스",
+    "title": "macOS 27: AI 모델 다운로드를 피하고 저장 공간을 절약하는 우회 방법",
+    "link": "https://news.hada.io/topic?id=34083",
+    "summary": "macOS 27: AI 모델 다운로드를 피하고 저장 공간을 절약하는 우회 방법",
+    "pubDate": "2026-09-21T19:31:28.000Z",
+    "collectedAt": "2026-09-21T20:14:44.578Z"
+  },
+  {
+    "id": "https://news.hada.io/topic?id=34082",
+    "category": "it",
+    "source": "긱뉴스",
+    "title": "Raspberry Pi, RAM 칩 교체 차단",
+    "link": "https://news.hada.io/topic?id=34082",
+    "summary": "Raspberry Pi, RAM 칩 교체 차단",
+    "pubDate": "2026-09-21T18:37:05.000Z",
+    "collectedAt": "2026-09-21T20:14:44.578Z"
+  },
+  {
+    "id": "https://news.hada.io/topic?id=34081",
+    "category": "it",
+    "source": "긱뉴스",
+    "title": "Fable 5, 8월 사고량 중앙값 감소",
+    "link": "https://news.hada.io/topic?id=34081",
+    "summary": "Anthropic이 Fable 5를 구독 요금제에서 상시 이용할 수 있게 한 뒤, 사용자가 큰 성능 저하를 체감함 모델이 더 둔해진 듯한 느낌을 받았지만, 그 이유는 설명하지 못함 다섯 가지 방식으로 측정했을 때, 8월의 사고 토큰 수가 7월보다...",
+    "pubDate": "2026-09-21T18:34:05.000Z",
+    "collectedAt": "2026-09-21T20:14:44.578Z"
+  },
+  {
     "id": "https://www.aitimes.com/news/articleView.html?idxno=215516",
     "category": "ai",
     "source": "AI타임스 AI산업",
@@ -228,6 +258,16 @@
     "summary": "",
     "pubDate": "2026-09-21T15:12:51.000Z",
     "collectedAt": "2026-09-21T16:17:02.713Z"
+  },
+  {
+    "id": "20260921000384",
+    "category": "ai",
+    "source": "전자신문 AI",
+    "title": "[사설] 전자신문 창간 44주년에 부쳐",
+    "link": "https://www.etnews.com/20260921000384",
+    "summary": "오늘 창간 44주년을 맞은 전자신문이 보는 앞길은 명확하다. 인공지능(AI) 기술 증진과 활용 확대, 그리고 국가·사회·경제 전반의 AI 전환(AX) 촉진은 이제 피할 수도, 피해서도 안 되는 시대적 당위다. 정보통신기술(ICT) 격변기마다 우리 산업이 나아갈 길잡이 역할을 해왔다는 자…",
+    "pubDate": "2026-09-21T15:00:00.000Z",
+    "collectedAt": "2026-09-21T20:14:44.578Z"
   },
   {
     "id": "https://www.aitimes.com/news/articleView.html?idxno=215528",
@@ -14957,46 +14997,6 @@
     "link": "https://www.etnews.com/20260917000224",
     "summary": "하반기 스마트폰 신제품 출시가 집중되는 성수기를 맞아 모바일 액세서리 시장도 신제품 경쟁에 들어갔다. 특히 아이폰18 출시에 맞춰 Qi2 25W 무선 충전과 고출력 USB-C 등 신형 아이폰의 활용성을 높이는 제품 출시가 이어지고 있다. 벨킨은 아이폰18 시리즈용 액세서리 컬렉션을 17…",
     "pubDate": "2026-09-17T01:47:26.000Z",
-    "collectedAt": "2026-09-17T02:15:25.773Z"
-  },
-  {
-    "id": "20260917000217",
-    "category": "economy",
-    "source": "전자신문 경제",
-    "title": "네이버페이, 카카오뱅크 제휴로 신용대출 비교 강화…인뱅 3사 비교",
-    "link": "https://www.etnews.com/20260917000217",
-    "summary": "네이버페이는 카카오뱅크의 개인사업자 신용대출 상품을 '네이버페이 대출비교' 서비스에서 조회할 수 있도록 제휴했다고 17일 밝혔다. 연계되는 카카오뱅크 개인사업자 신용대출 상품의 최저 금리는 3.426%(9월 17일 기준), 최대 한도는 3억원이다. 네이버페이 대출비교는 신용대출과 주택담…",
-    "pubDate": "2026-09-17T01:43:48.000Z",
-    "collectedAt": "2026-09-17T02:15:25.773Z"
-  },
-  {
-    "id": "https://www.hankyung.com/article/202609170552i",
-    "category": "economy",
-    "source": "한국경제 경제",
-    "title": "[단독] 정부 믿고 투자한 농가 어쩌나…90%는 '배당 0원'",
-    "link": "https://www.hankyung.com/article/202609170552i",
-    "summary": "",
-    "pubDate": "2026-09-17T01:41:14.000Z",
-    "collectedAt": "2026-09-17T04:16:17.574Z"
-  },
-  {
-    "id": "20260917000216",
-    "category": "it",
-    "source": "전자신문 IT/통신",
-    "title": "삼성, '원UI 9' 업데이트 시작…갤S26부터 순차 적용",
-    "link": "https://www.etnews.com/20260917000216",
-    "summary": "삼성전자가 갤럭시 운용체계(OS) '원 UI 9' 공식 업데이트를 시작한다. 인물 자동 추적 촬영과 상황별 기능 제안, AI 기반 보안 알림 등 갤럭시 AI 기능을 추가하고 기기 관리 기능도 강화했다. 삼성전자는 국내에서 갤럭시S26 시리즈를 시작으로 원UI 9 업데이트를 제공한다고 1…",
-    "pubDate": "2026-09-17T01:39:57.000Z",
-    "collectedAt": "2026-09-17T02:15:25.773Z"
-  },
-  {
-    "id": "20260917000212",
-    "category": "economy",
-    "source": "전자신문 경제",
-    "title": "KEA, 경남 진주·창원서 찾아가는 소비자권익증진 행사 개최",
-    "link": "https://www.etnews.com/20260917000212",
-    "summary": "한국전자정보통신산업진흥회(KEA)는 16일과 17일 양일간 경상남도 진주시와 창원시 진해구에서 전자업계 10개사와 가전제품·스마트폰에 대한 무상점검과 건강음료 제공 및 건강진단을 통한 의료기기 체험 등을 실시했다. 전자업계는 휴대폰 서비스 차량과 실내 행사장 내에 부스를 설치해 지방에…",
-    "pubDate": "2026-09-17T01:34:28.000Z",
     "collectedAt": "2026-09-17T02:15:25.773Z"
   }
 ]
