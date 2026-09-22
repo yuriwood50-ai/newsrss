@@ -180,6 +180,66 @@
     "collectedAt": "2026-09-22T08:16:13.661Z"
   },
   {
+    "id": "https://www.hankyung.com/article/202609222117i",
+    "category": "economy",
+    "source": "한국경제 경제",
+    "title": "연속 유가 하락에 美증시 상승…나스닥 개장초 사상최고 경신",
+    "link": "https://www.hankyung.com/article/202609222117i",
+    "summary": "",
+    "pubDate": "2026-09-22T14:08:50.000Z",
+    "collectedAt": "2026-09-22T14:16:02.712Z"
+  },
+  {
+    "id": "https://news.hada.io/topic?id=34125",
+    "category": "it",
+    "source": "긱뉴스",
+    "title": "Show GN: NCP External Access 비공식 TS·Go 인증 라이브러리를 만들었습니다",
+    "link": "https://news.hada.io/topic?id=34125",
+    "summary": "NCP External Access의 X.509 인증을 사용하는 비공식 TS·Go 라이브러리를 만들었습니다. 사용하던 공식 Signing Helper에서 구형 Go 런타임 관련 취약점 경고가 나온 것이 계기였습니다. 필요한 기능을 직접 관리할 수 있도록 구현했습니다. 기능: 인증서·개인…",
+    "pubDate": "2026-09-22T14:08:40.000Z",
+    "collectedAt": "2026-09-22T14:16:02.712Z"
+  },
+  {
+    "id": "20260922000534",
+    "category": "ai",
+    "source": "전자신문 SW",
+    "title": "EBS, 신임 사장 공모 28일부터…국민추천 거쳐 이사회 임명제청",
+    "link": "https://www.etnews.com/20260922000534",
+    "summary": "한국교육방송공사(EBS) 신임 사장 공개모집이 시작된다. EBS 이사회는 최근 신임 사장 선정 기준과 추진 절차, 신임 사장 선정·추진 절차에 관한 규칙 등을 의결, 28일부터 10월 8일 오후 5시까지 신임 사장 후보자 지원서를 접수한다고 22일 밝혔다. 임기는 3년이다. 선정 기준은…",
+    "pubDate": "2026-09-22T13:54:02.000Z",
+    "collectedAt": "2026-09-22T14:16:02.712Z"
+  },
+  {
+    "id": "https://www.hankyung.com/article/2026092221051",
+    "category": "economy",
+    "source": "한국경제 경제",
+    "title": "호르무즈 재개방 기대…국제유가 2주 만에 '뚝'",
+    "link": "https://www.hankyung.com/article/2026092221051",
+    "summary": "",
+    "pubDate": "2026-09-22T13:52:51.000Z",
+    "collectedAt": "2026-09-22T14:16:02.712Z"
+  },
+  {
+    "id": "https://news.hada.io/topic?id=34124",
+    "category": "it",
+    "source": "긱뉴스",
+    "title": "Git 2.56과 3.0을 내다보며",
+    "link": "https://news.hada.io/topic?id=34124",
+    "summary": "Git 2.56은 9월 말 출시가 예상되며, 이력 편집과 브랜치 관리 등 사용성을 개선함. 그다음 버전은 여러 호환성 변경을 포함하는 Git 3.0이 될 수 있지만 아직 결정되지 않음 실험적 git history에 특정 커밋을 제거하고 후속 커밋을 다시 적용하는 ...",
+    "pubDate": "2026-09-22T13:34:07.000Z",
+    "collectedAt": "2026-09-22T14:16:02.712Z"
+  },
+  {
+    "id": "https://www.hankyung.com/article/2026092220826",
+    "category": "economy",
+    "source": "한국경제 경제",
+    "title": "미·중 정상회담 앞두고 트럼프 보란 듯…中, 최강 AI 칩 공개 [강경주의 테크X]",
+    "link": "https://www.hankyung.com/article/2026092220826",
+    "summary": "",
+    "pubDate": "2026-09-22T13:26:27.000Z",
+    "collectedAt": "2026-09-22T14:16:02.712Z"
+  },
+  {
     "id": "https://www.aitimes.com/news/articleView.html?idxno=215551",
     "category": "ai",
     "source": "AI타임스 AI산업",
@@ -200,6 +260,26 @@
     "collectedAt": "2026-09-22T06:20:09.702Z"
   },
   {
+    "id": "https://news.hada.io/topic?id=34122",
+    "category": "it",
+    "source": "긱뉴스",
+    "title": "AI에게는 지혜가 없고 당신에게도 없게 될 것이다",
+    "link": "https://news.hada.io/topic?id=34122",
+    "summary": "Scala 라이브러리 Monix의 저자 Alexandru Nedelcu가 쓴 글로, 코드를 읽고 쓰지 않게 된 사람과 조직은 스스로 위험을 자초하는 것이라고 주장함 바이브 코딩된 프로젝트는 시간이 지나며 유지보수 불가능한 상태로 퇴화하는데, 나쁜 아키텍처의 효과는 수개월~수년 뒤에야 드…",
+    "pubDate": "2026-09-22T13:11:39.000Z",
+    "collectedAt": "2026-09-22T14:16:02.712Z"
+  },
+  {
+    "id": "https://www.hankyung.com/article/202609222069i",
+    "category": "economy",
+    "source": "한국경제 경제",
+    "title": "유가 80불대로 떨어지나?…사우디 송유관 재가동에 이란도 깜짝 제안",
+    "link": "https://www.hankyung.com/article/202609222069i",
+    "summary": "",
+    "pubDate": "2026-09-22T13:10:06.000Z",
+    "collectedAt": "2026-09-22T14:16:02.712Z"
+  },
+  {
     "id": "https://www.aitimes.com/news/articleView.html?idxno=215554",
     "category": "ai",
     "source": "AI타임스 AI산업",
@@ -208,6 +288,16 @@
     "summary": "알리바바가 이미지 생성과 편집을 하나의 모델에서 처리할 수 있는 오픈 웨이트 기반 멀티모달 AI 모델을 선보였다. 경량화된 구조를 바탕으로 참조 이미지 합성부터 영역 편집, 투명 배경 생성까지 단일 모델로 구현했지만, 이미 상당수 기능은 다른 첨단 모델에서 구현됐다는 지적도 제기된다.알…",
     "pubDate": "2026-09-22T13:07:38.000Z",
     "collectedAt": "2026-09-22T06:20:09.702Z"
+  },
+  {
+    "id": "https://www.hankyung.com/article/2026092214766",
+    "category": "economy",
+    "source": "한국경제 증권",
+    "title": "엔비디아·MS가 날개 달았다…한풀 꺾였던 LG그룹주 '들썩' [종목+]",
+    "link": "https://www.hankyung.com/article/2026092214766",
+    "summary": "",
+    "pubDate": "2026-09-22T13:00:01.000Z",
+    "collectedAt": "2026-09-22T14:16:02.712Z"
   },
   {
     "id": "https://www.aitimes.com/news/articleView.html?idxno=215548",
@@ -230,6 +320,16 @@
     "collectedAt": "2026-09-22T04:15:02.194Z"
   },
   {
+    "id": "https://www.hankyung.com/article/202609222044i",
+    "category": "economy",
+    "source": "한국경제 증권",
+    "title": "유가 하락에 8.8% 오른 대한항공...증권가 \"3분기 실적 개선 기대\"",
+    "link": "https://www.hankyung.com/article/202609222044i",
+    "summary": "",
+    "pubDate": "2026-09-22T12:12:45.000Z",
+    "collectedAt": "2026-09-22T14:16:02.712Z"
+  },
+  {
     "id": "https://www.aitimes.com/news/articleView.html?idxno=215550",
     "category": "ai",
     "source": "AI타임스 AI산업",
@@ -238,6 +338,26 @@
     "summary": "LG는 21일(현지시간) 미국 워싱턴주 레드먼드 소재 마이크로소프트 본사에서 마이크로소프트와 전략적 파트너십을 체결했다고 22일 밝혔다.이날 행사에는 구광모 LG 대표와 사티아 나델라 마이크로소프트 CEO를 비롯해 LG전자, LG유플러스, LG CNS 등 그룹 핵심 경영진이 참석했다.이…",
     "pubDate": "2026-09-22T11:58:50.000Z",
     "collectedAt": "2026-09-22T04:15:02.194Z"
+  },
+  {
+    "id": "https://www.hankyung.com/article/202609222022i",
+    "category": "economy",
+    "source": "한국경제 경제",
+    "title": "메타, 뮤즈 AI 인기 폭발에도 '신뢰' 문제…아마존, 접속 차단",
+    "link": "https://www.hankyung.com/article/202609222022i",
+    "summary": "",
+    "pubDate": "2026-09-22T11:57:42.000Z",
+    "collectedAt": "2026-09-22T14:16:02.712Z"
+  },
+  {
+    "id": "20260922000506",
+    "category": "ai",
+    "source": "전자신문 AI",
+    "title": "대교CNS, IT 인프라에 보안 결합…사업 시너지 본격화",
+    "link": "https://www.etnews.com/20260922000506",
+    "summary": "대교CNS가 서버·IT 인프라 사업과 네트워크 보안을 결합한 통합 사업 확대에 나선다. 고객과 파트너 네트워크를 활용한 교차판매를 시작으로 설계·구축·유지보수·운영관리까지 사업 범위를 넓힌다는 구상이다. 대교CNS는 서버·IT 인프라 고객 및 파트너 네트워크와 네트워크 보안 전문기업 한…",
+    "pubDate": "2026-09-22T11:36:07.000Z",
+    "collectedAt": "2026-09-22T14:16:02.712Z"
   },
   {
     "id": "https://news.hada.io/topic?id=34120",
@@ -288,6 +408,16 @@
     "summary": "David Bushell은 Apple Intelligence & Siri를 꺼둔 상태에서 macOS 15를 27로 업그레이드했지만, 관련 기능이 다시 활성화되고 기존 거부 스위치도 사라지는 일을 겪음 macOS 27에서 Siri를 다시 꺼도 종료할 수 없는 여러 Siri 프로세스가 남아…",
     "pubDate": "2026-09-22T10:32:31.000Z",
     "collectedAt": "2026-09-22T12:20:15.491Z"
+  },
+  {
+    "id": "20260922000504",
+    "category": "ai",
+    "source": "전자신문 AI",
+    "title": "알리바바, 10조 파라미터 AI 개발 추진…데이터센터 20GW로 확대",
+    "link": "https://www.etnews.com/20260922000504",
+    "summary": "알리바바가 최대 10조개 파라미터 규모의 차세대 인공지능(AI) 모델과 자체 AI 반도체, 대규모 데이터센터를 앞세워 풀스택 AI 전략을 강화한다. 알리바바는 연례 기술 행사 '압사라 컨퍼런스(Apsara Conference)'에서 AI 칩과 클라우드 인프라, 파운데이션 모델, AI 에…",
+    "pubDate": "2026-09-22T10:23:08.000Z",
+    "collectedAt": "2026-09-22T14:16:02.712Z"
   },
   {
     "id": "https://www.hankyung.com/article/202609221922i",
@@ -14867,136 +14997,6 @@
     "link": "https://www.etnews.com/20260917000431",
     "summary": "결혼정보회사 듀오는 청년층의 결혼 및 출산 의향이 상승함에 따라 20대와 30대를 중심으로 신규 가입자 수가 확대되고 있다고 전했다. 대통령 직속 저출산고령사회위원회가 실시한 '제5차 결혼·출산·양육 및 정부 저출생 대책 인식조사' 결과를 보면, 25~49세 미혼 남녀 중 65.7%가…",
     "pubDate": "2026-09-18T00:00:00.000Z",
-    "collectedAt": "2026-09-18T00:20:53.869Z"
-  },
-  {
-    "id": "20260918000017",
-    "category": "economy",
-    "source": "전자신문 경제",
-    "title": "한국 '신용 갭' -15.1%p로 하락…20년 만에 최저치",
-    "link": "https://www.etnews.com/20260918000017",
-    "summary": "국내총생산(GDP) 대비 가계와 기업 부채 비율이 낮아지면서 한국의 '신용 갭'이 20년 만에 가장 낮은 수준으로 떨어졌다. 18일 국제결제은행(BIS) 통계에 따르면 올해 1분기 말 한국 신용 갭은 -15.1%포인트(p)로 집계됐다. 2006년 1분기 말(-15.3%p) 이후 가장 낮…",
-    "pubDate": "2026-09-17T23:59:26.000Z",
-    "collectedAt": "2026-09-18T00:20:53.869Z"
-  },
-  {
-    "id": "20260918000011",
-    "category": "ai",
-    "source": "전자신문 AI",
-    "title": "드림시큐리티, '사이버 서밋 코리아' 참가",
-    "link": "https://www.etnews.com/20260918000011",
-    "summary": "드림시큐리티는 서울 코엑스에서 열린 '사이버 서밋 코리아'에 참가해 국가 망 보안체계(N2SF) 대응 역량을 선보였다고 18일 밝혔다. 사이버 서밋 코리아는 국가정보원과 국가보안기술연구소가 공동 주최하는 국내 최대 규모 사이버 보안 행사다. 드림시큐리티는 행사에서 안랩과 N2SF 공동관…",
-    "pubDate": "2026-09-17T23:43:59.000Z",
-    "collectedAt": "2026-09-18T00:20:53.869Z"
-  },
-  {
-    "id": "https://news.hada.io/topic?id=33867",
-    "category": "it",
-    "source": "긱뉴스",
-    "title": "GitLab.com의 요청 속도 제한이 변경됨",
-    "link": "https://news.hada.io/topic?id=33867",
-    "summary": "GitLab.com이 구독 등급에 따라 사용자별, 최상위 그룹별 요청 제한을 적용함. Free와 비인증 요청은 2026년 10월 19일, Premium과 Ultimate는 2027년 1월부터 변경됨 비인증 요청은 IP 주소당 시간당 60회로 제한됨. 유료 계정 대상 자동화도 인...",
-    "pubDate": "2026-09-17T23:42:15.000Z",
-    "collectedAt": "2026-09-18T00:20:53.869Z"
-  },
-  {
-    "id": "https://www.hankyung.com/article/2026091827456",
-    "category": "economy",
-    "source": "한국경제 증권",
-    "title": "삼전닉스 '메모리 패권 시대' 열린다…\"GPU보다 훨씬 더 중요\" [분석+]",
-    "link": "https://www.hankyung.com/article/2026091827456",
-    "summary": "",
-    "pubDate": "2026-09-17T23:28:12.000Z",
-    "collectedAt": "2026-09-18T00:20:53.869Z"
-  },
-  {
-    "id": "https://www.hankyung.com/article/2026091827507",
-    "category": "economy",
-    "source": "한국경제 증권",
-    "title": "증시 조정에…ETF 거래대금도 석달새 반토막 이하로",
-    "link": "https://www.hankyung.com/article/2026091827507",
-    "summary": "",
-    "pubDate": "2026-09-17T23:25:02.000Z",
-    "collectedAt": "2026-09-18T00:20:53.869Z"
-  },
-  {
-    "id": "https://www.hankyung.com/article/202609182748i",
-    "category": "it",
-    "source": "한국경제 IT",
-    "title": "지씨셀 GCC2005, 말초 T세포 림프종 치료목적 사용 승인",
-    "link": "https://www.hankyung.com/article/202609182748i",
-    "summary": "",
-    "pubDate": "2026-09-17T23:24:51.000Z",
-    "collectedAt": "2026-09-18T02:15:22.419Z"
-  },
-  {
-    "id": "20260918000009",
-    "category": "economy",
-    "source": "전자신문 경제",
-    "title": "수출입은행, 대한상의와 중동 리스크 대응 세미나…전후 재건·에너지 공급망 논의",
-    "link": "https://www.etnews.com/20260918000009",
-    "summary": "한국수출입은행이 대한상공회의소와 공동으로 중동 지정학적 리스크에 따른 국내 산업 영향 분석과 전후 재건 시장 개척을 위한 정책금융 지원 방안을 모색했다. 한국수출입은행은 지난 17일 서울 중구 대한상공회의소에서 '중동발 위기와 기회' 세미나를 개최했다. 중동 지정학적 긴장 장기화 속에서…",
-    "pubDate": "2026-09-17T23:24:37.000Z",
-    "collectedAt": "2026-09-18T00:20:53.869Z"
-  },
-  {
-    "id": "https://www.hankyung.com/article/202609182635g",
-    "category": "economy",
-    "source": "한국경제 경제",
-    "title": "폭염·폭우 여파…작년보다 5.1% 비싸진 추석 차례상",
-    "link": "https://www.hankyung.com/article/202609182635g",
-    "summary": "",
-    "pubDate": "2026-09-17T23:16:21.000Z",
-    "collectedAt": "2026-09-18T00:20:53.869Z"
-  },
-  {
-    "id": "https://www.hankyung.com/article/202609170952g",
-    "category": "economy",
-    "source": "한국경제 경제",
-    "title": "\"스타벅스와 똑같이 해선 안 된다\"…28년 토종 카페의 '승부수' [씬메이커]",
-    "link": "https://www.hankyung.com/article/202609170952g",
-    "summary": "",
-    "pubDate": "2026-09-17T23:14:41.000Z",
-    "collectedAt": "2026-09-18T00:20:53.869Z"
-  },
-  {
-    "id": "https://www.hankyung.com/article/202608313716i",
-    "category": "it",
-    "source": "한국경제 IT",
-    "title": "[구영권의 글로벌 투자 브리핑]올 상반기 누적 투자 271억弗… 투심 회복세 '뚜렷' 네코 헬스 등 10개 기업, 올 7월 1억달러 이상 유치",
-    "link": "https://www.hankyung.com/article/202608313716i",
-    "summary": "",
-    "pubDate": "2026-09-17T23:13:04.000Z",
-    "collectedAt": "2026-09-18T00:20:53.869Z"
-  },
-  {
-    "id": "https://www.hankyung.com/article/202608313646i",
-    "category": "it",
-    "source": "한국경제 IT",
-    "title": "[핫 컴퍼니]GC녹십자웰빙, 내년 스킨부스터 생산 공장 가동… “글로벌 에스테틱 기업 도약”",
-    "link": "https://www.hankyung.com/article/202608313646i",
-    "summary": "",
-    "pubDate": "2026-09-17T23:09:56.000Z",
-    "collectedAt": "2026-09-18T00:20:53.869Z"
-  },
-  {
-    "id": "https://www.hankyung.com/article/2026091826266",
-    "category": "economy",
-    "source": "한국경제 증권",
-    "title": "\"금융주, 원화 강세 시기에 돋보여…3분기 실적시즌서 주목\"",
-    "link": "https://www.hankyung.com/article/2026091826266",
-    "summary": "",
-    "pubDate": "2026-09-17T23:08:53.000Z",
-    "collectedAt": "2026-09-18T00:20:53.869Z"
-  },
-  {
-    "id": "https://www.hankyung.com/article/202609182680i",
-    "category": "economy",
-    "source": "한국경제 경제",
-    "title": "12년 최저 주가 나이키, LVMH 3세 이사회에 영입",
-    "link": "https://www.hankyung.com/article/202609182680i",
-    "summary": "",
-    "pubDate": "2026-09-17T23:07:53.000Z",
     "collectedAt": "2026-09-18T00:20:53.869Z"
   }
 ]
