@@ -130,6 +130,16 @@
     "collectedAt": "2026-09-22T08:16:13.661Z"
   },
   {
+    "id": "https://news.hada.io/topic?id=34131",
+    "category": "it",
+    "source": "긱뉴스",
+    "title": "rift - macOS용 타일링 창 관리자",
+    "link": "https://news.hada.io/topic?id=34131",
+    "summary": "Rift는 성능과 사용성에 초점을 맞춘 macOS용 창 관리자로, 타일링부터 스크롤 열까지 6가지 레이아웃을 지원함 메뉴 막대와 CLI에서 레이아웃을 저장하고 복원할 수 있으며, 메뉴 막대에서 작업 공간 전환과 레이아웃 변경도 가능함",
+    "pubDate": "2026-09-22T16:01:01.000Z",
+    "collectedAt": "2026-09-22T16:15:41.505Z"
+  },
+  {
     "id": "https://www.aitimes.com/news/articleView.html?idxno=215565",
     "category": "ai",
     "source": "AI타임스 AI산업",
@@ -180,6 +190,56 @@
     "collectedAt": "2026-09-22T08:16:13.661Z"
   },
   {
+    "id": "https://news.hada.io/topic?id=34130",
+    "category": "it",
+    "source": "긱뉴스",
+    "title": "OpenAI GPT–6 Astra, 2005년부터 풀리지 않던 Enigma 암호문 해독",
+    "link": "https://news.hada.io/topic?id=34130",
+    "summary": "GPT–6 Astra가 1941년 독일군 Enigma 메시지 MVUEH의 키와 평문을 찾아냈으며, 전달받은 해독 결과를 검증한 연구자가 정확성을 확인함 Carter Leffer는 미해독 메시지 중 풀 수 있는 것이 있는지 확인하도록 지시했으며, 이후 대상 선정부터 해독 소프트...",
+    "pubDate": "2026-09-22T15:32:56.000Z",
+    "collectedAt": "2026-09-22T16:15:41.505Z"
+  },
+  {
+    "id": "https://news.hada.io/topic?id=34129",
+    "category": "it",
+    "source": "긱뉴스",
+    "title": "Show GN: FBO 파티클 데모 - Three.js로 구현한 GPU 파티클 데모",
+    "link": "https://news.hada.io/topic?id=34129",
+    "summary": "Three.js (React Three Fiber) 와 셰이더 코드를 작성하여 구현한 FBO (Framebuffer Object) 파티클 데모입니다. FBO (Framebuffer Object) GPU 연산 결과를 texture 형태로 저장하고, 이후 연산의 입력값으로 다시 활용할 수…",
+    "pubDate": "2026-09-22T15:09:18.000Z",
+    "collectedAt": "2026-09-22T16:15:41.505Z"
+  },
+  {
+    "id": "https://www.hankyung.com/article/202609222136i",
+    "category": "economy",
+    "source": "한국경제 경제",
+    "title": "\"AI비서에 쇼핑 맡겼다 돈 날릴 수도\"…글로벌은행들 경고",
+    "link": "https://www.hankyung.com/article/202609222136i",
+    "summary": "",
+    "pubDate": "2026-09-22T14:47:38.000Z",
+    "collectedAt": "2026-09-22T16:15:41.505Z"
+  },
+  {
+    "id": "https://news.hada.io/topic?id=34127",
+    "category": "it",
+    "source": "긱뉴스",
+    "title": "AMD의 난수 생성기는 0을 생성하지 못하는가?",
+    "link": "https://news.hada.io/topic?id=34127",
+    "summary": "사용자 테스트에서 AMD 프로세서의 rdrand와 rdseed가 16비트 난수 0을 생성하지 않는 현상이 관측됨. 같은 프로그램을 실행한 Intel에서는 0이 나왔으며, AMD 전체의 문제인지 Zen2에 한정되는지는 확인되지 않음 32비트 또는 64비트로 생성한 값...",
+    "pubDate": "2026-09-22T14:47:16.000Z",
+    "collectedAt": "2026-09-22T16:15:41.505Z"
+  },
+  {
+    "id": "https://news.hada.io/topic?id=34126",
+    "category": "it",
+    "source": "긱뉴스",
+    "title": "HERMES 무전기, 초장거리 음성 및 데이터 통신 지원",
+    "link": "https://news.hada.io/topic?id=34126",
+    "summary": "HERMES는 위성이나 중계탑 없이 단파로 음성과 데이터를 전달하는 오픈소스 시스템으로, 지상 통신 인프라를 구축하기 어려운 외딴 지역을 연결함 전리층을 반사체로 활용하며, 약 20W 출력의 소형 무전기 두 대로 400~600km 구간을 비교적 안정적...",
+    "pubDate": "2026-09-22T14:44:15.000Z",
+    "collectedAt": "2026-09-22T16:15:41.505Z"
+  },
+  {
     "id": "https://www.hankyung.com/article/202609222117i",
     "category": "economy",
     "source": "한국경제 경제",
@@ -188,6 +248,16 @@
     "summary": "",
     "pubDate": "2026-09-22T14:08:50.000Z",
     "collectedAt": "2026-09-22T14:16:02.712Z"
+  },
+  {
+    "id": "20260922000536",
+    "category": "ai",
+    "source": "전자신문 SW",
+    "title": "싱가포르·홍콩서 '아이스크림·비상' K-에듀테크 현장 찾아",
+    "link": "https://www.etnews.com/20260922000536",
+    "summary": "싱가포르·홍콩 교육계 인사들이 방한해 국내 에듀테크 현장을 확인했다. 지난주 '에듀테크 코리아 페어 2026'를 시작으로 아이스크림미디어와 비상교육을 찾았다. 아이스크림미디어는 지난 20일 싱가포르 유아개발청(ECDA)과 교육부(MOE) 유아교육 담당 부서·현지 유아교육기관 운영 관계자…",
+    "pubDate": "2026-09-22T14:08:46.000Z",
+    "collectedAt": "2026-09-22T16:15:41.505Z"
   },
   {
     "id": "https://news.hada.io/topic?id=34125",
@@ -14928,75 +14998,5 @@
     "summary": "서민금융진흥원이 자립준비청년 멘토를 대상으로 맞춤형 금융교육을 진행하며 청년층 금융 자립 지원을 강화한다. 서민금융진흥원은 국가아동권리보장원 본원에서 바람개비서포터스 지역별 대표 17명을 대상으로 금융특강을 개최했다. 바람개비서포터스는 자립을 먼저 경험한 청년이 보호아동 후배의 자립역량…",
     "pubDate": "2026-09-18T00:13:04.000Z",
     "collectedAt": "2026-09-18T02:15:22.419Z"
-  },
-  {
-    "id": "20260918000025",
-    "category": "economy",
-    "source": "전자신문 경제",
-    "title": "ABL생명, 추석맞이 나눔 실천…송편 빚고 어르신 금융교육 실시",
-    "link": "https://www.etnews.com/20260918000025",
-    "summary": "ABL생명(대표 곽희필)은 지난 17일 위드캔복지재단 산하 성북50플러스센터에서 임직원 약 20명이 참여한 가운데 추석맞이 봉사활동을 실시했다고 18일 밝혔다. 이번 봉사활동은 추석 명절을 맞아 임직원들이 직접 송편을 빚고 계절 먹거리 키트를 마련해 지역사회의 소외된 이웃에게 전달함으로…",
-    "pubDate": "2026-09-18T00:11:32.000Z",
-    "collectedAt": "2026-09-18T02:15:22.419Z"
-  },
-  {
-    "id": "https://www.hankyung.com/article/2026091828656",
-    "category": "economy",
-    "source": "한국경제 증권",
-    "title": "코스피, 美 금리인상 소화하며 장 초반 2%대 반등",
-    "link": "https://www.hankyung.com/article/2026091828656",
-    "summary": "",
-    "pubDate": "2026-09-18T00:10:33.000Z",
-    "collectedAt": "2026-09-18T02:15:22.419Z"
-  },
-  {
-    "id": "20260918000023",
-    "category": "economy",
-    "source": "전자신문 경제",
-    "title": "현대해상, '아이마음 놀이터 영등포점' 착공",
-    "link": "https://www.etnews.com/20260918000023",
-    "summary": "현대해상(대표 이석현)은 지난 17일 어린이와 양육자를 위한 커뮤니티 공간 '아이마음 놀이터 영등포점' 착공식을 개최했다고 18일 밝혔다. 지난해 10월 현대해상은 영등포구, 사단법인 루트임팩트, 사회적기업 코끼리공장과 업무협약을 체결하며 프로젝트 본격적인 시작을 알렸고, 건축 설계 및…",
-    "pubDate": "2026-09-18T00:08:29.000Z",
-    "collectedAt": "2026-09-18T02:15:22.419Z"
-  },
-  {
-    "id": "20260918000019",
-    "category": "ai",
-    "source": "전자신문 AI",
-    "title": "DSTI, 아카마이와 제로트러스트 시장 공략",
-    "link": "https://www.etnews.com/20260918000019",
-    "summary": "디에스티인터내셔날(대표 김형태)은 네트워크솔루션보안 기업 아카마이와 손잡고 제로트러스트 시장 공략에 나선다고 18일 밝혔다. 양사는 전략적 딜 파트너 계약을 체결했다고 설명했다. 국내 중소 중견기업 도입 모델 방안 확보, 제조 및 금융 고객 유치 모델 등을 중점 추진하기로 했다. DST…",
-    "pubDate": "2026-09-18T00:03:27.000Z",
-    "collectedAt": "2026-09-18T02:15:22.419Z"
-  },
-  {
-    "id": "https://www.hankyung.com/article/202609182724i",
-    "category": "economy",
-    "source": "한국경제 증권",
-    "title": "삼성전자 팔아치운 초고수, SK하이닉스는 담은 이유는?",
-    "link": "https://www.hankyung.com/article/202609182724i",
-    "summary": "",
-    "pubDate": "2026-09-18T00:00:04.000Z",
-    "collectedAt": "2026-09-18T02:15:22.419Z"
-  },
-  {
-    "id": "20260918000014",
-    "category": "ai",
-    "source": "전자신문 AI",
-    "title": "드림시큐리티, '안랩 ISF 2026' 참가…“N2SF 대응”",
-    "link": "https://www.etnews.com/20260918000014",
-    "summary": "드림시큐리티는 17일 열린 안랩 통합 보안 전략 콘퍼런스 '안랩 ISF 2026'에 참가해 국가 망 보안체계(N2SF) 대응 솔루션을 선보였다고 18일 밝혔다. ISF는 안랩이 매년 개최하는 연중 최대 보안 콘퍼런스로 국내외 최신 보안 동향과 기술 트렌드를 공유하는 자리다. 드림시큐리티…",
-    "pubDate": "2026-09-18T00:00:00.000Z",
-    "collectedAt": "2026-09-18T00:20:53.869Z"
-  },
-  {
-    "id": "20260917000431",
-    "category": "economy",
-    "source": "전자신문 경제",
-    "title": "결혼정보회사 듀오, 결혼 의향 확대 추세에 맞춰 가입자 유입 성과",
-    "link": "https://www.etnews.com/20260917000431",
-    "summary": "결혼정보회사 듀오는 청년층의 결혼 및 출산 의향이 상승함에 따라 20대와 30대를 중심으로 신규 가입자 수가 확대되고 있다고 전했다. 대통령 직속 저출산고령사회위원회가 실시한 '제5차 결혼·출산·양육 및 정부 저출생 대책 인식조사' 결과를 보면, 25~49세 미혼 남녀 중 65.7%가…",
-    "pubDate": "2026-09-18T00:00:00.000Z",
-    "collectedAt": "2026-09-18T00:20:53.869Z"
   }
 ]
