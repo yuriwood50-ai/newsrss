@@ -1,5 +1,95 @@
 [
   {
+    "id": "https://www.aitimes.com/news/articleView.html?idxno=215584",
+    "category": "ai",
+    "source": "AI타임스 AI산업",
+    "title": "오픈AI, 'GPT-6 솔·루나' 공개…\"필요한 성능만 올리고 가격은 반값\"",
+    "link": "https://www.aitimes.com/news/articleView.html?idxno=215584",
+    "summary": "오픈AI가 단순한 최고 성능 경쟁에서 벗어나 실무에 필요한 핵심 기능의 효율성을 극대화한 'GPT-6 솔(Sol)'과 'GPT-6 루나(Luna)'를 공개하며 API 이용료를 기존 대비 절반 이하로 내렸다.22일(현지시간) 출시된 GPT-6 솔과 루나는 최첨단 모델의 대중화를 목표로 비…",
+    "pubDate": "2026-09-23T06:09:40.000Z",
+    "collectedAt": "2026-09-22T22:15:03.519Z"
+  },
+  {
+    "id": "https://www.aitimes.com/news/articleView.html?idxno=215583",
+    "category": "ai",
+    "source": "AI타임스 AI산업",
+    "title": "새로운 최고 성능·가격 40% 인하…앤트로픽, '클로드 오퍼스 5.5' 공개",
+    "link": "https://www.aitimes.com/news/articleView.html?idxno=215583",
+    "summary": "앤트로픽이 복잡한 추론과 에이전틱 코딩 분야에서 최고 성능을 기록함과 동시에 운영 비용을 대폭 낮춘 최신 프런티어 모델 '클로드 오퍼스 5.5(Claude Opus 5.5)'를 공개했다. 아티피셜 애널리시스(Artificial Analysis)의 지능 지수 1위에 올랐으며, API 기본…",
+    "pubDate": "2026-09-23T05:36:34.000Z",
+    "collectedAt": "2026-09-22T22:15:03.519Z"
+  },
+  {
+    "id": "https://news.hada.io/topic?id=34142",
+    "category": "it",
+    "source": "긱뉴스",
+    "title": "Claude Opus 5.5, 추론 설정별 성능과 비용 비교",
+    "link": "https://news.hada.io/topic?id=34142",
+    "summary": "AAII에서 최대 추론 설정의 Opus 5.5 max는 지능 지수 58점을 기록했으며, 이전 Opus 5의 최고점 51점과 Fable 5.1의 53점을 넘어섬 추론 강도에 따라 medium 51점, high 54점, xhigh 56점, max 58점으로 성능이 올라가지만, 평가 과제당…",
+    "pubDate": "2026-09-22T21:35:00.000Z",
+    "collectedAt": "2026-09-22T22:15:03.519Z"
+  },
+  {
+    "id": "https://www.hankyung.com/article/2026092213686",
+    "category": "economy",
+    "source": "한국경제 증권",
+    "title": "AMD·인텔 역대급 폭등하더니…한국서 불기둥 뿜은 종목 [분석+]",
+    "link": "https://www.hankyung.com/article/2026092213686",
+    "summary": "",
+    "pubDate": "2026-09-22T21:30:02.000Z",
+    "collectedAt": "2026-09-22T22:15:03.519Z"
+  },
+  {
+    "id": "https://www.hankyung.com/article/202609222024i",
+    "category": "economy",
+    "source": "한국경제 경제",
+    "title": "BTS·임영웅 무대 빛낸 '남성복 거장'…이번엔 4060 여심 노린다 [권용훈의 트렌드워치]",
+    "link": "https://www.hankyung.com/article/202609222024i",
+    "summary": "",
+    "pubDate": "2026-09-22T21:00:11.000Z",
+    "collectedAt": "2026-09-22T22:15:03.519Z"
+  },
+  {
+    "id": "https://www.hankyung.com/article/2026092217601",
+    "category": "economy",
+    "source": "한국경제 증권",
+    "title": "\"1000주 사면 460만원 받는다\"…역대급 배당에 두근두근",
+    "link": "https://www.hankyung.com/article/2026092217601",
+    "summary": "",
+    "pubDate": "2026-09-22T21:00:08.000Z",
+    "collectedAt": "2026-09-22T22:15:03.519Z"
+  },
+  {
+    "id": "https://www.hankyung.com/article/202609183258g",
+    "category": "economy",
+    "source": "한국경제 경제",
+    "title": "\"집에 TV 놓기 싫었는데…\" 30대 새댁 마음 돌린 이유 [텔레비전(戰) ③]",
+    "link": "https://www.hankyung.com/article/202609183258g",
+    "summary": "",
+    "pubDate": "2026-09-22T21:00:01.000Z",
+    "collectedAt": "2026-09-22T22:15:03.519Z"
+  },
+  {
+    "id": "https://news.hada.io/topic?id=34141",
+    "category": "it",
+    "source": "긱뉴스",
+    "title": "2027년 GrapheneOS가 사전 설치된 기기가 판매될 가능성이 높음",
+    "link": "https://news.hada.io/topic?id=34141",
+    "summary": "Motorola Mobility(Lenovo) 가 GrapheneOS와 공식 파트너십을 맺고, 향후 출시할 일부 기기에 GrapheneOS를 지원하기 위해 협력 중임 첫 GrapheneOS 지원 기기는 2027년 출시할 고급 플래그십으로 예정돼 있음 지원 대상은 다른 기기로도 확대할 계…",
+    "pubDate": "2026-09-22T20:41:31.000Z",
+    "collectedAt": "2026-09-22T22:15:03.519Z"
+  },
+  {
+    "id": "https://news.hada.io/topic?id=34140",
+    "category": "it",
+    "source": "긱뉴스",
+    "title": "미 국방부 조사, AI 과잉 의존이 이란 학교 미사일 공격에 일조",
+    "link": "https://news.hada.io/topic?id=34140",
+    "summary": "미 국방부 내부 조사 관계자들에 따르면, 부실한 정보와 오래된 위성영상, AI 과잉 의존이 겹치면서 이란 Minab의 초등학교를 군사시설로 오인해 공격했으며, 어린이 최소 123명을 포함해 150명 넘게 사망함 학교 부지는 과거 군사시설이었지만 용도 변경 흔적이 거의 10년 전부터 존.…",
+    "pubDate": "2026-09-22T20:38:31.000Z",
+    "collectedAt": "2026-09-22T22:15:03.519Z"
+  },
+  {
     "id": "https://www.aitimes.com/news/articleView.html?idxno=215552",
     "category": "ai",
     "source": "AI타임스 AI산업",
@@ -14907,96 +14997,6 @@
     "link": "https://www.etnews.com/20260918000043",
     "summary": "지티원(대표 이수용)은 17일 '고객의 날' 행사를 개최하고 인공지능(AI) 시대 기업의 지속가능한 AI 활용을 위한 통합 거버넌스 전략과 최신 기술을 공유했다고 밝혔다. 고객사와 파트너사를 대상으로 기술 및 사업 전략을 소개하는 이날 행사에서 이수용 대표는 AI 거버넌스를 중심으로 데…",
     "pubDate": "2026-09-18T00:34:36.000Z",
-    "collectedAt": "2026-09-18T02:15:22.419Z"
-  },
-  {
-    "id": "https://www.hankyung.com/article/2026091830416",
-    "category": "economy",
-    "source": "한국경제 증권",
-    "title": "젠슨 황 \"내년 칩 판매 2배로 증가\"…삼전닉스 동반 강세",
-    "link": "https://www.hankyung.com/article/2026091830416",
-    "summary": "",
-    "pubDate": "2026-09-18T00:33:39.000Z",
-    "collectedAt": "2026-09-18T02:15:22.419Z"
-  },
-  {
-    "id": "https://www.hankyung.com/article/202609182973g",
-    "category": "economy",
-    "source": "한국경제 경제",
-    "title": "\"KTX보다 빠르다\"…김포서 1시간, 남해안 로컬여행 출시",
-    "link": "https://www.hankyung.com/article/202609182973g",
-    "summary": "",
-    "pubDate": "2026-09-18T00:33:24.000Z",
-    "collectedAt": "2026-09-18T02:15:22.419Z"
-  },
-  {
-    "id": "https://www.hankyung.com/article/202609182988i",
-    "category": "it",
-    "source": "한국경제 IT",
-    "title": "지씨셀, 'GCC2005' 치료목적 사용 승인…CAR-NK 개발 기대감에 강세",
-    "link": "https://www.hankyung.com/article/202609182988i",
-    "summary": "",
-    "pubDate": "2026-09-18T00:31:07.000Z",
-    "collectedAt": "2026-09-18T02:15:22.419Z"
-  },
-  {
-    "id": "20260918000039",
-    "category": "ai",
-    "source": "전자신문 AI",
-    "title": "유엠브이기술, 한-카자흐스탄 정상회담 초청 기업 참석… “중앙아시아 시장 진출”",
-    "link": "https://www.etnews.com/20260918000039",
-    "summary": "유엠브이기술(대표 방윤성)은 한-카자흐스탄 정상회담 비즈니스 교류 자리에 초청 기업으로 참석해 현지 IT 업체와 기술 개발 업무협약(MOU)을 체결했다고 18일 밝혔다. 협약은 14일부터 16일까지 개최된 한-중앙아시아 정상회의 일정에 맞춰 방한한 카자흐스탄 경제사절단과의 비즈니스 파트…",
-    "pubDate": "2026-09-18T00:30:51.000Z",
-    "collectedAt": "2026-09-18T02:15:22.419Z"
-  },
-  {
-    "id": "https://www.hankyung.com/article/202609183007i",
-    "category": "it",
-    "source": "한국경제 IT",
-    "title": "아이빔테크놀로지, 국내 최초 '약물전달시스템·생체 내 검증' 조명한 세미나 개최",
-    "link": "https://www.hankyung.com/article/202609183007i",
-    "summary": "",
-    "pubDate": "2026-09-18T00:30:38.000Z",
-    "collectedAt": "2026-09-18T02:15:22.419Z"
-  },
-  {
-    "id": "https://news.hada.io/topic?id=33868",
-    "category": "it",
-    "source": "긱뉴스",
-    "title": "jcode - 수십 개 세션을 병렬로 실행하는 터미널 코딩 에이전트",
-    "link": "https://news.hada.io/topic?id=33868",
-    "summary": "한 작업이 끝나기를 기다리는 대신 여러 에이전트에 일을 동시에 맡길 수 있도록, 메모리 사용량과 시작 시간을 줄인 Rust 기반 코딩 에이전트 추가 세션당 메모리 사용량은 약 10MB로, Codex CLI의 절반, Claude Code의 약 20분의 1 수준 같은 저장소에서...",
-    "pubDate": "2026-09-18T00:30:02.000Z",
-    "collectedAt": "2026-09-18T02:15:22.419Z"
-  },
-  {
-    "id": "https://www.hankyung.com/article/202609182967g",
-    "category": "economy",
-    "source": "한국경제 경제",
-    "title": "\"GD 뮤비에 나온 그 모자 뭐야?\"…맥도날드가 40년 만에 되살렸다",
-    "link": "https://www.hankyung.com/article/202609182967g",
-    "summary": "",
-    "pubDate": "2026-09-18T00:27:59.000Z",
-    "collectedAt": "2026-09-18T02:15:22.419Z"
-  },
-  {
-    "id": "https://www.hankyung.com/article/202609182990i",
-    "category": "it",
-    "source": "한국경제 IT",
-    "title": "알테오젠 “ALT-B4 적용 키트루다 SC, 일본 판매 승인 획득”",
-    "link": "https://www.hankyung.com/article/202609182990i",
-    "summary": "",
-    "pubDate": "2026-09-18T00:27:06.000Z",
-    "collectedAt": "2026-09-18T02:15:22.419Z"
-  },
-  {
-    "id": "20260918000036",
-    "category": "economy",
-    "source": "전자신문 경제",
-    "title": "하나금융, ADGM·한화자산운용과 '한국-아부다비' 스테이블코인 협력",
-    "link": "https://www.etnews.com/20260918000036",
-    "summary": "하나금융그룹이 아부다비 글로벌 마켓(ADGM), 한화자산운용과 손잡고 한국과 아부다비를 잇는 스테이블코인 및 국경 간 결제 인프라 구축을 추진하는 업무협약(MOU)을 지난 16일 체결했다. 3사는 이번 협약을 통해 스테이블코인 등 디지털자산 및 결제 인프라 신사업을 공동 발굴하기로 했다…",
-    "pubDate": "2026-09-18T00:24:59.000Z",
     "collectedAt": "2026-09-18T02:15:22.419Z"
   }
 ]
