@@ -20,6 +20,26 @@
     "collectedAt": "2026-09-22T12:20:15.491Z"
   },
   {
+    "id": "https://news.hada.io/topic?id=34139",
+    "category": "it",
+    "source": "긱뉴스",
+    "title": "OpenAI는 Jev를 빠르게 따라잡기에 유리한 위치에 있음",
+    "link": "https://news.hada.io/topic?id=34139",
+    "summary": "Jev의 범용 분류 기능은 OpenAI가 이미 도구 호출 등에 사용해 온 토큰 기반 분류와 맞닿아 있음. TypeSafe의 학습 방식을 재현할 수 있다면 OpenAI가 독립 제품을 빠르게 복제할 수 있음 경쟁은 제품 복제에 그치지 않을 수 있음. OpenAI는 분류 기능을 모델과 에이전…",
+    "pubDate": "2026-09-22T18:42:03.000Z",
+    "collectedAt": "2026-09-22T20:14:37.219Z"
+  },
+  {
+    "id": "https://news.hada.io/topic?id=34138",
+    "category": "it",
+    "source": "긱뉴스",
+    "title": "GPT-6 Sol과 Luna",
+    "link": "https://news.hada.io/topic?id=34138",
+    "summary": "OpenAI가 GPT-6 Astra와 유사한 방법으로 훈련한 GPT-6 Sol과 Luna를 출시함. 전문 업무, 사실 정확성, 코딩, 컴퓨터 사용, 정렬 성능을 더 빠르고 저렴한 모델로 확장함 캐싱과 추론 효율 개선을 반영해 API 가격을 인하함. 100만 토큰당 Sol은 입력 2달러/…",
+    "pubDate": "2026-09-22T18:39:03.000Z",
+    "collectedAt": "2026-09-22T20:14:37.219Z"
+  },
+  {
     "id": "https://www.aitimes.com/news/articleView.html?idxno=215568",
     "category": "ai",
     "source": "AI타임스 AI산업",
@@ -14977,26 +14997,6 @@
     "link": "https://www.etnews.com/20260918000036",
     "summary": "하나금융그룹이 아부다비 글로벌 마켓(ADGM), 한화자산운용과 손잡고 한국과 아부다비를 잇는 스테이블코인 및 국경 간 결제 인프라 구축을 추진하는 업무협약(MOU)을 지난 16일 체결했다. 3사는 이번 협약을 통해 스테이블코인 등 디지털자산 및 결제 인프라 신사업을 공동 발굴하기로 했다…",
     "pubDate": "2026-09-18T00:24:59.000Z",
-    "collectedAt": "2026-09-18T02:15:22.419Z"
-  },
-  {
-    "id": "https://www.hankyung.com/article/2026091829766",
-    "category": "economy",
-    "source": "한국경제 증권",
-    "title": "엔에프씨, 14% 급등…\"K뷰티 타고 ODM 확대 신소재 성장\"",
-    "link": "https://www.hankyung.com/article/2026091829766",
-    "summary": "",
-    "pubDate": "2026-09-18T00:23:28.000Z",
-    "collectedAt": "2026-09-18T02:15:22.419Z"
-  },
-  {
-    "id": "20260918000032",
-    "category": "economy",
-    "source": "전자신문 경제",
-    "title": "보험계리사 104명·손해사정사 501명 최종 합격…금감원, 합격자 발표",
-    "link": "https://www.etnews.com/20260918000032",
-    "summary": "금융감독원은 18일 보험전문인시험관리위원회를 열고 2026년도 제49회 보험계리사 및 손해사정사 2차 시험 최종 합격자를 발표했다고 밝혔다. 올해 최종 합격자는 보험계리사 104명, 손해사정사 501명 등 총 605명이다. 손해사정사는 재물 60명, 차량 100명, 신체 341명이 합격…",
-    "pubDate": "2026-09-18T00:19:26.000Z",
     "collectedAt": "2026-09-18T02:15:22.419Z"
   }
 ]
