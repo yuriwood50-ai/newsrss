@@ -120,6 +120,16 @@
     "collectedAt": "2026-09-23T08:17:08.774Z"
   },
   {
+    "id": "https://news.hada.io/topic?id=34171",
+    "category": "it",
+    "source": "긱뉴스",
+    "title": "프로그래밍 언어를 제대로 설계하자! (2024)",
+    "link": "https://news.hada.io/topic?id=34171",
+    "summary": "새 프로그래밍 언어는 여러 줄 문자열, 경로, 확장 가능한 문법처럼 이미 해법이 있는 문제를 초기에 다뤄야 함. 사용자가 생긴 뒤에는 하위 호환성 때문에 수정이 어려워짐 설정 파일의 상대 경로는 해당 파일이나 명확히 정의한 프로젝트 루트를 기준으로 삼고, ...",
+    "pubDate": "2026-09-23T12:02:52.000Z",
+    "collectedAt": "2026-09-23T12:19:30.026Z"
+  },
+  {
     "id": "https://www.aitimes.com/news/articleView.html?idxno=215609",
     "category": "ai",
     "source": "AI타임스 AI산업",
@@ -130,6 +140,16 @@
     "collectedAt": "2026-09-23T04:16:06.788Z"
   },
   {
+    "id": "https://news.hada.io/topic?id=34170",
+    "category": "it",
+    "source": "긱뉴스",
+    "title": "LLM Ass Bench",
+    "link": "https://news.hada.io/topic?id=34170",
+    "summary": "LLM AssBench는 하나의 프롬프트로 여러 모델을 여러 날짜에 비교하는 LLM 벤치마크임 Claude 비교 항목에는 Opus, Fable, Sonnet, Haiku 계열의 여러 버전이 포함됨 GPT 비교 항목에는 Astra, Sol, Terra, Luna 계열과 GPT 5.5가 포…",
+    "pubDate": "2026-09-23T11:31:24.000Z",
+    "collectedAt": "2026-09-23T12:19:30.026Z"
+  },
+  {
     "id": "https://www.aitimes.com/news/articleView.html?idxno=215594",
     "category": "ai",
     "source": "AI타임스 AI산업",
@@ -138,6 +158,96 @@
     "summary": "알리바바가 최대 10조개 매개변수에 달하는 초대형 AI 모델 개발을 추진하고 차세대 AI 가속기까지 공개하는 등 AI 모델부터 반도체, 클라우드 인프라까지 아우르는 ‘풀스택 AI’ 전략을 본격화했다.알리바바는 22일(현지시간) 중국 항저우에서 열린 연례 기술 행사 ‘아스파라 컨퍼런스’에…",
     "pubDate": "2026-09-23T11:12:50.000Z",
     "collectedAt": "2026-09-23T02:15:24.694Z"
+  },
+  {
+    "id": "https://news.hada.io/topic?id=34169",
+    "category": "it",
+    "source": "긱뉴스",
+    "title": "Mac 기본 UI를 고집할 이유는 이제 거의 사라졌다",
+    "link": "https://news.hada.io/topic?id=34169",
+    "summary": "Mac 기본 UI를 선택해 온 근거인 사용자 친숙도, 개발 부담 절감, Apple의 디자인 우위가 더는 충분히 성립하지 않는 것으로 보임 사용자는 기본 UI인지 맞춤형 UI인지보다 앱을 이해하고 사용하는 데 관심이 있으며, Things처럼 표준 도구 막대를 쓰지 않는 앱도 ...",
+    "pubDate": "2026-09-23T11:02:45.000Z",
+    "collectedAt": "2026-09-23T12:19:30.026Z"
+  },
+  {
+    "id": "https://www.hankyung.com/article/202609234365i",
+    "category": "economy",
+    "source": "한국경제 경제",
+    "title": "美·中 앞에선 AI패권경쟁…뒤로는 상대 기술주 사들여",
+    "link": "https://www.hankyung.com/article/202609234365i",
+    "summary": "",
+    "pubDate": "2026-09-23T11:02:41.000Z",
+    "collectedAt": "2026-09-23T12:19:30.026Z"
+  },
+  {
+    "id": "https://www.hankyung.com/article/2026092339631",
+    "category": "it",
+    "source": "한국경제 IT",
+    "title": "\"으악!\" 밟으면 하루 종일 찝찝…'냄새 폭탄' 범인 따로 있었다",
+    "link": "https://www.hankyung.com/article/2026092339631",
+    "summary": "",
+    "pubDate": "2026-09-23T11:00:06.000Z",
+    "collectedAt": "2026-09-23T12:19:30.026Z"
+  },
+  {
+    "id": "https://news.hada.io/topic?id=34168",
+    "category": "it",
+    "source": "긱뉴스",
+    "title": "구독 취소를 시도하면 모든 사용자에게 상식 밖의 메시지를 보내는 Grammarly",
+    "link": "https://news.hada.io/topic?id=34168",
+    "summary": "구독 취소를 시도하면 모든 사용자에게 상식 밖의 메시지를 보내는 Grammarly",
+    "pubDate": "2026-09-23T10:37:01.000Z",
+    "collectedAt": "2026-09-23T12:19:30.026Z"
+  },
+  {
+    "id": "https://news.hada.io/topic?id=34167",
+    "category": "it",
+    "source": "긱뉴스",
+    "title": "Python 25줄로 구현한 Jev",
+    "link": "https://news.hada.io/topic?id=34167",
+    "summary": "NobodyWho가 선택지가 담긴 프롬프트를 받아 확률을 출력하는 로컬 분류 예제로 Jev를 흉내 냄 Qwen3-0.6B-GGUF를 불러와 선택지 레이블의 로짓을 추출하고, 이를 정규화해 선택지별 확률로 변환함 회사 소유가 아닌 로그인 페이지에서 비밀번호를 요구하...",
+    "pubDate": "2026-09-23T10:34:01.000Z",
+    "collectedAt": "2026-09-23T12:19:30.026Z"
+  },
+  {
+    "id": "https://www.hankyung.com/article/202609234359i",
+    "category": "economy",
+    "source": "한국경제 경제",
+    "title": "OECD \"올해 세계 경제 2.9% 성장…한국은 3.7% 성장\"",
+    "link": "https://www.hankyung.com/article/202609234359i",
+    "summary": "",
+    "pubDate": "2026-09-23T10:30:41.000Z",
+    "collectedAt": "2026-09-23T12:19:30.026Z"
+  },
+  {
+    "id": "20260923000195",
+    "category": "it",
+    "source": "전자신문 IT/통신",
+    "title": "크래프톤, 'PUBG 아시아 스타즈' 논란 수습... 선수 영구 제재·피해자 보호 나서",
+    "link": "https://www.etnews.com/20260923000195",
+    "summary": "크래프톤(259960)이 'PUBG 아시아 스타즈' 운영 과정에서 불거진 공정성 논란 수습에 나섰다. 경기 중 외부 정보와 다른 참가자의 방송을 활용한 것으로 확인된 선수 2명에게 게임 계정 영구 제재와 공식 e스포츠 대회 영구 출전정지 처분을 내렸다. 논란 과정에서 허위 사실과 조롱…",
+    "pubDate": "2026-09-23T10:14:26.000Z",
+    "collectedAt": "2026-09-23T12:19:30.026Z"
+  },
+  {
+    "id": "https://www.hankyung.com/article/2026092339621",
+    "category": "it",
+    "source": "한국경제 IT",
+    "title": "\"맛있어요\" 극찬했는데 별점 3점?…日맛집서 한국인들 '화들짝'",
+    "link": "https://www.hankyung.com/article/2026092339621",
+    "summary": "",
+    "pubDate": "2026-09-23T10:00:06.000Z",
+    "collectedAt": "2026-09-23T12:19:30.026Z"
+  },
+  {
+    "id": "https://www.hankyung.com/article/202609232940g",
+    "category": "economy",
+    "source": "한국경제 경제",
+    "title": "\"고향 안 가고 전도 안 부쳐요\"…2030 '혼추족' 늘자 대박난 곳 [트렌드+]",
+    "link": "https://www.hankyung.com/article/202609232940g",
+    "summary": "",
+    "pubDate": "2026-09-23T10:00:03.000Z",
+    "collectedAt": "2026-09-23T12:19:30.026Z"
   },
   {
     "id": "https://www.hankyung.com/article/2026092342797",
@@ -14888,115 +14998,5 @@
     "summary": "",
     "pubDate": "2026-09-19T00:00:16.000Z",
     "collectedAt": "2026-09-19T02:14:25.456Z"
-  },
-  {
-    "id": "https://www.hankyung.com/article/202609184623i",
-    "category": "economy",
-    "source": "한국경제 경제",
-    "title": "“우리가 매출 22%를 떼갔다고?”...'온플법' 위기감에 행동나선 e커머스",
-    "link": "https://www.hankyung.com/article/202609184623i",
-    "summary": "",
-    "pubDate": "2026-09-19T00:00:13.000Z",
-    "collectedAt": "2026-09-19T00:21:29.805Z"
-  },
-  {
-    "id": "https://www.hankyung.com/article/202609182456i",
-    "category": "economy",
-    "source": "한국경제 경제",
-    "title": "맥도날드가 '팬미팅장' 됐다…홍콩 2030 홀린 'GD의 30초' [권용훈의 트렌드워치]",
-    "link": "https://www.hankyung.com/article/202609182456i",
-    "summary": "",
-    "pubDate": "2026-09-19T00:00:07.000Z",
-    "collectedAt": "2026-09-19T00:21:29.805Z"
-  },
-  {
-    "id": "https://www.hankyung.com/article/202609183710g",
-    "category": "it",
-    "source": "한국경제 IT",
-    "title": "'329만원 너무하네' 폴더블 아이폰 뜨자 삼성폰 '잭팟' 터졌다 [홍민성의 테토남]",
-    "link": "https://www.hankyung.com/article/202609183710g",
-    "summary": "",
-    "pubDate": "2026-09-19T00:00:03.000Z",
-    "collectedAt": "2026-09-19T02:14:25.456Z"
-  },
-  {
-    "id": "https://news.hada.io/topic?id=33916",
-    "category": "it",
-    "source": "긱뉴스",
-    "title": "Minimal Phone 2",
-    "link": "https://news.hada.io/topic?id=33916",
-    "summary": "Minimal Phone 2는 물리 키보드와 Android 기반 Minimal OS를 결합한 소형 스마트폰으로, 앱 접근을 유지하면서 알림과 화면 사용을 줄이는 데 초점을 맞춤 화면은 E Ink가 아닌 4인치 AMOLED이며, 터치 입력을 지원하는 백라이트 키보드는 출시 시 한국어 두벌…",
-    "pubDate": "2026-09-18T23:42:20.000Z",
-    "collectedAt": "2026-09-19T00:21:29.805Z"
-  },
-  {
-    "id": "https://news.hada.io/topic?id=33915",
-    "category": "it",
-    "source": "긱뉴스",
-    "title": "RAM 100TB 추가 절감",
-    "link": "https://news.hada.io/topic?id=33915",
-    "summary": "Cloudflare가 내부 부하 분산 서비스 Pingora Backend Router(PBR) 의 일관된 해싱 구현을 최적화해 전 세계에서 100TB 이상의 RAM을 회수함 서버별 부하를 고르게 나누기 위한 해시, 저장 용량에 따른 가중치, 기능 조합별 별도 링이 겹치면서 해시 저장 .…",
-    "pubDate": "2026-09-18T23:42:19.000Z",
-    "collectedAt": "2026-09-19T00:21:29.805Z"
-  },
-  {
-    "id": "https://www.hankyung.com/article/202609194944i",
-    "category": "economy",
-    "source": "한국경제 증권",
-    "title": "워시는 언제, 얼마나 더 올릴까…모멘텀 되살아나는 반도체? [월가 백브리핑]",
-    "link": "https://www.hankyung.com/article/202609194944i",
-    "summary": "",
-    "pubDate": "2026-09-18T23:26:52.000Z",
-    "collectedAt": "2026-09-19T00:21:29.805Z"
-  },
-  {
-    "id": "https://www.hankyung.com/article/202609194909i",
-    "category": "economy",
-    "source": "한국경제 증권",
-    "title": "막판 10분 뛴 반도체, 아셴브레너가 돌아왔다…21~23일은 '나쁜 사흘' [김현석의 월스트리트나우]",
-    "link": "https://www.hankyung.com/article/202609194909i",
-    "summary": "",
-    "pubDate": "2026-09-18T23:02:50.000Z",
-    "collectedAt": "2026-09-19T00:21:29.805Z"
-  },
-  {
-    "id": "https://news.hada.io/topic?id=33914",
-    "category": "it",
-    "source": "긱뉴스",
-    "title": "국경 요원, 영장이나 합리적 의심 없이 휴대전화 수색 가능",
-    "link": "https://news.hada.io/topic?id=33914",
-    "summary": "미국 제2연방항소법원이 국경에서 여행자의 휴대전화 내용을 수동으로 살펴보는 수색에는 영장이나 합리적 의심이 필요하지 않다고 판결함 재판부는 휴대전화를 짐과 같은 소지품으로 보고, 국경에서 이루어지는 통상적 수색에는 별도의 의심이 필요하지 않다는 기...",
-    "pubDate": "2026-09-18T23:02:19.000Z",
-    "collectedAt": "2026-09-19T00:21:29.805Z"
-  },
-  {
-    "id": "https://www.hankyung.com/article/202609183741i",
-    "category": "economy",
-    "source": "한국경제 증권",
-    "title": "개미들 \"환율 떨어질 때 더 고민\"…주목해야할 종목 찾아보니",
-    "link": "https://www.hankyung.com/article/202609183741i",
-    "summary": "",
-    "pubDate": "2026-09-18T23:00:03.000Z",
-    "collectedAt": "2026-09-19T00:21:29.805Z"
-  },
-  {
-    "id": "https://news.hada.io/topic?id=33913",
-    "category": "it",
-    "source": "긱뉴스",
-    "title": "Claude Code, 이제 CLAUDE.md가 없으면 AGENTS.md를 읽음",
-    "link": "https://news.hada.io/topic?id=33913",
-    "summary": "프로젝트에 CLAUDE.md가 없으면 AGENTS.md를 대신 읽는 기능이 추가됨 해당 동작은 /config의 “Project instructions”에서 변경할 수 있으며, Bedrock, Vertex, Foundry에서는 아직 지원하지 않음 비대...",
-    "pubDate": "2026-09-18T22:52:19.000Z",
-    "collectedAt": "2026-09-19T00:21:29.805Z"
-  },
-  {
-    "id": "https://www.hankyung.com/article/202609184079i",
-    "category": "economy",
-    "source": "한국경제 경제",
-    "title": "AI 덕에 한국 대박 났는데…\"이미 위험한 단계\" 섬뜩한 경고 [김주완의 글로벌머니 X파일]",
-    "link": "https://www.hankyung.com/article/202609184079i",
-    "summary": "",
-    "pubDate": "2026-09-18T22:00:01.000Z",
-    "collectedAt": "2026-09-19T00:21:29.805Z"
   }
 ]
