@@ -40,6 +40,26 @@
     "collectedAt": "2026-09-23T08:17:08.774Z"
   },
   {
+    "id": "https://news.hada.io/topic?id=34181",
+    "category": "it",
+    "source": "긱뉴스",
+    "title": "Amazon, Meta의 새 Muse AI 에이전트가 amazon.com에서 쇼핑하지 못하도록 차단",
+    "link": "https://news.hada.io/topic?id=34181",
+    "summary": "Amazon, Meta의 새 Muse AI 에이전트가 amazon.com에서 쇼핑하지 못하도록 차단",
+    "pubDate": "2026-09-23T15:38:49.000Z",
+    "collectedAt": "2026-09-23T16:17:32.365Z"
+  },
+  {
+    "id": "https://news.hada.io/topic?id=34180",
+    "category": "it",
+    "source": "긱뉴스",
+    "title": "OpenAI, ‘세상에 이로운’ 기업으로 보이기 위해 인플루언서 군단 동원",
+    "link": "https://news.hada.io/topic?id=34180",
+    "summary": "OpenAI가 크리에이터 마케팅을 확대하며 ChatGPT의 업무와 일상 활용 사례를 홍보함. AI 안전 우려를 직접 해소하기보다는 ChatGPT가 매력적이고 세상에 이로운 일을 도울 수 있다는 메시지에 집중함 HypeAuditor 집계에서 ChatGPT를 홍보하는 Instagram 협찬…",
+    "pubDate": "2026-09-23T15:35:49.000Z",
+    "collectedAt": "2026-09-23T16:17:32.365Z"
+  },
+  {
     "id": "https://www.aitimes.com/news/articleView.html?idxno=215618",
     "category": "ai",
     "source": "AI타임스 AI산업",
@@ -48,6 +68,16 @@
     "summary": "같은 날 공개된 '클로드 오퍼스 5.5'와 'GPT-6 솔' 간의 3D 웹 연출 비교 결과가 등장했다.AI 모델 라우팅 전문 AI/ML은 23일 앤트로픽과 오픈AI의 API를 통해 두 모델에 같은 프롬프트를 입력한 결과를 비교했다. 여기에는 움직이는 물고기 떼(Fish School),…",
     "pubDate": "2026-09-23T15:20:00.000Z",
     "collectedAt": "2026-09-23T08:17:08.774Z"
+  },
+  {
+    "id": "https://www.hankyung.com/article/202609244494i",
+    "category": "economy",
+    "source": "한국경제 경제",
+    "title": "美 공급압박속 9월 기업활동 PMI 58.4 …5년만에 최고",
+    "link": "https://www.hankyung.com/article/202609244494i",
+    "summary": "",
+    "pubDate": "2026-09-23T15:18:48.000Z",
+    "collectedAt": "2026-09-23T16:17:32.365Z"
   },
   {
     "id": "https://www.aitimes.com/news/articleView.html?idxno=215628",
@@ -60,6 +90,16 @@
     "collectedAt": "2026-09-23T10:15:22.955Z"
   },
   {
+    "id": "https://www.hankyung.com/article/202609234485i",
+    "category": "economy",
+    "source": "한국경제 경제",
+    "title": "메타 '뮤즈AI'가 스테이블코인 키운다 [박신영의 개장전 요것만]",
+    "link": "https://www.hankyung.com/article/202609234485i",
+    "summary": "",
+    "pubDate": "2026-09-23T14:59:05.000Z",
+    "collectedAt": "2026-09-23T16:17:32.365Z"
+  },
+  {
     "id": "https://www.aitimes.com/news/articleView.html?idxno=215620",
     "category": "ai",
     "source": "AI타임스 AI산업",
@@ -70,6 +110,16 @@
     "collectedAt": "2026-09-23T08:17:08.774Z"
   },
   {
+    "id": "https://www.hankyung.com/article/202609234483i",
+    "category": "economy",
+    "source": "한국경제 경제",
+    "title": "美'경유수출중단' 자충수 될수도…에너지장관,석유업계 반발",
+    "link": "https://www.hankyung.com/article/202609234483i",
+    "summary": "",
+    "pubDate": "2026-09-23T14:45:39.000Z",
+    "collectedAt": "2026-09-23T16:17:32.365Z"
+  },
+  {
     "id": "https://www.aitimes.com/news/articleView.html?idxno=215610",
     "category": "ai",
     "source": "AI타임스 AI산업",
@@ -78,6 +128,16 @@
     "summary": "중국 인터넷 규제 당국이 딥시크와 문샷 AI를 상대로 데이터 보안 관련 조사를 벌이고 있는 것으로 알려졌다. 앤트로픽이 두 회사가 민감한 데이터를 '클로드'로 전달했다고 주장한 데 따른 조치다.22일(현지시간) 디 인포메이션에 따르면, 중국 사이버공간관리국(CAC)은 딥시크와 문샷을 대…",
     "pubDate": "2026-09-23T14:41:16.000Z",
     "collectedAt": "2026-09-23T06:19:54.550Z"
+  },
+  {
+    "id": "https://news.hada.io/topic?id=34179",
+    "category": "it",
+    "source": "긱뉴스",
+    "title": "Claude Code는 텔레메트리가 켜져 있을 때만 AGENTS.md를 읽음",
+    "link": "https://news.hada.io/topic?id=34179",
+    "summary": "Claude Code 2.1.277에 추가된 AGENTS.md 지원은 원격 기능 플래그에 의존하며, 텔레메트리나 비필수 트래픽을 끄면 로컬 지침 파일을 경고 없이 건너뜀 내장 플러그인 agents-md 는 원격 플래그를 가져오지 못하면 기본값 false를 사용...",
+    "pubDate": "2026-09-23T14:33:28.000Z",
+    "collectedAt": "2026-09-23T16:17:32.365Z"
   },
   {
     "id": "https://www.aitimes.com/news/articleView.html?idxno=215613",
@@ -14937,66 +14997,6 @@
     "link": "https://news.hada.io/topic?id=33928",
     "summary": "Washington Post 보도에 따르면 미국과 이스라엘의 대이란 전쟁 기간 미군 사망자는 미 국방부가 공개한 수보다 많음 익명의 관계자 5명에 따르면 사망자는 최소 22명으로, 국방부 공개 데이터베이스에 기록된 수보다 4명 많음 다만 다른 익명 관계자에 따...",
     "pubDate": "2026-09-19T01:52:20.000Z",
-    "collectedAt": "2026-09-19T02:14:25.456Z"
-  },
-  {
-    "id": "https://news.hada.io/topic?id=33927",
-    "category": "it",
-    "source": "긱뉴스",
-    "title": "SpaceX는 Raptor 엔진을 어떻게 간결하게 만들었나",
-    "link": "https://news.hada.io/topic?id=33927",
-    "summary": "Raptor 3는 Raptor 1보다 추력이 약 35% 커지면서 질량과 외부 부품이 크게 줄었지만, 전유량 다단연소라는 기본 구조는 유지함 외관을 간결하게 만든 변화에는 개발용 센서 축소, 밸브 통합, 주연소실 점화기 제거, 볼트 체결부의 용접 전환 등이...",
-    "pubDate": "2026-09-19T01:52:19.000Z",
-    "collectedAt": "2026-09-19T02:14:25.456Z"
-  },
-  {
-    "id": "https://news.hada.io/topic?id=33926",
-    "category": "it",
-    "source": "긱뉴스",
-    "title": "100년 만에 처음 발견된 고양잇과 신종",
-    "link": "https://news.hada.io/topic?id=33926",
-    "summary": "볼리비아에서 발견한 작은 야생 고양이가 Leopardus tilcayo라는 신종으로 제안됨. 기존 종을 재확인하거나 아종을 종으로 격상한 사례가 아니라, 과학계에 알려지지 않았던 고양잇과 동물임 Leopardus속 38개체의 전체 유전체를 비교한 결과, 다른 타이거캣 종들과...",
-    "pubDate": "2026-09-19T01:42:19.000Z",
-    "collectedAt": "2026-09-19T02:14:25.456Z"
-  },
-  {
-    "id": "https://news.hada.io/topic?id=33925",
-    "category": "it",
-    "source": "긱뉴스",
-    "title": "Claude Code, 이제 AGENTS.md도 지원",
-    "link": "https://news.hada.io/topic?id=33925",
-    "summary": "Claude Code 2.1.277부터 프로젝트에 \"CLAUDE.md\"가 없으면 \"AGENTS.md\"를 프로젝트 지침으로 자동 사용 여러 코딩 에이전트가 공통으로 사용하는 \"AGENTS.md\"를 위해 별도의 \"CLAUDE.md\"를 복제하거나 심볼릭 링크로 연결할 필요가 없어짐 \"/...",
-    "pubDate": "2026-09-19T01:38:31.000Z",
-    "collectedAt": "2026-09-19T02:14:25.456Z"
-  },
-  {
-    "id": "https://news.hada.io/topic?id=33924",
-    "category": "it",
-    "source": "긱뉴스",
-    "title": "Typst, 큰 진전을 이루다",
-    "link": "https://news.hada.io/topic?id=33924",
-    "summary": "Typst 0.15는 가변 폰트, MathML, 다중 참고문헌과 여러 PDF 표준 동시 적용을 추가하며 기술 문서 조판 기능을 확장함 아직 실험 단계인 HTML 출력은 수식을 MathML로 변환해, 지원 브라우저에서 JavaScript 라이브러리나 이미지 없이 PDF와 사실상 동일한 수…",
-    "pubDate": "2026-09-19T01:12:19.000Z",
-    "collectedAt": "2026-09-19T02:14:25.456Z"
-  },
-  {
-    "id": "https://www.hankyung.com/article/202609171191i",
-    "category": "economy",
-    "source": "한국경제 경제",
-    "title": "KF-21·무인기 '한 팀'으로…KAI가 그리는 미래 공중전 체계",
-    "link": "https://www.hankyung.com/article/202609171191i",
-    "summary": "",
-    "pubDate": "2026-09-19T01:00:08.000Z",
-    "collectedAt": "2026-09-19T02:14:25.456Z"
-  },
-  {
-    "id": "https://www.hankyung.com/article/202609184402i",
-    "category": "economy",
-    "source": "한국경제 경제",
-    "title": "\"GPU는 잊어라\" 경쟁사도 품은 엔비디아, 다음 먹거리는? [김인엽의 AI 프런티어]",
-    "link": "https://www.hankyung.com/article/202609184402i",
-    "summary": "",
-    "pubDate": "2026-09-19T01:00:04.000Z",
     "collectedAt": "2026-09-19T02:14:25.456Z"
   }
 ]
