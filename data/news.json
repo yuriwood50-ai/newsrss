@@ -90,6 +90,66 @@
     "collectedAt": "2026-09-24T10:15:33.707Z"
   },
   {
+    "id": "https://news.hada.io/topic?id=34234",
+    "category": "it",
+    "source": "긱뉴스",
+    "title": "최신 ESP32, Linux를 실행하며 Raspberry Pi에 가까워지고 있음",
+    "link": "https://news.hada.io/topic?id=34234",
+    "summary": "Espressif의 ESP32-S31은 기가비트 Ethernet, USB 호스트, 카메라와 디스플레이 인터페이스를 갖추고 Linux까지 실행하며, 마이크로컨트롤러와 단일 보드 컴퓨터(SBC)의 간격을 좁힘 Sv32 페이지 테이블과 세 가지 권한 모드를 지원하는 MMU를 도입해, 기존 E…",
+    "pubDate": "2026-09-24T17:40:14.000Z",
+    "collectedAt": "2026-09-24T18:18:42.619Z"
+  },
+  {
+    "id": "https://news.hada.io/topic?id=34233",
+    "category": "it",
+    "source": "긱뉴스",
+    "title": "Nokia 디자인 아카이브(2025)",
+    "link": "https://news.hada.io/topic?id=34233",
+    "summary": "Nokia Design Archive는 Nokia Mobile Phones와 Microsoft Mobile에서 수행한 디자인 작업 관련 자료를 모은 컬렉션임 자료의 시간 범위는 1990년 1월 1일부터 2020년 12월 31일까지이며, 영어와 핀란드어 자료가 있음 실물과 재료 샘플...",
+    "pubDate": "2026-09-24T17:37:14.000Z",
+    "collectedAt": "2026-09-24T18:18:42.619Z"
+  },
+  {
+    "id": "https://news.hada.io/topic?id=34232",
+    "category": "it",
+    "source": "긱뉴스",
+    "title": "Show GN: TODO Flow — 선택한 TODO를 코딩 에이전트의 병렬 작업·검증·리뷰로 연결하는 오픈소스",
+    "link": "https://news.hada.io/topic?id=34232",
+    "summary": "안녕하세요. Claude 또는 Codex CLI로 여러 개발 작업을 진행할 때, 작업 상태와 검증 근거를 대화 세션 밖에 남기고 관리할 수 있는 TODO Flow를 만들었습니다. 작업 계획을 등록하고 실행할 TODO를 선택하면, 각 작업을 별도의 Git worktree에서 진행합니다.…",
+    "pubDate": "2026-09-24T17:11:12.000Z",
+    "collectedAt": "2026-09-24T18:18:42.619Z"
+  },
+  {
+    "id": "https://news.hada.io/topic?id=34231",
+    "category": "it",
+    "source": "긱뉴스",
+    "title": "삼성 스마트 냉장고, 업데이트 후 먹통돼 보관하던 음식까지 폐기",
+    "link": "https://news.hada.io/topic?id=34231",
+    "summary": "삼성 비스포크 AI 냉장고 일부가 펌웨어 업데이트 후 냉장/냉동 기능을 멈춰, 보관하던 음식을 버렸다는 피해 신고가 이어짐 SmartThings 업데이트 직후 전원이 꺼지거나 화면이 멈추고 앱에서는 오프라인으로 표시됐으며, 피해 제품은 주로 2024년 이후 출시된 4도어 모델...",
+    "pubDate": "2026-09-24T16:41:30.000Z",
+    "collectedAt": "2026-09-24T18:18:42.619Z"
+  },
+  {
+    "id": "https://news.hada.io/topic?id=34230",
+    "category": "it",
+    "source": "긱뉴스",
+    "title": "F-Droid 2.0 발표, 10년 만의 대규모 개편",
+    "link": "https://news.hada.io/topic?id=34230",
+    "summary": "자유/오픈소스 안드로이드 앱을 찾아 설치하는 F-Droid가 공식 앱을 전면 재설계하고, 14차례 테스트를 거쳐 앞으로 수주간 순차 배포함 화면을 앱 발견, 검색, 내 앱 관리 중심으로 정리하고, 신규 앱과 최근 업데이트뿐 아니라 많이 다운로드된 앱도 쉽게 찾도록...",
+    "pubDate": "2026-09-24T16:38:29.000Z",
+    "collectedAt": "2026-09-24T18:18:42.619Z"
+  },
+  {
+    "id": "https://www.hankyung.com/article/202609255349i",
+    "category": "economy",
+    "source": "한국경제 증권",
+    "title": "5.45%까지 오른 美 30년 국채…왜 이렇게 빠르게 상승하나 [Fed 워치]",
+    "link": "https://www.hankyung.com/article/202609255349i",
+    "summary": "",
+    "pubDate": "2026-09-24T15:57:54.000Z",
+    "collectedAt": "2026-09-24T18:18:42.619Z"
+  },
+  {
     "id": "https://news.hada.io/topic?id=34229",
     "category": "it",
     "source": "긱뉴스",
@@ -14937,66 +14997,6 @@
     "link": "https://www.hankyung.com/article/2026092058077",
     "summary": "",
     "pubDate": "2026-09-20T01:20:38.000Z",
-    "collectedAt": "2026-09-20T02:15:49.908Z"
-  },
-  {
-    "id": "20260920000040",
-    "category": "economy",
-    "source": "전자신문 경제",
-    "title": "토스플레이스, 단말기 설치 가맹점 50만 돌파",
-    "link": "https://www.etnews.com/20260920000040",
-    "summary": "토스플레이스는 자사 결제 단말기 '토스 프론트'를 설치한 전국 가맹점 수가 50만개를 돌파했다고 20일 밝혔다. 토스플레이스 설치 가맹점은 지난 3월 30만개를 넘어선 뒤 6월 40만개, 9월 50만개를 돌파했다. 특히 최근 6개월 사이에만 20만개 이상 늘어났다. 설치 지역도 전국 1…",
-    "pubDate": "2026-09-20T01:17:02.000Z",
-    "collectedAt": "2026-09-20T06:18:44.883Z"
-  },
-  {
-    "id": "20260920000037",
-    "category": "ai",
-    "source": "전자신문 AI",
-    "title": "LG CNS, 수학최적화 경진대회 성료…55개국 958개팀 참여",
-    "link": "https://www.etnews.com/20260920000037",
-    "summary": "LG CNS가 전세계 55개국이 참여하는 수학최적화 경연대회를 성료했다. 이번 대회를 기반으로 수학적최적화 분야의 글로벌 인재 발굴과 기술 생태계 확대에 나선다는 방침이다. LG CNS는 국내 유일의 수학적최적화 경연대회 '최적화 그랜드 챌린지 2026'을 마무리하고 시상식을 열었다고…",
-    "pubDate": "2026-09-20T01:13:00.000Z",
-    "collectedAt": "2026-09-20T06:18:44.883Z"
-  },
-  {
-    "id": "https://www.hankyung.com/article/2026092057767",
-    "category": "economy",
-    "source": "한국경제 경제",
-    "title": "반도체 호황? 취준생엔 '그림의 떡'…취업문 더 좁아졌다",
-    "link": "https://www.hankyung.com/article/2026092057767",
-    "summary": "",
-    "pubDate": "2026-09-20T01:06:24.000Z",
-    "collectedAt": "2026-09-20T02:15:49.908Z"
-  },
-  {
-    "id": "https://news.hada.io/topic?id=33968",
-    "category": "it",
-    "source": "긱뉴스",
-    "title": "AI는 엘리트의 연쇄 범죄다",
-    "link": "https://news.hada.io/topic?id=33968",
-    "summary": "AI의 유해 행위를 금지하는 기존 법률과 집행기관은 이미 존재하며, 핵심 문제는 규제의 부재보다 권력자에게 법을 적용하지 않는 정치적 합의에 있음 Biden 행정부의 FTC와 법무부는 AI 안전성, 기만적 사용, 데이터와 독점 문제를 조사했지만, 의회와 사법부의 지원 부족...",
-    "pubDate": "2026-09-20T01:02:25.000Z",
-    "collectedAt": "2026-09-20T02:15:49.908Z"
-  },
-  {
-    "id": "https://news.hada.io/topic?id=33967",
-    "category": "it",
-    "source": "긱뉴스",
-    "title": "AI 챗봇이 사람들의 생각을 바꾸는 데 전문가가 되고 있음",
-    "link": "https://news.hada.io/topic?id=33967",
-    "summary": "ChatGPT, Gemini, Claude가 정치적 쟁점에 관한 대화에서 일반인은 물론 세계 챔피언을 포함한 전문 토론자보다 높은 설득력을 보인 연구 결과가 나옴 챗봇은 사실과 근거에 호소하는 방식으로 사람들의 태도를 바꾸지만, 설득에 쓰는 정보가 반드시 정확한 것은 아...",
-    "pubDate": "2026-09-20T01:02:24.000Z",
-    "collectedAt": "2026-09-20T02:15:49.908Z"
-  },
-  {
-    "id": "https://news.hada.io/topic?id=33966",
-    "category": "it",
-    "source": "긱뉴스",
-    "title": "Brood War Bench",
-    "link": "https://news.hada.io/topic?id=33966",
-    "summary": "에이전트가 Brood War를 얼마나 독립적으로 플레이할 수 있는지 평가하기 위해 모델과 추론 노력 설정 19개 조합을 서로 대전시켰으며, 초보 수준을 넘어선 모델은 없었음 Codex Astra / xhigh가 18승 무패로 1위를 차지했고, Astra / medium과 Claude F…",
-    "pubDate": "2026-09-20T01:02:23.000Z",
     "collectedAt": "2026-09-20T02:15:49.908Z"
   }
 ]
