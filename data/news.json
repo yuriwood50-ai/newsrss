@@ -50,6 +50,26 @@
     "collectedAt": "2026-09-24T12:19:26.973Z"
   },
   {
+    "id": "https://news.hada.io/topic?id=34240",
+    "category": "it",
+    "source": "긱뉴스",
+    "title": "대조 언어 모델",
+    "link": "https://news.hada.io/topic?id=34240",
+    "summary": "Contrastive Language Models(CLM) 는 상태와 행동을 대조 학습으로 연결하는 시스템 1 모델로, 현재 상태와 후보 행동의 임베딩을 비교해 가장 높은 점수의 행동을 선택함 공개한 CLM-8B는 컴퓨터 사용, 게임, 도구 호출 과제에서 Jev와 비슷한 성능을 내면서…",
+    "pubDate": "2026-09-24T19:43:21.000Z",
+    "collectedAt": "2026-09-24T20:16:15.791Z"
+  },
+  {
+    "id": "https://news.hada.io/topic?id=34239",
+    "category": "it",
+    "source": "긱뉴스",
+    "title": "폴란드 Starlink 지상국에서 화재, 방화 공격 의심",
+    "link": "https://news.hada.io/topic?id=34239",
+    "summary": "폴란드에서 Starlink가 사용하는 지상국에 화재가 발생했으며, 디지털부 장관은 핵심 통신 인프라를 겨냥한 고의적 방화로 판단함 해당 시설은 국영 통신사 Exatel 소유로, Starlink를 보유한 SpaceX 등 여러 사업자가 이용하며 우크라이나를 포함...",
+    "pubDate": "2026-09-24T19:40:21.000Z",
+    "collectedAt": "2026-09-24T20:16:15.791Z"
+  },
+  {
     "id": "https://www.aitimes.com/news/articleView.html?idxno=215635",
     "category": "ai",
     "source": "AI타임스 AI산업",
@@ -58,6 +78,16 @@
     "summary": "오픈AI가 '챗GPT'의 음성 모드에 에이전트 기능을 결합해 사용자가 말만으로 이메일·캘린더·슬랙 등 외부 서비스를 활용하고 복잡한 작업까지 수행할 수 있도록 기능을 확대했다. 이번 업데이트는 기존 고급 음성 모드에 웹 검색 및 액션 수행 에이전트와 외부 앱 플러그인 연동을 통합한 것이…",
     "pubDate": "2026-09-24T19:40:06.000Z",
     "collectedAt": "2026-09-24T12:19:26.973Z"
+  },
+  {
+    "id": "https://news.hada.io/topic?id=34238",
+    "category": "it",
+    "source": "긱뉴스",
+    "title": "GitHub, 3주가 지나도록 악성 모방 소프트웨어를 삭제하지 않음",
+    "link": "https://news.hada.io/topic?id=34238",
+    "summary": "Easy Data Transform의 제품명과 로고를 무단 사용한 모방 소프트웨어가 GitHub에 올라왔으며, 신고 후 23일 동안 최초 자동 응답 외에 지원팀의 답변이 없었음 저장소의 Mac용.dmg 파일을 VirusTotal로 검사한 결과, 다수의 악성코드 경고가 나타...",
+    "pubDate": "2026-09-24T19:37:21.000Z",
+    "collectedAt": "2026-09-24T20:16:15.791Z"
   },
   {
     "id": "https://www.aitimes.com/news/articleView.html?idxno=215634",
@@ -78,6 +108,36 @@
     "summary": "구글이 자연어 프롬프트만으로 새로운 음성을 설계하고 대사별 연기와 억양까지 세밀하게 조절할 수 있는 텍스트 음성 변환(TTS) 모델 2종을 출시했다. 기존의 고정된 음성 선택 방식에서 벗어나 게임, 오디오북, 팟캐스트, 더빙, 음성 에이전트 등 다양한 분야에서 맞춤형 음성을 제작할 수…",
     "pubDate": "2026-09-24T18:54:04.000Z",
     "collectedAt": "2026-09-24T10:15:33.707Z"
+  },
+  {
+    "id": "https://news.hada.io/topic?id=34237",
+    "category": "it",
+    "source": "긱뉴스",
+    "title": "영국군, 자국 방어 위해 다른 나라 위성 전파 방해 중이라고 BBC에 밝혀",
+    "link": "https://news.hada.io/topic?id=34237",
+    "summary": "영국 공군(RAF) 이 적대적 위협에 대응하기 위해 지난 1년간 지상 기반 시스템으로 다른 나라 위성의 전파를 방해하거나 차단해 왔으며, 국방 소식통은 이를 이미 적대국 억제에 사용했다고 밝힘 이 시스템은 적대국 위성이 영국의 핵무장 잠수함 이동이나 특수부대...",
+    "pubDate": "2026-09-24T18:44:14.000Z",
+    "collectedAt": "2026-09-24T20:16:15.791Z"
+  },
+  {
+    "id": "https://news.hada.io/topic?id=34236",
+    "category": "it",
+    "source": "긱뉴스",
+    "title": "Windows 스크롤 바 단축 조작의 간략한 역사",
+    "link": "https://news.hada.io/topic?id=34236",
+    "summary": "Windows 스크롤 바에는 줄/페이지 단위 이동과 드래그 외에도, 원하는 위치로 바로 이동하는 “Scroll Here” 메뉴와 Shift+클릭이 있음 “Scroll Here”는 이동하려는 지점을 우클릭한 뒤 선택하는 기능으로, 스크롤 손잡이를 잡아 먼 거리까지 ...",
+    "pubDate": "2026-09-24T18:41:14.000Z",
+    "collectedAt": "2026-09-24T20:16:15.791Z"
+  },
+  {
+    "id": "https://news.hada.io/topic?id=34235",
+    "category": "it",
+    "source": "긱뉴스",
+    "title": "모든 샌드위치를 즐기세요",
+    "link": "https://news.hada.io/topic?id=34235",
+    "summary": "말기 암을 앓던 Warren Zevon은 2002년 David Letterman의 방송에서 삶과 죽음에 관해 새롭게 알게 된 것이 있느냐는 질문에, “모든 샌드위치를 즐기는 것”의 소중함으로 답함 Zevon에게는 매 순간이 이전보다 귀해졌으며, 샌드위치를 먹고 동료들과 연주하고 아...",
+    "pubDate": "2026-09-24T18:38:14.000Z",
+    "collectedAt": "2026-09-24T20:16:15.791Z"
   },
   {
     "id": "https://www.aitimes.com/news/articleView.html?idxno=215643",
@@ -14938,65 +14998,5 @@
     "summary": "",
     "pubDate": "2026-09-20T01:43:20.000Z",
     "collectedAt": "2026-09-20T04:16:03.850Z"
-  },
-  {
-    "id": "https://news.hada.io/topic?id=33970",
-    "category": "it",
-    "source": "긱뉴스",
-    "title": "Microsoft 디렉터: AI 스크래핑은 ‘인류 역사상 최대 규모의 노동 도둑질’",
-    "link": "https://news.hada.io/topic?id=33970",
-    "summary": "New York Times(NYT)의 저작권 소송 서면이 Microsoft와 OpenAI의 내부 문서와 발언을 인용하며, AI의 콘텐츠 수집과 언론사 사업 기반 훼손에 대한 내부 우려를 드러냄 서면에 따르면 Microsoft 응용과학 디렉터 Brent Hecht는 2023년 내부 메모에…",
-    "pubDate": "2026-09-20T01:42:24.000Z",
-    "collectedAt": "2026-09-20T02:15:49.908Z"
-  },
-  {
-    "id": "https://news.hada.io/topic?id=33969",
-    "category": "it",
-    "source": "긱뉴스",
-    "title": "Hacker News 순위의 작동 방식: 점수, 논쟁, 페널티 (2013)",
-    "link": "https://news.hada.io/topic?id=33969",
-    "summary": "2013년 Hacker News 상위 60개 게시물을 며칠간 추적한 결과, 순위는 추천 수와 경과 시간뿐 아니라 페널티에 크게 좌우됐으며 첫 페이지 게시물의 평균 20% 가 감점을 받은 상태였음 공개된 점수 계산식은 실제 순위와 대체로 일치했지만, 전체 ...",
-    "pubDate": "2026-09-20T01:42:23.000Z",
-    "collectedAt": "2026-09-20T02:15:49.908Z"
-  },
-  {
-    "id": "https://www.hankyung.com/article/2026092058207",
-    "category": "economy",
-    "source": "한국경제 경제",
-    "title": "'카리나 모델' 컨버스, 고개 숙였다…광고 내리고 공식 사과",
-    "link": "https://www.hankyung.com/article/2026092058207",
-    "summary": "",
-    "pubDate": "2026-09-20T01:36:05.000Z",
-    "collectedAt": "2026-09-20T02:15:49.908Z"
-  },
-  {
-    "id": "20260920000045",
-    "category": "ai",
-    "source": "전자신문 SW",
-    "title": "K-에듀테크 어워드 2026 성료…산업부 장관상·표창 9개 수여",
-    "link": "https://www.etnews.com/20260920000045",
-    "summary": "'에듀테크 코리아 페어 2026' 일환으로 열린 '2026 에듀테크 코리아 어워드'에서 개인 4명·기업 5곳이 산업통상부 장관상과 표창을 받았다. 산업부와 한국에듀테크산업협회(KETIA)가 '에듀테크와 인공지능(AI) 융합'을 핵심 가치로 개최한 에듀테크 코리아 어워드는 AI를 활용해…",
-    "pubDate": "2026-09-20T01:32:37.000Z",
-    "collectedAt": "2026-09-20T06:18:44.883Z"
-  },
-  {
-    "id": "https://www.hankyung.com/article/202609183759g",
-    "category": "economy",
-    "source": "한국경제 경제",
-    "title": "간담회도 왔네…\"이거는 정말 미쳤다\" 곽범 놀라게 한 그 손님 [현장+]",
-    "link": "https://www.hankyung.com/article/202609183759g",
-    "summary": "",
-    "pubDate": "2026-09-20T01:30:03.000Z",
-    "collectedAt": "2026-09-20T02:15:49.908Z"
-  },
-  {
-    "id": "https://www.hankyung.com/article/2026092058077",
-    "category": "economy",
-    "source": "한국경제 경제",
-    "title": "\"1억 벌어도 힘들어요\"…걸그룹 멤버도 진땀 뺀 '타코집'",
-    "link": "https://www.hankyung.com/article/2026092058077",
-    "summary": "",
-    "pubDate": "2026-09-20T01:20:38.000Z",
-    "collectedAt": "2026-09-20T02:15:49.908Z"
   }
 ]
