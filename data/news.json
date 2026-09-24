@@ -1,5 +1,55 @@
 [
   {
+    "id": "https://www.aitimes.com/news/articleView.html?idxno=215645",
+    "category": "ai",
+    "source": "AI타임스 AI산업",
+    "title": "안보리 무대 선 알트먼·아모데이 \"AI 통제 불능 위험...글로벌 공조 시급\"",
+    "link": "https://www.aitimes.com/news/articleView.html?idxno=215645",
+    "summary": "AI 기업 핵심 리더들이 유엔 안전보장이사회(UNSC)에 참석해 고도화된 AI 시스템이 불러올 수 있는 국가 안보적 위협을 공식 경고했다. 첨단 AI 모델의 성능이 기하급수적으로 강력해짐에 따라 인간의 통제를 벗어나거나 악용될 위험성이 커지고 있는 만큼, 글로벌 차원의 강력한 안전 가이…",
+    "pubDate": "2026-09-24T21:15:25.000Z",
+    "collectedAt": "2026-09-24T12:19:26.973Z"
+  },
+  {
+    "id": "https://www.aitimes.com/news/articleView.html?idxno=215644",
+    "category": "ai",
+    "source": "AI타임스 AI산업",
+    "title": "유튜브, 생성 AI 전면 도입...\"말 한마디로 편집하고 맞춤 피드 구축\"",
+    "link": "https://www.aitimes.com/news/articleView.html?idxno=215644",
+    "summary": "세계 최대 동영상 플랫폼 유튜브에 크리에이터가 자연어로 동영상을 편집하고 시청자가 프롬프트로 자신만의 추천 알고리즘을 구축하는 등 AI 기능이 대대적으로 추가됐다.유튜브는 23일(현지시간) 연례행사 ‘메이드 온 유튜브’를 개최하고 생성 AI 기술을 편집, 알고리즘 피드, 스튜디오 분석,…",
+    "pubDate": "2026-09-24T20:41:06.000Z",
+    "collectedAt": "2026-09-24T12:19:26.973Z"
+  },
+  {
+    "id": "https://www.aitimes.com/news/articleView.html?idxno=215638",
+    "category": "ai",
+    "source": "AI타임스 AI산업",
+    "title": "앤트로픽, '오퍼스 5.5' 프롬프트 팁 공개...\"불필요 문구 삭제해야\"",
+    "link": "https://www.aitimes.com/news/articleView.html?idxno=215638",
+    "summary": "앤트로픽이 최신 AI 모델의 성능을 끌어내기 위한 프롬프트 작성과 작업 관리 전략을 제시했다. 단순히 모델에 더 많이 생각하라고 요구하기보다 작업의 목표와 완료 조건을 명확히 제시하고, 장시간 작업에서는 진행 상황을 체계적으로 관리하는 것이 중요하다는 설명이다. 앤트로픽은 23일(현지시…",
+    "pubDate": "2026-09-24T19:54:31.000Z",
+    "collectedAt": "2026-09-24T12:19:26.973Z"
+  },
+  {
+    "id": "https://www.aitimes.com/news/articleView.html?idxno=215635",
+    "category": "ai",
+    "source": "AI타임스 AI산업",
+    "title": "오픈AI, '챗GPT 음성'에 에이전트 결합...\"말 한마디로 앱 조작·업무 처리\"",
+    "link": "https://www.aitimes.com/news/articleView.html?idxno=215635",
+    "summary": "오픈AI가 '챗GPT'의 음성 모드에 에이전트 기능을 결합해 사용자가 말만으로 이메일·캘린더·슬랙 등 외부 서비스를 활용하고 복잡한 작업까지 수행할 수 있도록 기능을 확대했다. 이번 업데이트는 기존 고급 음성 모드에 웹 검색 및 액션 수행 에이전트와 외부 앱 플러그인 연동을 통합한 것이…",
+    "pubDate": "2026-09-24T19:40:06.000Z",
+    "collectedAt": "2026-09-24T12:19:26.973Z"
+  },
+  {
+    "id": "https://www.aitimes.com/news/articleView.html?idxno=215634",
+    "category": "ai",
+    "source": "AI타임스 AI산업",
+    "title": "딥시크, AI 에이전트 '학습 비용 절감 핵심 인프라' DSec 공개",
+    "link": "https://www.aitimes.com/news/articleView.html?idxno=215634",
+    "summary": "딥시크가 대규모 AI 에이전트 학습 과정에서 수많은 실행 환경을 효율적으로 관리하고 에이전트의 예기치 않은 돌발 행동을 차단하기 위한 전용 인프라 기술을 공개했다.량원펑 딥시크 창립자를 포함한 연구진은 19일 대규모 에이전트 학습을 위해 설계된 샌드박스 플랫폼 ‘딥시크 엘라스틱 컴퓨트(…",
+    "pubDate": "2026-09-24T19:26:22.000Z",
+    "collectedAt": "2026-09-24T12:19:26.973Z"
+  },
+  {
     "id": "https://www.aitimes.com/news/articleView.html?idxno=215636",
     "category": "ai",
     "source": "AI타임스 AI산업",
@@ -60,6 +110,26 @@
     "collectedAt": "2026-09-24T04:16:53.272Z"
   },
   {
+    "id": "https://news.hada.io/topic?id=34225",
+    "category": "it",
+    "source": "긱뉴스",
+    "title": "내 메시 네트워크는 암호화 대신 서명되길 바란다",
+    "link": "https://news.hada.io/topic?id=34225",
+    "summary": "아마추어 무선 대역에서 메시 네트워크를 운용할 수 있도록, 메시지를 암호화하지 않고 평문에 서명하는 프로토콜을 제안함 Meshtastic과 Meshcore는 손쉽게 메시 네트워크를 구축하게 해주지만, 기본 암호화를 끄기 번거롭거나 불가능해 암호화 송신을 할 수 없는...",
+    "pubDate": "2026-09-24T12:01:52.000Z",
+    "collectedAt": "2026-09-24T12:19:26.973Z"
+  },
+  {
+    "id": "https://news.hada.io/topic?id=34224",
+    "category": "it",
+    "source": "긱뉴스",
+    "title": "메타, 자사에서 촬영된 Meta AI Glasses 비판 영상 삭제",
+    "link": "https://news.hada.io/topic?id=34224",
+    "summary": "메타, 자사에서 촬영된 Meta AI Glasses 비판 영상 삭제",
+    "pubDate": "2026-09-24T11:31:30.000Z",
+    "collectedAt": "2026-09-24T12:19:26.973Z"
+  },
+  {
     "id": "https://www.aitimes.com/news/articleView.html?idxno=215544",
     "category": "ai",
     "source": "AI타임스 AI산업",
@@ -80,6 +150,26 @@
     "collectedAt": "2026-09-24T04:16:53.272Z"
   },
   {
+    "id": "https://news.hada.io/topic?id=34223",
+    "category": "it",
+    "source": "긱뉴스",
+    "title": "오픈소스 데스크톱 현대화를 위한 아이디어",
+    "link": "https://news.hada.io/topic?id=34223",
+    "summary": "Scott Jenson은 Akademy 2026에서 Linux 데스크톱이 Apple과 Microsoft를 뒤따르는 데서 벗어나, 자체적인 UX 실험과 개발을 주도해야 한다고 촉구함 개선의 핵심은 외형보다 작업 기억에 있음. 창과 클립보드로 데이터를 직접 옮기는 기존 데스크톱은 사용자가…",
+    "pubDate": "2026-09-24T11:03:57.000Z",
+    "collectedAt": "2026-09-24T12:19:26.973Z"
+  },
+  {
+    "id": "https://news.hada.io/topic?id=34222",
+    "category": "it",
+    "source": "긱뉴스",
+    "title": "Tailscale을 더 빠르게 만들기",
+    "link": "https://news.hada.io/topic?id=34222",
+    "summary": "Tailscale이 패킷 메모리 처리와 병렬 처리를 개선해 앱 커넥터, 서브넷 라우터, 출구 노드의 처리량을 높이고 지연을 줄이는 작업을 진행 중임 Linux와 Android에서는 작은 패킷을 별도 64 KiB 버퍼로 복사하지 않고 수신 버퍼 안에서 처리해, 여러 네트워크 구성에서 약…",
+    "pubDate": "2026-09-24T10:33:58.000Z",
+    "collectedAt": "2026-09-24T12:19:26.973Z"
+  },
+  {
     "id": "https://www.aitimes.com/news/articleView.html?idxno=215632",
     "category": "ai",
     "source": "AI타임스 AI산업",
@@ -88,6 +178,26 @@
     "summary": "메타가 선보인 개인 맞춤형 에이전트 '뮤즈(Muse)'가 폭발적인 인기를 끌며 금융시장 전체를 흔들어놓고 있다.지난 8일(현지시간) 첫선을 보인 뮤즈는 출시 2주 만인 23일 미국과 캐나다의 애플 앱스토어와 구글 플레이스토어에서 무료 앱 다운로드 1위를 기록했다. 센서타워에 따르면 출시…",
     "pubDate": "2026-09-24T10:31:57.000Z",
     "collectedAt": "2026-09-24T02:15:06.254Z"
+  },
+  {
+    "id": "20260924000052",
+    "category": "ai",
+    "source": "전자신문 AI",
+    "title": "위제이, 글로벌 R&D 선정…2억원 확보해 'zurigo' 해외 확장",
+    "link": "https://www.etnews.com/20260924000052",
+    "summary": "해외 사업장을 보유한 기업이 현지 기상·지리 조건과 전력시장 제도를 반영한 태양광 설치 가능 규모와 전력구매계약(PPA) 활용 방안을 한 화면에서 확인할 수 있게 된다. 기후테크 기업 위제이(대표 박영훈)가 정부지원금 2억원을 투입해 인공지능(AI) 기반 재생에너지 조달 플랫폼 'zur…",
+    "pubDate": "2026-09-24T10:23:24.000Z",
+    "collectedAt": "2026-09-24T12:19:26.973Z"
+  },
+  {
+    "id": "https://www.hankyung.com/article/202609245190i",
+    "category": "economy",
+    "source": "한국경제 경제",
+    "title": "'다마고치인 줄'…\"가장 놀라운 제품\"  AI비서 깜짝 공개",
+    "link": "https://www.hankyung.com/article/202609245190i",
+    "summary": "",
+    "pubDate": "2026-09-24T10:13:31.000Z",
+    "collectedAt": "2026-09-24T12:19:26.973Z"
   },
   {
     "id": "https://www.aitimes.com/news/articleView.html?idxno=215631",
@@ -14888,115 +14998,5 @@
     "summary": "KT가 10년 간 이어 온 대표 고객 문화 축제 'KT 보야지 투 자라섬'을 'KT 보야지 페스티벌'로 개편, 다양한 지역에서 고객 접점을 이어간다. KT는 오는 10월 24일 경기도 성남시 분당중앙공원에서 '2026 KT 보야지 페스티벌'을 개최한다고 20일 밝혔다. KT 보야지 페스…",
     "pubDate": "2026-09-20T00:05:36.000Z",
     "collectedAt": "2026-09-20T06:18:44.883Z"
-  },
-  {
-    "id": "https://news.hada.io/topic?id=33963",
-    "category": "it",
-    "source": "긱뉴스",
-    "title": "아키텍처 우주비행사들에게 겁먹지 말라 (2001)",
-    "link": "https://news.hada.io/topic?id=33963",
-    "summary": "추상화를 지나치게 밀어붙이면 구체적인 문제는 사라지고, 모든 것을 포괄하지만 실제로는 아무 의미 없는 아키텍처만 남음 Napster의 매력은 P2P 구조가 아니라 노래 이름을 입력하면 곧바로 들을 수 있다는 데 있음 아키텍처 자체가 나쁘다는 것이 아니...",
-    "pubDate": "2026-09-20T00:02:24.000Z",
-    "collectedAt": "2026-09-20T00:21:58.734Z"
-  },
-  {
-    "id": "https://news.hada.io/topic?id=33962",
-    "category": "it",
-    "source": "긱뉴스",
-    "title": "Waymo의 싱가포르 진출",
-    "link": "https://news.hada.io/topic?id=33962",
-    "summary": "Waymo가 싱가포르 교통부와 육상교통청과 협력해 2028년 완전 자율주행 상용 호출 서비스 출시를 준비함 초기에는 사람이 직접 운전하며 지도 작성과 검증을 진행하고, 현지 자율주행 전문 인력이 운전석에 탑승하는 단계를 거쳐 완전 무인 운행으...",
-    "pubDate": "2026-09-20T00:02:23.000Z",
-    "collectedAt": "2026-09-20T00:21:58.734Z"
-  },
-  {
-    "id": "https://www.hankyung.com/article/202609171748g",
-    "category": "economy",
-    "source": "한국경제 경제",
-    "title": "하브 연비 L당 17.4㎞…'싼타페급'으로 넓어진 현대차 투싼",
-    "link": "https://www.hankyung.com/article/202609171748g",
-    "summary": "",
-    "pubDate": "2026-09-20T00:00:11.000Z",
-    "collectedAt": "2026-09-20T02:15:49.908Z"
-  },
-  {
-    "id": "https://www.hankyung.com/article/202609183238i",
-    "category": "economy",
-    "source": "한국경제 경제",
-    "title": "\"120억으로 예금만 했는데\"…5년 새 누적수익률 80% 비결",
-    "link": "https://www.hankyung.com/article/202609183238i",
-    "summary": "",
-    "pubDate": "2026-09-20T00:00:09.000Z",
-    "collectedAt": "2026-09-20T02:15:49.908Z"
-  },
-  {
-    "id": "https://www.hankyung.com/article/202609184406i",
-    "category": "economy",
-    "source": "한국경제 경제",
-    "title": "비트코인, '클래리티 쇼크' 이틀 만에 극복…7만7000달러선 탈환",
-    "link": "https://www.hankyung.com/article/202609184406i",
-    "summary": "",
-    "pubDate": "2026-09-20T00:00:05.000Z",
-    "collectedAt": "2026-09-20T02:15:49.908Z"
-  },
-  {
-    "id": "20260919000043",
-    "category": "it",
-    "source": "전자신문 IT/통신",
-    "title": "아이폰 감성은 그대로, 화면은 두 배로…'아이폰 듀오'",
-    "link": "https://www.etnews.com/20260919000043",
-    "summary": "접은 아이폰 듀오의 첫인상은 보통의 아이폰에 가까웠다. 5.4인치 외부 화면에서 문자를 입력하고 앱을 넘기는 데 별다른 적응이 필요하지 않았다. 제품을 펼치는 순간 인상은 달라졌다. 7.6인치 대화면과 매트한 내부 디스플레이가 나타나면서 완전히 다른 기기로 바뀌었다. 기존 아이폰 '사용…",
-    "pubDate": "2026-09-20T00:00:00.000Z",
-    "collectedAt": "2026-09-20T00:21:58.734Z"
-  },
-  {
-    "id": "20260920000003",
-    "category": "it",
-    "source": "전자신문 IT/통신",
-    "title": "SKT, '제3회 대한민국 사회적가치 페스타' 참가…지속가능경영 비전 공유",
-    "link": "https://www.etnews.com/20260920000003",
-    "summary": "SK텔레콤이 '대한민국 사회적가치 페스타'에 참가, 지속가능경영 비전 '두 더 굿 AI(DO THE GOOD AI)' 실천 사례를 공유한다. SK텔레콤은 오는 21일과 22일 이틀간 서울 코엑스에서 열리는 '제3회 대한민국 사회적가치 페스타(Korea Social Value Festa)…",
-    "pubDate": "2026-09-20T00:00:00.000Z",
-    "collectedAt": "2026-09-20T00:21:58.734Z"
-  },
-  {
-    "id": "20260920000004",
-    "category": "it",
-    "source": "전자신문 IT/통신",
-    "title": "LGU+, 장기 이용 고객 초청 '디어 에반 핸슨' 공연 관람",
-    "link": "https://www.etnews.com/20260920000004",
-    "summary": "LG유플러스가 연이어 통신사 최초로 공연장 전 좌석을 마련해 장기 이용 고객을 위한 문화 경험을 제공했다. LG유플러스는 10년 이상 장기 이용 고객을 초청해 뮤지컬 '디어 에반 핸슨'을 함께 관람하는 행사를 진행했다고 20일 밝혔다. 이번 행사는 지난 18일 오후 7시 30분 서울 중…",
-    "pubDate": "2026-09-20T00:00:00.000Z",
-    "collectedAt": "2026-09-20T00:21:58.734Z"
-  },
-  {
-    "id": "20260920000006",
-    "category": "it",
-    "source": "전자신문 IT/통신",
-    "title": "SKT, '나만의 러닝 도전' 런메이트 프로모션",
-    "link": "https://www.etnews.com/20260920000006",
-    "summary": "SK텔레콤이 러너 고객을 겨냥해 스마트기기 등 상품과 혜택을 묶어 '런메이트' 프로모션을 강화한다. SK텔레콤은 러너 대상 '런메이트와 함께 나만의 러닝에 도전하자' 시리즈 프로모션을 순차적으로 선보인다고 20일 밝혔다. SKT는 러너 고객에게 필요한 상품·혜택을 '런메이트' 프로그램으…",
-    "pubDate": "2026-09-19T23:58:40.000Z",
-    "collectedAt": "2026-09-20T00:21:58.734Z"
-  },
-  {
-    "id": "https://news.hada.io/topic?id=33961",
-    "category": "it",
-    "source": "긱뉴스",
-    "title": "ZX Spectrum용 그래픽 데스크톱",
-    "link": "https://news.hada.io/topic?id=33961",
-    "summary": "ZX Desk는 Z80 어셈블리로 작성한 ZX Spectrum 48K용 데스크톱으로, 겹치는 창과 메뉴, 메모장, 시계, 달력, 파일 관리자를 48K 안에 구현하고 실제 하드웨어에서 실행함 실측 기반 최적화로 창 드래그 처리 시간을 프레임당 69,888 T 상태 이내인 59,858 T로…",
-    "pubDate": "2026-09-19T23:52:24.000Z",
-    "collectedAt": "2026-09-20T00:21:58.734Z"
-  },
-  {
-    "id": "https://news.hada.io/topic?id=33960",
-    "category": "it",
-    "source": "긱뉴스",
-    "title": "두 신경외배엽 전구세포 계통이 병렬적으로 뇌 발달에 기여함",
-    "link": "https://news.hada.io/topic?id=33960",
-    "summary": "사람과 여러 동물의 뇌 앞부분과 뒷부분은 기존에 생각했던 공통 기원이 아니라 서로 다른 전구세포에서 발달함 생쥐 배아에서 OTX2를 발현하는 전구세포는 전뇌와 중뇌 뉴런으로, GBX2를 발현하는 전구세포는 후뇌 뉴런으로 분화하며, 인간 세포...",
-    "pubDate": "2026-09-19T23:52:23.000Z",
-    "collectedAt": "2026-09-20T00:21:58.734Z"
   }
 ]
