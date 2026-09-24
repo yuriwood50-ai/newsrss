@@ -1,5 +1,175 @@
 [
   {
+    "id": "https://news.hada.io/topic?id=34202",
+    "category": "it",
+    "source": "긱뉴스",
+    "title": "내가 바라는 GNOME의 LLM 정책",
+    "link": "https://news.hada.io/topic?id=34202",
+    "summary": "GNOME의 LLM 정책은 개발 작업 방식을 세세하게 관리하기보다, 공동체가 환영하고 거부하는 행동을 알리는 사회적 규범이어야 한다는 개인 제안임 제안된 정책은 GNOME에 제출하거나 GNOME 인프라에 호스팅하는 모든 것을 LLM으로 생성하거나 수정하는 행위를 금지...",
+    "pubDate": "2026-09-24T00:13:16.000Z",
+    "collectedAt": "2026-09-24T00:20:41.793Z"
+  },
+  {
+    "id": "https://news.hada.io/topic?id=34201",
+    "category": "it",
+    "source": "긱뉴스",
+    "title": "사람을 위한 KDE",
+    "link": "https://news.hada.io/topic?id=34201",
+    "summary": "KDE 사용자와 기여자 모임이 KDE Plasma Desktop과 관련 구성 요소에서 생성형 AI를 금지하는 정책 채택을 요구함 금지 요구는 개별 커밋의 AI 사용 비율을 정확히 가려내기보다, 사람 중심의 공동체와 개인정보 보호, 통제권이라는 KDE의 가치를 지키는 데 초점을...",
+    "pubDate": "2026-09-24T00:10:16.000Z",
+    "collectedAt": "2026-09-24T00:20:41.793Z"
+  },
+  {
+    "id": "https://news.hada.io/topic?id=34200",
+    "category": "it",
+    "source": "긱뉴스",
+    "title": "Radicle: 네트워크 프로토콜 취약점 공개",
+    "link": "https://news.hada.io/topic?id=34200",
+    "summary": "Radicle 노드 간 통신에서 평문 전송과 피어 인증 결함이라는 두 가지 심각한 취약점이 확인됐으며, 공개 시점까지 출시된 모든 버전이 영향받음 네트워크 경로상의 공격자는 전송 데이터를 읽고, 관찰한 Node ID를 사칭해 허용 목록으로 제한된 ...",
+    "pubDate": "2026-09-24T00:07:16.000Z",
+    "collectedAt": "2026-09-24T00:20:41.793Z"
+  },
+  {
+    "id": "20260923000087",
+    "category": "economy",
+    "source": "전자신문 경제",
+    "title": "키사이드, 멕시코서 K-뷰티 6개 브랜드 선보인다…현지 유통 협력 확대",
+    "link": "https://www.etnews.com/20260923000087",
+    "summary": "글로벌 K-뷰티 유통 플랫폼 키사이드(KISIDE)가 멕시코에서 국내 화장품 브랜드를 소개하고 중남미 지역의 유통망 확대에 나선다. 키사이드는 오는 24일부터 27일까지 멕시코시티에서 열리는 '2026 멕시코 K-EXPO'에 참가한다고 밝혔다. 문화체육관광부가 주최하고 한국콘텐츠진흥원이…",
+    "pubDate": "2026-09-24T00:00:00.000Z",
+    "collectedAt": "2026-09-24T00:20:41.793Z"
+  },
+  {
+    "id": "https://www.hankyung.com/article/2026092447057",
+    "category": "economy",
+    "source": "한국경제 경제",
+    "title": "추석인데 총수들 줄줄이 출국…젠슨 황 만날 '韓 CEO' 누구",
+    "link": "https://www.hankyung.com/article/2026092447057",
+    "summary": "",
+    "pubDate": "2026-09-23T23:35:56.000Z",
+    "collectedAt": "2026-09-24T00:20:41.793Z"
+  },
+  {
+    "id": "https://www.hankyung.com/article/202609244545i",
+    "category": "economy",
+    "source": "한국경제 증권",
+    "title": "10년물 5.1% 돌파…금리 주시하는 트럼프 [김현석의 월스트리트나우]",
+    "link": "https://www.hankyung.com/article/202609244545i",
+    "summary": "",
+    "pubDate": "2026-09-23T23:01:30.000Z",
+    "collectedAt": "2026-09-24T00:20:41.793Z"
+  },
+  {
+    "id": "https://www.hankyung.com/article/202609234294i",
+    "category": "economy",
+    "source": "한국경제 경제",
+    "title": "올 추석 부모님 선물로 소형 건강가전 어때요?",
+    "link": "https://www.hankyung.com/article/202609234294i",
+    "summary": "",
+    "pubDate": "2026-09-23T23:00:21.000Z",
+    "collectedAt": "2026-09-24T00:20:41.793Z"
+  },
+  {
+    "id": "https://www.hankyung.com/article/202609233801i",
+    "category": "economy",
+    "source": "한국경제 증권",
+    "title": "관세·반도체 협상 어떻게 되나…미중 정상회담 투자자 관전 포인트",
+    "link": "https://www.hankyung.com/article/202609233801i",
+    "summary": "",
+    "pubDate": "2026-09-23T23:00:19.000Z",
+    "collectedAt": "2026-09-24T00:20:41.793Z"
+  },
+  {
+    "id": "https://www.hankyung.com/article/202609233719i",
+    "category": "economy",
+    "source": "한국경제 증권",
+    "title": "훈풍 부는 가상자산 시장…핵심 이슈와 투자전략 살펴보니",
+    "link": "https://www.hankyung.com/article/202609233719i",
+    "summary": "",
+    "pubDate": "2026-09-23T23:00:16.000Z",
+    "collectedAt": "2026-09-24T00:20:41.793Z"
+  },
+  {
+    "id": "https://www.hankyung.com/article/202609219209i",
+    "category": "economy",
+    "source": "한국경제 경제",
+    "title": "\"한국서만 먹는 줄 알았는데\"…맥도날드도 꽂혀버린 'K소스' [권용훈의 트렌드워치]",
+    "link": "https://www.hankyung.com/article/202609219209i",
+    "summary": "",
+    "pubDate": "2026-09-23T23:00:12.000Z",
+    "collectedAt": "2026-09-24T00:20:41.793Z"
+  },
+  {
+    "id": "https://www.hankyung.com/article/2026092340321",
+    "category": "economy",
+    "source": "한국경제 경제",
+    "title": "\"통신비 꼬박꼬박 냈을 뿐인데\"…40대 주부, 은행 갔다가 '깜짝'",
+    "link": "https://www.hankyung.com/article/2026092340321",
+    "summary": "",
+    "pubDate": "2026-09-23T23:00:09.000Z",
+    "collectedAt": "2026-09-24T00:20:41.793Z"
+  },
+  {
+    "id": "https://www.hankyung.com/article/202609233810i",
+    "category": "economy",
+    "source": "한국경제 증권",
+    "title": "흔들리는 글로벌 증시…연내 꼭 확인해야 할 3가지 이벤트",
+    "link": "https://www.hankyung.com/article/202609233810i",
+    "summary": "",
+    "pubDate": "2026-09-23T23:00:07.000Z",
+    "collectedAt": "2026-09-24T00:20:41.793Z"
+  },
+  {
+    "id": "https://www.hankyung.com/article/202609233708i",
+    "category": "economy",
+    "source": "한국경제 증권",
+    "title": "'운용 경력 25년' 베테랑 조언…\"이 때 되면 과감히 매도해야\"",
+    "link": "https://www.hankyung.com/article/202609233708i",
+    "summary": "",
+    "pubDate": "2026-09-23T23:00:04.000Z",
+    "collectedAt": "2026-09-24T00:20:41.793Z"
+  },
+  {
+    "id": "https://www.hankyung.com/article/2026092446887",
+    "category": "economy",
+    "source": "한국경제 증권",
+    "title": "국채 금리 급등·중동 정세 불안에 하락 마감…나스닥 1%대↓ [뉴욕증시 브리핑]",
+    "link": "https://www.hankyung.com/article/2026092446887",
+    "summary": "",
+    "pubDate": "2026-09-23T22:43:39.000Z",
+    "collectedAt": "2026-09-24T00:20:41.793Z"
+  },
+  {
+    "id": "https://news.hada.io/topic?id=34199",
+    "category": "it",
+    "source": "긱뉴스",
+    "title": "GitHub 위키는 안티패턴이다 (2022)",
+    "link": "https://news.hada.io/topic?id=34199",
+    "summary": "GitHub 프로젝트 문서는 위키보다 /docs 폴더에 코드와 함께 관리하고 GitHub Pages로 게시하는 방식을 권장함 문서를 코드와 함께 버전 관리하면 이전 버전의 문서를 쉽게 찾을 수 있고, 저장소를 복제할 때 문서도 함께 내려받을 ...",
+    "pubDate": "2026-09-23T22:40:09.000Z",
+    "collectedAt": "2026-09-24T00:20:41.793Z"
+  },
+  {
+    "id": "https://news.hada.io/topic?id=34198",
+    "category": "it",
+    "source": "긱뉴스",
+    "title": "Stripe의 사내 업무용 AI 플랫폼, Kai",
+    "link": "https://news.hada.io/topic?id=34198",
+    "summary": "Stripe는 영업 전 고객 조사, 재무 분석, 규정 준수 검토 등을 돕는 사내 AI 플랫폼 Kai를 구축했으며, 발표 시점 기준 직원 83%가 매주 사용하고 있음 기존 도구로 만든 4,000개 이상의 에이전트는 비슷한 프롬프트를 중복 작성하고 품질과 유지...",
+    "pubDate": "2026-09-23T22:37:09.000Z",
+    "collectedAt": "2026-09-24T00:20:41.793Z"
+  },
+  {
+    "id": "https://www.hankyung.com/article/202609221656i",
+    "category": "economy",
+    "source": "한국경제 경제",
+    "title": "\"GPU를 원유처럼 거래\"…CME, 엔비디아 H100·B200 선물 출시 임박 [김주완의 글로벌머니 X파일]",
+    "link": "https://www.hankyung.com/article/202609221656i",
+    "summary": "",
+    "pubDate": "2026-09-23T22:00:11.000Z",
+    "collectedAt": "2026-09-24T00:20:41.793Z"
+  },
+  {
     "id": "https://news.hada.io/topic?id=34197",
     "category": "it",
     "source": "긱뉴스",
@@ -14828,175 +14998,5 @@
     "summary": "C++26은 while (true);처럼 조건이 항상 참이고 본문이 비어 있는 단순 무한 루프(trivial infinite loop) 의 동작을 정의하며, 컴파일러가 미정의 동작을 근거로 이를 제거할 수 없게 함 기존 전방 진행 보장(forward progress guarantee).…",
     "pubDate": "2026-09-19T09:42:22.000Z",
     "collectedAt": "2026-09-19T10:14:29.593Z"
-  },
-  {
-    "id": "https://news.hada.io/topic?id=33935",
-    "category": "it",
-    "source": "긱뉴스",
-    "title": "인간의 뇌는 서로 다른 두 기관, Stanford Medicine 주도 연구에서 확인",
-    "link": "https://news.hada.io/topic?id=33935",
-    "summary": "뇌 전체가 하나의 전구세포에서 발달한다는 기존 모델과 달리, 전뇌/중뇌와 후뇌가 서로 다른 전구세포에서 시작해 독립적인 발달 경로를 따르는 것으로 나타남 생쥐 배아에서 Otx2를 발현하는 전구세포는 전뇌/중뇌로, Gbx2를 발현하는 전구세포...",
-    "pubDate": "2026-09-19T09:42:20.000Z",
-    "collectedAt": "2026-09-19T10:14:29.593Z"
-  },
-  {
-    "id": "https://www.aitimes.com/news/articleView.html?idxno=215480",
-    "category": "ai",
-    "source": "AI타임스 AI산업",
-    "title": "앤트로픽, AI 안전 평가 기관으로 액센추어 선정…독립성 논란 확대",
-    "link": "https://www.aitimes.com/news/articleView.html?idxno=215480",
-    "summary": "앤트로픽이 최첨단 모델의 안전성을 검증할 첫 번째 '내부 상주형(임베디드) 평가 기관'으로 기술 컨설팅 기업 액센추어를 선정했다. 이번 조치는 다리오 아모데이 앤트로픽 CEO가 제시한 AI 개발 속도 조절안을 실행하기 위한 첫 단계이지만, 평가 자금의 직접 지급 방식과 평가 기구의 객관…",
-    "pubDate": "2026-09-19T09:38:43.000Z",
-    "collectedAt": "2026-09-19T02:14:25.456Z"
-  },
-  {
-    "id": "https://www.hankyung.com/article/202609195320i",
-    "category": "economy",
-    "source": "한국경제 경제",
-    "title": "\"우리 둘만의 비밀을\"…잔나비 초근접 공연에 잠실이 '뭉클' [2026청춘커피페스티벌]",
-    "link": "https://www.hankyung.com/article/202609195320i",
-    "summary": "",
-    "pubDate": "2026-09-19T09:07:58.000Z",
-    "collectedAt": "2026-09-19T10:14:29.593Z"
-  },
-  {
-    "id": "https://www.hankyung.com/article/202609195243i",
-    "category": "economy",
-    "source": "한국경제 경제",
-    "title": "헤드폰 쓰고 100명이 '멍'…커피 축제 한복판에서 '싱잉볼 명상' [2026청춘커피페스티벌]",
-    "link": "https://www.hankyung.com/article/202609195243i",
-    "summary": "",
-    "pubDate": "2026-09-19T09:04:53.000Z",
-    "collectedAt": "2026-09-19T10:14:29.593Z"
-  },
-  {
-    "id": "https://www.hankyung.com/article/202609195303i",
-    "category": "economy",
-    "source": "한국경제 경제",
-    "title": "'건물 사이에 피어난 장미' 울려 퍼지자…잠실 달군 하이키 [2026청춘커피페스티벌]",
-    "link": "https://www.hankyung.com/article/202609195303i",
-    "summary": "",
-    "pubDate": "2026-09-19T09:00:53.000Z",
-    "collectedAt": "2026-09-19T10:14:29.593Z"
-  },
-  {
-    "id": "https://news.hada.io/topic?id=33934",
-    "category": "it",
-    "source": "긱뉴스",
-    "title": "샌프란시스코 양파 선물 회사",
-    "link": "https://news.hada.io/topic?id=33934",
-    "summary": "노란 양파를 미래에 실물 인도하는 계약을 개인 구매자에게 사적으로 판매하며, 계약은 다른 사람에게 양도할 수 있음 최대 6개월 뒤 인도분까지 판매하며, 가격은 양파 1개당 3~12달러임 회사는 미국법의 양파 미래 인도 계약 금지가 거...",
-    "pubDate": "2026-09-19T08:32:20.000Z",
-    "collectedAt": "2026-09-19T10:14:29.593Z"
-  },
-  {
-    "id": "https://www.hankyung.com/article/202609195297i",
-    "category": "economy",
-    "source": "한국경제 경제",
-    "title": "땡볕에 1200명 줄세웠다…커피팬 홀린 '곰돌이' 정체 [2026청춘커피페스티벌]",
-    "link": "https://www.hankyung.com/article/202609195297i",
-    "summary": "",
-    "pubDate": "2026-09-19T08:01:33.000Z",
-    "collectedAt": "2026-09-19T08:16:06.552Z"
-  },
-  {
-    "id": "https://www.hankyung.com/article/202609195284i",
-    "category": "economy",
-    "source": "한국경제 경제",
-    "title": "“편의점 커피 맞아?”…2030 줄세운 CU '겟 커피' 뭐길래 [2026 청춘커피페스티벌]",
-    "link": "https://www.hankyung.com/article/202609195284i",
-    "summary": "",
-    "pubDate": "2026-09-19T07:45:57.000Z",
-    "collectedAt": "2026-09-19T08:16:06.552Z"
-  },
-  {
-    "id": "https://www.hankyung.com/article/202609195166i",
-    "category": "economy",
-    "source": "한국경제 경제",
-    "title": "“인스타 팔로우만 해도 경품이 쏟아진다”…500명 몰린 잠실 이곳은 어디 [2026청춘커피페스티벌]",
-    "link": "https://www.hankyung.com/article/202609195166i",
-    "summary": "",
-    "pubDate": "2026-09-19T07:40:36.000Z",
-    "collectedAt": "2026-09-19T08:16:06.552Z"
-  },
-  {
-    "id": "https://news.hada.io/topic?id=33933",
-    "category": "it",
-    "source": "긱뉴스",
-    "title": "Show GN: 발품 - 발품 팔아서 스크린 타임 벌어요",
-    "link": "https://news.hada.io/topic?id=33933",
-    "summary": "애플워치를 쓰고 있는지는 벌써 몇 년이 되었어요. 처음에는 모두 새롭고 신기했습니다. 이렇게 정확하고 체계적으로 걸음수, 심박수, 운동시간 기록해주다니! 그런데 링을 못 채운다고 무슨 일이 일어나진 않다 보니, 애플워치를 찬다고 무슨 일이 일어나지 않더라고요 🥲 움직이기 싫어하고 밖에…",
-    "pubDate": "2026-09-19T07:09:21.000Z",
-    "collectedAt": "2026-09-19T08:16:06.552Z"
-  },
-  {
-    "id": "https://www.hankyung.com/article/202609195215i",
-    "category": "economy",
-    "source": "한국경제 경제",
-    "title": "“커피 마시려고 1시간 줄섰다” … 세븐일레븐 앞 '북적' [2026청춘커피페스티벌]",
-    "link": "https://www.hankyung.com/article/202609195215i",
-    "summary": "",
-    "pubDate": "2026-09-19T07:00:03.000Z",
-    "collectedAt": "2026-09-19T08:16:06.552Z"
-  },
-  {
-    "id": "https://www.hankyung.com/article/202609195051i",
-    "category": "economy",
-    "source": "한국경제 경제",
-    "title": "보석 대신 에나멜·모래…명품이 '값싼 소재'에 꽂힌 이유 [안혜원의 명품의세계]",
-    "link": "https://www.hankyung.com/article/202609195051i",
-    "summary": "",
-    "pubDate": "2026-09-19T07:00:01.000Z",
-    "collectedAt": "2026-09-19T08:16:06.552Z"
-  },
-  {
-    "id": "20260919000014",
-    "category": "economy",
-    "source": "전자신문 경제",
-    "title": "동국대 법과대학, 디지털자산센터 설립",
-    "link": "https://www.etnews.com/20260919000014",
-    "summary": "동국대 법과대학(학장 임규철)은 디지털자산을 둘러싼 법·제도 및 정책 연구를 체계적으로 수행하고 산학협력을 확대하기 위해 법과대학 디지털자산센터를 설립하고, 동국대 법무대학원 디지털자산법무전공 책임교수인 권세준 교수를 지난 9월 1일자로 초대 센터장으로 위촉했다. 동국대 법과대학 디지털…",
-    "pubDate": "2026-09-19T06:48:27.000Z",
-    "collectedAt": "2026-09-19T08:16:06.552Z"
-  },
-  {
-    "id": "https://www.hankyung.com/article/202609195239i",
-    "category": "economy",
-    "source": "한국경제 경제",
-    "title": "\"빵이랑 찰떡이네\"… 파리바게뜨 부스에 관람객 몰린 이유 [2026청춘커피페스티벌]",
-    "link": "https://www.hankyung.com/article/202609195239i",
-    "summary": "",
-    "pubDate": "2026-09-19T06:22:10.000Z",
-    "collectedAt": "2026-09-19T08:16:06.552Z"
-  },
-  {
-    "id": "https://www.hankyung.com/article/202609195237i",
-    "category": "economy",
-    "source": "한국경제 경제",
-    "title": "북적이는 축제속 고요한 커피머신 작동음…카누가 만든 홈카페 [2026청춘커피페스티벌]",
-    "link": "https://www.hankyung.com/article/202609195237i",
-    "summary": "",
-    "pubDate": "2026-09-19T06:19:34.000Z",
-    "collectedAt": "2026-09-19T08:16:06.552Z"
-  },
-  {
-    "id": "https://www.hankyung.com/article/202609195217i",
-    "category": "economy",
-    "source": "한국경제 경제",
-    "title": "어른들 커피 축제인 줄 알았는데…애들 놀이터가 된 잠실 [2026청춘커피페스티벌]",
-    "link": "https://www.hankyung.com/article/202609195217i",
-    "summary": "",
-    "pubDate": "2026-09-19T06:17:37.000Z",
-    "collectedAt": "2026-09-19T08:16:06.552Z"
-  },
-  {
-    "id": "https://www.aitimes.com/news/articleView.html?idxno=215477",
-    "category": "ai",
-    "source": "AI타임스 AI산업",
-    "title": "오픈AI, 앤트로픽 '클로드'에 뚫렸다...핵심 코드 저장소까지 노출",
-    "link": "https://www.aitimes.com/news/articleView.html?idxno=215477",
-    "summary": "독립 보안 연구진이 앤트로픽의 '클로드'를 활용해 오픈AI 직원의 계정에 침입하고 비공개 코드 저장소에 접근한 사건이 발생했다.월스트리트저널은 17일(현지시간) 보안 전문 기업 해크트론 AI(Hacktron AI) 소속 연구진 3명이 앤트로픽의 클로드를 이용해 오픈AI의 내부 소프트웨어…",
-    "pubDate": "2026-09-19T06:16:26.000Z",
-    "collectedAt": "2026-09-18T22:14:18.851Z"
   }
 ]
