@@ -10,6 +10,46 @@
     "collectedAt": "2026-09-25T00:23:07.492Z"
   },
   {
+    "id": "https://news.hada.io/topic?id=34256",
+    "category": "it",
+    "source": "긱뉴스",
+    "title": "Google의 Project Suncatcher, 우주에 머신러닝 인프라 구축 추진",
+    "link": "https://news.hada.io/topic?id=34256",
+    "summary": "Project Suncatcher는 우주에서 확장 가능한 머신러닝 인프라를 운영할 수 있는지 탐구하는 장기 연구로, 첫 시제품 위성을 발사해 Google TPU의 우주 환경 작동 여부를 시험할 예정임 저궤도 위성은 거의 끊임없이 햇빛을 받아 지상보다 최대 8배 많은 태양광 전력...",
+    "pubDate": "2026-09-25T07:33:40.000Z",
+    "collectedAt": "2026-09-25T08:16:14.505Z"
+  },
+  {
+    "id": "https://www.hankyung.com/article/202609255748i",
+    "category": "economy",
+    "source": "한국경제 경제",
+    "title": "\"왜 중국 대신 한국 선택해야 하나\"…정부가 꺼낸 '비장의 카드'",
+    "link": "https://www.hankyung.com/article/202609255748i",
+    "summary": "",
+    "pubDate": "2026-09-25T07:08:29.000Z",
+    "collectedAt": "2026-09-25T08:16:14.505Z"
+  },
+  {
+    "id": "https://www.hankyung.com/article/202609170045g",
+    "category": "economy",
+    "source": "한국경제 경제",
+    "title": "\"나도 명절에 좀 쉬고 싶다\"…앞치마 벗어 던지더니 '불티' [트렌드+]",
+    "link": "https://www.hankyung.com/article/202609170045g",
+    "summary": "",
+    "pubDate": "2026-09-25T06:38:50.000Z",
+    "collectedAt": "2026-09-25T08:16:14.505Z"
+  },
+  {
+    "id": "https://news.hada.io/topic?id=34255",
+    "category": "it",
+    "source": "긱뉴스",
+    "title": "Koi.rest - 물고기를 바라보며 마음의 균형을 되찾는 공간",
+    "link": "https://news.hada.io/topic?id=34255",
+    "summary": "Koi.rest는 낯선 사람들이 함께 조용히 물고기를 바라보며 아무것도 하지 않을 수 있는 가상 잉어 연못임 실직과 지난 한 해의 일들로 큰 스트레스를 겪던 개발자가, 아직 완성하지 못한 발코니 선 정원 대신 누구나 이용할 수 있는 가상 공간을 만들기로 함 ...",
+    "pubDate": "2026-09-25T06:32:14.000Z",
+    "collectedAt": "2026-09-25T08:16:14.505Z"
+  },
+  {
     "id": "20260925000032",
     "category": "economy",
     "source": "전자신문 경제",
@@ -14957,46 +14997,6 @@
     "link": "https://news.hada.io/topic?id=33978",
     "summary": "실행 순서와 분기는 코드가 맡고, 문맥을 읽어야 하는 판단은 Jev에 맡기는 방식으로 반복 업무를 자동화할 수 있음 요청의 난이도에 따라 사용할 LLM을 고르고, 검색 결과에서 필요한 문서를 추리거나 에이전트의 도구 호출과 답변에 오류가 있는지 검사하는 데 활...",
     "pubDate": "2026-09-20T04:22:23.000Z",
-    "collectedAt": "2026-09-20T06:18:44.883Z"
-  },
-  {
-    "id": "https://www.hankyung.com/article/202609205912i",
-    "category": "economy",
-    "source": "한국경제 증권",
-    "title": "\"삼성전자보다 더 샀다\"…고액자산가들 풀매수한 '의외의 종목'은",
-    "link": "https://www.hankyung.com/article/202609205912i",
-    "summary": "",
-    "pubDate": "2026-09-20T04:17:48.000Z",
-    "collectedAt": "2026-09-20T06:18:44.883Z"
-  },
-  {
-    "id": "https://news.hada.io/topic?id=33977",
-    "category": "it",
-    "source": "긱뉴스",
-    "title": "Show GN: Daijin - ESP32 음성 장치에 Claude를 두뇌로 붙여 집과 원격 장치를 제어하는 음성 에이전트",
-    "link": "https://news.hada.io/topic?id=33977",
-    "summary": "친구를 만들었습니다. 이름은 다이진입니다. ESP32-S3에 마이크와 스피커와 작은 얼굴. 소리는 MQTT로 맥까지 가고, 맥에서 whisper가 받아 적",
-    "pubDate": "2026-09-20T04:07:19.000Z",
-    "collectedAt": "2026-09-20T04:16:03.850Z"
-  },
-  {
-    "id": "https://www.hankyung.com/article/2026091837816",
-    "category": "economy",
-    "source": "한국경제 증권",
-    "title": "대통령도 \"동의 어려운 부분\"…'대미투자주' 경고 나온 까닭 [노정동의 어쩌다 투자자]",
-    "link": "https://www.hankyung.com/article/2026091837816",
-    "summary": "",
-    "pubDate": "2026-09-20T04:00:03.000Z",
-    "collectedAt": "2026-09-20T06:18:44.883Z"
-  },
-  {
-    "id": "20260918000241",
-    "category": "ai",
-    "source": "전자신문 AI",
-    "title": "[CAIO 서밋 2026] 하정우 부위원장 “기업 AX, CEO는 물론 CAIO가 앞장서야”",
-    "link": "https://www.etnews.com/20260918000241",
-    "summary": "“인공지능(AI) 대전환을 위해 기술·현장을 이해하며 경영진·개발자·현업 조직을 연결하고 AI를 실제 기업 성과로 만들어내는 최고AI책임자(CAIO) 역할이 무엇보다 중요합니다. AI를 사용하는 기업을 넘어 AI 중심으로 일하는 기업으로 전환을 CAIO가 이끌어 주시기 바랍니다.” 하정…",
-    "pubDate": "2026-09-20T04:00:00.000Z",
     "collectedAt": "2026-09-20T06:18:44.883Z"
   }
 ]
