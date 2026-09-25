@@ -1,5 +1,55 @@
 [
   {
+    "id": "https://www.aitimes.com/news/articleView.html?idxno=215650",
+    "category": "ai",
+    "source": "AI타임스 AI산업",
+    "title": "오픈AI, 신규 개발자 플랫폼·요금제 준비...앱 개발 전 과정 지원",
+    "link": "https://www.aitimes.com/news/articleView.html?idxno=215650",
+    "summary": "오픈AI가 개발자 생태계 확장을 위한 플랫폼 개편에 나선 것으로 알려졌다. 단순히 AI 모델을 API로 제공하는 것을 넘어, 아이디어 구상부터 프로토타입 제작, 실제 서비스 운영까지 애플리케이션 개발 전 과정을 지원하는 방향으로 플랫폼의 역할을 확대하려는 움직임이다.23일(현지시간) 테…",
+    "pubDate": "2026-09-25T20:38:20.000Z",
+    "collectedAt": "2026-09-25T12:19:44.057Z"
+  },
+  {
+    "id": "https://www.aitimes.com/news/articleView.html?idxno=215651",
+    "category": "ai",
+    "source": "AI타임스 AI산업",
+    "title": "구글·오픈AI·앤트로픽, 자율 규제기구 'SAFA' 연내 출범 추진",
+    "link": "https://www.aitimes.com/news/articleView.html?idxno=215651",
+    "summary": "구글과 오픈AI, 앤트로픽이 정부의 직접적인 감독 없이 최첨단 AI 모델의 안전 기준을 마련하는 업계 자율 규제기구 설립을 추진 중이다.24일(현지시간) 디 인포메이션에 따르면, 세 회사는 ‘프런티어 AI 표준기구(SAFA·Standards Authority for Frontier AI…",
+    "pubDate": "2026-09-25T20:12:52.000Z",
+    "collectedAt": "2026-09-25T12:19:44.057Z"
+  },
+  {
+    "id": "https://www.aitimes.com/news/articleView.html?idxno=215649",
+    "category": "ai",
+    "source": "AI타임스 AI산업",
+    "title": "앤트로픽, 거부된 클로드 요청도 과금…‘모델 증류 공격’ 방어선 구축",
+    "link": "https://www.aitimes.com/news/articleView.html?idxno=215649",
+    "summary": "앤트로픽이 안전장치를 우회해 AI 모델의 지식이나 능력을 복제하려는 ‘모델 증류 공격’에 대응하기 위해, 안전장치에 의해 차단된 일부 요청에도 요금을 부과하기로 했다. 대규모 반복 요청을 통한 증류 시도를 억제하기 위한 방어 조치다.앤트로픽은 24일(현지시간)부터 '클로드'가 응답하기…",
+    "pubDate": "2026-09-25T19:53:13.000Z",
+    "collectedAt": "2026-09-25T12:19:44.057Z"
+  },
+  {
+    "id": "https://news.hada.io/topic?id=34262",
+    "category": "it",
+    "source": "긱뉴스",
+    "title": "네덜란드 정부, NixOS 기반 Microsoft 대안 구축",
+    "link": "https://news.hada.io/topic?id=34262",
+    "summary": "DAWO는 정부, 산업계, 사회가 함께 네덜란드 정부를 위한 디지털 자율적 업무 환경을 구축하는 개방형 커뮤니티임 단일 제품이 아니라 서로 연동하는 교체 가능한 구성 요소로 업무 환경을 만들며, 각 요소를 검사하고 교체할 수 있음 운영체제 영역에서는...",
+    "pubDate": "2026-09-25T10:45:51.000Z",
+    "collectedAt": "2026-09-25T12:19:44.057Z"
+  },
+  {
+    "id": "https://www.hankyung.com/article/202609183281g",
+    "category": "it",
+    "source": "한국경제 IT",
+    "title": "\"출근할 때 아침 안 먹었는데\"…SNS서 난리 난 '킹모닝' 정체 [키워드랩]",
+    "link": "https://www.hankyung.com/article/202609183281g",
+    "summary": "",
+    "pubDate": "2026-09-25T10:39:03.000Z",
+    "collectedAt": "2026-09-25T12:19:44.057Z"
+  },
+  {
     "id": "https://news.hada.io/topic?id=34261",
     "category": "it",
     "source": "긱뉴스",
@@ -14947,56 +14997,6 @@
     "link": "https://www.etnews.com/20260920000087",
     "summary": "기술보증기금이 충청북도, 신한은행과 18일 업무협약을 맺고 지역 첨단산업 기업에 총 1000억원 규모의 협약보증을 공급한다고 밝혔다. 세 기관은 충북 청주시 충청북도청에서 '창업특별도 충북 실현을 위한 에스플러스베이스(S+BASE) 첨단산업 육성 금융지원 업무협약'을 체결하고, 도내 첨…",
     "pubDate": "2026-09-20T05:55:41.000Z",
-    "collectedAt": "2026-09-20T06:18:44.883Z"
-  },
-  {
-    "id": "https://news.hada.io/topic?id=33983",
-    "category": "it",
-    "source": "긱뉴스",
-    "title": "Cache-to-Cache: LLM 간 직접 의미 전달 (2025)",
-    "link": "https://news.hada.io/topic?id=33983",
-    "summary": "Cache-to-Cache(C2C) 는 여러 LLM이 중간 텍스트 대신 KV-Cache를 교환해 각 모델의 의미 정보를 직접 전달하는 통신 방식임 기존 텍스트 기반 통신(T2T) 은 고차원 내부 표현을 문자열로 압축하면서 정보를 잃고, 자연어의 모호성과 토큰 단위 순차 생성 지연을 수.…",
-    "pubDate": "2026-09-20T05:52:25.000Z",
-    "collectedAt": "2026-09-20T06:18:44.883Z"
-  },
-  {
-    "id": "https://news.hada.io/topic?id=33982",
-    "category": "it",
-    "source": "긱뉴스",
-    "title": "기존 벤치마크가 놓치는 워크로드에서의 Btrfs/ZFS/bcachefs",
-    "link": "https://news.hada.io/topic?id=33982",
-    "summary": "modern-fs-benchmark는 순차 처리량뿐 아니라 쓰기 부하 중 응답성, 스냅샷 누적, 공간 회수, 복제 후 덮어쓰기, 장치 장애와 데이터 손상을 함께 측정함 공유 임시 VM의 루프 장치에서 실행하므로 절대 MiB/s보다 패턴과 비율을 비교해야 하며, 워크로드와 종합 지...",
-    "pubDate": "2026-09-20T05:52:24.000Z",
-    "collectedAt": "2026-09-20T06:18:44.883Z"
-  },
-  {
-    "id": "https://www.hankyung.com/article/202609206070i",
-    "category": "economy",
-    "source": "한국경제 경제",
-    "title": "커피만 있는 게 아니네…잠실 달군 '완벽한 블렌딩' 축제 [2026청춘커피페스티벌]",
-    "link": "https://www.hankyung.com/article/202609206070i",
-    "summary": "",
-    "pubDate": "2026-09-20T05:50:52.000Z",
-    "collectedAt": "2026-09-20T06:18:44.883Z"
-  },
-  {
-    "id": "https://www.hankyung.com/article/202609206073i",
-    "category": "economy",
-    "source": "한국경제 경제",
-    "title": "[2026 청춘 커피 페스티벌 포토] 축제 열기 끌어올린 하이키…남다른 무대 장악력",
-    "link": "https://www.hankyung.com/article/202609206073i",
-    "summary": "",
-    "pubDate": "2026-09-20T05:43:53.000Z",
-    "collectedAt": "2026-09-20T06:18:44.883Z"
-  },
-  {
-    "id": "https://news.hada.io/topic?id=33981",
-    "category": "it",
-    "source": "긱뉴스",
-    "title": "Apple M6 Pro, Geekbench 7에서 최고 싱글코어 CPU 점수 달성",
-    "link": "https://news.hada.io/topic?id=33981",
-    "summary": "Apple M6 Pro가 탑재된 Mac18,6의 Geekbench 7 결과는 싱글코어 4,150점, 멀티코어 37,565점임 CPU는 18코어 구성이며, 기본 주파수는 4.78GHz로 등록됨 코어 클러스터는 6코어와 12코어로 나뉘며, 시...",
-    "pubDate": "2026-09-20T05:42:24.000Z",
     "collectedAt": "2026-09-20T06:18:44.883Z"
   }
 ]
