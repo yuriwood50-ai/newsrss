@@ -1,5 +1,85 @@
 [
   {
+    "id": "https://news.hada.io/topic?id=34261",
+    "category": "it",
+    "source": "긱뉴스",
+    "title": "Show GN: 맥에서 분해된 자소를 결합. 실시간 폴더 감시, 자동 변환 (윈도우 앱스토어)",
+    "link": "https://news.hada.io/topic?id=34261",
+    "summary": "요샌 맥을 사용하는 비율도 높아져서 저희 사무실에는 맥과 윈도우가 혼용되고 있습니다. 저는 윈도우를 사용하는데 맥에서 편집한 파일들을 받으면 자소가 분리돼 있어 귀찮았습니다. 드래그 앤 드롭으로 해결되는 프로그램이 있긴 하지만 그조차 귀찮은 게 사실이죠. 커맨드라인은 쉽지만 귀찮",
+    "pubDate": "2026-09-25T09:52:13.000Z",
+    "collectedAt": "2026-09-25T10:15:33.265Z"
+  },
+  {
+    "id": "https://news.hada.io/topic?id=34260",
+    "category": "it",
+    "source": "긱뉴스",
+    "title": "크레아틴 흡수가 항종양 면역을 강화함",
+    "link": "https://news.hada.io/topic?id=34260",
+    "summary": "크레아틴 흡수가 항종양 면역을 강화함",
+    "pubDate": "2026-09-25T09:33:21.000Z",
+    "collectedAt": "2026-09-25T10:15:33.265Z"
+  },
+  {
+    "id": "https://www.hankyung.com/article/202609218061i",
+    "category": "economy",
+    "source": "한국경제 경제",
+    "title": "\"2명이서 3분이면 충분\"…대형 박물관도 속수무책 당했다",
+    "link": "https://www.hankyung.com/article/202609218061i",
+    "summary": "",
+    "pubDate": "2026-09-25T09:24:25.000Z",
+    "collectedAt": "2026-09-25T10:15:33.265Z"
+  },
+  {
+    "id": "https://www.hankyung.com/article/2026092331506",
+    "category": "economy",
+    "source": "한국경제 증권",
+    "title": "호재인 줄 알았는데 주가 '와르르'…\"진짜는 뭐냐\" 개미 촉각  [종목+]",
+    "link": "https://www.hankyung.com/article/2026092331506",
+    "summary": "",
+    "pubDate": "2026-09-25T09:15:15.000Z",
+    "collectedAt": "2026-09-25T10:15:33.265Z"
+  },
+  {
+    "id": "https://www.hankyung.com/article/2026092559667",
+    "category": "economy",
+    "source": "한국경제 증권",
+    "title": "시총 기준 강화로 코스닥서 8개 종목 퇴출…추가 상폐 우려도",
+    "link": "https://www.hankyung.com/article/2026092559667",
+    "summary": "",
+    "pubDate": "2026-09-25T08:43:18.000Z",
+    "collectedAt": "2026-09-25T10:15:33.265Z"
+  },
+  {
+    "id": "https://news.hada.io/topic?id=34259",
+    "category": "it",
+    "source": "긱뉴스",
+    "title": "Google에 작별을 고하며",
+    "link": "https://news.hada.io/topic?id=34259",
+    "summary": "Google에서 칩 설계 도구를 개발하던 Robert O'Callahan이 AI 발전을 가속하는 일에 대한 우려로 퇴사를 결정함. AI의 발전 속도가 사람들이 이해하고 적응할 수 있는 수준을 이미 크게 넘어섰다고 판단함 직접 AI 모델을 개발하지 않더라도 칩 설계 도구 개선은 A...",
+    "pubDate": "2026-09-25T08:34:09.000Z",
+    "collectedAt": "2026-09-25T10:15:33.265Z"
+  },
+  {
+    "id": "20260925000038",
+    "category": "ai",
+    "source": "전자신문 AI",
+    "title": "'클로드' 국내 AI 앱 2위 굳히기…1위는 챗GPT",
+    "link": "https://www.etnews.com/20260925000038",
+    "summary": "앤트로픽의 생성형 인공지능(AI) 서비스 '클로드'가 국내 모바일 AI 앱 시장에서 월간 사용자 수와 신규 설치 수 모두 챗GPT에 이어 2위 자리를 굳혔다. 25일 AI 테크기업 아이지에이웍스의 모바일인덱스에 따르면 지난달 안드로이드와 iOS를 합산한 국내 AI·인공지능 앱 월간 사용…",
+    "pubDate": "2026-09-25T08:33:09.000Z",
+    "collectedAt": "2026-09-25T10:15:33.265Z"
+  },
+  {
+    "id": "https://www.hankyung.com/article/202609221899i",
+    "category": "economy",
+    "source": "한국경제 증권",
+    "title": "\"한국보다 미국 주식 사겠다\"…펀드매니저들 3개월 만에 돌아섰다",
+    "link": "https://www.hankyung.com/article/202609221899i",
+    "summary": "",
+    "pubDate": "2026-09-25T08:00:42.000Z",
+    "collectedAt": "2026-09-25T10:15:33.265Z"
+  },
+  {
     "id": "https://www.aitimes.com/news/articleView.html?idxno=215648",
     "category": "ai",
     "source": "AI타임스 AI산업",
@@ -14917,86 +14997,6 @@
     "link": "https://news.hada.io/topic?id=33981",
     "summary": "Apple M6 Pro가 탑재된 Mac18,6의 Geekbench 7 결과는 싱글코어 4,150점, 멀티코어 37,565점임 CPU는 18코어 구성이며, 기본 주파수는 4.78GHz로 등록됨 코어 클러스터는 6코어와 12코어로 나뉘며, 시...",
     "pubDate": "2026-09-20T05:42:24.000Z",
-    "collectedAt": "2026-09-20T06:18:44.883Z"
-  },
-  {
-    "id": "https://www.hankyung.com/article/202609205724i",
-    "category": "economy",
-    "source": "한국경제 경제",
-    "title": "[단독] '美 월가 억만장자' 드러켄밀러 첫 방한…삼성·SK·두산과 투자 논의",
-    "link": "https://www.hankyung.com/article/202609205724i",
-    "summary": "",
-    "pubDate": "2026-09-20T05:00:05.000Z",
-    "collectedAt": "2026-09-20T06:18:44.883Z"
-  },
-  {
-    "id": "https://www.hankyung.com/article/202609205938i",
-    "category": "economy",
-    "source": "한국경제 경제",
-    "title": "[단독] 85억 빌려주더니…대표 사생활 약점잡아 회사 '꿀꺽'",
-    "link": "https://www.hankyung.com/article/202609205938i",
-    "summary": "",
-    "pubDate": "2026-09-20T05:00:01.000Z",
-    "collectedAt": "2026-09-20T06:18:44.883Z"
-  },
-  {
-    "id": "20260918000041",
-    "category": "economy",
-    "source": "전자신문 경제",
-    "title": "생명보험 빅3, '종신·건강·퇴직연금' 각기 다른 승부수",
-    "link": "https://www.etnews.com/20260918000041",
-    "summary": "올해 생명보험 빅3(삼성·한화·교보생명) 판매 전략이 엇갈린 것으로 나타났다. 새 국제회계기준(IFRS17) 도입 이후 수익성과 영업 경쟁력을 고려해 각사가 주력 상품을 달리 가져가면서 영업지표에서 차이가 뚜렷하게 드러나는 모습이다. 생명보험협회 통계에 따르면 올해 상반기 삼성생명 사망…",
-    "pubDate": "2026-09-20T05:00:00.000Z",
-    "collectedAt": "2026-09-20T06:18:44.883Z"
-  },
-  {
-    "id": "https://www.hankyung.com/article/202609206037i",
-    "category": "economy",
-    "source": "한국경제 경제",
-    "title": "[2026 청춘 커피 페스티벌 포토] 잔나비 목소리에 물든 잠실",
-    "link": "https://www.hankyung.com/article/202609206037i",
-    "summary": "",
-    "pubDate": "2026-09-20T04:55:51.000Z",
-    "collectedAt": "2026-09-20T06:18:44.883Z"
-  },
-  {
-    "id": "https://www.hankyung.com/article/2026092060057",
-    "category": "economy",
-    "source": "한국경제 증권",
-    "title": "美주식 팔아치우더니…돌아온 서학개미 '1.5조 순매수' 돌변",
-    "link": "https://www.hankyung.com/article/2026092060057",
-    "summary": "",
-    "pubDate": "2026-09-20T04:42:08.000Z",
-    "collectedAt": "2026-09-20T06:18:44.883Z"
-  },
-  {
-    "id": "https://www.hankyung.com/article/202609206021i",
-    "category": "economy",
-    "source": "한국경제 경제",
-    "title": "혼인 세액공제 폐지 소식에 '울상'…알고 보니 더 이득?",
-    "link": "https://www.hankyung.com/article/202609206021i",
-    "summary": "",
-    "pubDate": "2026-09-20T04:39:23.000Z",
-    "collectedAt": "2026-09-20T06:18:44.883Z"
-  },
-  {
-    "id": "https://news.hada.io/topic?id=33979",
-    "category": "it",
-    "source": "긱뉴스",
-    "title": "인터넷 검열 측정하기",
-    "link": "https://news.hada.io/topic?id=33979",
-    "summary": "OONI Probe로 자국에서 차단된 웹사이트를 확인하고, 세계 최대의 인터넷 검열 공개 데이터셋에 기여할 수 있음 WhatsApp, Facebook Messenger, Telegram의 차단 여부와 네트워크에서 검열 우회 도구가 작동하는지 테스트할 수 있음 M-Lab",
-    "pubDate": "2026-09-20T04:32:23.000Z",
-    "collectedAt": "2026-09-20T06:18:44.883Z"
-  },
-  {
-    "id": "https://news.hada.io/topic?id=33978",
-    "category": "it",
-    "source": "긱뉴스",
-    "title": "Jev 활용 가이드 - 빠른 AI 판단을 어디에 쓸 수 있을까?",
-    "link": "https://news.hada.io/topic?id=33978",
-    "summary": "실행 순서와 분기는 코드가 맡고, 문맥을 읽어야 하는 판단은 Jev에 맡기는 방식으로 반복 업무를 자동화할 수 있음 요청의 난이도에 따라 사용할 LLM을 고르고, 검색 결과에서 필요한 문서를 추리거나 에이전트의 도구 호출과 답변에 오류가 있는지 검사하는 데 활...",
-    "pubDate": "2026-09-20T04:22:23.000Z",
     "collectedAt": "2026-09-20T06:18:44.883Z"
   }
 ]
