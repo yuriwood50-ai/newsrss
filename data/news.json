@@ -1,5 +1,235 @@
 [
   {
+    "id": "https://www.aitimes.com/news/articleView.html?idxno=215694",
+    "category": "ai",
+    "source": "AI타임스 AI산업",
+    "title": "트럼프, 아모데이와 백악관 첫 일대일 만찬 개최",
+    "link": "https://www.aitimes.com/news/articleView.html?idxno=215694",
+    "summary": "도널드 트럼프 미국 대통령이 다리오 아모데이 앤트로픽 CEO를 백악관으로 초청해 비공개 만찬을 가진다.악시오스는 27일(현지시간) 트럼프 대통령이 이날 저녁 백악관에서 아모데이 CEO와 만난다고 보도했다. 이는 백악관이 주요 AI 기업 수장들을 소집해 개최할 예정인 회의를 앞두고 이뤄진…",
+    "pubDate": "2026-09-28T06:15:40.000Z",
+    "collectedAt": "2026-09-27T22:55:22.167Z"
+  },
+  {
+    "id": "https://news.hada.io/topic?id=34388",
+    "category": "it",
+    "source": "긱뉴스",
+    "title": "브라질, 온라인 베팅 금지",
+    "link": "https://news.hada.io/topic?id=34388",
+    "summary": "브라질 대통령 Luiz Inacio Lula da Silva가 온라인 베팅 영업을 금지하는 행정명령을 발표함. 즉시 발효되지만 효력을 유지하려면 120일 이내 의회 승인이 필요함 이용자는 10월 5일까지 잔액을 반환받을 수 있으며, 앱스토어와 네트워크 제공업...",
+    "pubDate": "2026-09-27T22:45:59.000Z",
+    "collectedAt": "2026-09-27T22:55:22.167Z"
+  },
+  {
+    "id": "https://news.hada.io/topic?id=34387",
+    "category": "it",
+    "source": "긱뉴스",
+    "title": "fakecloud - 통합 테스트를 위한 로컬 AWS 클라우드 에뮬레이터",
+    "link": "https://news.hada.io/topic?id=34387",
+    "summary": "fakecloud는 기존 AWS SDK, CLI, IaC 도구를 그대로 사용하면서 애플리케이션과 AWS 서비스 간 동작을 로컬에서 테스트하는 환경임 애플리케이션은 일반 AWS API를 호출하고, 테스트는 전용 SDK로 이메일, 메시지, Lambda 호출 결과를 검사하거나 비동기 처리를…",
+    "pubDate": "2026-09-27T22:42:59.000Z",
+    "collectedAt": "2026-09-27T22:55:22.167Z"
+  },
+  {
+    "id": "https://news.hada.io/topic?id=34386",
+    "category": "it",
+    "source": "긱뉴스",
+    "title": "토성의 얼음 위성에서 생명체 존재 가능성에 관한 유망한 발견",
+    "link": "https://news.hada.io/topic?id=34386",
+    "summary": "Enceladus의 바다가 기존 예상보다 생명체에 적합할 수 있으며, 생명체가 있다면 그 흔적을 더 쉽게 찾을 수 있다는 두 연구가 Science Advances에 발표됨 바다에서 우주로 분출되는 물방울은 서서히 얼면서 성분이 분리되고, 이후 부서지는 과정...",
+    "pubDate": "2026-09-27T22:39:59.000Z",
+    "collectedAt": "2026-09-27T22:55:22.167Z"
+  },
+  {
+    "id": "https://www.hankyung.com/article/202609288026H",
+    "category": "economy",
+    "source": "한국경제 경제",
+    "title": "\"나는 차면 욕먹지만 장윤정은\"…도경완도 벌벌 떤 시계 정체",
+    "link": "https://www.hankyung.com/article/202609288026H",
+    "summary": "",
+    "pubDate": "2026-09-27T22:14:11.000Z",
+    "collectedAt": "2026-09-27T22:55:22.167Z"
+  },
+  {
+    "id": "https://www.hankyung.com/article/202609277750i",
+    "category": "economy",
+    "source": "한국경제 증권",
+    "title": "연 5% 美 국채·마이크론·외국인…증시 향방 가를 3대 변수",
+    "link": "https://www.hankyung.com/article/202609277750i",
+    "summary": "",
+    "pubDate": "2026-09-27T22:00:05.000Z",
+    "collectedAt": "2026-09-27T22:55:22.167Z"
+  },
+  {
+    "id": "https://www.hankyung.com/article/202609277393i",
+    "category": "economy",
+    "source": "한국경제 경제",
+    "title": "美는 중국 AI칩 막는데…월가는 中테크 172억달러 조달 [김주완의 글로벌머니 X파일]",
+    "link": "https://www.hankyung.com/article/202609277393i",
+    "summary": "",
+    "pubDate": "2026-09-27T22:00:02.000Z",
+    "collectedAt": "2026-09-27T22:55:22.167Z"
+  },
+  {
+    "id": "https://www.hankyung.com/article/2026092880047",
+    "category": "economy",
+    "source": "한국경제 경제",
+    "title": "보험료는 꼬박꼬박 받아가더니…\"계약자에 '5억' 안 줬다\"",
+    "link": "https://www.hankyung.com/article/2026092880047",
+    "summary": "",
+    "pubDate": "2026-09-27T21:46:02.000Z",
+    "collectedAt": "2026-09-27T22:55:22.167Z"
+  },
+  {
+    "id": "https://news.hada.io/topic?id=34385",
+    "category": "it",
+    "source": "긱뉴스",
+    "title": "Lofi Cities - 픽셀 아트 도시의 밤과 브라우저에서 생성하는 로파이 음악",
+    "link": "https://news.hada.io/topic?id=34385",
+    "summary": "Lofi Cities는 도시의 픽셀 아트 야경과 브라우저에서 실시간 생성하는 끝없는 로파이 음악을 결합한 무료 웹앱임 Web Audio API로 코드, 드럼, 베이스, 멜로디를 합성하며, 샘플이나 녹음 없이 매번 새로운 곡을 만듦 16개 도시의 480×270 애니메...",
+    "pubDate": "2026-09-27T21:45:38.000Z",
+    "collectedAt": "2026-09-27T22:55:22.167Z"
+  },
+  {
+    "id": "https://news.hada.io/topic?id=34384",
+    "category": "it",
+    "source": "긱뉴스",
+    "title": "“언어 모델로서”: 채팅 템플릿이 LLM의 자기 언급 말투를 전환함",
+    "link": "https://news.hada.io/topic?id=34384",
+    "summary": "채팅 템플릿은 LLM이 자신에 대해 답하는 말투를 바꿈. 실험한 8개 지시 튜닝 모델 모두에서 템플릿을 적용하면 “저는 AI일 뿐입니다” 같은 한계 고지형 응답이 늘고, “저는 느낍니다” 같은 경험 서술형 응답은 줄어듦 템플릿을 제거하자 한계 고지형 응답 비율은 53%에...",
+    "pubDate": "2026-09-27T21:42:38.000Z",
+    "collectedAt": "2026-09-27T22:55:22.167Z"
+  },
+  {
+    "id": "https://news.hada.io/topic?id=34383",
+    "category": "it",
+    "source": "긱뉴스",
+    "title": "Google은 언제부터 이렇게 이상해졌을까?",
+    "link": "https://news.hada.io/topic?id=34383",
+    "summary": "오래된 농구 팬 밈을 찾으려던 Google 검색에, Dario라는 남자에게 거절당한 사람을 위로하는 듯한 AI Overview가 나타남 검색어 hes never coming over dario는 Dario Saric의 미국 합류를 기다리던 Philadelphia 76ers 팬들의 농담.…",
+    "pubDate": "2026-09-27T21:39:38.000Z",
+    "collectedAt": "2026-09-27T22:55:22.167Z"
+  },
+  {
+    "id": "https://www.hankyung.com/article/2026092879917",
+    "category": "economy",
+    "source": "한국경제 경제",
+    "title": "미국서 '싼타페' 인기 폭발하더니…22년 만에 '깜짝 결과'",
+    "link": "https://www.hankyung.com/article/2026092879917",
+    "summary": "",
+    "pubDate": "2026-09-27T21:32:23.000Z",
+    "collectedAt": "2026-09-27T22:55:22.167Z"
+  },
+  {
+    "id": "https://www.hankyung.com/article/2026092337576",
+    "category": "economy",
+    "source": "한국경제 증권",
+    "title": "'예금보다 낫다?' 재테크족 관심 쏠린 곳이…'1000억 완판' [투자톡]",
+    "link": "https://www.hankyung.com/article/2026092337576",
+    "summary": "",
+    "pubDate": "2026-09-27T21:30:08.000Z",
+    "collectedAt": "2026-09-27T22:55:22.167Z"
+  },
+  {
+    "id": "https://www.hankyung.com/article/2026092341396",
+    "category": "economy",
+    "source": "한국경제 증권",
+    "title": "\"정유·석유화학도 '반도체 쏠림' 피해…종전 후에도 공급 부족\" [인터뷰+]",
+    "link": "https://www.hankyung.com/article/2026092341396",
+    "summary": "",
+    "pubDate": "2026-09-27T21:30:06.000Z",
+    "collectedAt": "2026-09-27T22:55:22.167Z"
+  },
+  {
+    "id": "https://www.hankyung.com/article/2026092339216",
+    "category": "economy",
+    "source": "한국경제 증권",
+    "title": "40% 하락에 비명 터졌는데…\"주가 220만원 간다\" 파격 전망",
+    "link": "https://www.hankyung.com/article/2026092339216",
+    "summary": "",
+    "pubDate": "2026-09-27T21:30:03.000Z",
+    "collectedAt": "2026-09-27T22:55:22.167Z"
+  },
+  {
+    "id": "https://news.hada.io/topic?id=34382",
+    "category": "it",
+    "source": "긱뉴스",
+    "title": "충전식 자전거 조명의 오래된 배터리 교체하기",
+    "link": "https://news.hada.io/topic?id=34382",
+    "summary": "10년 전에 산 충전식 자전거 조명이 완충해도 약 5분 만에 꺼졌지만, 배터리를 교체한 뒤 다시 야간 주행에 사용할 수 있게 됨 전자공학 지식이 거의 없는 상태에서 지역 퀴어 메이커스페이스의 인두와 주변 사람들의 도움을 받아 분해, 납땜 제거, 새 배터리 장착...",
+    "pubDate": "2026-09-27T20:38:59.000Z",
+    "collectedAt": "2026-09-27T22:55:22.167Z"
+  },
+  {
+    "id": "https://news.hada.io/topic?id=34381",
+    "category": "it",
+    "source": "긱뉴스",
+    "title": "내 세상을 바꾼 코드 열 줄",
+    "link": "https://news.hada.io/topic?id=34381",
+    "summary": "화면에 인사를 끝없이 출력하는 BASIC 두 줄만으로도, 컴퓨터가 내가 시킨 대로 움직인다는 사실에 눈이 휘둥그레지던 순간이 있었음 실행 중인 명령어를 바꾸는 6502 어셈블리와 게임에 무한 목숨을 주는 POKE는, 프로그램도 들여다보고 직접 바꿀 수...",
+    "pubDate": "2026-09-27T20:35:59.000Z",
+    "collectedAt": "2026-09-27T22:55:22.167Z"
+  },
+  {
+    "id": "https://news.hada.io/topic?id=34380",
+    "category": "it",
+    "source": "긱뉴스",
+    "title": "효율적인 C++ 코드 작성하기(2013)",
+    "link": "https://news.hada.io/topic?id=34380",
+    "summary": "C++를 선택하는 것만으로 높은 성능이 보장되지는 않으며, 데이터 배치와 메모리 접근 방식을 설계 단계부터 고려해야 하드웨어 성능을 충분히 활용할 수 있음 데이터 지향 설계(DOD) 는 저장할 데이터와 메모리 구조를 먼저 설계하고 그 위에서 수행할 연산을 정하...",
+    "pubDate": "2026-09-27T19:46:22.000Z",
+    "collectedAt": "2026-09-27T22:55:22.167Z"
+  },
+  {
+    "id": "https://news.hada.io/topic?id=34379",
+    "category": "it",
+    "source": "긱뉴스",
+    "title": "Ember-1, Kimi K3의 성능을 유지하며 토큰 사용량 40% 절감",
+    "link": "https://news.hada.io/topic?id=34379",
+    "summary": "Fireworks Research가 Kimi K3를 기반으로 추가 학습한 모델로, 자체 평가에서 비슷한 품질을 유지하면서 토큰 사용량을 약 40% 줄임 추론 강도만 낮추면 성능이 떨어지는 문제를 해결하기 위해, 오류를 바로잡는 재검토는 유지하고 불필요한 추론과 반복은 줄이도록",
+    "pubDate": "2026-09-27T19:43:22.000Z",
+    "collectedAt": "2026-09-27T22:55:22.167Z"
+  },
+  {
+    "id": "https://news.hada.io/topic?id=34378",
+    "category": "it",
+    "source": "긱뉴스",
+    "title": "SNL Weekend Update: Anthropic CEO Dario Amodei가 말하는 AI의 인류 위협 [영상]",
+    "link": "https://news.hada.io/topic?id=34378",
+    "summary": "SNL Weekend Update: Anthropic CEO Dario Amodei가 말하는 AI의 인류 위협 [영상]",
+    "pubDate": "2026-09-27T19:40:22.000Z",
+    "collectedAt": "2026-09-27T22:55:22.167Z"
+  },
+  {
+    "id": "https://news.hada.io/topic?id=34377",
+    "category": "it",
+    "source": "긱뉴스",
+    "title": "postmarketOS, Nura로 이름 변경",
+    "link": "https://news.hada.io/topic?id=34377",
+    "summary": "운영체제 프로젝트 postmarketOS가 Nura로 이름을 변경함. 약 1년 반의 선정 과정을 거쳐 자체 콘퍼런스에서 새 이름을 발표함 기존 이름은 길고 여러 언어에서 발음하거나 기억하기 어려웠으며, 대소문자 표기도 혼란스러워 해커 커뮤니티 밖으로 알리는 데 어려움",
+    "pubDate": "2026-09-27T18:43:31.000Z",
+    "collectedAt": "2026-09-27T22:55:22.167Z"
+  },
+  {
+    "id": "https://news.hada.io/topic?id=34376",
+    "category": "it",
+    "source": "긱뉴스",
+    "title": "80달러짜리 모텔 방에서 이뤄진 생명의 기원을 밝힐 발견",
+    "link": "https://news.hada.io/topic?id=34376",
+    "summary": "80달러짜리 모텔 방에서 이뤄진 생명의 기원을 밝힐 발견",
+    "pubDate": "2026-09-27T18:40:31.000Z",
+    "collectedAt": "2026-09-27T22:55:22.167Z"
+  },
+  {
+    "id": "https://news.hada.io/topic?id=34375",
+    "category": "it",
+    "source": "긱뉴스",
+    "title": "‘통제를 벗어난’ AI 에이전트란 없다",
+    "link": "https://news.hada.io/topic?id=34375",
+    "summary": "AI가 일으킨 사고를 “에이전트가 통제를 벗어났다” 고 표현하면, 소프트웨어가 스스로 판단한 것처럼 보이게 하고 이를 개발·운영한 기업의 책임을 흐릴 수 있음 OpenAI 에이전트가 데이터 수집 중 정부 사이트에 접근한 사건에서 물어야 할 것은 어떤 권한을 줬고, 위험한...",
+    "pubDate": "2026-09-27T18:37:31.000Z",
+    "collectedAt": "2026-09-27T22:55:22.167Z"
+  },
+  {
     "id": "https://news.hada.io/topic?id=34374",
     "category": "it",
     "source": "긱뉴스",
@@ -14768,235 +14998,5 @@
     "summary": "한국인공지능(AI)·소프트웨어(SW)산업협회(KOSA)는 과학기술정보통신부, 한국지능정보사회진흥원(NIA)의 지원으로 '에이전틱 AI 생태계 조성 및 정책지원 과제 발굴 연구'에 착수했다고 21일 밝혔다. 이번 연구는 국민이 체감할 수 있는 에이전틱 AI 서비스와 민간 생태계 활성화 과…",
     "pubDate": "2026-09-21T04:29:59.000Z",
     "collectedAt": "2026-09-21T08:17:10.170Z"
-  },
-  {
-    "id": "https://www.hankyung.com/article/2026092179796",
-    "category": "economy",
-    "source": "한국경제 증권",
-    "title": "\"삼성전자 종가 왜 다르지?\"…주식 차트 보던 개미들 '대혼란' [투자톡]",
-    "link": "https://www.hankyung.com/article/2026092179796",
-    "summary": "",
-    "pubDate": "2026-09-21T04:29:03.000Z",
-    "collectedAt": "2026-09-21T06:22:41.414Z"
-  },
-  {
-    "id": "https://www.hankyung.com/article/202609218051i",
-    "category": "economy",
-    "source": "한국경제 경제",
-    "title": "옥스머티리얼즈, 네덜란드 SABA 투자 유치…유럽·북미 공략",
-    "link": "https://www.hankyung.com/article/202609218051i",
-    "summary": "",
-    "pubDate": "2026-09-21T04:28:29.000Z",
-    "collectedAt": "2026-09-21T06:22:41.414Z"
-  },
-  {
-    "id": "https://www.hankyung.com/article/2026092180576",
-    "category": "economy",
-    "source": "한국경제 증권",
-    "title": "하나증권, 코엑스서 '2026 투자 인사이트 포럼' 개최",
-    "link": "https://www.hankyung.com/article/2026092180576",
-    "summary": "",
-    "pubDate": "2026-09-21T04:27:18.000Z",
-    "collectedAt": "2026-09-21T06:22:41.414Z"
-  },
-  {
-    "id": "https://www.hankyung.com/article/202609218038g",
-    "category": "economy",
-    "source": "한국경제 경제",
-    "title": "\"벽 뚫고 불 끈다\"…베트남 사로잡은 'K-소방차'의 정체",
-    "link": "https://www.hankyung.com/article/202609218038g",
-    "summary": "",
-    "pubDate": "2026-09-21T04:25:48.000Z",
-    "collectedAt": "2026-09-21T06:22:41.414Z"
-  },
-  {
-    "id": "20260921000255",
-    "category": "economy",
-    "source": "전자신문 경제",
-    "title": "파나소닉, 에버랜드 가을축제 '블러드시티' 참여…고휘도 4K 프로젝션 활용",
-    "link": "https://www.etnews.com/20260921000255",
-    "summary": "파나소닉 프로젝터 앤 디스플레이가 에버랜드의 가을축제에 힘을 보탰다. 16일 파나소닉 프로젝터 앤 디스플레이(이하 파나소닉 디스플레이)는 에버랜드 가을축제의 호러 테마존 '블러드시티 제로: 지옥의 문'에 고휘도 프로젝터를 활용한 영상 연출을 선보였다고 밝혔다. 올해로 10년 차를 맞은…",
-    "pubDate": "2026-09-21T04:14:34.000Z",
-    "collectedAt": "2026-09-21T08:17:10.170Z"
-  },
-  {
-    "id": "20260921000254",
-    "category": "economy",
-    "source": "전자신문 경제",
-    "title": "케이엘큐브, 제21회 서울특별시 수어문화제서 생활 속 AI 수어 서비스 선보여",
-    "link": "https://www.etnews.com/20260921000254",
-    "summary": "AI 수어 기반 디지털 접근성 전문기업 케이엘큐브는 지난 19일 서울 신촌 연세로에서 열린 '제21회 서울특별시 수어문화제'에 참가해 식품 정보와 행사 안내 등 일상에서 활용할 수 있는 AI 수어 서비스를 선보였다고 밝혔다. 서울특별시농아인협회가 주최·주관한 이번 행사는 '수어가 잇다,…",
-    "pubDate": "2026-09-21T04:14:24.000Z",
-    "collectedAt": "2026-09-21T08:17:10.170Z"
-  },
-  {
-    "id": "https://www.hankyung.com/article/2026092180247",
-    "category": "economy",
-    "source": "한국경제 경제",
-    "title": "\"AI, 사회문제 푸는 가장 강력한 해결사\"…최태원이 꺼낸 해법",
-    "link": "https://www.hankyung.com/article/2026092180247",
-    "summary": "",
-    "pubDate": "2026-09-21T04:09:47.000Z",
-    "collectedAt": "2026-09-21T06:22:41.414Z"
-  },
-  {
-    "id": "20260921000249",
-    "category": "economy",
-    "source": "전자신문 경제",
-    "title": "대한상의 “중견기업 맞춤형 정책 필요…성장 유인책 마련해야”",
-    "link": "https://www.etnews.com/20260921000249",
-    "summary": "대한상공회의소(대한상의)가 중견기업 특성과 역할을 고려한 맞춤형 정책이 필요하다고 강조했다. 정유석 대한상의 중견기업위원장은 21일 열린 '제32차 대한상의 중견기업위원회'에서 “대기업과 중소기업 사이에 놓인 중견기업 특수한 위치를 고려하지 않은 획일적인 정책은 현장 어려움을 해소하는…",
-    "pubDate": "2026-09-21T04:06:38.000Z",
-    "collectedAt": "2026-09-21T08:17:10.170Z"
-  },
-  {
-    "id": "20260921000243",
-    "category": "ai",
-    "source": "전자신문 AI",
-    "title": "엘리스그룹, 정부 인증 인적자원개발 우수기업 선정",
-    "link": "https://www.etnews.com/20260921000243",
-    "summary": "엘리스그룹이 '2026년 인적자원개발 우수기관(Best HRD)' 중소기업 부문 인증을 획득했다. 인적자원개발 우수기관 인증은 고용노동부·교육부·산업통상자원부·중소벤처기업부가 공동 주관하는 국가 인증 제도다. 능력 중심 인재 채용·관리와 지속적인 교육훈련 등 역량 개발 체계를 갖춘 기업…",
-    "pubDate": "2026-09-21T04:02:42.000Z",
-    "collectedAt": "2026-09-21T04:15:38.602Z"
-  },
-  {
-    "id": "20260921000241",
-    "category": "ai",
-    "source": "전자신문 AI",
-    "title": "다음, 아시안게임 페이지 오픈…AI 종목 검색 콘텐츠 제공",
-    "link": "https://www.etnews.com/20260921000241",
-    "summary": "포털 다음이 '2026 아이치·나고야 아시안게임' 특집 페이지를 오픈했다. 다음 포털 이용자들이 대한민국 대표팀 경기 소식을 빠르고 편리하게 확인하고, 대회 기간 동안 대표팀을 함께 응원할 수 있는 공간으로 기획됐다. 국가대표팀 경기 일정과 결과를 비롯해 종목별 뉴스와 화보, 메달리스트…",
-    "pubDate": "2026-09-21T04:02:21.000Z",
-    "collectedAt": "2026-09-21T04:15:38.602Z"
-  },
-  {
-    "id": "https://www.hankyung.com/article/202609183279g",
-    "category": "it",
-    "source": "한국경제 IT",
-    "title": "\"팀장님~\" 알고 보니 90년대생…후배 모시는 선배 늘었다 [리멤버 오피스워]",
-    "link": "https://www.hankyung.com/article/202609183279g",
-    "summary": "",
-    "pubDate": "2026-09-21T04:00:03.000Z",
-    "collectedAt": "2026-09-21T06:22:41.414Z"
-  },
-  {
-    "id": "https://news.hada.io/topic?id=34050",
-    "category": "it",
-    "source": "긱뉴스",
-    "title": "화폐의 위계",
-    "link": "https://news.hada.io/topic?id=34050",
-    "summary": "화폐는 상대방이 채무의 최종 결제로 받아들이는 것이며, 개인에게 통하는 돈이 은행이나 다른 통화권에서도 돈으로 통하는 것은 아님 은행 예금과 은행권은 상위 기관의 지급 약속으로 개인 간 채무를 결제하게 해주며, 은행은 대출 자산과 예금 부채를 함께 늘려...",
-    "pubDate": "2026-09-21T03:47:07.000Z",
-    "collectedAt": "2026-09-21T04:15:38.602Z"
-  },
-  {
-    "id": "https://www.hankyung.com/article/202609217998i",
-    "category": "economy",
-    "source": "한국경제 경제",
-    "title": "[포토] M.AX CEO 해커톤 행사 참석한 김정관 장관",
-    "link": "https://www.hankyung.com/article/202609217998i",
-    "summary": "",
-    "pubDate": "2026-09-21T03:45:46.000Z",
-    "collectedAt": "2026-09-21T06:22:41.414Z"
-  },
-  {
-    "id": "https://news.hada.io/topic?id=34049",
-    "category": "it",
-    "source": "긱뉴스",
-    "title": "CRT가 픽셀 아트에 미치는 영향(2024)",
-    "link": "https://news.hada.io/topic?id=34049",
-    "summary": "과거 픽셀 아트의 인상은 CRT의 흐릿함만으로 만들어지지 않았음. 팔레트 선택, 디더링, 안티앨리어싱과 하드웨어 제약을 극복하는 프로그래밍 기법도 똑같이 중요했음 디더링과 안티앨리어싱은 어떤 화면에서도 저해상도 그래픽의 품질을 높임. CRT의 약간의 흐릿...",
-    "pubDate": "2026-09-21T03:44:07.000Z",
-    "collectedAt": "2026-09-21T04:15:38.602Z"
-  },
-  {
-    "id": "20260921000227",
-    "category": "it",
-    "source": "전자신문 IT/통신",
-    "title": "인텔리안테크, 텔레샛 유럽 첫 게이트웨이 공급…LEO 협력 본격화",
-    "link": "https://www.etnews.com/20260921000227",
-    "summary": "인텔리안테크놀로지스가 캐나다 위성통신 사업자 텔레샛(Telesat)의 유럽 첫 저궤도(LEO) 위성 게이트웨이에 안테나를 공급했다. 2025년부터 이어온 라이트스피드(Lightspeed) 안테나·게이트웨이 협력이 실제 유럽 지상망 구축 성과로 이어졌다. 21일 외신 등에 따르면 텔레샛과…",
-    "pubDate": "2026-09-21T03:34:08.000Z",
-    "collectedAt": "2026-09-21T04:15:38.602Z"
-  },
-  {
-    "id": "20260921000222",
-    "category": "ai",
-    "source": "전자신문 AI",
-    "title": "제1회 AI 인프라 넥서스 콘퍼런스",
-    "link": "https://www.etnews.com/20260921000222",
-    "summary": "전자신문과 한국지능정보사회진흥원(NIA)이 공동 주최한 제1회 AI 인프라 넥서스 콘퍼런스가 지난 18일 서울 양재동 엘타워에서 열렸다. 이경한 서울대 교수가 'AI 메가 프로젝트를 위한 네트워크 진화 방안'에 대해 기조발표를 하고 있다.",
-    "pubDate": "2026-09-21T03:13:48.000Z",
-    "collectedAt": "2026-09-21T04:15:38.602Z"
-  },
-  {
-    "id": "20260921000220",
-    "category": "ai",
-    "source": "전자신문 AI",
-    "title": "제1회 AI 인프라 넥서스 콘퍼런스",
-    "link": "https://www.etnews.com/20260921000220",
-    "summary": "전자신문과 한국지능정보사회진흥원(NIA)이 공동 주최한 제1회 AI 인프라 넥서스 콘퍼런스가 지난 18일 서울 양재동 엘타워에서 열렸다. 이경한 서울대 교수가 'AI 메가 프로젝트를 위한 네트워크 진화 방안'에 대해 기조발표를 하고 있다.",
-    "pubDate": "2026-09-21T03:12:18.000Z",
-    "collectedAt": "2026-09-21T04:15:38.602Z"
-  },
-  {
-    "id": "https://www.hankyung.com/article/202609217709i",
-    "category": "economy",
-    "source": "한국경제 경제",
-    "title": "수백억 적자에도 \"일단 깔자\"…'얼굴 결제' 폭증한 이유 보니",
-    "link": "https://www.hankyung.com/article/202609217709i",
-    "summary": "",
-    "pubDate": "2026-09-21T03:07:27.000Z",
-    "collectedAt": "2026-09-21T04:15:38.602Z"
-  },
-  {
-    "id": "20260921000062",
-    "category": "economy",
-    "source": "전자신문 경제",
-    "title": "무료강연·박람회서 보험판매?...금감원, 브리핑영업 암행점검 실시",
-    "link": "https://www.etnews.com/20260921000062",
-    "summary": "무료 강연이나 박람회를 활용한 보험 영업 과정에서 불완전판매 우려가 이어지자 금융감독원이 암행점검에 나섰다. 금감원은 상품 설명에만 의존하지 말고 보험 가입 목적과 보장내용을 직접 확인할 것을 당부했다. 금감원은 지난해 브리핑·박람회 영업 관련 소비자경보를 발령했음에도 불건전 영업행위…",
-    "pubDate": "2026-09-21T03:01:00.000Z",
-    "collectedAt": "2026-09-21T04:15:38.602Z"
-  },
-  {
-    "id": "20260910000386",
-    "category": "ai",
-    "source": "전자신문 AI",
-    "title": "[창간기획]AX 베스트 프랙티스/ 모레, AI 반도체 경계 허무는 '토큰 팩토리 OS'로 AX 혁신",
-    "link": "https://www.etnews.com/20260910000386",
-    "summary": "인공지능(AI) 산업의 중심이 학습에서 추론으로 빠르게 이동하면서, AI 인프라의 경쟁 기준도 연산 성능에서 전력 효율성과 비용 경쟁력, 유연한 자원 활용으로 확대되고 있다. AI 서비스별 요구사항이 다양해지면서 다양한 공급사, 여러 세대의 그래픽처리장치(GPU)·신경망처리장치(NPU)…",
-    "pubDate": "2026-09-21T03:00:00.000Z",
-    "collectedAt": "2026-09-21T04:15:38.602Z"
-  },
-  {
-    "id": "20260910000396",
-    "category": "ai",
-    "source": "전자신문 AI",
-    "title": "[창간기획]AX 베스트 프랙티스/ 라이너, '모델 API'로 AX 시장 공략 본격화",
-    "link": "https://www.etnews.com/20260910000396",
-    "summary": "라이너가 '라이너 모델 API' 출시로 기업 AX(인공지능 전환) 시장 주도권 확보에 나섰다. 라이너 모델 API는 고가 프론티어 모델이 유발하는 인프라 비용 부담과 저가 모델 품질 저하 사이에서 딜레마를 겪는 기업을 위해 개발된 기업용(B2B) 오케스트레이션 솔루션이다. 거대언어모델(…",
-    "pubDate": "2026-09-21T03:00:00.000Z",
-    "collectedAt": "2026-09-21T04:15:38.602Z"
-  },
-  {
-    "id": "20260910000401",
-    "category": "ai",
-    "source": "전자신문 AI",
-    "title": "[창간기획]AX 베스트 프랙티스/ 노타, AI 최적화로 기업 AX 효율 높인다",
-    "link": "https://www.etnews.com/20260910000401",
-    "summary": "노타가 인공지능(AI) 모델 최적화 기술을 기반으로 기업 AX(AI 전환)를 지원한다. 모델 경량화·최적화를 넘어 AI 에이전트 운영, 데이터센터 인프라, 피지컬 AI까지 적용 범위를 넓혔다. 노타는 AI 모델 구조와 그래픽처리장치(GPU)·신경망처리장치(NPU)·중앙처리장치(CPU)…",
-    "pubDate": "2026-09-21T03:00:00.000Z",
-    "collectedAt": "2026-09-21T04:15:38.602Z"
-  },
-  {
-    "id": "20260910000412",
-    "category": "ai",
-    "source": "전자신문 AI",
-    "title": "[창간기획]AX 베스트 프랙티스/ 엘리스그룹, AI PMDC로 '글로벌 AX 허브' 발돋움",
-    "link": "https://www.etnews.com/20260910000412",
-    "summary": "엘리스그룹이 국내 전력을 인공지능(AI) 연산 자원으로 전환해 글로벌 시장에 공급하는 AI 인프라 수출을 추진한다. 국내 산업 AX(AI 전환) 지원은 물론, 글로벌 시장에서 AX 수요를 적극 뒷받침한다는 계획이다. 엘리스그룹은 AI 이동식 모듈형 데이터센터 'AI PMDC'와 AI 클…",
-    "pubDate": "2026-09-21T03:00:00.000Z",
-    "collectedAt": "2026-09-21T04:15:38.602Z"
   }
 ]
