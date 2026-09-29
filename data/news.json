@@ -1,5 +1,155 @@
 [
   {
+    "id": "https://www.aitimes.com/news/articleView.html?idxno=215778",
+    "category": "ai",
+    "source": "AI타임스 AI산업",
+    "title": "\"아스트라급 지능을 5분의 1 가격에\"…오픈AI, 'GPT-6.1 솔' 공개",
+    "link": "https://www.aitimes.com/news/articleView.html?idxno=215778",
+    "summary": "오픈AI가 최상위 플래그십 모델 성능에 근접하면서도 비용을 획기적으로 낮춘 업그레이드 모델 'GPT-6.1 솔(Sol)'을 출시했다.샘 알트먼 오픈AI CEO는 29일(현지시간) 샌프란시스코에서 열린 '데브데이 2026' 행사를 통해 새로운 모델을 공개했다.GPT-6.1 솔은 개발자와…",
+    "pubDate": "2026-09-30T05:54:18.000Z",
+    "collectedAt": "2026-09-29T22:04:42.663Z"
+  },
+  {
+    "id": "https://news.hada.io/topic?id=34509",
+    "category": "it",
+    "source": "긱뉴스",
+    "title": "AI, 데이터센터 투자 붐 정당화하려면 연 매출 6조 달러 필요",
+    "link": "https://news.hada.io/topic?id=34509",
+    "summary": "Bain은 AI 인프라 투자를 뒷받침하려면 2031년 연 매출 6조 달러가 필요하다고 추산함. 연간 인프라 지출이 1조 5,000억 달러에 이르고, 이를 업계 매출의 약 25%로 유지한다는 조건임 가장 큰 매출원은 신제품 개발로, 검색, 광고, 자율화, 물리적 AI 등의 혁신이...",
+    "pubDate": "2026-09-29T21:49:36.000Z",
+    "collectedAt": "2026-09-29T22:04:42.663Z"
+  },
+  {
+    "id": "https://news.hada.io/topic?id=34508",
+    "category": "it",
+    "source": "긱뉴스",
+    "title": "PS5 Relapse 익스플로잇",
+    "link": "https://news.hada.io/topic?id=34508",
+    "summary": "PS5 Relapse Exploit은 브라우저 단계와 커널 단계를 연결해 커널 읽기/쓰기 권한을 확보하며, 펌웨어 7.00~13.60을 지원함 브라우저 단계는 JSC 정보 유출과 구조화된 복제 객체 풀의 불일치를 이용해 typedarray를 손상시킴 커널 단계...",
+    "pubDate": "2026-09-29T21:46:36.000Z",
+    "collectedAt": "2026-09-29T22:04:42.663Z"
+  },
+  {
+    "id": "https://news.hada.io/topic?id=34507",
+    "category": "it",
+    "source": "긱뉴스",
+    "title": "Google, ChromeOS 지원을 2년 일찍 종료",
+    "link": "https://news.hada.io/topic?id=34507",
+    "summary": "Google이 새 Chromebook에 약속한 10년 업데이트와 달리, 현재 구매하는 기기의 ChromeOS 업데이트를 2034년에 종료한다고 밝혀 지원 기간이 8년으로 줄어듦 Chromebook을 대체하는 Googlebook은 더 강력한 프로세서를 탑재하고, Gemini AI를 내장.…",
+    "pubDate": "2026-09-29T21:43:36.000Z",
+    "collectedAt": "2026-09-29T22:04:42.663Z"
+  },
+  {
+    "id": "https://news.hada.io/topic?id=34506",
+    "category": "it",
+    "source": "긱뉴스",
+    "title": "Tcl/Tk 9.1",
+    "link": "https://news.hada.io/topic?id=34506",
+    "summary": "Tcl/Tk 9.1.0은 9.0을 기반으로 새 기능과 인터페이스를 추가하며, Tcl의 명령어와 C API, Tk의 접근성과 위젯 기능을 확장함 Tcl에 Unicode 정규화 명령과 C API, 마이크로초 해상도의 단조 시계를 제공하는 timer 명령이 추가됨...",
+    "pubDate": "2026-09-29T21:40:36.000Z",
+    "collectedAt": "2026-09-29T22:04:42.663Z"
+  },
+  {
+    "id": "https://www.hankyung.com/article/2026092925246",
+    "category": "economy",
+    "source": "한국경제 증권",
+    "title": "\"10월 증시 향배 달렸다\"…'메모리 풍향계' 마이크론 실적 D-1 [분석+]",
+    "link": "https://www.hankyung.com/article/2026092925246",
+    "summary": "",
+    "pubDate": "2026-09-29T21:30:06.000Z",
+    "collectedAt": "2026-09-29T22:04:42.663Z"
+  },
+  {
+    "id": "https://news.hada.io/topic?id=34505",
+    "category": "it",
+    "source": "긱뉴스",
+    "title": "OpenAI DevDay 2026 주요 발표 총정리",
+    "link": "https://news.hada.io/topic?id=34505",
+    "summary": "상시 작동하는 Dots와 클라우드 Codex를 공개해, 사용자가 자리를 비운 뒤에도 여러 업무와 개발 작업을 이어갈 수 있도록 확장 GPT-6.1 Sol은 Astra에 가까운 성능을 표준 토큰 가격의 5분의 1로 제공하며, Ultrafast는 Codex의 토큰 생성을 최대 8배 가속 .…",
+    "pubDate": "2026-09-29T21:26:48.000Z",
+    "collectedAt": "2026-09-29T22:04:42.663Z"
+  },
+  {
+    "id": "https://www.hankyung.com/article/202609292461g",
+    "category": "economy",
+    "source": "한국경제 경제",
+    "title": "\"돈잔치? 남의 집 얘기\"…'반도체 집중' 한국도 대만도 고민",
+    "link": "https://www.hankyung.com/article/202609292461g",
+    "summary": "",
+    "pubDate": "2026-09-29T21:00:09.000Z",
+    "collectedAt": "2026-09-29T22:04:42.663Z"
+  },
+  {
+    "id": "https://www.hankyung.com/article/2026092920346",
+    "category": "economy",
+    "source": "한국경제 증권",
+    "title": "8월 기업 직접금융 조달 38% 감소…CP·단기채도 15%↓",
+    "link": "https://www.hankyung.com/article/2026092920346",
+    "summary": "",
+    "pubDate": "2026-09-29T21:00:07.000Z",
+    "collectedAt": "2026-09-29T22:04:42.663Z"
+  },
+  {
+    "id": "https://www.hankyung.com/article/2026092927451",
+    "category": "economy",
+    "source": "한국경제 증권",
+    "title": "하루 1만명씩 만들었다…1000만명 몰린 '이 통장' 뭐길래",
+    "link": "https://www.hankyung.com/article/2026092927451",
+    "summary": "",
+    "pubDate": "2026-09-29T21:00:04.000Z",
+    "collectedAt": "2026-09-29T22:04:42.663Z"
+  },
+  {
+    "id": "https://news.hada.io/topic?id=34504",
+    "category": "it",
+    "source": "긱뉴스",
+    "title": "1993년에 부팅한 서버, 아직 가동 중이지만 은퇴가 머지않음 (2017)",
+    "link": "https://news.hada.io/topic?id=34504",
+    "summary": "Great Lakes Works EGL의 Stratus 내결함성 서버가 1993년 도입 이후 24년째 운영 중이며, 담당자 Phil Hogan은 예기치 않은 종료를 겪은 기억이 없다고 밝힘 하드웨어 이중화로 장애에 대응하며, 디스크와 전원 공급 장치 등을 교체했지만 시스템의 약 80%는…",
+    "pubDate": "2026-09-29T19:33:04.000Z",
+    "collectedAt": "2026-09-29T22:04:42.663Z"
+  },
+  {
+    "id": "https://news.hada.io/topic?id=34503",
+    "category": "it",
+    "source": "긱뉴스",
+    "title": "전 세계 암 8건 중 1건은 감염이 원인이라는 연구 결과",
+    "link": "https://news.hada.io/topic?id=34503",
+    "summary": "국제암연구소(IARC) 연구진은 2024년 전 세계 신규 암 중 약 230만 건, 전체의 12% 가 바이러스와 세균 등 감염원 때문에 발생한 것으로 추정함 가장 많은 사례를 유발한 감염원은 위암 위험을 높이는 헬리코박터 파일로리균으로 약 76만 건을 차지했으며,",
+    "pubDate": "2026-09-29T18:46:37.000Z",
+    "collectedAt": "2026-09-29T22:04:42.663Z"
+  },
+  {
+    "id": "https://news.hada.io/topic?id=34502",
+    "category": "it",
+    "source": "긱뉴스",
+    "title": "DraftKings, AI로 상습 도박 이용자를 행동 기반 타기팅",
+    "link": "https://news.hada.io/topic?id=34502",
+    "summary": "온라인 스포츠 베팅 업체 DraftKings가 고객의 베팅 기록으로 AI 모델을 학습해, 돈을 잃고 도박 판촉에 반응할 가능성이 높은 고객에게 재방문과 추가 베팅을 유도하는 광고를 보냄 자신과 재정, 인간관계에 피해가 생겨도 도박을 반복하는 문제성 도박 이용자가 ...",
+    "pubDate": "2026-09-29T18:43:37.000Z",
+    "collectedAt": "2026-09-29T22:04:42.663Z"
+  },
+  {
+    "id": "https://news.hada.io/topic?id=34501",
+    "category": "it",
+    "source": "긱뉴스",
+    "title": "OpenAI Dots - 상시 작동하는 AI 에이전트 공개",
+    "link": "https://news.hada.io/topic?id=34501",
+    "summary": "OpenAI가 GPT-6 Astra 기반 Dots를 공개함. 자체 클라우드 컴퓨터에서 여러 프로젝트를 진행하고, 피드백을 통해 사용자의 선호와 업무 기준을 익히는 상시 작동 에이전트 고객 피드백을 코드 수정·테스트·PR로 만들거나, 새 데이터에 맞춰 연구 분석을 갱신하고, ...",
+    "pubDate": "2026-09-29T18:40:37.000Z",
+    "collectedAt": "2026-09-29T22:04:42.663Z"
+  },
+  {
+    "id": "https://www.hankyung.com/article/202609303126i",
+    "category": "it",
+    "source": "한국경제 IT",
+    "title": "AI모델 데이터 4년새 5000배…“GPU 다음 병목은 스토리지”",
+    "link": "https://www.hankyung.com/article/202609303126i",
+    "summary": "",
+    "pubDate": "2026-09-29T18:24:16.000Z",
+    "collectedAt": "2026-09-29T22:04:42.663Z"
+  },
+  {
     "id": "https://www.aitimes.com/news/articleView.html?idxno=215761",
     "category": "ai",
     "source": "AI타임스 AI산업",
@@ -8,6 +158,16 @@
     "summary": "앤트로픽과 오픈AI가 기업용 고객을 유치하기 위해 서로 다른 영업 전략을 펼치고 있다. 28일(현지시간) 디 인포메이션에 따르면, 앤트로픽은 기업 고객과의 계약에서 정해진 AI 토큰 및 사용량 한도에 도달하면 할인 혜택을 중단하는 강경한 정책을 펼치고 있다.반면 오픈AI는 한도에 도달한…",
     "pubDate": "2026-09-29T18:13:54.000Z",
     "collectedAt": "2026-09-29T16:26:04.413Z"
+  },
+  {
+    "id": "https://www.hankyung.com/article/202609290589i",
+    "category": "it",
+    "source": "한국경제 IT",
+    "title": "휴대폰 수십억개 데이터 한 곳에…넷앱 '제타바이트 데이터저장소' 공개",
+    "link": "https://www.hankyung.com/article/202609290589i",
+    "summary": "",
+    "pubDate": "2026-09-29T18:13:50.000Z",
+    "collectedAt": "2026-09-29T22:04:42.663Z"
   },
   {
     "id": "https://www.aitimes.com/news/articleView.html?idxno=215759",
@@ -50,6 +210,16 @@
     "collectedAt": "2026-09-29T16:26:04.413Z"
   },
   {
+    "id": "https://news.hada.io/topic?id=34500",
+    "category": "it",
+    "source": "긱뉴스",
+    "title": "OpenAI, GPT-6.1 Sol 공개",
+    "link": "https://news.hada.io/topic?id=34500",
+    "summary": "OpenAI가 GPT-6 Sol의 업그레이드 모델인 GPT-6.1 Sol을 공개했습니다. 코딩, 에이전트, 컴퓨터 사용, 전문 업무 및 과학 연구 전반의 성능을 크게 개선하면서, GPT-6 Astra에 근접한 성능을 훨씬 낮은 비용으로 제공하는 것이 특징입니다. DeepSWE v1.1에…",
+    "pubDate": "2026-09-29T17:37:48.000Z",
+    "collectedAt": "2026-09-29T22:04:42.663Z"
+  },
+  {
     "id": "https://www.aitimes.com/news/articleView.html?idxno=215771",
     "category": "ai",
     "source": "AI타임스 AI산업",
@@ -68,6 +238,16 @@
     "summary": "일상 업무를 대행하는 AI 에이전트 스타트업 인스팅트(Instinct)가 10억달러(약 1조3580억원) 규모의 신규 투자를 유치하며 기업 가치 100억달러(약 13조5800원)를 기록했다.28일(현지시간) 발표에 따르면, 불과 한 달 전 25억달러였던 몸값이 네 배나 뛰었다. 이번 시…",
     "pubDate": "2026-09-29T17:13:25.000Z",
     "collectedAt": "2026-09-29T16:26:04.413Z"
+  },
+  {
+    "id": "https://news.hada.io/topic?id=34498",
+    "category": "it",
+    "source": "긱뉴스",
+    "title": "Show GN: Blyck Video Understanding - Claude·Codex가 영상을 시각 근거와 함께 분석·검색하게 해주는 MCP",
+    "link": "https://news.hada.io/topic?id=34498",
+    "summary": "직접 만든 영상 분석 MCP 서버를 소개합니다. 무엇인가요 Claude Desktop, Claude Code, Codex, ChatGPT Desktop에 연결하는 영상 분석 도구(MCP 서버 + 스킬)입니다. 공개 YouTube 링크나 직접 올린 영상 파일을 분석해서 결과를 시간순 타임…",
+    "pubDate": "2026-09-29T17:05:19.000Z",
+    "collectedAt": "2026-09-29T22:04:42.663Z"
   },
   {
     "id": "https://www.aitimes.com/news/articleView.html?idxno=215762",
@@ -100,6 +280,16 @@
     "collectedAt": "2026-09-29T08:11:11.821Z"
   },
   {
+    "id": "https://news.hada.io/topic?id=34497",
+    "category": "it",
+    "source": "긱뉴스",
+    "title": "Claude 일부 서비스 장애",
+    "link": "https://news.hada.io/topic?id=34497",
+    "summary": "Claude.ai, Claude Code, Claude Cowork, Claude API 등에서 오류가 증가했으며, 장애는 해소됨 장애 영향 구간은 14:00~14:59 UTC였으며, 14:59 UTC 이후 모든 서비스가 정상 운영됨 최초 오류는 14:36 UTC에 완화됐으나, 별도 문…",
+    "pubDate": "2026-09-29T16:43:54.000Z",
+    "collectedAt": "2026-09-29T22:04:42.663Z"
+  },
+  {
     "id": "https://www.aitimes.com/news/articleView.html?idxno=215765",
     "category": "ai",
     "source": "AI타임스 AI산업",
@@ -108,6 +298,26 @@
     "summary": "테슬라가 차세대 전기 스포츠카 '로드스터' 공개 행사를 기상 악화로 다시 연기했다. 당초 10월1일 미국 텍사스주 웨이코에서 열릴 예정이었던 행사는 2주 뒤인 10월 15일로 미뤄졌다.테슬라는 28일(현지시간) 현지 기상학자들과 기상 변화를 자세히 추적해 왔지만 행사 당일 중부 텍사스…",
     "pubDate": "2026-09-29T16:43:00.000Z",
     "collectedAt": "2026-09-29T08:11:11.821Z"
+  },
+  {
+    "id": "https://news.hada.io/topic?id=34496",
+    "category": "it",
+    "source": "긱뉴스",
+    "title": "Jeeves - 판단 전에 추론하는 Jev 방식의 의사결정 모델",
+    "link": "https://news.hada.io/topic?id=34496",
+    "summary": "곧바로 선택지별 확률을 내놓는 Jev 방식에 판단 전 추론 과정을 더해, 복잡한 질문의 정확도를 높이도록 학습한 Qwen3.5-9B 기반 모델 Jev 호환 API로 고객 문의의 담당 부서, 긴급 대응 필요성, 불만 정도 등을 한 요청에서 묻고 선택지별 확률과 점수를 받을 수...",
+    "pubDate": "2026-09-29T16:40:54.000Z",
+    "collectedAt": "2026-09-29T22:04:42.663Z"
+  },
+  {
+    "id": "https://news.hada.io/topic?id=34495",
+    "category": "it",
+    "source": "긱뉴스",
+    "title": "macOS Golden Gate는 버그투성이",
+    "link": "https://news.hada.io/topic?id=34495",
+    "summary": "macOS 27 Golden Gate는 전작 Tahoe의 문제를 바로잡고 성능과 안정성을 다듬겠다고 약속했지만, 수 주간의 사용에서 정렬 오류부터 시스템 멈춤까지 다양한 문제가 발견됨 메뉴 막대 아키텍처 변경으로 여러 서드파티 메뉴 막대 관리 앱이 작동하지 않게 됐으며, ...",
+    "pubDate": "2026-09-29T16:37:54.000Z",
+    "collectedAt": "2026-09-29T22:04:42.663Z"
   },
   {
     "id": "https://www.aitimes.com/news/articleView.html?idxno=215743",
@@ -260,6 +470,16 @@
     "collectedAt": "2026-09-29T08:11:11.821Z"
   },
   {
+    "id": "20260929000387",
+    "category": "ai",
+    "source": "전자신문 AI",
+    "title": "AI 사업 늘리기보다 효과부터…전석훈 의원, 도정 현장도 다시 점검",
+    "link": "https://www.etnews.com/20260929000387",
+    "summary": "경기도의회 더불어민주당은 전석훈 미래과학협력위원회 의원(더불어민주당·성남3)을 도의 인공지능(AI) 사업 점검과 스타트업 육성·인재 양성 방안을 맡을 당내 AI특별위원회 위원장으로 선임했다고 29일 밝혔다. AI특위는 경기도가 직접 추진할 AI 사업과 민간에 맡길 사업을 구분하고, 기존…",
+    "pubDate": "2026-09-29T14:03:33.000Z",
+    "collectedAt": "2026-09-29T22:04:42.663Z"
+  },
+  {
     "id": "https://www.aitimes.com/news/articleView.html?idxno=215752",
     "category": "ai",
     "source": "AI타임스 AI산업",
@@ -268,6 +488,16 @@
     "summary": "일론 머스크가 이끄는 스페이스X가 초대형 우주선 '스타십(Starship)'을 역사상 처음으로 지구 궤도에 진입시키는 데 성공했다. 14번째 시험 비행 끝에 거둔 이번 결실은 차세대 위성망 구축을 넘어 향후 우주 데이터센터 인프라를 확장하기 위한 핵심 기반을 마련했다는 평가를 받는다.스…",
     "pubDate": "2026-09-29T13:52:00.000Z",
     "collectedAt": "2026-09-29T08:11:11.821Z"
+  },
+  {
+    "id": "20260929000386",
+    "category": "economy",
+    "source": "전자신문 경제",
+    "title": "카카오페이증권, 美 디나리와 한국 주식 토큰화 MOU",
+    "link": "https://www.etnews.com/20260929000386",
+    "summary": "카카오페이증권이 미국 토큰화 기술 기업 디나리와 한국 상장주식의 해외 유통을 위한 업무협약(MOU)을 맺고 주식 토큰화 검증에 나선다고 29일 밝혔다. 이번 MOU를 통해 한국 상장주식의 해외 유통 체계 마련과 주식 토큰화 개념검증(PoC)을 공동 수행하고, 해외 개인투자자 대상 사업을…",
+    "pubDate": "2026-09-29T13:49:07.000Z",
+    "collectedAt": "2026-09-29T22:04:42.663Z"
   },
   {
     "id": "https://www.hankyung.com/article/202609293066i",
@@ -330,6 +560,16 @@
     "collectedAt": "2026-09-29T16:26:04.413Z"
   },
   {
+    "id": "20260929000324",
+    "category": "economy",
+    "source": "전자신문 경제",
+    "title": "“한 달 새 10% 증발”…1000만원 넣었던 금, 900만원대로 뚝",
+    "link": "https://www.etnews.com/20260929000324",
+    "summary": "금값이 최근 들어 가파른 내림세를 보이고 있다. 불과 한 달 사이 국내 금 가격이 10%에 가까운 하락률을 기록했다. 미국의 추가 금리 인상에 대한 경계감이 높아지면서 국제 금 시세 역시 약 7주 만의 최저치로 밀렸다. 29일 한국거래소(KRX)에 따르면 전날 KRX 금시장에서 순도 9…",
+    "pubDate": "2026-09-29T12:55:00.000Z",
+    "collectedAt": "2026-09-29T22:04:42.663Z"
+  },
+  {
     "id": "https://www.hankyung.com/article/202609293035i",
     "category": "economy",
     "source": "한국경제 경제",
@@ -380,6 +620,36 @@
     "collectedAt": "2026-09-29T08:11:11.821Z"
   },
   {
+    "id": "20260929000354",
+    "category": "ai",
+    "source": "전자신문 AI",
+    "title": "AIDC 전용요금제 '오리무중'…“구체적 로드맵 제시해야”",
+    "link": "https://www.etnews.com/20260929000354",
+    "summary": "정부가 인공지능 데이터센터(AIDC)를 국가 전략산업으로 정하고, 오는 2035년까지 18.4GW 규모의 AIDC를 확충할 계획을 제시했지만, 전용요금제에 대한 구체적 로드맵이 여전히 오리무중이라는 지적이 제기됐다. 29일 국회 과학기술정보방송통신위원회 소속 조경태 국민의힘 의원(부산…",
+    "pubDate": "2026-09-29T11:34:11.000Z",
+    "collectedAt": "2026-09-29T22:04:42.663Z"
+  },
+  {
+    "id": "20260929000353",
+    "category": "ai",
+    "source": "전자신문 AI",
+    "title": "구글, EU '검색 데이터·안드로이드 개방'에 소송 제기",
+    "link": "https://www.etnews.com/20260929000353",
+    "summary": "구글이 검색 데이터를 경쟁 검색엔진에 제공하고 안드로이드 주요 기능을 다른 인공지능(AI) 서비스에 개방하라는 유럽연합(EU)의 결정에 불복해 소송을 제기했다. EU는 구글이 쌓아온 검색 데이터와 모바일 운영체제 접근권을 경쟁사에도 열어야 한다는 입장이지만, 구글은 이용자 정보와 기기…",
+    "pubDate": "2026-09-29T11:17:22.000Z",
+    "collectedAt": "2026-09-29T22:04:42.663Z"
+  },
+  {
+    "id": "20260929000352",
+    "category": "ai",
+    "source": "전자신문 SW",
+    "title": "2200억 K-에듀파인 고도화 사업, 아이티센엔텍 수주",
+    "link": "https://www.etnews.com/20260929000352",
+    "summary": "아이티센엔텍 컨소시엄이 2200억원 규모 K-에듀파인 운영환경 고도화·재해복구(DR) 체계 구축 사업 우선협상대상자로 선정됐다. 29일 조달청은 한국교육학술정보원(KERIS)이 발주한 이번 사업의 우선협상대상자로 아이티센엔텍 컨소시엄을 선정했다. 이날 삼성SDS·KT, LG CNS·위니…",
+    "pubDate": "2026-09-29T11:08:42.000Z",
+    "collectedAt": "2026-09-29T22:04:42.663Z"
+  },
+  {
     "id": "https://www.hankyung.com/article/202609292491g",
     "category": "economy",
     "source": "한국경제 경제",
@@ -428,6 +698,16 @@
     "summary": "",
     "pubDate": "2026-09-29T10:22:33.000Z",
     "collectedAt": "2026-09-29T16:26:04.413Z"
+  },
+  {
+    "id": "20260929000341",
+    "category": "ai",
+    "source": "전자신문 AI",
+    "title": "교황, “AI 인류위협론 가짜뉴스 아냐”…트럼프 주장 반박",
+    "link": "https://www.etnews.com/20260929000341",
+    "summary": "레오 14세 교황이 인공지능(AI)의 안전을 둘러싼 우려가 가짜 뉴스가 아니며 진지하게 대응 방안을 논의해야 한다고 강조했다. AP통신에 따르면 28일(현지시간) 교황은 프랑스 순방을 마치고 로마로 향하는 전용기에서 AI가 인류에 미칠 파멸적인 위협을 막기 위해 특히 미국과 중국이 무엇…",
+    "pubDate": "2026-09-29T10:12:49.000Z",
+    "collectedAt": "2026-09-29T22:04:42.663Z"
   },
   {
     "id": "https://www.hankyung.com/article/2026092927211",
@@ -538,6 +818,16 @@
     "summary": "",
     "pubDate": "2026-09-29T09:12:24.000Z",
     "collectedAt": "2026-09-29T16:26:04.413Z"
+  },
+  {
+    "id": "20260929000332",
+    "category": "ai",
+    "source": "전자신문 AI",
+    "title": "라이너, AI 에이전트에 1100여개 도구 연동 '액션즈 MCP' 출시",
+    "link": "https://www.etnews.com/20260929000332",
+    "summary": "라이너가 인공지능(AI) 에이전트에 1100여개 외부 도구를 통합 연결하는 '라이너 액션즈 MCP'를 출시했다. 클로드·챗GPT 등 주로 이용하는 AI 에이전트에 연결하면 캘린더·슬랙·노션 등 외부 서비스를 자연어 명령으로 활용할 수 있다. 모델 컨텍스트 프로토콜(MCP)은 AI 에이전…",
+    "pubDate": "2026-09-29T09:12:10.000Z",
+    "collectedAt": "2026-09-29T22:04:42.663Z"
   },
   {
     "id": "https://www.hankyung.com/article/2026092928041",
@@ -668,6 +958,16 @@
     "summary": "",
     "pubDate": "2026-09-29T08:46:48.000Z",
     "collectedAt": "2026-09-29T16:26:04.413Z"
+  },
+  {
+    "id": "20260929000330",
+    "category": "economy",
+    "source": "전자신문 경제",
+    "title": "벤처업계 경기전망 '역대 최고'…실적지수도 2분기 연속 기준치 상회",
+    "link": "https://www.etnews.com/20260929000330",
+    "summary": "벤처기업의 4분기 경기전망지수가 조사 이래 최고치를 기록했다. 3분기 실적은 전분기보다 하락했지만 기준치인 100을 넘었다. 벤처기업협회가 8월 24일부터 9월 7일까지 1200개사를 대상으로 조사해 29일 발표한 경기실사지수(BSI)에서 4분기 전망지수는 111.1로 전분기(107.8…",
+    "pubDate": "2026-09-29T08:46:06.000Z",
+    "collectedAt": "2026-09-29T22:04:42.663Z"
   },
   {
     "id": "https://www.hankyung.com/article/2026092927881",
@@ -850,6 +1150,16 @@
     "collectedAt": "2026-09-29T16:26:04.413Z"
   },
   {
+    "id": "20260929000275",
+    "category": "economy",
+    "source": "전자신문 경제",
+    "title": "8개월 만에 한국에 1500만명 몰렸다…외국인 카드 결제액 '14조원' 넘어서",
+    "link": "https://www.etnews.com/20260929000275",
+    "summary": "올해 한국을 방문한 외국인이 8개월 만에 1500만명을 넘어섰다. 외국인의 국내 관광 관련 카드 사용액도 14조원을 웃돌면서 방한객 증가가 소비 확대로 이어지는 모습이다. 문화체육관광부와 한국관광공사가 28일 공개한 '2026년 8월 한국관광통계'에 따르면 올해 1~8월 한국을 방문한…",
+    "pubDate": "2026-09-29T08:30:00.000Z",
+    "collectedAt": "2026-09-29T22:04:42.663Z"
+  },
+  {
     "id": "https://www.hankyung.com/article/2026092926871",
     "category": "economy",
     "source": "한국경제 경제",
@@ -908,6 +1218,36 @@
     "summary": "",
     "pubDate": "2026-09-29T08:24:42.000Z",
     "collectedAt": "2026-09-29T16:26:04.413Z"
+  },
+  {
+    "id": "20260929000328",
+    "category": "it",
+    "source": "전자신문 IT/통신",
+    "title": "게임 , 피지컬 AI로 산업 경계 넓힌다... “AI 시대 창작·저작권 기준 함께 세워야”",
+    "link": "https://www.etnews.com/20260929000328",
+    "summary": "게임사가 축적한 인공지능(AI)과 시뮬레이션 기술을 방위·로봇·재난안전·교육·의료 등 실물 산업으로 확장하고, AI 활용 확대에 따른 저품질 콘텐츠와 저작권 문제에 대응할 정책 체계를 마련해야 한다는 제언이 나왔다. 29일 서울 영등포구 국회의원회관에서 김재원 조국혁신당 의원 주최로 열…",
+    "pubDate": "2026-09-29T08:13:03.000Z",
+    "collectedAt": "2026-09-29T22:04:42.663Z"
+  },
+  {
+    "id": "20260929000327",
+    "category": "economy",
+    "source": "전자신문 경제",
+    "title": "AI 시대, 지자체 온실가스 관리 '이듬해 쓰는 보고서'에서 '연중 대응하는 플랫폼'으로",
+    "link": "https://www.etnews.com/20260929000327",
+    "summary": "2035 국가 온실가스 감축목표(NDC)가 2018년 대비 53~61%로 상향되고, 배출권거래제 제4차 계획기간(2026~2030년) 할당량이 제3차 대비 17.9% 줄면서 지자체의 온실가스 관리 부담도 커지고 있다. 이에 한 해가 끝난 뒤에야 결과보고서를 작성하는 지금의 관리 방식을,…",
+    "pubDate": "2026-09-29T08:11:44.000Z",
+    "collectedAt": "2026-09-29T22:04:42.663Z"
+  },
+  {
+    "id": "20260929000325",
+    "category": "economy",
+    "source": "전자신문 경제",
+    "title": "“마감재만으론 계약 안 나와요”… 인테리어 디자이너들이 '스마트홈' 공부하는 이유",
+    "link": "https://www.etnews.com/20260929000325",
+    "summary": "“최근 인테리어 업계에서 고급 타일이나 마감재만 내세우는 제안으로는 눈높이가 높아진 고객을 설득해 계약까지 이끌어내기 어렵습니다. 특히 반포, 청담, 개포 등 강남권 주요 하이엔드 아파트 리모델링 현장에서는 고객이 매일 체감할 수 있는 '공간 경험'을 어떻게 디자인하느냐가 인테리어 업체…",
+    "pubDate": "2026-09-29T08:08:15.000Z",
+    "collectedAt": "2026-09-29T22:04:42.663Z"
   },
   {
     "id": "20260929000265",
@@ -14658,345 +14998,5 @@
     "summary": "",
     "pubDate": "2026-09-23T04:31:47.000Z",
     "collectedAt": "2026-09-23T06:19:54.550Z"
-  },
-  {
-    "id": "20260923000156",
-    "category": "economy",
-    "source": "전자신문 경제",
-    "title": "KB국민카드, 일본 여행 혜택 강화",
-    "link": "https://www.etnews.com/20260923000156",
-    "summary": "KB국민카드는 추석과 10월 연휴를 맞아 일본 여행을 계획하는 고객을 대상으로 다양한 해외 이용 혜택을 제공한다고 23일 밝혔다. 행사는 여행 예약부터 일본 현지 결제, 귀국 전 공항 면세점 이용까지 일본 여행의 주요 소비 동선에 맞춰 혜택을 구성했다. 먼저 일본에서 KB국민 트래블러스…",
-    "pubDate": "2026-09-23T04:31:43.000Z",
-    "collectedAt": "2026-09-23T06:19:54.550Z"
-  },
-  {
-    "id": "https://news.hada.io/topic?id=34161",
-    "category": "it",
-    "source": "긱뉴스",
-    "title": "Show GN: 무료 AI 문서작성 에디터(canvas) 만들었습니다.",
-    "link": "https://news.hada.io/topic?id=34161",
-    "summary": "웹에서 문서 불러와서 AI가 수정 → 300DPI 인쇄까지 혹은 AI에게 이력서 작성, 경력기술서 등등… 무한 캔버스(Figma형식) 기반 에디터로 만들어봤는데 혹시 사용감이 어떤지 피드백 부탁드립니다. [주요 기능] -docx, pptx, hwpx를 캔버스로 불러오기 -불러온 파일 수…",
-    "pubDate": "2026-09-23T04:26:52.000Z",
-    "collectedAt": "2026-09-23T06:19:54.550Z"
-  },
-  {
-    "id": "https://www.hankyung.com/article/202609221086i",
-    "category": "economy",
-    "source": "한국경제 경제",
-    "title": "[단독] GTX-C, 6년 만에 투자유치 성사…3.8조 모집 성공",
-    "link": "https://www.hankyung.com/article/202609221086i",
-    "summary": "",
-    "pubDate": "2026-09-23T04:25:01.000Z",
-    "collectedAt": "2026-09-23T06:19:54.550Z"
-  },
-  {
-    "id": "https://www.hankyung.com/article/202609232839g",
-    "category": "it",
-    "source": "한국경제 IT",
-    "title": "\"개발비 반값\" 가성비 챗GPT '깜짝'…오픈AI 새 모델 2종 출시",
-    "link": "https://www.hankyung.com/article/202609232839g",
-    "summary": "",
-    "pubDate": "2026-09-23T04:08:24.000Z",
-    "collectedAt": "2026-09-23T04:16:06.788Z"
-  },
-  {
-    "id": "https://www.hankyung.com/article/202609229824i",
-    "category": "economy",
-    "source": "한국경제 경제",
-    "title": "[단독] 교육기업 데이원컴퍼니, AX 사업 진출…\"전공·경력 불문 100명 채용\"",
-    "link": "https://www.hankyung.com/article/202609229824i",
-    "summary": "",
-    "pubDate": "2026-09-23T04:00:18.000Z",
-    "collectedAt": "2026-09-23T06:19:54.550Z"
-  },
-  {
-    "id": "https://www.hankyung.com/article/202609233371g",
-    "category": "it",
-    "source": "한국경제 IT",
-    "title": "\"요즘 날씨엔 무조건 가야죠\"…퇴근한 직장인들 몰리는 곳 [트렌드+]",
-    "link": "https://www.hankyung.com/article/202609233371g",
-    "summary": "",
-    "pubDate": "2026-09-23T04:00:14.000Z",
-    "collectedAt": "2026-09-23T04:16:06.788Z"
-  },
-  {
-    "id": "https://www.hankyung.com/article/202609017234i",
-    "category": "economy",
-    "source": "한국경제 경제",
-    "title": "'규모의 전쟁' 끝낸 中 차 음료 시장…미쉐 울고 구밍 웃고",
-    "link": "https://www.hankyung.com/article/202609017234i",
-    "summary": "",
-    "pubDate": "2026-09-23T04:00:13.000Z",
-    "collectedAt": "2026-09-23T06:19:54.550Z"
-  },
-  {
-    "id": "https://www.hankyung.com/article/202609183405g",
-    "category": "economy",
-    "source": "한국경제 경제",
-    "title": "\"인구감소 걱정했지만\"…해외 공략으로 조단위 매출 넘보는 'K-급식'",
-    "link": "https://www.hankyung.com/article/202609183405g",
-    "summary": "",
-    "pubDate": "2026-09-23T04:00:05.000Z",
-    "collectedAt": "2026-09-23T06:19:54.550Z"
-  },
-  {
-    "id": "20260923000016",
-    "category": "economy",
-    "source": "전자신문 경제",
-    "title": "한국씨티은행 차기 행장에 김경호…'기업금융그룹장→행장' 승계 이어져",
-    "link": "https://www.etnews.com/20260923000016",
-    "summary": "한국씨티은행 차기 행장 최종 후보로 김경호 기업금융그룹장 부행장이 낙점됐다. 소비자금융 단계적 폐지 이후 기업금융 중심으로 사업구조를 재편한 한국씨티은행이 해당 사업을 총괄해온 내부 전문가를 수장으로 선택하면서 기존 전략의 연속성에 무게를 실었다. 23일 금융권과 금융당국에 따르면 한국…",
-    "pubDate": "2026-09-23T04:00:00.000Z",
-    "collectedAt": "2026-09-23T04:16:06.788Z"
-  },
-  {
-    "id": "20260923000149",
-    "category": "economy",
-    "source": "전자신문 경제",
-    "title": "대출 막히자 작은 집으로 몰렸다…서울 소형 아파트값 '역대 최고'",
-    "link": "https://www.etnews.com/20260923000149",
-    "summary": "서울 아파트값이 오름세를 이어가는 가운데 비교적 적은 자금으로 접근할 수 있는 소형 아파트에 매수세가 몰리고 있다. 지난 1년 동안 서울 소형 아파트의 가격 상승폭은 대형 아파트보다 2배 이상 컸다. 23일 KB부동산이 집계한 서울 아파트 전용면적별 매매가격지수를 보면 지난달 소형 아파…",
-    "pubDate": "2026-09-23T03:40:26.000Z",
-    "collectedAt": "2026-09-23T04:16:06.788Z"
-  },
-  {
-    "id": "20260923000138",
-    "category": "it",
-    "source": "전자신문 IT/통신",
-    "title": "유비쿼스, 광통신 장비에 AI 심었다…KT와 상용망 실증 추진",
-    "link": "https://www.etnews.com/20260923000138",
-    "summary": "국내 유선 네트워크 장비 전문기업 유비쿼스가 인공지능(AI) 기능을 광통신 장비에 직접 탑재해 장애를 실시간 진단하는 네트워크 기술을 공개했다. 국내 최초 AI 기반 광통신 장비다. 회사는 향후 KT와 공동 개발한 기술을 실제 통신망에서 검증하고, 상용화와 해외 시장 진출을 타진할 계획…",
-    "pubDate": "2026-09-23T03:24:34.000Z",
-    "collectedAt": "2026-09-23T04:16:06.788Z"
-  },
-  {
-    "id": "https://www.hankyung.com/article/202609232721i",
-    "category": "it",
-    "source": "한국경제 IT",
-    "title": "다 같은 전자담배인 줄 알았는데…\"디스크 위험 천차만별\"",
-    "link": "https://www.hankyung.com/article/202609232721i",
-    "summary": "",
-    "pubDate": "2026-09-23T03:10:01.000Z",
-    "collectedAt": "2026-09-23T04:16:06.788Z"
-  },
-  {
-    "id": "https://www.hankyung.com/article/202609233313g",
-    "category": "it",
-    "source": "한국경제 IT",
-    "title": "\"네이버가 책임져라\"…연휴 앞두고 '하루 파업' 이유 봤더니",
-    "link": "https://www.hankyung.com/article/202609233313g",
-    "summary": "",
-    "pubDate": "2026-09-23T03:04:54.000Z",
-    "collectedAt": "2026-09-23T04:16:06.788Z"
-  },
-  {
-    "id": "https://www.hankyung.com/article/202609233289i",
-    "category": "economy",
-    "source": "한국경제 경제",
-    "title": "뉴욕증시 받치는 미국의 백만장자들 [박신영의 월가 아나토미]",
-    "link": "https://www.hankyung.com/article/202609233289i",
-    "summary": "",
-    "pubDate": "2026-09-23T02:50:53.000Z",
-    "collectedAt": "2026-09-23T04:16:06.788Z"
-  },
-  {
-    "id": "20260923000124",
-    "category": "ai",
-    "source": "전자신문 AI",
-    "title": "[스냅드래곤 서밋]영상 편집부터 사진찍기 좋은 자세까지 …스냅드래곤 기반 AI 솔루션 선보여",
-    "link": "https://www.etnews.com/20260923000124",
-    "summary": "퀄컴이 자사 모바일 플랫폼 스냅드래곤을 통한 인공지능(AI) 활용 사례를 대거 소개했다. AI 영상 편집부터 이미지 개선, 화자 중심 음성 인식, 애플케이션 개발 등 친숙한 AI 솔루션으로 시장 확산을 뒷받침하려는 것으로 풀이된다. 퀄컴은 22일(현지시간) 미국 하와이 마우이에서 열린…",
-    "pubDate": "2026-09-23T02:46:32.000Z",
-    "collectedAt": "2026-09-23T04:16:06.788Z"
-  },
-  {
-    "id": "https://news.hada.io/topic?id=34160",
-    "category": "it",
-    "source": "긱뉴스",
-    "title": "WordPress: 인증 없이 악용 가능한 경로 순회 취약점, 조건 충족 시 원격 코드 실행으로 이어짐",
-    "link": "https://news.hada.io/topic?id=34160",
-    "summary": "WordPress의 get_page_template() 에서 인증 없는 공격자가 활성 테마 디렉터리 밖의 읽기 가능한 로컬 .php 파일을 포함시킬 수 있는 취약점이 발견됨 원격 코드 실행(RCE) 으로 이어지려면 활성 테마의 디렉터리 구조와 서버의 파일 및...",
-    "pubDate": "2026-09-23T02:42:55.000Z",
-    "collectedAt": "2026-09-23T04:16:06.788Z"
-  },
-  {
-    "id": "https://news.hada.io/topic?id=34159",
-    "category": "it",
-    "source": "긱뉴스",
-    "title": "SAML: 잘못된 설계의 프랙털",
-    "link": "https://news.hada.io/topic?id=34159",
-    "summary": "SAML은 SSO 산업의 기반을 만들었지만, XML과 서명 검증의 복잡성이 누적돼 OpenID Connect(OIDC)로의 전환이 필요함 XML 서명 래핑(XSW) 은 오래전부터 알려진 공격인데도 여전히 발생하며, SAML 라이브러리는 인증 기능을 구현하기 전부터 XML ...",
-    "pubDate": "2026-09-23T02:39:55.000Z",
-    "collectedAt": "2026-09-23T04:16:06.788Z"
-  },
-  {
-    "id": "20260923000118",
-    "category": "economy",
-    "source": "전자신문 경제",
-    "title": "[ET특징주] 와이즈플래닛컴퍼니, 코스닥 상장 첫날 230% 이상 강세",
-    "link": "https://www.etnews.com/20260923000118",
-    "summary": "생활용품 소매업체 와이즈플래닛컴퍼니가 코스닥 상장 첫날 장 초반 공모가의 3배를 웃도는 강세를 보이고 있다. 23일 오전 11시 26분 기준 와이즈플래닛컴퍼니(0010S0)는 공모가(1만2000원)보다 234.58% 오른 4만 150원에 거래되고 있다. 장 초반에는 상승률이 280%를…",
-    "pubDate": "2026-09-23T02:29:03.000Z",
-    "collectedAt": "2026-09-23T04:16:06.788Z"
-  },
-  {
-    "id": "20260923000117",
-    "category": "economy",
-    "source": "전자신문 경제",
-    "title": "[ET특징주] 메타 AI '뮤즈' 수혜 기대감… 파두 주가 9%↑",
-    "link": "https://www.etnews.com/20260923000117",
-    "summary": "메타의 신규 인공지능(AI) 에이전트 '뮤즈' 흥행 소식으로 부품을 공급하고 있는 파두 주가가 강세다. 23일 오전 11시 20분 기준 파두(440110) 주가는 전 거래일 대비 9.96% 상승한 7만 9500원에 거래되고 있다. 이번 급등은 메타의 '뮤즈' 흥행에 따른 수혜 기대감이…",
-    "pubDate": "2026-09-23T02:25:26.000Z",
-    "collectedAt": "2026-09-23T04:16:06.788Z"
-  },
-  {
-    "id": "https://www.hankyung.com/article/2026092332006",
-    "category": "economy",
-    "source": "한국경제 경제",
-    "title": "대만 11%, 한국 3.2%…똑같은 반도체 호황인데 '극과 극' [분석+]",
-    "link": "https://www.hankyung.com/article/2026092332006",
-    "summary": "",
-    "pubDate": "2026-09-23T02:24:21.000Z",
-    "collectedAt": "2026-09-23T04:16:06.788Z"
-  },
-  {
-    "id": "20260923000116",
-    "category": "economy",
-    "source": "전자신문 경제",
-    "title": "대한행정사회, 법무사법 개정안 업무범위 조항에 신중 심사 요청",
-    "link": "https://www.etnews.com/20260923000116",
-    "summary": "대한행정사회(회장 윤승규)가 민병덕 의원 대표발의 법무사법 일부개정법률안(의안번호 2221385)의 업무범위 규정에 신중한 심사가 필요하다는 의견서를 국회 법제사법위원회에 제출했다. 개정안이 법무사 서류작성 업무와 관련해 새로 열거한 중대범죄수사청·고위공직자범죄수사처·경찰청·해양경찰청…",
-    "pubDate": "2026-09-23T02:22:12.000Z",
-    "collectedAt": "2026-09-23T04:16:06.788Z"
-  },
-  {
-    "id": "20260923000114",
-    "category": "economy",
-    "source": "전자신문 경제",
-    "title": "예술·기술·비즈니스 융합 컨퍼런스 '퓨추라캔버스 2026', 10월 1일 강남 플랫폼엘서 열려",
-    "link": "https://www.etnews.com/20260923000114",
-    "summary": "예술과 기술, 비즈니스의 접점에서 창작 생태계의 미래를 다루는 참여형 행사인 '퓨추라캔버스 2026'이 오는 10월 1일부터 3일까지 서울 강남구 플랫폼엘 컨템포러리 아트센터에서 열린다. 서울관광재단의 '서울 기반 국제회의(SBIC)' 지원 사업으로 선정된 이번 행사는 관람객이 단순 청…",
-    "pubDate": "2026-09-23T02:20:26.000Z",
-    "collectedAt": "2026-09-23T04:16:06.788Z"
-  },
-  {
-    "id": "20260923000113",
-    "category": "economy",
-    "source": "전자신문 경제",
-    "title": "스마트 컨트랙트 플랫폼 그노랜드, 정식 메인넷 출시",
-    "link": "https://www.etnews.com/20260923000113",
-    "summary": "스마트 컨트랙트 플랫폼 그노랜드가 정식 메인넷을 출시했다고 23일 밝혔다. 메인넷을 베타 네트워크에서 정식 운영 단계로 전환하면서 자체 토큰 GNOT의 전송 기능을 활성화했다. 그노랜드는 코스모스와 텐더민트의 공동창립자 재 권이 설립한 오픈소스 스마트 컨트랙트 플랫폼이다. 뉴텐더민트가…",
-    "pubDate": "2026-09-23T02:16:27.000Z",
-    "collectedAt": "2026-09-23T04:16:06.788Z"
-  },
-  {
-    "id": "20260923000111",
-    "category": "economy",
-    "source": "전자신문 경제",
-    "title": "[포토] 분주한 국토부 국가교통정보센터",
-    "link": "https://www.etnews.com/20260923000111",
-    "summary": "추석을 이틀 앞둔 23일 정부세종청사 국가교통정보센서에서 관계 공무원들이 교통상황을 모니터링하고 있다. 연합뉴스",
-    "pubDate": "2026-09-23T02:12:51.000Z",
-    "collectedAt": "2026-09-23T04:16:06.788Z"
-  },
-  {
-    "id": "20260923000110",
-    "category": "economy",
-    "source": "전자신문 경제",
-    "title": "[포토] 추석 특별교통대책 회의 주재하는 홍지선 국토부 장관",
-    "link": "https://www.etnews.com/20260923000110",
-    "summary": "홍지선 신임 국토교통부 장관이 23일 정부세종청사 국가교통정보센터에서 열린 추석 특별교통대책 준비 점검회의를 주재하고 있다. 연합뉴스",
-    "pubDate": "2026-09-23T02:12:38.000Z",
-    "collectedAt": "2026-09-23T04:16:06.788Z"
-  },
-  {
-    "id": "https://www.hankyung.com/article/202609221364i",
-    "category": "economy",
-    "source": "한국경제 증권",
-    "title": "하루 앞으로 다가온 미중 정상회담, 시장은 무엇을 기대해야 할까",
-    "link": "https://www.hankyung.com/article/202609221364i",
-    "summary": "",
-    "pubDate": "2026-09-23T02:11:19.000Z",
-    "collectedAt": "2026-09-23T04:16:06.788Z"
-  },
-  {
-    "id": "https://www.hankyung.com/article/202609233159g",
-    "category": "economy",
-    "source": "한국경제 경제",
-    "title": "공정위 조사 후엔 1등으로 자진 신고해도 '과징금'…제도 개편",
-    "link": "https://www.hankyung.com/article/202609233159g",
-    "summary": "",
-    "pubDate": "2026-09-23T02:10:37.000Z",
-    "collectedAt": "2026-09-23T04:16:06.788Z"
-  },
-  {
-    "id": "20260923000107",
-    "category": "economy",
-    "source": "전자신문 경제",
-    "title": "[포토] 행복한 추석되세요",
-    "link": "https://www.etnews.com/20260923000107",
-    "summary": "추석을 앞둔 23일 서울역에서 귀성길 한 가족이 열차에 탑승하며 인사하고 있다. 연합뉴스",
-    "pubDate": "2026-09-23T02:10:06.000Z",
-    "collectedAt": "2026-09-23T04:16:06.788Z"
-  },
-  {
-    "id": "20260923000106",
-    "category": "economy",
-    "source": "전자신문 경제",
-    "title": "[포토] '하늘을 날아가는 기분이야!'",
-    "link": "https://www.etnews.com/20260923000106",
-    "summary": "추석을 앞둔 23일 서울역에서 한복을 곱게 차려입은 어린이가 부모님의 손을 잡고 열차를 타러 가고 있다. 연합뉴스",
-    "pubDate": "2026-09-23T02:09:58.000Z",
-    "collectedAt": "2026-09-23T04:16:06.788Z"
-  },
-  {
-    "id": "https://www.hankyung.com/article/202609232525i",
-    "category": "economy",
-    "source": "한국경제 증권",
-    "title": "엔비디아·삼전닉스보다 더 뛴 CPU株…메타 '뮤즈'가 깨운 것은 [빈난새의 빈틈없이마켓]",
-    "link": "https://www.hankyung.com/article/202609232525i",
-    "summary": "",
-    "pubDate": "2026-09-23T02:06:37.000Z",
-    "collectedAt": "2026-09-23T04:16:06.788Z"
-  },
-  {
-    "id": "20260923000105",
-    "category": "ai",
-    "source": "전자신문 AI",
-    "title": "[스냅드래곤 서밋]모듈러 인수한 퀄컴 “특정 벤더 의존 않는 '개방형 AI 소프트웨어 플랫폼' 구축”",
-    "link": "https://www.etnews.com/20260923000105",
-    "summary": "퀄컴이 최근 인수를 완료한 모듈러를 통해 개방형 '인공지능(AI) 소프트웨어 플랫폼' 구축에 나선다. 서로 다른 AI 하드웨어에서도 구동할 수 있는 소프트웨어를 통해 '개방형 생태계'를 조성하려는 시도다. AI 인프라에 선택지를 높일 수 있어 다양한 하드웨어를 검토 중인 국가별 '소버린…",
-    "pubDate": "2026-09-23T02:06:33.000Z",
-    "collectedAt": "2026-09-23T04:16:06.788Z"
-  },
-  {
-    "id": "20260923000012",
-    "category": "economy",
-    "source": "전자신문 경제",
-    "title": "9월 소비심리 한 달 만에 반등…소득 기대↑·금리 전망 3년來 최고",
-    "link": "https://www.etnews.com/20260923000012",
-    "summary": "9월 소비자심리가 한 달 만에 반등했다. 반도체 수출 호조와 소비 개선 등 양호한 실물경제 흐름이 이어지면서 가계의 소득여건 개선 기대가 커진 영향이다. 다만 향후 금리 상승 전망은 약 3년 만에 가장 높은 수준으로 치솟고 주택가격 상승 기대도 높은 수준을 유지해 가계 심리에는 긴축 부…",
-    "pubDate": "2026-09-23T02:00:00.000Z",
-    "collectedAt": "2026-09-23T02:15:24.694Z"
-  },
-  {
-    "id": "https://www.hankyung.com/article/202609232896g",
-    "category": "economy",
-    "source": "한국경제 경제",
-    "title": "\"이 맛있는 걸 한국인들만 먹었어?\"…미국서 입소문 난 K푸드",
-    "link": "https://www.hankyung.com/article/202609232896g",
-    "summary": "",
-    "pubDate": "2026-09-23T01:56:19.000Z",
-    "collectedAt": "2026-09-23T04:16:06.788Z"
-  },
-  {
-    "id": "https://www.hankyung.com/article/202609233087i",
-    "category": "it",
-    "source": "한국경제 IT",
-    "title": "엔비디아 '픽' 받은 국내 AI 보안기업…1만곳 뚫고 '톱10' 진출",
-    "link": "https://www.hankyung.com/article/202609233087i",
-    "summary": "",
-    "pubDate": "2026-09-23T01:40:42.000Z",
-    "collectedAt": "2026-09-23T02:15:24.694Z"
   }
 ]
