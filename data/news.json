@@ -1,5 +1,35 @@
 [
   {
+    "id": "https://www.aitimes.com/news/articleView.html?idxno=215942",
+    "category": "ai",
+    "source": "AI타임스 AI산업",
+    "title": "\"수익성 불투명한 10조달러 투자\"...월가, AI 거품 붕괴 경고",
+    "link": "https://www.aitimes.com/news/articleView.html?idxno=215942",
+    "summary": "실리콘밸리가 부풀려 놓은 AI 기업들의 몸값에 대해 월스트리트가 잇달아 제동을 걸고 나섰다. 천문학적인 인프라 투자 비용 대비 실질적 수익성에 대한 회의론이 월가를 압도하면서, AI 거품 붕괴 시 미국과 세계 경제 전반에 시스템적 위험을 초래할 수 있다는 경고가 전면에 등장하고 있다.…",
+    "pubDate": "2026-10-03T21:55:05.000Z",
+    "collectedAt": "2026-10-03T16:01:47.033Z"
+  },
+  {
+    "id": "https://www.aitimes.com/news/articleView.html?idxno=215941",
+    "category": "ai",
+    "source": "AI타임스 AI산업",
+    "title": "'AI 반감' 가리는 귀여운 캐릭터…'뮤즈' 흥행 이끈 알렉산드르 왕",
+    "link": "https://www.aitimes.com/news/articleView.html?idxno=215941",
+    "summary": "빅테크 기업들이 AI에 대한 대중의 거부감과 불안감을 해소하기 위해 귀여운 마스코트를 잇달아 내세우는 마케팅 전환을 시도하고 있다. AI가 가져올 일자리 감소나 인류에 대한 실존적 위협이라는 중대한 과제를 가벼운 이미지 뒤로 가리려는 시도라는 분석이다. 이러한 전략의 최전선에는 메타가…",
+    "pubDate": "2026-10-03T20:42:47.000Z",
+    "collectedAt": "2026-10-03T16:01:47.033Z"
+  },
+  {
+    "id": "https://news.hada.io/topic?id=34715",
+    "category": "it",
+    "source": "긱뉴스",
+    "title": "Show HN: 독일의 새로운 소버린 AI 모델 Kolibri",
+    "link": "https://news.hada.io/topic?id=34715",
+    "summary": "Aleph Alpha가 독일어와 영어용 오픈 웨이트 모델 Kolibri를 공개함. 독일과 핀란드의 인프라에서 처음부터 학습했으며, 조직이 자체 서버에서 데이터와 모델 운영을 통제할 수 있음 전문가 혼합(MoE) 구조로 전체 781억 개 파라미터 중 토큰당 34.6억 개만 활성화...",
+    "pubDate": "2026-10-03T15:37:47.000Z",
+    "collectedAt": "2026-10-03T16:01:47.033Z"
+  },
+  {
     "id": "https://www.aitimes.com/news/articleView.html?idxno=215693",
     "category": "ai",
     "source": "AI타임스 AI산업",
@@ -8,6 +38,16 @@
     "summary": "AI 검색 결과가 질문자, 시장, 언어, 플랫폼에 따라 다양하게 나타나면서 브랜드의 AI 검색 성과를 단순 평균 노출률로 판단하기가 어려워지고 있다. 이에 AI 검색 가시성을 단순히 '얼마나 많이 보이는가'보다 '중요한 질문에서 얼마나 정확히 설명되고 인용되는가'로 재정의하고, 고객의…",
     "pubDate": "2026-10-03T15:03:13.000Z",
     "collectedAt": "2026-10-03T11:24:02.155Z"
+  },
+  {
+    "id": "https://news.hada.io/topic?id=34714",
+    "category": "it",
+    "source": "긱뉴스",
+    "title": "GLM 5.3 Flash로 한 달간 코딩하기",
+    "link": "https://news.hada.io/topic?id=34714",
+    "summary": "GLM 5.3 Flash만으로 한 달간 개발하는 실험에서 Wagtail과 웹사이트 개발, UI 작업, 문서 작성 등을 수행했으며, 해당 모델 사용 비용은 68달러였음 100만 토큰 컨텍스트와 이미지 이해로 긴 코딩 작업과 스크린샷 기반 개발을 처리했지만, 서비...",
+    "pubDate": "2026-10-03T14:34:43.000Z",
+    "collectedAt": "2026-10-03T16:01:47.033Z"
   },
   {
     "id": "https://www.aitimes.com/news/articleView.html?idxno=215932",
@@ -20,6 +60,16 @@
     "collectedAt": "2026-10-03T11:24:02.155Z"
   },
   {
+    "id": "https://news.hada.io/topic?id=34713",
+    "category": "it",
+    "source": "긱뉴스",
+    "title": "에이전트 코딩의 묵시록 4기사",
+    "link": "https://news.hada.io/topic?id=34713",
+    "summary": "에이전트 코딩은 매우 유용하지만, 슬롭, 소외, 숙련도 저하, 팀 관계 약화라는 네 가지 문제를 낳으며 개발자의 호기심, 장인정신, 사회적 연결에 큰 대가를 요구함 LLM 생성 코드 특유의 스타일은 사람이 코드베이스를 읽고 익숙해지기 어렵게 만들며, 에이전트가...",
+    "pubDate": "2026-10-03T14:03:28.000Z",
+    "collectedAt": "2026-10-03T16:01:47.033Z"
+  },
+  {
     "id": "https://www.aitimes.com/news/articleView.html?idxno=215933",
     "category": "ai",
     "source": "AI타임스 AI산업",
@@ -28,6 +78,16 @@
     "summary": "딥시크가 AI를 활용한 문서 작업과 개발을 하나의 공간에서 처리할 수 있는 데스크톱 앱을 내놓으며 채팅과 코딩, 문서 작업을 한데 모은 일종의 ‘슈퍼 앱’ 형태의 ‘AI 작업 공간’ 경쟁에 뛰어들었다.딥시크는 지난달 29일 맥OS와 윈도우용 ‘딥시크 하네스(DeepSeek Harness…",
     "pubDate": "2026-10-03T13:58:48.000Z",
     "collectedAt": "2026-10-03T11:24:02.155Z"
+  },
+  {
+    "id": "https://news.hada.io/topic?id=34712",
+    "category": "it",
+    "source": "긱뉴스",
+    "title": "암을 유발한다는 것들",
+    "link": "https://news.hada.io/topic?id=34712",
+    "summary": "원전 인근 거주와 암을 연결한 Harvard 연구 방법을 다른 시설에 적용하자, Costco와 대학, 스포츠 경기장에서도 암 사망과 양의 연관성이 나옴. 재현 분석은 이를 원전의 발암 효과가 아니라 방법론의 문제로 해석함 연구는 시설과의 거리로 만든 근접도 점수를 노...",
+    "pubDate": "2026-10-03T13:36:14.000Z",
+    "collectedAt": "2026-10-03T16:01:47.033Z"
   },
   {
     "id": "https://www.aitimes.com/news/articleView.html?idxno=215936",
@@ -60,6 +120,26 @@
     "collectedAt": "2026-10-03T04:44:20.814Z"
   },
   {
+    "id": "https://www.hankyung.com/article/2026100319487",
+    "category": "economy",
+    "source": "한국경제 경제",
+    "title": "요즘 사람들이 제일 많이 찾는 카드 따로 있었다…1위 봤더니",
+    "link": "https://www.hankyung.com/article/2026100319487",
+    "summary": "",
+    "pubDate": "2026-10-03T12:12:46.000Z",
+    "collectedAt": "2026-10-03T16:01:47.033Z"
+  },
+  {
+    "id": "https://www.hankyung.com/article/202610029908H",
+    "category": "it",
+    "source": "한국경제 IT",
+    "title": "'잭팟' 꿈꾸고 뛰어들었다가…AI 숏드라마의 '눈물' [김예랑의 K컬처인사이드]",
+    "link": "https://www.hankyung.com/article/202610029908H",
+    "summary": "",
+    "pubDate": "2026-10-03T12:10:44.000Z",
+    "collectedAt": "2026-10-03T16:01:47.033Z"
+  },
+  {
     "id": "https://www.aitimes.com/news/articleView.html?idxno=215937",
     "category": "ai",
     "source": "AI타임스 AI산업",
@@ -78,6 +158,26 @@
     "summary": "아마존웹서비스(AWS)가 전 세계적으로 거세지는 데이터센터 건설 반발을 잠재우기 위해 5년간 10억달러(약 1조3500억원) 이상의 지역사회 추가 투자와 지자체 대상 비밀유지계약(NDA) 완전 폐지를 선언했다. 대규모 인프라 확충 과정에서 불거진 주민 불만과 정치권 압박을 정면으로 돌파…",
     "pubDate": "2026-10-03T11:34:40.000Z",
     "collectedAt": "2026-10-03T04:44:20.814Z"
+  },
+  {
+    "id": "https://www.hankyung.com/article/2026100203896",
+    "category": "economy",
+    "source": "한국경제 증권",
+    "title": "\"이 신호 보이면 위험\"…서학개미 떨게 한 '시나리오' 뭐길래 [분석+]",
+    "link": "https://www.hankyung.com/article/2026100203896",
+    "summary": "",
+    "pubDate": "2026-10-03T11:26:21.000Z",
+    "collectedAt": "2026-10-03T16:01:47.033Z"
+  },
+  {
+    "id": "https://www.hankyung.com/article/2026100319347",
+    "category": "economy",
+    "source": "한국경제 경제",
+    "title": "은행·저축은행·캐피탈까지 뚫리자…금융당국, CEO 긴급 소집",
+    "link": "https://www.hankyung.com/article/2026100319347",
+    "summary": "",
+    "pubDate": "2026-10-03T11:17:32.000Z",
+    "collectedAt": "2026-10-03T16:01:47.033Z"
   },
   {
     "id": "https://www.hankyung.com/article/202610021279i",
@@ -420,6 +520,16 @@
     "collectedAt": "2026-10-03T04:44:20.814Z"
   },
   {
+    "id": "https://news.hada.io/topic?id=34695",
+    "category": "it",
+    "source": "긱뉴스",
+    "title": "Show GN: Piano: Soloist - 악보 파일(MusicXML)을 올리면 악보와 건반으로 재생해 주는 웹 피아노 비주얼라이저",
+    "link": "https://news.hada.io/topic?id=34695",
+    "summary": "피아노 비주얼라이저 웹 앱입니다. MusicXML 악보(.mxl, .musicxml)를 끌어다 놓으면 악보, 떨어지는 노트, 건반이 한 화면에서 같이 재생됩니다. 설치와 가입이 없고 무료입니다. 대표적인 특징은 세 가지입니다. 악보가 같이 나옵니다. 떨어지는 노트만 보여 주는 것이 아니…",
+    "pubDate": "2026-10-03T00:41:41.000Z",
+    "collectedAt": "2026-10-03T16:01:47.033Z"
+  },
+  {
     "id": "20261003000024",
     "category": "economy",
     "source": "전자신문 경제",
@@ -618,6 +728,16 @@
     "summary": "",
     "pubDate": "2026-10-02T22:18:18.000Z",
     "collectedAt": "2026-10-02T23:38:52.069Z"
+  },
+  {
+    "id": "https://news.hada.io/topic?id=34685",
+    "category": "it",
+    "source": "긱뉴스",
+    "title": "Show GN: LibreDB Studio - 드라이버 18개로 엔진 46개에 붙는 셀프호스팅 브라우저 DB IDE",
+    "link": "https://news.hada.io/topic?id=34685",
+    "summary": "브라우저에서 도는 셀프호스팅 SQL IDE입니다. 드라이버 18개로 이름 있는 엔진 46개에 연결됩니다. PostgreSQL, MySQL, Oracle, SQL Server, SQLite, MongoDB, Redis, ClickHouse를 한 화면에서 다루고, 0.17.0에서 Prome…",
+    "pubDate": "2026-10-02T22:15:09.000Z",
+    "collectedAt": "2026-10-03T16:01:47.033Z"
   },
   {
     "id": "https://www.hankyung.com/article/2026100314527",
@@ -14877,126 +14997,6 @@
     "link": "https://www.hankyung.com/article/2026092912496",
     "summary": "",
     "pubDate": "2026-09-29T05:00:03.000Z",
-    "collectedAt": "2026-09-29T08:11:11.821Z"
-  },
-  {
-    "id": "20260929000125",
-    "category": "economy",
-    "source": "전자신문 경제",
-    "title": "산업은행, 기업 신용평가 기준 다시 짠다…정책금융 선별력 높인다",
-    "link": "https://www.etnews.com/20260929000125",
-    "summary": "한국산업은행이 기업 신용평가 기준과 절차를 전면 손질한다. 최근 기업 부도율과 경제 상황을 반영하고 비재무평가와 등급조정 과정의 객관성을 높여 기업금융의 위험 선별력을 강화한다. 금융권에 따르면 산업은행은 국제재무보고기준(IFRS)·일반기업회계기준(GAAP) 적용기업과 비외감기업을 아우…",
-    "pubDate": "2026-09-29T05:00:00.000Z",
-    "collectedAt": "2026-09-29T08:11:11.821Z"
-  },
-  {
-    "id": "20260928000219",
-    "category": "economy",
-    "source": "전자신문 경제",
-    "title": "UAM 띄운다며 전담 기관은 폐지… 12년 공든 '항공안전 전문성' 유턴",
-    "link": "https://www.etnews.com/20260928000219",
-    "summary": "항공기 인증 기능을 전문기관에 모아 육성해 온 정부 정책이 12년 만에 '유턴'하게 되면서 업계 우려도 커지고 있다. UAM 등 미래 항공산업이 커지며 인증 전문성을 강화해야 할 시점에, 전담 기관이 간판을 내리게 되면서다. '시대 흐름에 역행한다'는 지적이 나오는 이유다. 28일 관련…",
-    "pubDate": "2026-09-29T05:00:00.000Z",
-    "collectedAt": "2026-09-29T08:11:11.821Z"
-  },
-  {
-    "id": "20260929000041",
-    "category": "economy",
-    "source": "전자신문 경제",
-    "title": "이찬진 금융감독원장 “증권사 사회공헌 뒤처져, 사회적 책임 강화해야”",
-    "link": "https://www.etnews.com/20260929000041",
-    "summary": "이찬진 금융감독원장이 증권업계가 크게 성장한 만큼 사회공헌 규모를 확대하라고 주문했다. 이찬진 금융감독원장은 29일 23개 증권회사 최고경영자(CEO)들과 만나 간담회를 진행하며 이같이 밝혔다. 이 원장은 “증권업계의 사회공헌 규모가 은행 등 타 금융권역에 비해 크게 뒤처져 있다”며 “…",
-    "pubDate": "2026-09-29T05:00:00.000Z",
-    "collectedAt": "2026-09-29T08:11:11.821Z"
-  },
-  {
-    "id": "20260929000212",
-    "category": "it",
-    "source": "전자신문 IT/통신",
-    "title": "[포토] 스페이스X, 스타십 14차 시험 비행 성공 및 궤도 진입",
-    "link": "https://www.etnews.com/20260929000212",
-    "summary": "28일(현지시간), 미국 텍사스주 보카치카의 스타베이스에서 스페이스X의 차세대 우주선 '스타십(Starship)'이 신형 '슈퍼 헤비 V3(Super Heavy V3)' 부스터에 실려 성공적으로 발사됐다. 스타십은 스타링크 V3 위성을 우주로 처음 운송하는 첫 궤도 임무를 완수했디. 〈…",
-    "pubDate": "2026-09-29T04:59:49.000Z",
-    "collectedAt": "2026-09-29T08:11:11.821Z"
-  },
-  {
-    "id": "20260929000211",
-    "category": "economy",
-    "source": "전자신문 경제",
-    "title": "“이자 지금 받을까, 만기에 받을까”…케이뱅크 선택형 정기예금 출시",
-    "link": "https://www.etnews.com/20260929000211",
-    "summary": "케이뱅크가 '내맘대로 이자받는 정기예금'을 출시했다. 고객이 이자 수령 시점을 직접 선택하고 추가 입금과 부분 인출도 할 수 있는 상품이다. 고객의 자금 운용 자율성을 높인 점이 가장 큰 특징이다. 상품 가입 시 이자를 바로 받을지 혹은 만기에 받을지 선택할 수 있다. 가입 후에도 추가…",
-    "pubDate": "2026-09-29T04:59:45.000Z",
-    "collectedAt": "2026-09-29T08:11:11.821Z"
-  },
-  {
-    "id": "20260929000210",
-    "category": "ai",
-    "source": "전자신문 AI",
-    "title": "베스핀글로벌, JB금융그룹 전사 AX 혁신 추진…“AI 도입으로 업무 성과”",
-    "link": "https://www.etnews.com/20260929000210",
-    "summary": "베스핀글로벌은 JB금융그룹과 금융그룹의 새로운 인공지능 전환(AX) 모델 구축에 나선다고 29일 밝혔다. 이번 협력은 개별 인공지능(AI) 서비스를 도입하는 프로젝트를 넘어, 그룹 차원의 공통 표준과 계열사별 업무 특성을 결합하고, AI 기술을 실제 업무 성과로 연결하는 전사 AX 실행…",
-    "pubDate": "2026-09-29T04:59:41.000Z",
-    "collectedAt": "2026-09-29T08:11:11.821Z"
-  },
-  {
-    "id": "https://www.hankyung.com/article/2026092920006",
-    "category": "economy",
-    "source": "한국경제 증권",
-    "title": "쿼드운용, 대양전기공업에 2차 주주서한…\"자사주 소각하고 배당성향 높여야\"",
-    "link": "https://www.hankyung.com/article/2026092920006",
-    "summary": "",
-    "pubDate": "2026-09-29T04:59:14.000Z",
-    "collectedAt": "2026-09-29T08:11:11.821Z"
-  },
-  {
-    "id": "20260929000206",
-    "category": "economy",
-    "source": "전자신문 경제",
-    "title": "산업부 발표 '차세대 배터리 로드맵', 160Wh/kg 나트륨전지…나인테크 관계사 에너지11, 국책과제로 개발 중",
-    "link": "https://www.etnews.com/20260929000206",
-    "summary": "정부가 차세대 배터리의 승부처로 나트륨이온과 전고체를 지목하고 2027년 나트륨이온전지 에너지밀도 목표를 160Wh/kg으로 제시한 가운데, 이차전지 장비 전문기업 나인테크(대표 박근노)의 관계사 에너지11이 이를 과제명으로 내걸고 2년째 개발을 진행해오고 있다고 밝혔다. 산업통상자원부…",
-    "pubDate": "2026-09-29T04:58:00.000Z",
-    "collectedAt": "2026-09-29T08:11:11.821Z"
-  },
-  {
-    "id": "20260929000205",
-    "category": "economy",
-    "source": "전자신문 경제",
-    "title": "KB국민은행, 美 BNY와 맞손…국경간 디지털 지급결제·송금 협력",
-    "link": "https://www.etnews.com/20260929000205",
-    "summary": "KB국민은행이 미국 뉴욕멜론은행(BNY)과 글로벌 디지털자산 결제 및 송금 서비스 혁신을 위한 업무협약(MOU)을 체결했다. KB국민은행은 BNY의 글로벌 지급결제 네트워크와 역량을 활용해 외국인 및 유학생 고객에게 맞춤형 해외 송금 서비스를 제공한다. 양사는 국경간 결제 환경을 개선하…",
-    "pubDate": "2026-09-29T04:57:49.000Z",
-    "collectedAt": "2026-09-29T08:11:11.821Z"
-  },
-  {
-    "id": "https://www.hankyung.com/article/2026092919996",
-    "category": "economy",
-    "source": "한국경제 증권",
-    "title": "NH투자증권, 1년6개월 만기 단기형 IMA 상품 출시…1000억원 규모 모집",
-    "link": "https://www.hankyung.com/article/2026092919996",
-    "summary": "",
-    "pubDate": "2026-09-29T04:55:57.000Z",
-    "collectedAt": "2026-09-29T08:11:11.821Z"
-  },
-  {
-    "id": "20260929000203",
-    "category": "ai",
-    "source": "전자신문 AI",
-    "title": "[포토] 48시간동안 해커톤 챌린지",
-    "link": "https://www.etnews.com/20260929000203",
-    "summary": "제2회 글로벌 Web3 개발자 컨퍼런스(GWDC 2026 Korea)가 29일 서울 서초구 aT센터에서 열렸다. 해커톤 존에서 참가자들이 48시간동안 진행되는 극한 코딩 챌린지에 참가하고 있다.",
-    "pubDate": "2026-09-29T04:55:15.000Z",
-    "collectedAt": "2026-09-29T08:11:11.821Z"
-  },
-  {
-    "id": "20260929000201",
-    "category": "ai",
-    "source": "전자신문 AI",
-    "title": "[포토] 48시간동안 열리는 해커톤 챌린지",
-    "link": "https://www.etnews.com/20260929000201",
-    "summary": "제2회 글로벌 Web3 개발자 컨퍼런스(GWDC 2026 Korea)가 29일 서울 서초구 aT센터에서 열렸다. 해커톤 존에서 참가자들이 48시간동안 진행되는 극한 코딩 챌린지에 참가하고 있다.",
-    "pubDate": "2026-09-29T04:54:40.000Z",
     "collectedAt": "2026-09-29T08:11:11.821Z"
   }
 ]
