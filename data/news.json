@@ -1,5 +1,25 @@
 [
   {
+    "id": "https://news.hada.io/topic?id=34904",
+    "category": "it",
+    "source": "긱뉴스",
+    "title": "세계 최초의 차세대 지열 발전소, 단 23개월 만에 완공",
+    "link": "https://news.hada.io/topic?id=34904",
+    "summary": "Fervo Energy가 유타주 Cape Station 발전소의 첫 블록을 착공부터 상업 운전까지 23개월 만에 완공하고, 예정보다 하루 빠른 9월 30일 전력 판매를 시작함 이번에 가동한 설비는 곧 100MW 규모가 될 발전소의 약 3분의 1이며, 전체 부지는 최대 ...",
+    "pubDate": "2026-10-06T18:37:48.000Z",
+    "collectedAt": "2026-10-06T19:22:25.152Z"
+  },
+  {
+    "id": "https://news.hada.io/topic?id=34903",
+    "category": "it",
+    "source": "긱뉴스",
+    "title": "AI가 이제 자체 추론 하드웨어를 개발할 수 있게 됨",
+    "link": "https://news.hada.io/topic?id=34903",
+    "summary": "openTPU는 AI가 개발한 오픈소스 AI 가속기로, 하드웨어 설계부터 컴파일러, 시뮬레이터, 호스트 소프트웨어까지 하나의 작은 모노레포에 담음 실제 FPGA 카드에서 실제 가중치를 사용하는 모델 10종을 실행하며, 모든 구성에서 시뮬레이터와 토큰 단위로 일치하는...",
+    "pubDate": "2026-10-06T18:34:47.000Z",
+    "collectedAt": "2026-10-06T19:22:25.152Z"
+  },
+  {
     "id": "https://www.aitimes.com/news/articleView.html?idxno=215987",
     "category": "ai",
     "source": "AI타임스 AI산업",
@@ -8,6 +28,16 @@
     "summary": "미국 오픈소스 진영의 기대주 리플렉션 AI가 첫 자체 오픈웨이트 모델을 선보였다. 최첨단 모델 수준의 성능에는 미치지 못했으나, 코딩·추론·에이전트 작업에 특화해 경쟁 모델 대비 적은 연산으로 동급 성능을 내는 뛰어난 효율성을 강점으로 내세웠다.리플렉션 AI는 5일(현지시간) 첫 오픈웨…",
     "pubDate": "2026-10-06T18:19:10.000Z",
     "collectedAt": "2026-10-06T13:06:14.266Z"
+  },
+  {
+    "id": "https://news.hada.io/topic?id=34902",
+    "category": "it",
+    "source": "긱뉴스",
+    "title": "Factor 개요",
+    "link": "https://news.hada.io/topic?id=34902",
+    "summary": "Factor는 데이터 스택에 값을 넣고 워드(word)가 이를 소비해 결과를 쌓는 방식으로 실행되며, 짧은 정의와 컴비네이터로 값의 흐름을 구성함 쿼테이션(quotation) 은 실행 가능한 코드를 값으로 다루는 수단이며, 조건문, 반복, 부분 적용, 합성도 쿼테이션을 받는...",
+    "pubDate": "2026-10-06T18:14:38.000Z",
+    "collectedAt": "2026-10-06T19:22:25.152Z"
   },
   {
     "id": "https://www.aitimes.com/news/articleView.html?idxno=215998",
@@ -50,6 +80,16 @@
     "collectedAt": "2026-10-06T13:06:14.266Z"
   },
   {
+    "id": "https://news.hada.io/topic?id=34901",
+    "category": "it",
+    "source": "긱뉴스",
+    "title": "우리는 “unalive”를 없앨 것이다",
+    "link": "https://news.hada.io/topic?id=34901",
+    "summary": "“unalive” 같은 완곡어법은 죽음이나 살해를 정확히 말하면 플랫폼이 노출을 줄이거나 검열할 것이라는 경험 또는 예상에서 확산됐으며, 일상 대화까지 바꾸고 있음 플랫폼의 제한을 피하려는 철자 변형과 이모지는 콘텐츠 필터링도 방해해, 성폭력처럼 원치 않는...",
+    "pubDate": "2026-10-06T17:34:32.000Z",
+    "collectedAt": "2026-10-06T19:22:25.152Z"
+  },
+  {
     "id": "https://www.aitimes.com/news/articleView.html?idxno=216013",
     "category": "ai",
     "source": "AI타임스 AI산업",
@@ -80,6 +120,16 @@
     "collectedAt": "2026-10-06T13:06:14.266Z"
   },
   {
+    "id": "https://news.hada.io/topic?id=34900",
+    "category": "it",
+    "source": "긱뉴스",
+    "title": "우리가 알던 오픈소스는 죽었다",
+    "link": "https://news.hada.io/topic?id=34900",
+    "summary": "AI로 기여를 만드는 비용은 낮아졌지만 검토 비용은 줄지 않아, 오픈소스 유지관리자들이 외부 기여를 제한하거나 차단하고 있음 과거에는 상당한 분량의 패치가 기여자의 노력과 선의를 가늠하는 신호였지만, AI 생성 코드가 그 신호를 무너뜨리면서 낯선 기여자를...",
+    "pubDate": "2026-10-06T17:04:03.000Z",
+    "collectedAt": "2026-10-06T19:22:25.152Z"
+  },
+  {
     "id": "https://www.aitimes.com/news/articleView.html?idxno=216012",
     "category": "ai",
     "source": "AI타임스 AI산업",
@@ -98,6 +148,26 @@
     "summary": "■ 딥엑스와 두산로보틱스가 원자력발전소 제조 현장의 숙련 용접공 부족 문제를 해결하기 위해 ‘AI 지능형 용접 로봇 솔루션’ 개발에 협력한다. 비전 AI와 협동로봇 기술을 결합해 용접 공정을 지능화하는 것이 핵심이다. 두산로보틱스는 컨소시엄 총괄과 시스템 통합 아키텍처 설계를 맡아 협동…",
     "pubDate": "2026-10-06T17:00:00.000Z",
     "collectedAt": "2026-10-06T13:06:14.266Z"
+  },
+  {
+    "id": "20261007000001",
+    "category": "ai",
+    "source": "전자신문 SW",
+    "title": "휴네시온, 'AI 페스타 26' 참가…N2SF 전환·AI 보안 전략 공개",
+    "link": "https://www.etnews.com/20261007000001",
+    "summary": "휴네시온이 'AI 페스타 26'에 참가해 국가 망 보안체계(N2SF) 전환 전략과 안전한 정보연계·보안 방안을 선보인다고 6일 밝혔다. AI 페스타 26은 과학기술정보통신부 인공지능주간의 공식 행사로, AI 기술과 산업·비즈니스를 연결하고 산업 현장의 AI 적용 사례를 공유하는 AI 비…",
+    "pubDate": "2026-10-06T16:33:23.000Z",
+    "collectedAt": "2026-10-06T19:22:25.152Z"
+  },
+  {
+    "id": "https://news.hada.io/topic?id=34899",
+    "category": "it",
+    "source": "긱뉴스",
+    "title": "바이브코딩은 직접 코드를 쓰는 것만큼 재미있지 않다",
+    "link": "https://news.hada.io/topic?id=34899",
+    "summary": "AI 보조 코딩으로 유용한 결과물을 빠르게 만들 수 있어도, 만드는 과정의 즐거움은 직접 코드를 쓸 때보다 적을 수 있음 바이브코딩은 재미를 앞당겨 제공함. 적은 노력으로 아이디어를 시제품으로 만들 수 있지만, 리팩터링은 처음처럼 짜릿하지 않음 만...",
+    "pubDate": "2026-10-06T16:33:10.000Z",
+    "collectedAt": "2026-10-06T19:22:25.152Z"
   },
   {
     "id": "https://www.aitimes.com/news/articleView.html?idxno=216000",
@@ -150,6 +220,36 @@
     "collectedAt": "2026-10-06T13:06:14.266Z"
   },
   {
+    "id": "https://news.hada.io/topic?id=34898",
+    "category": "it",
+    "source": "긱뉴스",
+    "title": "Show GN: Mytory Video Tools - 간단한 영상 작업을 초고속으로 처리하는 FFmpeg GUI",
+    "link": "https://news.hada.io/topic?id=34898",
+    "summary": "영상 작업을 할 때가 많은데 몇 가지가 아쉬웠습니다. mkv를 mp4로 변경하는데 GUI 인코딩 툴들은 컨테이너만 바꾸는 기능을 찾질 못하겠더라고요. 재인코딩을 하면 엄청 오래 걸리지만 컨테이너만 갈아끼우면(즉, Remuxing) 완전 빠른데 말입니다. 물론 내용물이 컨테이너에 호환이…",
+    "pubDate": "2026-10-06T15:46:09.000Z",
+    "collectedAt": "2026-10-06T19:22:25.152Z"
+  },
+  {
+    "id": "https://www.hankyung.com/article/202610066728i",
+    "category": "economy",
+    "source": "한국경제 경제",
+    "title": "美 안두릴, 잠수함 생산 지원에 신규 조선 건설",
+    "link": "https://www.hankyung.com/article/202610066728i",
+    "summary": "",
+    "pubDate": "2026-10-06T15:40:26.000Z",
+    "collectedAt": "2026-10-06T19:22:25.152Z"
+  },
+  {
+    "id": "https://news.hada.io/topic?id=34897",
+    "category": "it",
+    "source": "긱뉴스",
+    "title": "Meta의 Muse, 귀여운 외양에 가려진 개인정보 보호와 보안의 총체적 난국",
+    "link": "https://news.hada.io/topic?id=34897",
+    "summary": "Meta의 에이전트형 AI Muse에서 Mac 사용자 감시가 가능한 제로데이 취약점과 무단 메시지 접근 등 개인정보 보호와 보안 문제가 잇따름 사용자 대신 작업을 수행하는 과정에서 헐값 판매와 집 주소 전달 사례가 발생했으며, 해당 사용자가 설정한 권한을 제대로 이...",
+    "pubDate": "2026-10-06T15:33:22.000Z",
+    "collectedAt": "2026-10-06T19:22:25.152Z"
+  },
+  {
     "id": "https://www.aitimes.com/news/articleView.html?idxno=215997",
     "category": "ai",
     "source": "AI타임스 AI산업",
@@ -160,6 +260,76 @@
     "collectedAt": "2026-10-06T13:06:14.266Z"
   },
   {
+    "id": "https://news.hada.io/topic?id=34895",
+    "category": "it",
+    "source": "긱뉴스",
+    "title": "종 손실 후 자연의 회복 능력은 크게 과대평가돼 있음",
+    "link": "https://news.hada.io/topic?id=34895",
+    "summary": "전 세계 연구를 종합한 결과, 대부분의 생태계 서비스와 기능은 소수의 종만으로 충분해지는 것이 아니라 생물다양성이 높아질수록 계속 증가함 423개 연구, 222,829개 데이터 포인트를 분석한 이번 연구는 종들이 서로를 대신해 종 손실의 영향을 줄인다는",
+    "pubDate": "2026-10-06T14:45:03.000Z",
+    "collectedAt": "2026-10-06T19:22:25.152Z"
+  },
+  {
+    "id": "https://news.hada.io/topic?id=34894",
+    "category": "it",
+    "source": "긱뉴스",
+    "title": "Polars 2.0 출시",
+    "link": "https://news.hada.io/topic?id=34894",
+    "summary": "LazyFrame.collect()의 기본 실행 엔진이 스트리밍 엔진으로 바뀌어 대부분 쿼리의 메모리 사용량과 성능이 개선됨. 일부 연산에서 행 순서를 보장하려면 maintain_order=True를 지정해야 함 메모리가 부족할 때 데이터를 디스크로 내보내는 아웃...",
+    "pubDate": "2026-10-06T14:42:02.000Z",
+    "collectedAt": "2026-10-06T19:22:25.152Z"
+  },
+  {
+    "id": "https://news.hada.io/topic?id=34893",
+    "category": "it",
+    "source": "긱뉴스",
+    "title": "Show GN: agent-gc – AI 코딩 에이전트가 남긴 worktree 쓰레기를 치워주는 TUI",
+    "link": "https://news.hada.io/topic?id=34893",
+    "summary": "Codex, Claude Code 같은 에이전트에 병렬로 일을 시키다 보니 worktree가 계속 늘어났음. worktree마다 install, 빌드, 테스트가 돌면서 node_modules, .next, target, .venv도 같이 복제됨 어느 날 디스크가 꽉 차서 열어 보니 ~/…",
+    "pubDate": "2026-10-06T14:41:21.000Z",
+    "collectedAt": "2026-10-06T19:22:25.152Z"
+  },
+  {
+    "id": "https://news.hada.io/topic?id=34892",
+    "category": "it",
+    "source": "긱뉴스",
+    "title": "Mistral Large 4: “Le Chonk”",
+    "link": "https://news.hada.io/topic?id=34892",
+    "summary": "Mistral이 총 1조 개 파라미터, 활성 파라미터 490억 개를 갖춘 네이티브 멀티모달 모델 Mistral Large 4의 공개 프리뷰를 출시함 Mistral 평가에서 코딩, 에이전트 작업, 멀티모달 이해가 세계 최상위 오픈 모델과 경쟁하며, 사이버보안, 금융, 법률에서는 오픈 모.…",
+    "pubDate": "2026-10-06T14:39:02.000Z",
+    "collectedAt": "2026-10-06T19:22:25.152Z"
+  },
+  {
+    "id": "20261006000427",
+    "category": "ai",
+    "source": "전자신문 SW",
+    "title": "프리윌린, 대학 AI 코스웨어 '풀리캠퍼스' LXP로 진화",
+    "link": "https://www.etnews.com/20261006000427",
+    "summary": "프리윌린이 대학 교육 전문 인공지능(AI) 코스웨어 '풀리캠퍼스'를 학습 경험 플랫폼(LXP) '풀리캠퍼스 LXP'로 확장했다. 풀리캠퍼스는 기초학력 진단과 맞춤형 학습을 지원하는 AI 코스웨어로 전국 100여 대학에서 활용되고 있다. 대학생 기초학력 AI 진단평가 누적 응시자는 82만…",
+    "pubDate": "2026-10-06T14:32:26.000Z",
+    "collectedAt": "2026-10-06T19:22:25.152Z"
+  },
+  {
+    "id": "https://www.hankyung.com/article/202610066710i",
+    "category": "economy",
+    "source": "한국경제 경제",
+    "title": "유가·美 국채 내리자…S&P500·나스닥 사상 최고치 돌파",
+    "link": "https://www.hankyung.com/article/202610066710i",
+    "summary": "",
+    "pubDate": "2026-10-06T14:21:53.000Z",
+    "collectedAt": "2026-10-06T19:22:25.152Z"
+  },
+  {
+    "id": "https://www.hankyung.com/article/202610066692i",
+    "category": "economy",
+    "source": "한국경제 경제",
+    "title": "최병오 섬산련 회장 \"韓-대만, 새로운 협력관계 기대\"",
+    "link": "https://www.hankyung.com/article/202610066692i",
+    "summary": "",
+    "pubDate": "2026-10-06T13:52:31.000Z",
+    "collectedAt": "2026-10-06T19:22:25.152Z"
+  },
+  {
     "id": "https://www.aitimes.com/news/articleView.html?idxno=215996",
     "category": "ai",
     "source": "AI타임스 AI산업",
@@ -168,6 +338,36 @@
     "summary": "접착제 및 코팅 분야의 글로벌 선도 기업 헨켈(Henkel)의 접착 테크놀러지스(Adhesive Technologies) 사업부가 오는 14일부터 16일까지 서울 코엑스에서 열리는 ‘SEDEX 2026(제28회 반도체대전)’에 참가한다. 헨켈은 ‘Advanced Packaging for…",
     "pubDate": "2026-10-06T13:49:40.000Z",
     "collectedAt": "2026-10-06T05:46:32.156Z"
+  },
+  {
+    "id": "https://news.hada.io/topic?id=34890",
+    "category": "it",
+    "source": "긱뉴스",
+    "title": "Mistral Large 4 발표 - 코딩·보안·시각 이해를 강화한 1조 파라미터 오픈웨이트 모델",
+    "link": "https://news.hada.io/topic?id=34890",
+    "summary": "Mistral의 가장 큰 멀티모달 모델로, 총 1.05조 파라미터 중 490억 개를 활성화하는 MoE 구조를 사용하며 텍스트와 이미지 입력, 100만 토큰 문맥을 지원함 코딩과 에이전트 업무, 사이버 보안·금융·법률에 집중해 성능을 높였으며, 코딩 에이전트 종합 평가에서 D...",
+    "pubDate": "2026-10-06T13:38:19.000Z",
+    "collectedAt": "2026-10-06T19:22:25.152Z"
+  },
+  {
+    "id": "https://www.hankyung.com/article/202610066688i",
+    "category": "economy",
+    "source": "한국경제 경제",
+    "title": "美 8월 무역적자 142조원…트럼프 관세 폭탄 이후 최대",
+    "link": "https://www.hankyung.com/article/202610066688i",
+    "summary": "",
+    "pubDate": "2026-10-06T13:37:01.000Z",
+    "collectedAt": "2026-10-06T19:22:25.152Z"
+  },
+  {
+    "id": "https://news.hada.io/topic?id=34889",
+    "category": "it",
+    "source": "긱뉴스",
+    "title": "JetBrains, 매출 늘었지만 2025년 순손실 전환",
+    "link": "https://news.hada.io/topic?id=34889",
+    "summary": "JetBrains가 2025년 약 1,440만 달러의 순손실을 기록하며, 전년 약 1억 700만 달러 흑자에서 적자로 전환함 매출은 약 7억 3,100만 달러로 최고치를 기록했으며, 체코 코루나 기준 전년 대비 6.3% 증가함 영업이익은 약 3,430만 달러로 흑자를 유...",
+    "pubDate": "2026-10-06T13:35:19.000Z",
+    "collectedAt": "2026-10-06T19:22:25.152Z"
   },
   {
     "id": "https://www.aitimes.com/news/articleView.html?idxno=215992",
@@ -198,6 +398,16 @@
     "summary": "앤트로픽에 이어 오픈AI도 '챗GPT'와 '코덱스'가 생성하는 텍스트에 보이지 않는 워터마크를 도입한다. 단, 이번 조치는 유럽연합(EU)의 AI 법에 대응하는 것으로, 전 세계에 일괄 적용하는 것은 아니다.오픈AI는 5일(현지시간) 앞으로 몇 주 안에 EU 내 모든 요금제의 챗GPT와…",
     "pubDate": "2026-10-06T13:06:52.000Z",
     "collectedAt": "2026-10-06T05:46:32.156Z"
+  },
+  {
+    "id": "https://www.hankyung.com/article/2026100659626",
+    "category": "economy",
+    "source": "한국경제 증권",
+    "title": "\"무조건 오른다\" 개미들 쓸어 담았는데…3개월 만에 '환호' [분석+]",
+    "link": "https://www.hankyung.com/article/2026100659626",
+    "summary": "",
+    "pubDate": "2026-10-06T13:00:05.000Z",
+    "collectedAt": "2026-10-06T19:22:25.152Z"
   },
   {
     "id": "https://www.hankyung.com/article/202610066641i",
@@ -14787,216 +14997,6 @@
     "link": "https://www.etnews.com/20260930000358",
     "summary": "글로벌 IT 기업 FPT는 글로벌 전사적자원관리(ERP) 솔루션 기업 IAS의 골드 파트너(Gold Partner)로서 협력하게 되었다고 1일 밝혔다. IAS는 ERP 플랫폼 'Canias ERP(카니아스 ERP)'를 선보인 글로벌 ERP 솔루션 기업이다. 양사는 이번 파트너십을 계기로…",
     "pubDate": "2026-10-01T02:30:00.000Z",
-    "collectedAt": "2026-10-01T05:10:56.328Z"
-  },
-  {
-    "id": "https://www.hankyung.com/article/202610017139i",
-    "category": "economy",
-    "source": "한국경제 경제",
-    "title": "\"LNG는 '옵션의 경제'\"…SKI E&S, LNG 수요 꺾여도 끄떡없는 이유는",
-    "link": "https://www.hankyung.com/article/202610017139i",
-    "summary": "",
-    "pubDate": "2026-10-01T02:29:48.000Z",
-    "collectedAt": "2026-10-01T05:10:56.328Z"
-  },
-  {
-    "id": "https://www.hankyung.com/article/2026100173296",
-    "category": "economy",
-    "source": "한국경제 증권",
-    "title": "삼전·닉스 자사주 매수에 코스피 낙폭 축소…코스닥 2%대 강세",
-    "link": "https://www.hankyung.com/article/2026100173296",
-    "summary": "",
-    "pubDate": "2026-10-01T02:25:44.000Z",
-    "collectedAt": "2026-10-01T05:10:56.328Z"
-  },
-  {
-    "id": "https://www.hankyung.com/article/202610017323i",
-    "category": "economy",
-    "source": "한국경제 증권",
-    "title": "고점서 28% 빠진 삼성SDI…개미들 '줍줍' 기회 열렸다",
-    "link": "https://www.hankyung.com/article/202610017323i",
-    "summary": "",
-    "pubDate": "2026-10-01T02:24:10.000Z",
-    "collectedAt": "2026-10-01T05:10:56.328Z"
-  },
-  {
-    "id": "https://www.hankyung.com/article/2026100170816",
-    "category": "economy",
-    "source": "한국경제 증권",
-    "title": "\"삼전닉스 독주 끝나나\"…증권가가 콕 찍은 '깜짝 실적' 종목 [분석+]",
-    "link": "https://www.hankyung.com/article/2026100170816",
-    "summary": "",
-    "pubDate": "2026-10-01T02:18:25.000Z",
-    "collectedAt": "2026-10-01T05:10:56.328Z"
-  },
-  {
-    "id": "https://news.hada.io/topic?id=34581",
-    "category": "it",
-    "source": "긱뉴스",
-    "title": "AI는 어떻게 여기까지 왔고 어디로 가는 중인가",
-    "link": "https://news.hada.io/topic?id=34581",
-    "summary": "VC 투자자 Akshay Mehra의 글. 5년 전만 해도 마켓플레이스, \"X계의 우버\", 버티컬 SaaS, 네오뱅크 피치가 넘쳤는데, 지금은 자본 집약적이라 외면받던 하드 사이언스(딥테크) 가 중심으로 올라옴 피터 틸의 \"날아다니는 자동차를 원했는데 140자를 얻었다\"는 말...",
-    "pubDate": "2026-10-01T02:17:11.000Z",
-    "collectedAt": "2026-10-01T05:10:56.328Z"
-  },
-  {
-    "id": "https://www.hankyung.com/article/2026100172657",
-    "category": "economy",
-    "source": "한국경제 경제",
-    "title": "산업부, 美 LNG 500억불 투자 발표에 \"아직 확정 안 돼\" 선긋기",
-    "link": "https://www.hankyung.com/article/2026100172657",
-    "summary": "",
-    "pubDate": "2026-10-01T02:16:30.000Z",
-    "collectedAt": "2026-10-01T05:10:56.328Z"
-  },
-  {
-    "id": "20261001000205",
-    "category": "economy",
-    "source": "전자신문 경제",
-    "title": "한국투자증권, '데이터센터 PF·GPU 파이낸싱 금융구조 설명회' 성료",
-    "link": "https://www.etnews.com/20261001000205",
-    "summary": "한국투자증권은 지난 30일 서울 여의도 본사에서 기관투자자·건설사·운용사 및 AI 인프라 운영사 등을 대상으로 '데이터센터 PF 및 GPU 파이낸싱 금융구조 설명회'를 개최했다고 1일 밝혔다. 한국투자증권 PF그룹과 리서치본부에서는 △데이터센터 산업의 최신 지형 변화와 AI 팩토리 전환…",
-    "pubDate": "2026-10-01T02:12:15.000Z",
-    "collectedAt": "2026-10-01T05:10:56.328Z"
-  },
-  {
-    "id": "https://news.hada.io/topic?id=34580",
-    "category": "it",
-    "source": "긱뉴스",
-    "title": "바이브 코딩한 웹사이트를 디자이너가 만든 것처럼 보이게 한 방법",
-    "link": "https://news.hada.io/topic?id=34580",
-    "summary": "Railcode 웹사이트는 코딩 에이전트가 만든 여러 시안에서 아이디어를 골라 반복적으로 다듬는 과정을 거쳐 완성됨. 디자이너를 대체하기보다, 비디자이너도 자신이 좋아하는 디자인을 실제로 구현할 수 있었던 사례임 ‘코드를 레일 위에 올린다’는 제품 개념과 사용하는 재미를 결...",
-    "pubDate": "2026-10-01T02:10:57.000Z",
-    "collectedAt": "2026-10-01T05:10:56.328Z"
-  },
-  {
-    "id": "20261001000203",
-    "category": "economy",
-    "source": "전자신문 경제",
-    "title": "키움증권, 9개 자산운용사와 중개형 ISA ETF 거래 이벤트 진행",
-    "link": "https://www.etnews.com/20261001000203",
-    "summary": "키움증권이 9개 자산운용사와 함께 중개형 개인종합자산관리계좌(ISA)로 상장지수펀드(ETF)를 거래하는 고객에게 모바일 상품권을 주는 이벤트를 12월 30일까지 진행한다고 1일 밝혔다. 중개형 ISA 계좌에서 참여 운용사의 이벤트 대상 ETF를 순매수하면 금액에 따라 모바일 상품권을 받…",
-    "pubDate": "2026-10-01T02:09:27.000Z",
-    "collectedAt": "2026-10-01T05:10:56.328Z"
-  },
-  {
-    "id": "20261001000197",
-    "category": "economy",
-    "source": "전자신문 경제",
-    "title": "대신증권, 중개형 ISA 7% RP 특판…투자지원금 이벤트도",
-    "link": "https://www.etnews.com/20261001000197",
-    "summary": "대신증권이 중개형 개인종합자산관리계좌(ISA) 고객을 대상으로 연 7% 금리 특판 상품을 판매하고 투자지원금 이벤트를 진행한다고 1일 밝혔다. 중개형 ISA 전용 상품인 60일물 특판 환매조건부채권(RP)을 이날부터 판매한다. 1인당 매수한도는 기존 500만원에서 2000만원으로 늘렸다…",
-    "pubDate": "2026-10-01T02:03:56.000Z",
-    "collectedAt": "2026-10-01T05:10:56.328Z"
-  },
-  {
-    "id": "20261001000196",
-    "category": "economy",
-    "source": "전자신문 경제",
-    "title": "미래에셋증권 MTS, 'MAPS'로 개편…디지털자산 메뉴 신설",
-    "link": "https://www.etnews.com/20261001000196",
-    "summary": "미래에셋증권이 모바일 트레이딩 시스템(MTS) 'M-STOCK'의 이름을 'MAPS'로 바꾸고 포트폴리오 중심의 통합 투자 플랫폼으로 개편한다고 1일 밝혔다. MAPS는 'Mirae Asset Portfolio Service'의 약자다. 개편한 MTS는 고객이 자산 현황을 점검하고 투자…",
-    "pubDate": "2026-10-01T02:02:19.000Z",
-    "collectedAt": "2026-10-01T05:10:56.328Z"
-  },
-  {
-    "id": "20261001000195",
-    "category": "economy",
-    "source": "전자신문 경제",
-    "title": "이노비즈협회, 스마트서비스 지원사업 선정기업 실무교육 진행",
-    "link": "https://www.etnews.com/20261001000195",
-    "summary": "이노비즈협회(중소기업기술혁신협회)가 지난달 30일 판교 경기창조경제혁신센터에서 '2026년 중소기업 스마트서비스 지원사업' 선정기업을 대상으로 사업 수행 실무교육을 열었다고 1일 밝혔다. 교육은 올해부터 새로 도입된 통합연구비관리시스템(RCMS) 사용법을 다뤘다. RCMS는 정부 연구개…",
-    "pubDate": "2026-10-01T02:02:12.000Z",
-    "collectedAt": "2026-10-01T05:10:56.328Z"
-  },
-  {
-    "id": "20261001000194",
-    "category": "economy",
-    "source": "전자신문 경제",
-    "title": "우리은행, 방글라데시 진출 30년…현지 고객 70% 넘어",
-    "link": "https://www.etnews.com/20261001000194",
-    "summary": "우리은행이 국내 시중은행 최초로 방글라데시에 진출한 지 30년을 맞았다. 현지 고객 비중을 70% 이상으로 확대하고 안정적인 재무건전성을 유지하며 방글라데시와 협력을 지속할 방침이다. 우리은행은 지난 30일 방글라데시 다카 쉐라톤호텔에서 다카지점 개점 30주년 기념행사를 개최했다. 우리…",
-    "pubDate": "2026-10-01T02:02:01.000Z",
-    "collectedAt": "2026-10-01T05:10:56.328Z"
-  },
-  {
-    "id": "20261001000193",
-    "category": "economy",
-    "source": "전자신문 경제",
-    "title": "낫싱, 글로벌 브랜드 앰배서더 'V' 발탁...플래그십 'Headphone (1) Pro' 공개",
-    "link": "https://www.etnews.com/20261001000193",
-    "summary": "글로벌 테크 브랜드 낫싱(Nothing)이 아티스트 뷔(V)를 새로운 글로벌 브랜드 앰배서더로 선정하고 플래그십 오디오 제품 'Headphone (1) Pro'를 공개했다고 밝혔다. 서울에서 Dorothea Sing Zhang이 촬영한 이번 캠페인은 V의 창작 과정과 사운드에 대한 실험…",
-    "pubDate": "2026-10-01T02:01:47.000Z",
-    "collectedAt": "2026-10-01T05:10:56.328Z"
-  },
-  {
-    "id": "20261001000190",
-    "category": "economy",
-    "source": "전자신문 경제",
-    "title": "다온크리에이티브, 웹툰 '육아물 여주인공의 새언니' 일본 픽코마 1위 달성",
-    "link": "https://www.etnews.com/20261001000190",
-    "summary": "'육아물 여주인공의 새언니'는 국내 카카오페이지에서도 좋은 성적을 거둔 작품으로, 일본에서 운영하는 디지털만화 · 소설 플랫폼 픽코마(piccoma)에서도 SMARTOON(웹툰) 부문 종합 뿐만 아니라 판타지, 소녀 부문의 1위를 달성하여 국내를 넘어 해외 시장에서도 작품의 경쟁력을 입…",
-    "pubDate": "2026-10-01T02:00:35.000Z",
-    "collectedAt": "2026-10-01T05:10:56.328Z"
-  },
-  {
-    "id": "20261001000191",
-    "category": "ai",
-    "source": "전자신문 SW",
-    "title": "NIA 지원 가명정보 결합 사례, 경진대회서 대상·최우수상 6점 수상",
-    "link": "https://www.etnews.com/20261001000191",
-    "summary": "한국지능정보사회진흥원(NIA)은 가명정보 결합 전문지원을 맡은 사례가 지난달 30일 열린 '2026년 가명정보 활용 경진대회'에서 대상 1점과 최우수상 5점을 받았다고 1일 밝혔다. 이번 대회는 개인정보보호위원회가 총괄하고 과학기술정보통신부, 보건복지부, 금융위원회가 공동 주최했다. 총…",
-    "pubDate": "2026-10-01T02:00:29.000Z",
-    "collectedAt": "2026-10-01T05:10:56.328Z"
-  },
-  {
-    "id": "https://www.hankyung.com/article/202610017092i",
-    "category": "economy",
-    "source": "한국경제 증권",
-    "title": "마이크론 호실적 수혜주 찾는 초고수…'파두' 가장 많이 담았다",
-    "link": "https://www.hankyung.com/article/202610017092i",
-    "summary": "",
-    "pubDate": "2026-10-01T02:00:02.000Z",
-    "collectedAt": "2026-10-01T05:10:56.328Z"
-  },
-  {
-    "id": "20261001000172",
-    "category": "economy",
-    "source": "전자신문 경제",
-    "title": "농촌여행 최대 50% 할인…10~11월 '촌캉스' 혜택 늘린다",
-    "link": "https://www.etnews.com/20261001000172",
-    "summary": "농림축산식품부가 가을 여행철을 맞아 농촌 관광객 유치에 나선다. 농촌여행 상품을 최대 50% 할인하고 철도·버스 등 교통비 지원을 연계해 농촌 체류 수요를 끌어올린다. 농식품부는 매월 둘째 주 운영하던 '농촌관광 가는 주간'을 10월부터 11월까지 두 달간 확대 운영한다고 1일 밝혔다.…",
-    "pubDate": "2026-10-01T02:00:00.000Z",
-    "collectedAt": "2026-10-01T05:10:56.328Z"
-  },
-  {
-    "id": "https://www.hankyung.com/article/202610017198i",
-    "category": "it",
-    "source": "한국경제 IT",
-    "title": "쏘카, 차 바꿔가며 타는 장기 구독상품 출시",
-    "link": "https://www.hankyung.com/article/202610017198i",
-    "summary": "",
-    "pubDate": "2026-10-01T01:58:55.000Z",
-    "collectedAt": "2026-10-01T05:10:56.328Z"
-  },
-  {
-    "id": "https://www.hankyung.com/article/202610017091i",
-    "category": "economy",
-    "source": "한국경제 경제",
-    "title": "9월 수출 1200억달러 '초유의 기록'…'반도체·AI' 수퍼 사이클",
-    "link": "https://www.hankyung.com/article/202610017091i",
-    "summary": "",
-    "pubDate": "2026-10-01T01:58:04.000Z",
-    "collectedAt": "2026-10-01T05:10:56.328Z"
-  },
-  {
-    "id": "20260930000367",
-    "category": "it",
-    "source": "전자신문 IT/통신",
-    "title": "삼성 갤럭시Z 10·11월 114만대 생산…폴드8 주력·플립8 확대",
-    "link": "https://www.etnews.com/20260930000367",
-    "summary": "삼성전자가 갤럭시Z폴드8(와이드형 모델) 출시 효과에 힘입어 10~11월 폴더블폰 생산량을 114만대로 조정한 것으로 확인됐다. 신형 폴더블 스마트폰 출시 초기 집중 생산을 마치고 10월부터 후속 생산량 조정에 들어간다. 30일 본지가 입수한 삼성전자 MX사업부 생산계획에 따르면 10~…",
-    "pubDate": "2026-10-01T01:57:44.000Z",
     "collectedAt": "2026-10-01T05:10:56.328Z"
   }
 ]
