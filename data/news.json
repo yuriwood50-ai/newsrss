@@ -1,5 +1,95 @@
 [
   {
+    "id": "https://news.hada.io/topic?id=35086",
+    "category": "it",
+    "source": "긱뉴스",
+    "title": "어느 누구도 섬이 아니다",
+    "link": "https://news.hada.io/topic?id=35086",
+    "summary": "개인의 지적 활동은 인간 공동체 안에서만 지속될 수 있으며, AI가 그 공동체를 해체하면 사적인 지적 활동도 줄어들 수 있음 소프트웨어 개발에서는 AI로 단위 노력당 산출물이 늘어나는 대신, 논의가 프롬프트와 하네스 중심으로 좁아지고 인간의 역량 축적이 약...",
+    "pubDate": "2026-10-09T23:52:33.000Z",
+    "collectedAt": "2026-10-09T23:54:35.845Z"
+  },
+  {
+    "id": "https://news.hada.io/topic?id=35085",
+    "category": "it",
+    "source": "긱뉴스",
+    "title": "Python 3.15 정식 출시 - 지연 임포트, 불변 딕셔너리, UTF-8 기본 인코딩 도입",
+    "link": "https://news.hada.io/topic?id=35085",
+    "summary": "Python 3.15.0 정식 출시로 UTF-8을 기본 인코딩으로 사용하고, 불변 딕셔너리 frozendict와 고유한 표식 값을 만드는 sentinel 내장 타입 추가 명시적 지연 임포트로 모듈을 처음 사용하는 시점까지 로딩을 미뤄 시작 시간을 줄일 수 있...",
+    "pubDate": "2026-10-09T23:49:33.000Z",
+    "collectedAt": "2026-10-09T23:54:35.845Z"
+  },
+  {
+    "id": "https://news.hada.io/topic?id=35084",
+    "category": "it",
+    "source": "긱뉴스",
+    "title": "유튜버, 경찰 추적용 Flock 방식 카메라를 만들자 경찰이 찾아왔다고 밝혀",
+    "link": "https://news.hada.io/topic?id=35084",
+    "summary": "캐나다 소프트웨어 엔지니어이자 유튜버인 Anthony Sistilli가 경찰차 동선을 추적하는 자동 번호판 인식(ALPR) 카메라를 직접 제작해 설치함 Sistilli에 따르면 Peel Regional Police 소속 경찰관 2명이 집을 방문해 수집한 데이터를 어떤 목적으...",
+    "pubDate": "2026-10-09T23:46:33.000Z",
+    "collectedAt": "2026-10-09T23:54:35.845Z"
+  },
+  {
+    "id": "https://news.hada.io/topic?id=35083",
+    "category": "it",
+    "source": "긱뉴스",
+    "title": "미국, 전직 ICC 판사의 노벨평화상 수상 몇 시간 뒤 ICC 제재",
+    "link": "https://news.hada.io/topic?id=35083",
+    "summary": "Trump 행정부가 전직 국제형사재판소(ICC) 판사의 노벨평화상 수상 몇 시간 뒤 재판소 자체에 제재를 부과하며 유럽 동맹국들과 외교적 충돌을 빚음 기존 검사와 판사 개인에 대한 제재를 넘어 ICC와의 거래를 금지하는 조치로, 재판소에 서비스를 제공하는 기업까...",
+    "pubDate": "2026-10-09T23:43:33.000Z",
+    "collectedAt": "2026-10-09T23:54:35.845Z"
+  },
+  {
+    "id": "https://news.hada.io/topic?id=35082",
+    "category": "it",
+    "source": "긱뉴스",
+    "title": "AAA 지뢰찾기",
+    "link": "https://news.hada.io/topic?id=35082",
+    "summary": "AAA 지뢰찾기",
+    "pubDate": "2026-10-09T23:40:32.000Z",
+    "collectedAt": "2026-10-09T23:54:35.845Z"
+  },
+  {
+    "id": "https://www.hankyung.com/article/202610103221i",
+    "category": "economy",
+    "source": "한국경제 증권",
+    "title": "AI 수요 오해 풀렸지만, S&P 신기록 다가섰지만, 또 떨어진 반도체 [김현석의 월스트리트나우]",
+    "link": "https://www.hankyung.com/article/202610103221i",
+    "summary": "",
+    "pubDate": "2026-10-09T23:06:40.000Z",
+    "collectedAt": "2026-10-09T23:54:35.845Z"
+  },
+  {
+    "id": "https://www.hankyung.com/article/202610081365i",
+    "category": "economy",
+    "source": "한국경제 증권",
+    "title": "삼성이 연 '분기 이익 100조 시대'…소부장주 투자법은?",
+    "link": "https://www.hankyung.com/article/202610081365i",
+    "summary": "",
+    "pubDate": "2026-10-09T23:00:09.000Z",
+    "collectedAt": "2026-10-09T23:54:35.845Z"
+  },
+  {
+    "id": "https://www.hankyung.com/article/2026100929331",
+    "category": "economy",
+    "source": "한국경제 증권",
+    "title": "ETF·주식 직접 고르다 지친 개미…랩에 1억 맡겼더니 '반전'",
+    "link": "https://www.hankyung.com/article/2026100929331",
+    "summary": "",
+    "pubDate": "2026-10-09T22:37:55.000Z",
+    "collectedAt": "2026-10-09T23:54:35.845Z"
+  },
+  {
+    "id": "https://www.hankyung.com/article/2026100814886",
+    "category": "economy",
+    "source": "한국경제 증권",
+    "title": "\"BTS 6700억 벌었다는데 왜\"…주가 반토막에 개미들 '비명'[종목+]",
+    "link": "https://www.hankyung.com/article/2026100814886",
+    "summary": "",
+    "pubDate": "2026-10-09T22:02:35.000Z",
+    "collectedAt": "2026-10-09T23:54:35.845Z"
+  },
+  {
     "id": "https://www.aitimes.com/news/articleView.html?idxno=216106",
     "category": "ai",
     "source": "AI타임스 AI산업",
@@ -8,6 +98,16 @@
     "summary": "앤트로픽이 '클로드 사이언스(Claude Science)'를 활용해 그동안 관측 공백으로 남아있던 우주의 자외선 영역을 모두 채운 최초의 완벽한 자외선 전천(All-Sky) 지도를 8일(현지시간) 공개했다. 존스홉킨스대학교 천체물리학자이자 앤트로픽 연구원인 브리스 메나르 교수가 이끈 이…",
     "pubDate": "2026-10-09T21:36:50.000Z",
     "collectedAt": "2026-10-09T12:55:26.985Z"
+  },
+  {
+    "id": "https://www.hankyung.com/article/202610081389i",
+    "category": "economy",
+    "source": "한국경제 경제",
+    "title": "\"저 친구 퇴사할거 같은데요\"…AI가 먼저 알려준다 [임다연의 요즘 CEO 경영법]",
+    "link": "https://www.hankyung.com/article/202610081389i",
+    "summary": "",
+    "pubDate": "2026-10-09T21:00:01.000Z",
+    "collectedAt": "2026-10-09T23:54:35.845Z"
   },
   {
     "id": "https://www.aitimes.com/news/articleView.html?idxno=216105",
@@ -14897,106 +14997,6 @@
     "link": "https://www.hankyung.com/article/2026100537091",
     "summary": "",
     "pubDate": "2026-10-05T09:26:40.000Z",
-    "collectedAt": "2026-10-05T14:09:21.094Z"
-  },
-  {
-    "id": "https://www.hankyung.com/article/2026100537121",
-    "category": "it",
-    "source": "한국경제 IT",
-    "title": "'AI칩 큰손' 된 월가 퀀트트레이더",
-    "link": "https://www.hankyung.com/article/2026100537121",
-    "summary": "",
-    "pubDate": "2026-10-05T09:25:09.000Z",
-    "collectedAt": "2026-10-05T14:09:21.094Z"
-  },
-  {
-    "id": "https://www.hankyung.com/article/2026100537041",
-    "category": "economy",
-    "source": "한국경제 경제",
-    "title": "대출 빗장 푸는 금융권…'주담대 문턱' 낮아진 곳 찾아라",
-    "link": "https://www.hankyung.com/article/2026100537041",
-    "summary": "",
-    "pubDate": "2026-10-05T09:24:48.000Z",
-    "collectedAt": "2026-10-05T14:09:21.094Z"
-  },
-  {
-    "id": "https://www.hankyung.com/article/2026100537031",
-    "category": "economy",
-    "source": "한국경제 경제",
-    "title": "가계대출 규제 풀렸다지만…은행권 신용대출은 그대로",
-    "link": "https://www.hankyung.com/article/2026100537031",
-    "summary": "",
-    "pubDate": "2026-10-05T09:22:19.000Z",
-    "collectedAt": "2026-10-05T14:09:21.094Z"
-  },
-  {
-    "id": "https://www.hankyung.com/article/2026100537531",
-    "category": "it",
-    "source": "한국경제 IT",
-    "title": "유출·공개 정보 모아 직장·금융정보 특정…AI 프로파일링 공포",
-    "link": "https://www.hankyung.com/article/2026100537531",
-    "summary": "",
-    "pubDate": "2026-10-05T09:22:13.000Z",
-    "collectedAt": "2026-10-05T14:09:21.094Z"
-  },
-  {
-    "id": "https://www.hankyung.com/article/2026100537541",
-    "category": "economy",
-    "source": "한국경제 경제",
-    "title": "핵심망 지켰지만 AI 해킹 선제방어 한계…금융권 '망분리 딜레마'",
-    "link": "https://www.hankyung.com/article/2026100537541",
-    "summary": "",
-    "pubDate": "2026-10-05T09:21:45.000Z",
-    "collectedAt": "2026-10-05T14:09:21.094Z"
-  },
-  {
-    "id": "https://www.hankyung.com/article/2026100537381",
-    "category": "economy",
-    "source": "한국경제 경제",
-    "title": "'사상 최대' 경상흑자, 8월에도 이어졌을까",
-    "link": "https://www.hankyung.com/article/2026100537381",
-    "summary": "",
-    "pubDate": "2026-10-05T09:21:38.000Z",
-    "collectedAt": "2026-10-05T14:09:21.094Z"
-  },
-  {
-    "id": "https://www.hankyung.com/article/2026100538031",
-    "category": "economy",
-    "source": "한국경제 경제",
-    "title": "HD현대사이트, 국내 최대 18t급 전동지게차 출시",
-    "link": "https://www.hankyung.com/article/2026100538031",
-    "summary": "",
-    "pubDate": "2026-10-05T09:19:11.000Z",
-    "collectedAt": "2026-10-05T14:09:21.094Z"
-  },
-  {
-    "id": "https://www.hankyung.com/article/2026100538011",
-    "category": "economy",
-    "source": "한국경제 경제",
-    "title": "케이뱅크, 업비트 계약 1년 연장",
-    "link": "https://www.hankyung.com/article/2026100538011",
-    "summary": "",
-    "pubDate": "2026-10-05T09:18:40.000Z",
-    "collectedAt": "2026-10-05T14:09:21.094Z"
-  },
-  {
-    "id": "https://www.hankyung.com/article/2026100537351",
-    "category": "economy",
-    "source": "한국경제 증권",
-    "title": "환율·채권, 국고채 발행 축소…금리 3%대 머물듯",
-    "link": "https://www.hankyung.com/article/2026100537351",
-    "summary": "",
-    "pubDate": "2026-10-05T09:18:37.000Z",
-    "collectedAt": "2026-10-05T14:09:21.094Z"
-  },
-  {
-    "id": "https://www.hankyung.com/article/2026100537361",
-    "category": "economy",
-    "source": "한국경제 증권",
-    "title": "뉴욕·상하이 증시, FOMC 의사록 공개…'S공포' 커지나",
-    "link": "https://www.hankyung.com/article/2026100537361",
-    "summary": "",
-    "pubDate": "2026-10-05T09:17:57.000Z",
     "collectedAt": "2026-10-05T14:09:21.094Z"
   }
 ]
