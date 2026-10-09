@@ -60,6 +60,16 @@
     "collectedAt": "2026-10-09T12:55:26.985Z"
   },
   {
+    "id": "https://www.hankyung.com/article/202610103126i",
+    "category": "economy",
+    "source": "한국경제 경제",
+    "title": "오픈AI發 버블 논쟁…다가오는 실적 시즌[월가 백브리핑]",
+    "link": "https://www.hankyung.com/article/202610103126i",
+    "summary": "",
+    "pubDate": "2026-10-09T17:17:12.000Z",
+    "collectedAt": "2026-10-09T19:22:20.786Z"
+  },
+  {
     "id": "https://www.aitimes.com/news/articleView.html?idxno=216099",
     "category": "ai",
     "source": "AI타임스 AI산업",
@@ -88,6 +98,126 @@
     "summary": "앤트로픽이 '클로드'의 오용을 막기 위해 사용 정책을 개정했다. 선거 개입과 허위 여론 조작, 무기 개발, 동의 없는 감시를 금지하는 규정을 구체화하고, 모델을 지속적이고 불필요하게 학대하는 행위도 명시적으로 금지했다. AI 기능 고도화에 따른 새로운 악용 사례에 대응하기 위한 조치다.…",
     "pubDate": "2026-10-09T16:38:02.000Z",
     "collectedAt": "2026-10-09T12:55:26.985Z"
+  },
+  {
+    "id": "https://news.hada.io/topic?id=35079",
+    "category": "it",
+    "source": "긱뉴스",
+    "title": "2027년 2월부터 인증서 유효기간 64일 적용",
+    "link": "https://news.hada.io/topic?id=35079",
+    "summary": "Let’s Encrypt가 2027년 2월 10일부터 기본 인증서 유효기간을 64일로 단축함. 더 짧은 45일 또는 6일 유효기간을 선택한 경우는 제외되며, 기존의 유효한 인증서는 폐기하지 않음 자동 갱신을 사용하고 클라이언트가 ACME Renewal Info(ARI) 를...",
+    "pubDate": "2026-10-09T16:01:13.000Z",
+    "collectedAt": "2026-10-09T19:22:20.786Z"
+  },
+  {
+    "id": "https://news.hada.io/topic?id=35078",
+    "category": "it",
+    "source": "긱뉴스",
+    "title": "OpenAI, “연구 정보의 부적절한 취급”을 이유로 안전 연구원 3명 해고",
+    "link": "https://news.hada.io/topic?id=35078",
+    "summary": "OpenAI가 안전 연구원 Jasmine Wang, Tomek Korbak, Mikita Balesni를 해고했으며, 세 사람은 공개서한에서 민감한 정보를 회사 절차 밖에서 취급했다는 혐의를 부인함 연구원들은 외부 안전 전문가와의 협업과 자유로운 문제 제기가 필수 안전장치라며, 갑작스러…",
+    "pubDate": "2026-10-09T15:32:42.000Z",
+    "collectedAt": "2026-10-09T19:22:20.786Z"
+  },
+  {
+    "id": "https://news.hada.io/topic?id=35077",
+    "category": "it",
+    "source": "긱뉴스",
+    "title": "Show GN: 한글날을 맞아 한글 퍼즐게임 바이브코딩 했습니다.",
+    "link": "https://news.hada.io/topic?id=35077",
+    "summary": "한글 자모 기반의 규칙으로 추리하는 제가 창안한 게임은 아니구요 재밌게 보았던 유튜브 웹 서바이벌 예능 ‘네가지 소원’의 두번째 에피소드에 나온 ‘한글 숨바꼭질’이라는 게임을 웹으로 즐기고 싶어서 해당 규칙 기반으로 만들어봤",
+    "pubDate": "2026-10-09T15:22:50.000Z",
+    "collectedAt": "2026-10-09T19:22:20.786Z"
+  },
+  {
+    "id": "https://news.hada.io/topic?id=35074",
+    "category": "it",
+    "source": "긱뉴스",
+    "title": "Oxide, 약 6,700억원 규모 시리즈 D 투자 유치",
+    "link": "https://news.hada.io/topic?id=35074",
+    "summary": "Oxide가 공급을 크게 웃도는 수요에 대응하기 위해 4억 4,500만 달러($445m) 규모의 시리즈 D 투자를 유치함 컴퓨터 판매에서 부품비, 제조비, 급여와 운영비를 차감하고도 과세소득이 발생해, 봄에 법인 소득세를 납부함 하드웨어 사업은 고객에게 시스템...",
+    "pubDate": "2026-10-09T14:36:42.000Z",
+    "collectedAt": "2026-10-09T19:22:20.786Z"
+  },
+  {
+    "id": "https://news.hada.io/topic?id=35073",
+    "category": "it",
+    "source": "긱뉴스",
+    "title": "Deno 팀, Cloudflare에 합류",
+    "link": "https://news.hada.io/topic?id=35073",
+    "summary": "Deno 팀 전체가 Cloudflare에 합류하며, 별도 런타임과 호스팅 서비스 대신 Workers 및 Durable Objects 팀과 함께 만드는 공통 플랫폼에 향후 개발 역량을 집중함 Deno 런타임은 1년간 버그 수정과 보안 업데이트를 담은 월별 릴리스를 제공한 뒤 팀의 개발을…",
+    "pubDate": "2026-10-09T14:33:42.000Z",
+    "collectedAt": "2026-10-09T19:22:20.786Z"
+  },
+  {
+    "id": "https://news.hada.io/topic?id=35072",
+    "category": "it",
+    "source": "긱뉴스",
+    "title": "PDF를 링크로 공유하고, 실제로 어디까지 읽었는지 확인하는 PDF to Link",
+    "link": "https://news.hada.io/topic?id=35072",
+    "summary": "PDF를 공유할 때 보통 이메일 첨부나 Google Drive 링크를 사용합니다. 그런데 제안서, Pitch Deck, 제품 카탈로그처럼 \"상대방이 실제로 읽었는지\"가 중요한 문서는 파일을 보냈다는 사실만으로는 부족하다고 느꼈습니다. 그래서 PDF to Link를 만들었습니다. http",
+    "pubDate": "2026-10-09T14:06:31.000Z",
+    "collectedAt": "2026-10-09T19:22:20.786Z"
+  },
+  {
+    "id": "https://news.hada.io/topic?id=35071",
+    "category": "it",
+    "source": "긱뉴스",
+    "title": "AI 에이전트가 화면에 큰 화살표, 상자, 텍스트를 그리게 하세요",
+    "link": "https://news.hada.io/topic?id=35071",
+    "summary": "big-arrow-on-the-screen은 AI 에이전트가 사람의 조작이 필요한 버튼이나 창을 화면 위에서 가리키도록 하는 macOS CLI와 에이전트 스킬임 권한 승인, 2FA, 결제 확인처럼 사람이 직접 결정하고 수행해야 하는 단계를 시각적으로 안내하며, 자체적으로 클릭하거나...",
+    "pubDate": "2026-10-09T13:41:39.000Z",
+    "collectedAt": "2026-10-09T19:22:20.786Z"
+  },
+  {
+    "id": "https://news.hada.io/topic?id=35070",
+    "category": "it",
+    "source": "긱뉴스",
+    "title": "지금 회의 중입니다",
+    "link": "https://news.hada.io/topic?id=35070",
+    "summary": "Fleeting은 가상의 회의 녹음을 배경으로 재생해, 주변 사람이 사용자를 회의 중이라고 여기게 하는 서비스임 회의는 각각 약 12분 길이이며 임의의 지점에서 시작해 같은 첫 대사를 연속으로 듣지 않도록 함 \"Leave\" 또는**&...",
+    "pubDate": "2026-10-09T13:38:39.000Z",
+    "collectedAt": "2026-10-09T19:22:20.786Z"
+  },
+  {
+    "id": "https://news.hada.io/topic?id=35069",
+    "category": "it",
+    "source": "긱뉴스",
+    "title": "2026년 노벨평화상, Navanethem “Navi” Pillay 수상",
+    "link": "https://news.hada.io/topic?id=35069",
+    "summary": "노르웨이 노벨위원회가 평화와 국제법 증진에 기여한 공로로 Navanethem “Navi” Pillay를 2026년 노벨평화상 수상자로 선정함 Pillay는 남아프리카공화국의 아파르트헤이트에 맞선 변호 활동부터 국제재판소 판사 활동까지, 전쟁범죄, 반인도적 범죄, 집단학살의 기소",
+    "pubDate": "2026-10-09T13:35:39.000Z",
+    "collectedAt": "2026-10-09T19:22:20.786Z"
+  },
+  {
+    "id": "https://www.hankyung.com/article/2026100807756",
+    "category": "economy",
+    "source": "한국경제 증권",
+    "title": "\"하루에 1조 벌었는데…\" 한국 개미들 다시 '미장' 가는 이유 [분석+]",
+    "link": "https://www.hankyung.com/article/2026100807756",
+    "summary": "",
+    "pubDate": "2026-10-09T13:11:44.000Z",
+    "collectedAt": "2026-10-09T19:22:20.786Z"
+  },
+  {
+    "id": "https://news.hada.io/topic?id=35066",
+    "category": "it",
+    "source": "긱뉴스",
+    "title": "Show GN: Hacker News(paper) - 매일 아침 해커뉴스를 요약해 신문 형태로 보여줍니다",
+    "link": "https://news.hada.io/topic?id=35066",
+    "summary": "매일마다 Hacker News에 자주 접속하면서 신규글들과 댓글들을 보며 시간을 많이 소비하고 있는데요 이걸 아침에 배송되는 종이 신문처럼 하루에 한번만 업데이트를 하고 전날 기준으로 데이터를 수집하면 아직 반응이나 평가가 많지 않은 신규글들은 보지 않고 핵심 글들만 볼 수 있지 않을까…",
+    "pubDate": "2026-10-09T13:05:55.000Z",
+    "collectedAt": "2026-10-09T19:22:20.786Z"
+  },
+  {
+    "id": "https://www.hankyung.com/article/202610093086i",
+    "category": "economy",
+    "source": "한국경제 증권",
+    "title": "스페이스X 목표가 254달러…월가 AI·우주 주목 [월가 업&다운]",
+    "link": "https://www.hankyung.com/article/202610093086i",
+    "summary": "",
+    "pubDate": "2026-10-09T13:02:28.000Z",
+    "collectedAt": "2026-10-09T19:22:20.786Z"
   },
   {
     "id": "https://www.aitimes.com/news/articleView.html?idxno=216093",
@@ -14868,135 +14998,5 @@
     "summary": "",
     "pubDate": "2026-10-05T09:17:57.000Z",
     "collectedAt": "2026-10-05T14:09:21.094Z"
-  },
-  {
-    "id": "https://www.hankyung.com/article/2026100536951",
-    "category": "economy",
-    "source": "한국경제 증권",
-    "title": "'전고체 배터리' 기대감…한주새 ETF 12% 뛰어",
-    "link": "https://www.hankyung.com/article/2026100536951",
-    "summary": "",
-    "pubDate": "2026-10-05T09:17:33.000Z",
-    "collectedAt": "2026-10-05T14:09:21.094Z"
-  },
-  {
-    "id": "https://www.hankyung.com/article/2026100537981",
-    "category": "economy",
-    "source": "한국경제 경제",
-    "title": "몸값 높아진 K윤활기유…\"전기차·AI센터 등 신시장 확대\"",
-    "link": "https://www.hankyung.com/article/2026100537981",
-    "summary": "",
-    "pubDate": "2026-10-05T09:17:18.000Z",
-    "collectedAt": "2026-10-05T14:09:21.094Z"
-  },
-  {
-    "id": "https://www.hankyung.com/article/2026100536821",
-    "category": "economy",
-    "source": "한국경제 경제",
-    "title": "단조업체 넘어 로봇·방산기업으로 변신",
-    "link": "https://www.hankyung.com/article/2026100536821",
-    "summary": "",
-    "pubDate": "2026-10-05T09:14:55.000Z",
-    "collectedAt": "2026-10-05T14:09:21.094Z"
-  },
-  {
-    "id": "https://www.hankyung.com/article/2026100537331",
-    "category": "economy",
-    "source": "한국경제 경제",
-    "title": "[단독] 수도권 '전기길' 부족…1년 중 60% 꽉 막혔다",
-    "link": "https://www.hankyung.com/article/2026100537331",
-    "summary": "",
-    "pubDate": "2026-10-05T09:14:43.000Z",
-    "collectedAt": "2026-10-05T14:09:21.094Z"
-  },
-  {
-    "id": "https://www.hankyung.com/article/2026100536831",
-    "category": "economy",
-    "source": "한국경제 경제",
-    "title": "속도 내는 티엠씨 美 사업…\"텍사스 공장 이미 풀가동\"",
-    "link": "https://www.hankyung.com/article/2026100536831",
-    "summary": "",
-    "pubDate": "2026-10-05T09:13:59.000Z",
-    "collectedAt": "2026-10-05T14:09:21.094Z"
-  },
-  {
-    "id": "https://www.hankyung.com/article/2026100536811",
-    "category": "economy",
-    "source": "한국경제 경제",
-    "title": "박종범 회장 \"옥타 펀드 조성해 국내 스타트업 지원\"",
-    "link": "https://www.hankyung.com/article/2026100536811",
-    "summary": "",
-    "pubDate": "2026-10-05T09:13:45.000Z",
-    "collectedAt": "2026-10-05T14:09:21.094Z"
-  },
-  {
-    "id": "https://www.hankyung.com/article/2026100536841",
-    "category": "economy",
-    "source": "한국경제 경제",
-    "title": "거제·통영 中企에 재난지원금 10억",
-    "link": "https://www.hankyung.com/article/2026100536841",
-    "summary": "",
-    "pubDate": "2026-10-05T09:13:20.000Z",
-    "collectedAt": "2026-10-05T14:09:21.094Z"
-  },
-  {
-    "id": "https://www.hankyung.com/article/2026100536711",
-    "category": "it",
-    "source": "한국경제 IT",
-    "title": "'M&A 큰손' 美 릴리, 미용시장까지 넘본다",
-    "link": "https://www.hankyung.com/article/2026100536711",
-    "summary": "",
-    "pubDate": "2026-10-05T09:12:52.000Z",
-    "collectedAt": "2026-10-05T14:09:21.094Z"
-  },
-  {
-    "id": "https://www.hankyung.com/article/2026100536691",
-    "category": "it",
-    "source": "한국경제 IT",
-    "title": "\"입원 환자 심장병 위험 감지…대학병원 병상 1000개 설치\"",
-    "link": "https://www.hankyung.com/article/2026100536691",
-    "summary": "",
-    "pubDate": "2026-10-05T09:11:23.000Z",
-    "collectedAt": "2026-10-05T14:09:21.094Z"
-  },
-  {
-    "id": "https://www.hankyung.com/article/2026100536701",
-    "category": "it",
-    "source": "한국경제 IT",
-    "title": "\"부작용 줄인 RNA 기반 암 백신 개발\"",
-    "link": "https://www.hankyung.com/article/2026100536701",
-    "summary": "",
-    "pubDate": "2026-10-05T09:10:54.000Z",
-    "collectedAt": "2026-10-05T14:09:21.094Z"
-  },
-  {
-    "id": "https://www.hankyung.com/article/2026100537801",
-    "category": "economy",
-    "source": "한국경제 증권",
-    "title": "\"삼전닉스만 믿고 있었는데\"…실적 전망에 개미들 '술렁'",
-    "link": "https://www.hankyung.com/article/2026100537801",
-    "summary": "",
-    "pubDate": "2026-10-05T09:10:49.000Z",
-    "collectedAt": "2026-10-05T14:09:21.094Z"
-  },
-  {
-    "id": "https://www.hankyung.com/article/2026100536721",
-    "category": "it",
-    "source": "한국경제 IT",
-    "title": "치료제 정밀도 좌우하는 '표적 선택성'",
-    "link": "https://www.hankyung.com/article/2026100536721",
-    "summary": "",
-    "pubDate": "2026-10-05T09:10:47.000Z",
-    "collectedAt": "2026-10-05T14:09:21.094Z"
-  },
-  {
-    "id": "https://www.aitimes.com/news/articleView.html?idxno=215959",
-    "category": "ai",
-    "source": "AI타임스 AI산업",
-    "title": "\"AI가 인류 위협\" 경고한 제이콥 콕슨, 뉴욕시의회 청문회 선다",
-    "link": "https://www.aitimes.com/news/articleView.html?idxno=215959",
-    "summary": "뉴욕시의회가 빅테크 기업의 인공지능 위험성을 규제하기 위한 청문회를 개최한 가운데, 전직 AI 연구원들과 주요 기업 대표들이 대거 증언대에 선다.블룸버그는 5일(현지시간) 전 앤트로픽 연구원 제이콥 콕슨이 이날 열리는 뉴욕시의회 청문회에 출석해 증언할 예정이라고 보도했다. 콕슨은 오픈A…",
-    "pubDate": "2026-10-05T09:09:23.000Z",
-    "collectedAt": "2026-10-05T05:00:04.155Z"
   }
 ]
