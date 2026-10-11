@@ -20,6 +20,16 @@
     "collectedAt": "2026-10-11T12:27:16.020Z"
   },
   {
+    "id": "https://news.hada.io/topic?id=35189",
+    "category": "it",
+    "source": "긱뉴스",
+    "title": "미안하지만, 여전히 직접 생각해야 합니다",
+    "link": "https://news.hada.io/topic?id=35189",
+    "summary": "AI 에이전트에 코드 재작성을 맡겨도 호환성, 지연 시간, 처리량, 메모리 한도 같은 설계 판단은 사라지지 않으며, 요구사항이 구체적이지 않으면 모델이 암묵적으로 결정함 Campfire Once의 Rust와 Elixir 재작성은 호환성과 구현 제약부터 서로 달라, 결과를 그대...",
+    "pubDate": "2026-10-11T18:33:02.000Z",
+    "collectedAt": "2026-10-11T18:43:37.770Z"
+  },
+  {
     "id": "https://www.aitimes.com/news/articleView.html?idxno=216133",
     "category": "ai",
     "source": "AI타임스 AI산업",
@@ -28,6 +38,36 @@
     "summary": "앤트로픽이 자사 AI 모델의 모든 내부 평가에서 실시간 인터넷 접속을 중단하기로 했다. 모델이 실제 웹사이트에서 의도하지 않은 행동을 한 사례가 확인된 데 따른 조치로, 다만 내부에서 사용하는 모든 AI 에이전트의 인터넷 접속을 전면 차단한다는 뜻은 아니다.앤트로픽은 9일(현지시간) 보…",
     "pubDate": "2026-10-11T18:23:36.000Z",
     "collectedAt": "2026-10-11T12:27:16.020Z"
+  },
+  {
+    "id": "https://news.hada.io/topic?id=35188",
+    "category": "it",
+    "source": "긱뉴스",
+    "title": "Show GN: ggaction - 차트를 만드는 과정을 코드로 표현하는 JavaScript 시각화 라이브러리",
+    "link": "https://news.hada.io/topic?id=35188",
+    "summary": "안녕하세요. 데이터 시각화를 연구하는 연구원입니다. ggaction을 소개합니다. 차트를 만들다 보면 처음부터 완성된 그림을 정하기보다는, \"산점도를 그려보자 --> 그룹별로 색을 나누자 --> 점",
+    "pubDate": "2026-10-11T18:10:44.000Z",
+    "collectedAt": "2026-10-11T18:43:37.770Z"
+  },
+  {
+    "id": "https://news.hada.io/topic?id=35187",
+    "category": "it",
+    "source": "긱뉴스",
+    "title": "다케시의 성",
+    "link": "https://news.hada.io/topic?id=35187",
+    "summary": "Takeshi's Castle은 참가자들이 탈락식 신체 도전을 통과한 뒤 Takeshi Kitano가 지키는 성을 공격하는 일본 게임 쇼로, 1986~1990년 TBS에서 방송됨 원작은 회당 86~142명이 참가했으며, 인공 호수와 대형 장애물을 활용한 게임에서 실패하면 물이나 진흙에…",
+    "pubDate": "2026-10-11T18:00:34.000Z",
+    "collectedAt": "2026-10-11T18:43:37.770Z"
+  },
+  {
+    "id": "https://news.hada.io/topic?id=35186",
+    "category": "it",
+    "source": "긱뉴스",
+    "title": "유럽산 대안",
+    "link": "https://news.hada.io/topic?id=35186",
+    "summary": "비유럽 제품과 기업을 선택해 유럽산 대안을 찾는 디렉터리로, 각 항목이 해당 대안 안내 페이지로 연결됨 소프트웨어와 클라우드 분야에는 ChatGPT, GitHub, AWS, Microsoft Azure, Google Cloud 등의 대안 탐색 항목이 있음 업무 도구와 온라인...",
+    "pubDate": "2026-10-11T17:57:34.000Z",
+    "collectedAt": "2026-10-11T18:43:37.770Z"
   },
   {
     "id": "https://www.aitimes.com/news/articleView.html?idxno=216132",
@@ -40,6 +80,26 @@
     "collectedAt": "2026-10-11T12:27:16.020Z"
   },
   {
+    "id": "https://news.hada.io/topic?id=35185",
+    "category": "it",
+    "source": "긱뉴스",
+    "title": "Terence Tao: 수학 2.0 [PDF]",
+    "link": "https://news.hada.io/topic?id=35185",
+    "summary": "전통 수학은 올바른 증명을 얻기 어렵고 드물다는 증명의 희소성을 전제로 발전했지만, AI에 대한 대규모 투자로 증명이 풍부한 시대에 진입하고 있음 수학의 객관적 검증 가능성, 디지털화 가능성, 대규모 고품질 데이터는 수학 문제 풀이를 현대...",
+    "pubDate": "2026-10-11T17:54:34.000Z",
+    "collectedAt": "2026-10-11T18:43:37.770Z"
+  },
+  {
+    "id": "https://news.hada.io/topic?id=35184",
+    "category": "it",
+    "source": "긱뉴스",
+    "title": "PATH의 틸드(~)가 HOME을 가리키지 않을 수 있음",
+    "link": "https://news.hada.io/topic?id=35184",
+    "summary": "export PATH=\"$PATH:~/.local/bin/\"처럼 따옴표 안에 ~를 넣으면 홈 디렉터리로 확장되지 않고, PATH에 문자 그대로 남음 이 PATH 항목은 홈 디렉터리가 아니라 현재 디렉터리 기준 ./~/.local/bin/ 을 가리키며...",
+    "pubDate": "2026-10-11T17:51:34.000Z",
+    "collectedAt": "2026-10-11T18:43:37.770Z"
+  },
+  {
     "id": "https://www.aitimes.com/news/articleView.html?idxno=216129",
     "category": "ai",
     "source": "AI타임스 AI산업",
@@ -50,6 +110,46 @@
     "collectedAt": "2026-10-11T12:27:16.020Z"
   },
   {
+    "id": "https://news.hada.io/topic?id=35183",
+    "category": "it",
+    "source": "긱뉴스",
+    "title": "5,000억 토큰을 쓰고 나서: AI 에이전트에게 1인칭 슈팅 게임 디컴파일 맡기기",
+    "link": "https://news.hada.io/topic?id=35183",
+    "summary": "약 3개월간 AI 에이전트로 게임을 C++로 재구성한 결과, 전체 함수의 99%를 복원하고 83%에서 원본과 바이트 단위 일치를 달성함 첫 달에는 게임 실행과 맵 로딩까지 가능했지만, 읽기 좋은 코드 뒤에 잘못된 함수 시그니처, 타입, 구조체 레이아웃과 임의...",
+    "pubDate": "2026-10-11T16:49:54.000Z",
+    "collectedAt": "2026-10-11T18:43:37.770Z"
+  },
+  {
+    "id": "https://news.hada.io/topic?id=35182",
+    "category": "it",
+    "source": "긱뉴스",
+    "title": "PSPi 6 - PSP에 Raspberry Pi 넣기",
+    "link": "https://news.hada.io/topic?id=35182",
+    "summary": "PSPi 6는 PSP 1000의 메인보드를 교체해 Raspberry Pi 기반 휴대용 기기로 만드는 커스텀 회로 보드이며, 저장소에 하드웨어 설계와 펌웨어, 소프트웨어가 공개되어 있음 레트로 게임과 에뮬레이터를 실행하거나 Linux 배포판을 설치해 휴대용 컴퓨터로 사용할 수 ...",
+    "pubDate": "2026-10-11T16:46:54.000Z",
+    "collectedAt": "2026-10-11T18:43:37.770Z"
+  },
+  {
+    "id": "https://news.hada.io/topic?id=35181",
+    "category": "it",
+    "source": "긱뉴스",
+    "title": "전자종이 ESP32에서 30FPS로 실행하는 GameBoy [영상]",
+    "link": "https://news.hada.io/topic?id=35181",
+    "summary": "소형 전자종이 디스플레이가 달린 ESP32 보드에 맞춤형 드라이버를 구현해, 기본 드라이버에서 실제 약 2FPS에 그치던 GameBoy 실행 속도를 약 30FPS까지 높임 화면 갱신 파형을 줄이는 것만으로는 잔상과 회색화가 심해져, 픽셀별 상태와 구동 예산",
+    "pubDate": "2026-10-11T16:43:54.000Z",
+    "collectedAt": "2026-10-11T18:43:37.770Z"
+  },
+  {
+    "id": "https://news.hada.io/topic?id=35180",
+    "category": "it",
+    "source": "긱뉴스",
+    "title": "RAM 부족이 DDR4를 다시 불러오고 있음",
+    "link": "https://news.hada.io/topic?id=35180",
+    "summary": "RAM 가격 상승으로 PC 업그레이드 부담이 커지자 Intel과 AMD가 더 저렴한 DDR4 메모리를 지원하는 구형 플랫폼용 CPU를 준비하고 있음 Gigabyte에 따르면 Intel LGA 1700 소켓용 새 CPU는 2027년 초 출시가 예상되며, DDR4와 DDR5를 모두 지원하는…",
+    "pubDate": "2026-10-11T16:40:54.000Z",
+    "collectedAt": "2026-10-11T18:43:37.770Z"
+  },
+  {
     "id": "https://www.aitimes.com/news/articleView.html?idxno=216131",
     "category": "ai",
     "source": "AI타임스 AI산업",
@@ -58,6 +158,166 @@
     "summary": "사용자 평가를 기반으로 가파른 성장세를 이어온 AI 모델 평가 플랫폼 아레나(Arena)가 기업가치 4조원 고지에 올랐다. 아레나는 이번 대규모 투자 유치를 발판 삼아 단순한 성능 비교를 넘어 AI의 안전성과 신뢰성을 측정하는 '정렬 지수(Alignment Index)' 분야로 사업 영…",
     "pubDate": "2026-10-11T16:32:04.000Z",
     "collectedAt": "2026-10-11T12:27:16.020Z"
+  },
+  {
+    "id": "https://news.hada.io/topic?id=35178",
+    "category": "it",
+    "source": "긱뉴스",
+    "title": "내부 문건, ExxonMobil의 기후 기만 캠페인 증거를 더하다",
+    "link": "https://news.hada.io/topic?id=35178",
+    "summary": "Massachusetts주의 소송에서 공개된 내부 문건과 과학자 증언이 ExxonMobil의 기후 대응 홍보와 내부 판단 사이의 차이를 드러냄 조류 바이오연료 연구에 참여한 과학자는 2025년 하루 1만 배럴 생산 목표가 달성 불가능했으며, 이를 보도자료 발표 전에 회사에 알...",
+    "pubDate": "2026-10-11T15:40:20.000Z",
+    "collectedAt": "2026-10-11T18:43:37.770Z"
+  },
+  {
+    "id": "https://news.hada.io/topic?id=35177",
+    "category": "it",
+    "source": "긱뉴스",
+    "title": "사람들에게 돈을 주고 내 README를 따라 해보게 했다",
+    "link": "https://news.hada.io/topic?id=35177",
+    "summary": "ActivityBot의 설치 경험을 검증하기 위해 실제 사용자에게 시간당 25유로를 지급하고, README를 따라 하는 과정을 관찰함 개발자가 직접 문서를 시험해도 자신이 이미 아는 것에 대한 편향 때문에 명령어 권한, 옵션 표기, 재부팅 같은 전제를 놓칠 수 있음 ...",
+    "pubDate": "2026-10-11T15:37:20.000Z",
+    "collectedAt": "2026-10-11T18:43:37.770Z"
+  },
+  {
+    "id": "https://www.hankyung.com/article/2026101147011",
+    "category": "economy",
+    "source": "한국경제 경제",
+    "title": "이의순 세방그룹 창업주 별세…향년 103세",
+    "link": "https://www.hankyung.com/article/2026101147011",
+    "summary": "",
+    "pubDate": "2026-10-11T15:33:59.000Z",
+    "collectedAt": "2026-10-11T18:43:37.770Z"
+  },
+  {
+    "id": "https://news.hada.io/topic?id=35175",
+    "category": "it",
+    "source": "긱뉴스",
+    "title": "중학생이 AI(Claude)와 함께 &#039;자기 자신을 통과하지 못하는 입체&#039; 추측을 증명",
+    "link": "https://news.hada.io/topic?id=35175",
+    "summary": "안녕하세요, 경기도의 중학교 3학년 정기효입니다. 2025년 화제가 된 '노퍼테드론(자기 자신을 통과하지 못하는 첫 입체)' 연구자들이 2021년에 추측으로 남긴 문제, \"마름모십이이십면체는 루퍼트가 아니다\"를 Claude와 함께 컴퓨터 보조 증명으로 풀었습니다. 기존 방법이 막히는 특",
+    "pubDate": "2026-10-11T14:35:29.000Z",
+    "collectedAt": "2026-10-11T18:43:37.770Z"
+  },
+  {
+    "id": "https://news.hada.io/topic?id=35174",
+    "category": "it",
+    "source": "긱뉴스",
+    "title": "Show GN: Oh My Focus - 마우스가 없는 모니터를 어둡게 가리는 macOS 앱",
+    "link": "https://news.hada.io/topic?id=35174",
+    "summary": "Oh My Focus는 마우스 포인터가 있는 모니터를 남기고 다른 모니터를 어둡게 가리는 macOS 메뉴 막대 앱입니다. 여러 AI 작업을 다른 모니터에 띄워 두고 제 일을 하다가 겪은 불편에서 시작했습니다. 저는 ADHD 성향이 있어서인지, 옆 화면에 답변이 출력",
+    "pubDate": "2026-10-11T14:33:20.000Z",
+    "collectedAt": "2026-10-11T18:43:37.770Z"
+  },
+  {
+    "id": "https://news.hada.io/topic?id=35173",
+    "category": "it",
+    "source": "긱뉴스",
+    "title": "Tom Brown, 공화당 인맥으로 월 약 1.9조원 규모 SpaceX 컴퓨팅 계약 중개",
+    "link": "https://news.hada.io/topic?id=35173",
+    "summary": "Anthropic 공동창업자이자 최고 컴퓨팅 책임자인 Tom Brown이 공화당 인맥을 활용해 월 12억 5,000만 달러($1.25b) 규모의 SpaceX 컴퓨팅 계약을 중개함 AI 학습용 칩 확보 협상 경험을 바탕으로 사업적, 정치적 협력 관계를 구축하고 있으며, 이는 기업가치가",
+    "pubDate": "2026-10-11T14:31:37.000Z",
+    "collectedAt": "2026-10-11T18:43:37.770Z"
+  },
+  {
+    "id": "https://news.hada.io/topic?id=35171",
+    "category": "it",
+    "source": "긱뉴스",
+    "title": "Show GN: source-to-explainer-video - PR·책·함수를 3분 설명 영상으로 만들어 주는 에이전트 스킬",
+    "link": "https://news.hada.io/topic?id=35171",
+    "summary": "안녕하세요. 요즘 개발은 대부분 에이전트에게 맡기고 있어요. 스펙을 주고 루프를 돌리면 PR이 금방 올라옵니다. 그런데 리뷰는 여전",
+    "pubDate": "2026-10-11T14:07:15.000Z",
+    "collectedAt": "2026-10-11T18:43:37.770Z"
+  },
+  {
+    "id": "https://news.hada.io/topic?id=35170",
+    "category": "it",
+    "source": "긱뉴스",
+    "title": "AI에 관해 ‘불가피하다’고 할 만한 것은 거의 없음",
+    "link": "https://news.hada.io/topic?id=35170",
+    "summary": "LLM의 존속과 도입의 불가피성은 다름. 기술이 사라지지 않는다는 사실만으로, 쓰지 않는 사람이 경쟁에서 압도당하므로 모두가 도입해야 한다는 결론은 나오지 않음 기술 도입이 불가피하려면 대체 수단에 견줄 품질, 사회적으로 필요한 작업, 압도적인 성능 우위...",
+    "pubDate": "2026-10-11T14:04:44.000Z",
+    "collectedAt": "2026-10-11T18:43:37.770Z"
+  },
+  {
+    "id": "https://news.hada.io/topic?id=35169",
+    "category": "it",
+    "source": "긱뉴스",
+    "title": "Show GN: 해줘 로컬 - 크레덴셜 금고가 붙은 로컬 AI 에이전트 오케스트레이터",
+    "link": "https://news.hada.io/topic?id=35169",
+    "summary": "AI 코딩 에이전트를 여러 개 같이 돌리다 보니 제가 중간관리자가 돼 있었습니다. 로그인이 막히면 비밀번호를 넣어 주고, 결과를 다른 창에 옮겨 붙이고, 한도가 차면 계정을 바꾸고, 세션이 죽으면 다시 켰어요. 자리를 비우면 다들 멈춘 채 저를 기다렸고요. 그 기다림을 줄이려고 만든 앱…",
+    "pubDate": "2026-10-11T14:00:30.000Z",
+    "collectedAt": "2026-10-11T18:43:37.770Z"
+  },
+  {
+    "id": "https://news.hada.io/topic?id=35168",
+    "category": "it",
+    "source": "긱뉴스",
+    "title": "Show GN: OpenGoal - 마크다운만으로 AI 코딩 에이전트의 현재 목표를 관리하는 명세 기반 하네스",
+    "link": "https://news.hada.io/topic?id=35168",
+    "summary": "안녕하세요. AI 코딩 에이전트용 경량 명세 기반 하네스 OpenGoal을 소개합니다. AI 에이전트로 코딩에 빠졌던 여느 개발자들처럼 저도 동시에 여러 프로젝트들을 미친 듯이 돌리고 있었습니다. 좀 더 체계적인 개발을 위해 OpenSpec, Superpowers를 기반으로 명세 기반…",
+    "pubDate": "2026-10-11T13:56:43.000Z",
+    "collectedAt": "2026-10-11T18:43:37.770Z"
+  },
+  {
+    "id": "https://news.hada.io/topic?id=35167",
+    "category": "it",
+    "source": "긱뉴스",
+    "title": "Show GN: 두박자 - 둘이 함께 쓰는 커플 캘린더",
+    "link": "https://news.hada.io/topic?id=35167",
+    "summary": "안녕하세요. 연인과 약속과 기념일을 함께 관리하는 앱, ‘두박자’를 만들었습니다. 초대 코드로 상대와 연결하면 둘이 같은 캘린더를 사용할 수 있습니다. 일정 공유: 서로의 일정을 같은 달력에서 확인할 수 있습니다. 휴대폰 캘린더에서도 보기:",
+    "pubDate": "2026-10-11T13:54:29.000Z",
+    "collectedAt": "2026-10-11T18:43:37.770Z"
+  },
+  {
+    "id": "https://news.hada.io/topic?id=35166",
+    "category": "it",
+    "source": "긱뉴스",
+    "title": "PVX-001: 오픈소스 코로나19 백신, 임상 1상 시작",
+    "link": "https://news.hada.io/topic?id=35166",
+    "summary": "PopVax가 미래 SARS-CoV-2 변이까지 방어하도록 설계한 백신 후보 PVX-001의 첫 인체 대상 임상 1상을 호주에서 시작함. 총 36명을 모집해 안전성, 내약성과 여러 변이에 대한 초기 면역반응을 평가함 mRNA로 바이러스 유사 입자(VLP)를 체내에서 조립하도록 해, R.…",
+    "pubDate": "2026-10-11T13:40:13.000Z",
+    "collectedAt": "2026-10-11T18:43:37.770Z"
+  },
+  {
+    "id": "https://news.hada.io/topic?id=35165",
+    "category": "it",
+    "source": "긱뉴스",
+    "title": "IRCv3",
+    "link": "https://news.hada.io/topic?id=35165",
+    "summary": "IRCv3 Working Group은 IRC 클라이언트 프로토콜 변경을 시제품으로 구현하고 개발 및 테스트하며, 현대적인 IRC를 위한 확장 명세를 만듦 모든 IRCv3 확장은 기존 IRC 클라이언트 및 서버와 하위 호환됨 SASL 계정 로그인",
+    "pubDate": "2026-10-11T13:37:12.000Z",
+    "collectedAt": "2026-10-11T18:43:37.770Z"
+  },
+  {
+    "id": "https://www.hankyung.com/article/202610081420g",
+    "category": "economy",
+    "source": "한국경제 경제",
+    "title": "\"룸서비스 되나요?\" 말 걸었더니…호텔 직원의 '반전 정체'",
+    "link": "https://www.hankyung.com/article/202610081420g",
+    "summary": "",
+    "pubDate": "2026-10-11T12:37:46.000Z",
+    "collectedAt": "2026-10-11T18:43:37.770Z"
+  },
+  {
+    "id": "https://news.hada.io/topic?id=35164",
+    "category": "it",
+    "source": "긱뉴스",
+    "title": "Nitter: 10월 10일 업데이트, 자금과 법률 지원 요청",
+    "link": "https://news.hada.io/topic?id=35164",
+    "summary": "X Corp. 가 Nitter 인스턴스와 프로젝트 저장소의 영구 폐쇄를 요구하는 중단 요구 서한을 두 차례 보냄 Nitter는 현재 법률 대리인이 없는 상태이며, 법률 대리인을 확보했다는 기존 안내를 정정함 9월 7일의 프로젝트 지속 안내는 사실이 아닌 것으로 드...",
+    "pubDate": "2026-10-11T12:35:32.000Z",
+    "collectedAt": "2026-10-11T18:43:37.770Z"
+  },
+  {
+    "id": "https://news.hada.io/topic?id=35163",
+    "category": "it",
+    "source": "긱뉴스",
+    "title": "Yandex 데이터센터 타격 이후 Cloudflare 봇 트래픽 급감",
+    "link": "https://news.hada.io/topic?id=35163",
+    "summary": "Yandex 데이터센터 타격 이후 Cloudflare 봇 트래픽 급감",
+    "pubDate": "2026-10-11T12:32:31.000Z",
+    "collectedAt": "2026-10-11T18:43:37.770Z"
   },
   {
     "id": "https://news.hada.io/topic?id=35162",
@@ -14738,265 +14998,5 @@
     "summary": "",
     "pubDate": "2026-10-06T05:39:08.000Z",
     "collectedAt": "2026-10-06T13:06:14.266Z"
-  },
-  {
-    "id": "20261006000300",
-    "category": "ai",
-    "source": "전자신문 AI",
-    "title": "[포토] 인간과 로봇의 테니스 한판승부",
-    "link": "https://www.etnews.com/20261006000300",
-    "summary": "서울시와 세계스마트시티기구가 주최한 스마트라이프위크가 'AI와 만나는 순간, 도시는 깨어난다'를 주제로 6일 서울 강남구 코엑스에서 열렸다. 휴머노이드 로봇이 인간과의 테니스 경기를 선보이고 있다.",
-    "pubDate": "2026-10-06T05:39:06.000Z",
-    "collectedAt": "2026-10-06T13:06:14.266Z"
-  },
-  {
-    "id": "20261006000297",
-    "category": "economy",
-    "source": "전자신문 경제",
-    "title": "[정보통신 미래모임 30년] 100자 메시지- 이영석 와이즈스톤 대표",
-    "link": "https://www.etnews.com/20261006000297",
-    "summary": "검증되지 않은 AI는 기술에 머물지만, 검증된 AI는 산업이 됩니다. 와이즈스톤은 대한민국 AI가 신뢰받을 수 있도록 만드는 품질 전문기업이 되겠습니다.",
-    "pubDate": "2026-10-06T05:37:40.000Z",
-    "collectedAt": "2026-10-06T13:06:14.266Z"
-  },
-  {
-    "id": "20261006000298",
-    "category": "economy",
-    "source": "전자신문 경제",
-    "title": "카카오페이, 국민연금 간편결제 합류한다",
-    "link": "https://www.etnews.com/20261006000298",
-    "summary": "카카오페이가 국민연금 간편결제 서비스에 합류한다. 국민연금은 네이버페이와 페이코에 이어 카카오페이까지 도입을 추진하면서 간편결제 서비스를 확대하고 있다. 일상에서 사용하는 간편결제가 공공서비스 납부 수단으로도 영역을 넓히고 있다. 6일 업계에 따르면, 국민연금은 최근 카카오페이를 간편결…",
-    "pubDate": "2026-10-06T05:37:28.000Z",
-    "collectedAt": "2026-10-06T13:06:14.266Z"
-  },
-  {
-    "id": "20261006000290",
-    "category": "economy",
-    "source": "전자신문 경제",
-    "title": "[정보통신 미래모임 30년] 100자 메시지- 이경민 헬프티처 대표",
-    "link": "https://www.etnews.com/20261006000290",
-    "summary": "헬프티처는 음성·표정·텍스트를 이해하는 멀티모달 AI와 캐릭터 페르소나 챗봇으로 마음의 위기 신호를 조기에 발견하고 필요한 도움으로 연결하는 따뜻한 AI 안전망을 만들어가겠습니다.",
-    "pubDate": "2026-10-06T05:35:17.000Z",
-    "collectedAt": "2026-10-06T13:06:14.266Z"
-  },
-  {
-    "id": "20261006000291",
-    "category": "economy",
-    "source": "전자신문 경제",
-    "title": "비욘드메디슨, 'S-Tron Shanghai 2026' 참가…디지털치료제 글로벌 시장 진출 확대",
-    "link": "https://www.etnews.com/20261006000291",
-    "summary": "디지털 헬스케어 기업 비욘드메디슨(Beyondmedicine)이 지난 9월 22일부터 23일까지 중국 상하이 West Bund Art Center에서 열린 글로벌 기술·스타트업 행사 'S-Tron Shanghai 2026'에 참가해 턱관절장애(TMD) 디지털치료제 'Clickless(클…",
-    "pubDate": "2026-10-06T05:35:13.000Z",
-    "collectedAt": "2026-10-06T13:06:14.266Z"
-  },
-  {
-    "id": "20261006000286",
-    "category": "ai",
-    "source": "전자신문 AI",
-    "title": "도시 곳곳으로 들어온 AI…'SLW 2026'서 펼쳐진 피지컬 AI 미래 일상",
-    "link": "https://www.etnews.com/20261006000286",
-    "summary": "인공지능(AI)이 화면을 넘어 도시 속에서 움직이기 시작했다. 자율주행차가 사람과 물건을 나르고, 로봇과 드론이 사람 대신 지하철 선로와 위험 현장을 점검하며, AI는 시민의 피부와 건강 상태를 살피고 행정서비스에도 스며든다. 6일 서울 코엑스에서 개막한 '스마트라이프위크(SLW) 20…",
-    "pubDate": "2026-10-06T05:33:21.000Z",
-    "collectedAt": "2026-10-06T13:06:14.266Z"
-  },
-  {
-    "id": "20261006000285",
-    "category": "ai",
-    "source": "전자신문 AI",
-    "title": "“AI마다 찾는 취약점 다르다”…팔로알토, 5개 모델 동시 활용",
-    "link": "https://www.etnews.com/20261006000285",
-    "summary": "인공지능(AI) 해킹 방어를 위한 취약점 관리가 중요해진 가운데, 사이버 보안에 여러 AI 모델을 함께 활용해야 한다는 진단이 나왔다. AI 모델마다 찾아내는 취약점이 다른 만큼 서로의 탐지 사각지대를 보완해야 한다는 것이다. 니케시 아로라 팔로알토 네트웍스 회장 겸 최고경영자(CEO)…",
-    "pubDate": "2026-10-06T05:33:01.000Z",
-    "collectedAt": "2026-10-06T13:06:14.266Z"
-  },
-  {
-    "id": "20261006000284",
-    "category": "ai",
-    "source": "전자신문 AI",
-    "title": "[포토] 커피 건네주는 휴머노이드 로봇",
-    "link": "https://www.etnews.com/20261006000284",
-    "summary": "서울시와 세계스마트시티기구가 주최한 스마트라이프위크가 'AI와 만나는 순간, 도시는 깨어난다'를 주제로 6일 서울 강남구 코엑스에서 열렸다. LG CNS 부스에서 관람객이 휴머노이드 서빙 로봇을 살펴보고 있다.",
-    "pubDate": "2026-10-06T05:32:52.000Z",
-    "collectedAt": "2026-10-06T05:46:32.156Z"
-  },
-  {
-    "id": "20261006000283",
-    "category": "economy",
-    "source": "전자신문 경제",
-    "title": "[정보통신 미래모임 30년] 100자 메시지- 유승모 엠큐닉 대표",
-    "link": "https://www.etnews.com/20261006000283",
-    "summary": "정보통신 미래모임 30년의 도약에 발맞춰, 엠큐닉은 독보적인 AI 플랫폼과 모빌리티 데이터 역량을 바탕으로 글로벌 자율주행 시장을 선도하며 지속가능한 ICT 생태계를 이끌겠습니다.",
-    "pubDate": "2026-10-06T05:32:19.000Z",
-    "collectedAt": "2026-10-06T05:46:32.156Z"
-  },
-  {
-    "id": "20261006000282",
-    "category": "ai",
-    "source": "전자신문 AI",
-    "title": "[포토] 기조연설 하는 마크 레이버트",
-    "link": "https://www.etnews.com/20261006000282",
-    "summary": "스마트라이프위크(SLW)가 6일 서울 강남구 코엑스에서 열렸다. 마크 레이버트 보스턴다이나믹스 창립자가 기조연설을 하고 있다.",
-    "pubDate": "2026-10-06T05:31:54.000Z",
-    "collectedAt": "2026-10-06T05:46:32.156Z"
-  },
-  {
-    "id": "https://www.hankyung.com/article/202610065630i",
-    "category": "it",
-    "source": "한국경제 IT",
-    "title": "앱코·불스아이, 美 병원과 바이오센싱 검증…FDA 진입 준비",
-    "link": "https://www.hankyung.com/article/202610065630i",
-    "summary": "",
-    "pubDate": "2026-10-06T05:30:59.000Z",
-    "collectedAt": "2026-10-06T13:06:14.266Z"
-  },
-  {
-    "id": "20261006000281",
-    "category": "economy",
-    "source": "전자신문 경제",
-    "title": "[정보통신 미래모임 30년] 100자 메시지- 안태욱 비즈데이터 대표",
-    "link": "https://www.etnews.com/20261006000281",
-    "summary": "AI 시대에 누구도 건너뛸 수 없는 두 영역이 있습니다. 기업의 데이터, 그리고 물과 환경입니다. 비즈데이터는 이 둘을 AI로 잇는 기술로 인류와 기업을 이롭게 하며 글로벌 시장으로 나아가겠습니다.",
-    "pubDate": "2026-10-06T05:29:21.000Z",
-    "collectedAt": "2026-10-06T05:46:32.156Z"
-  },
-  {
-    "id": "20261006000280",
-    "category": "ai",
-    "source": "전자신문 AI",
-    "title": "에스넷시스템, 델 사업 성장세…실적 확대 견인",
-    "link": "https://www.etnews.com/20261006000280",
-    "summary": "에스넷시스템은 올해 상반기 별도 기준 매출이 전년 동기 대비 약 두배 증가한 가운데, 델테크놀로지 관련 사업이 큰 폭으로 성장하며 실적 확대를 견인했다고 6일 밝혔다. 고성능 그래픽처리장치(GPU) 서버 등 컴퓨팅 사업이 확대되고 주요 엔터프라이즈 고객의 델 파워플렉스 증설과 인프라 고…",
-    "pubDate": "2026-10-06T05:29:10.000Z",
-    "collectedAt": "2026-10-06T05:46:32.156Z"
-  },
-  {
-    "id": "20261006000277",
-    "category": "it",
-    "source": "전자신문 IT/통신",
-    "title": "[통신규제, 틀을 바꾸자]〈상〉AI 시대 통신정책, 요금 아닌 혁신 경쟁 키워야",
-    "link": "https://www.etnews.com/20261006000277",
-    "summary": "통신 산업이 급변하고 있다. 5세대(5G) 이동통신까지 유지되던 인프라 구축과 속도 경쟁은 의미를 잃어가고 있다. 6G를 앞둔 현재 얼마나 안정적이고 효율적으로 인공지능(AI)과 같은 새로운 서비스를 구현할 수 있는지가 새로운 경쟁력으로 부상했다. 유럽연합(EU) 집행위원회가 지난 1월…",
-    "pubDate": "2026-10-06T05:27:45.000Z",
-    "collectedAt": "2026-10-06T05:46:32.156Z"
-  },
-  {
-    "id": "20261006000274",
-    "category": "economy",
-    "source": "전자신문 경제",
-    "title": "[정보통신 미래모임 30년] 100자 메시지- 안동욱 미소정보기술 대표",
-    "link": "https://www.etnews.com/20261006000274",
-    "summary": "미소정보기술은 데이터플랫폼 기술을 중심으로 대한민국을 넘어 글로벌 시장을 개척하겠습니다. 끊임없는 혁신과 도전으로 세계가 인정하는 K-Software 시대를 열고, 대한민국 소프트웨어 산업의 새로운 기준을 만들어가겠습니다.",
-    "pubDate": "2026-10-06T05:26:29.000Z",
-    "collectedAt": "2026-10-06T05:46:32.156Z"
-  },
-  {
-    "id": "https://www.hankyung.com/article/202610065462i",
-    "category": "economy",
-    "source": "한국경제 증권",
-    "title": "백사이트, 폐렴구균 임상 3상 긍정적 결과에 30% 폭등",
-    "link": "https://www.hankyung.com/article/202610065462i",
-    "summary": "",
-    "pubDate": "2026-10-06T05:25:55.000Z",
-    "collectedAt": "2026-10-06T13:06:14.266Z"
-  },
-  {
-    "id": "20261006000272",
-    "category": "economy",
-    "source": "전자신문 경제",
-    "title": "[정보통신 미래모임 30년] 100자 메시지- 안광배 캠토 대표",
-    "link": "https://www.etnews.com/20261006000272",
-    "summary": "캠토는 지난 15년간 진로교육 현장에서 수많은 학생의 꿈과 선택을 마주했습니다. 이제 축적된 교육 경험과 인사이트를 AI 기반의 새로운 교육 체계로 확장해, 모든 학생이 자신을 이해하고 스스로 미래를 설계할 수 있는 대한민국 대표 교육 플랫폼을 만들겠습니다.",
-    "pubDate": "2026-10-06T05:23:53.000Z",
-    "collectedAt": "2026-10-06T05:46:32.156Z"
-  },
-  {
-    "id": "20261006000269",
-    "category": "economy",
-    "source": "전자신문 경제",
-    "title": "[정보통신 미래모임 30년] 100자 메시지- 박승애 지란지교소프트 대표",
-    "link": "https://www.etnews.com/20261006000269",
-    "summary": "AI가 많은 것을 바꾸는 시대일수록 사람과 경험의 가치는 더 커진다고 믿습니다. 고객의 현장을 가장 잘 이해하는 기업으로서, 기술을 실제 변화와 성장으로 만드는 역할을 하겠습니다.",
-    "pubDate": "2026-10-06T05:20:41.000Z",
-    "collectedAt": "2026-10-06T05:46:32.156Z"
-  },
-  {
-    "id": "https://www.hankyung.com/article/202610065564g",
-    "category": "economy",
-    "source": "한국경제 경제",
-    "title": "\"텅 비었던 양양공항 북적대겠네\"…상하이 직항 열린다",
-    "link": "https://www.hankyung.com/article/202610065564g",
-    "summary": "",
-    "pubDate": "2026-10-06T05:19:46.000Z",
-    "collectedAt": "2026-10-06T05:46:32.156Z"
-  },
-  {
-    "id": "https://www.hankyung.com/article/202610065446g",
-    "category": "economy",
-    "source": "한국경제 경제",
-    "title": "10년 전 철수 아픔 씻는다…교촌 2027년 도쿄 간다",
-    "link": "https://www.hankyung.com/article/202610065446g",
-    "summary": "",
-    "pubDate": "2026-10-06T05:19:13.000Z",
-    "collectedAt": "2026-10-06T05:46:32.156Z"
-  },
-  {
-    "id": "20261006000264",
-    "category": "economy",
-    "source": "전자신문 경제",
-    "title": "KB국민은행, 은행권 첫 'AI 정량평가' 도입…품질·위험 수치로 검증",
-    "link": "https://www.etnews.com/20261006000264",
-    "summary": "KB국민은행이 은행권에서 처음으로 인공지능(AI) 모델과 서비스를 정량 평가하는 표준체계를 도입한다. 생성형 AI가 금융업무 전반으로 확산한 데 따라 은행권 AI 경쟁이 품질과 위험을 객관적으로 검증하는 단계로 넘어가는 점에서 주목된다. 6일 금융권에 따르면 KB국민은행은 내년 상반기까…",
-    "pubDate": "2026-10-06T05:17:35.000Z",
-    "collectedAt": "2026-10-06T05:46:32.156Z"
-  },
-  {
-    "id": "20261006000263",
-    "category": "economy",
-    "source": "전자신문 경제",
-    "title": "[정보통신 미래모임 30년] 100자 메시지- 박경철 디오티스 대표",
-    "link": "https://www.etnews.com/20261006000263",
-    "summary": "정보통신미래모임 30주년을 진심으로 축하합니다. 22년간 컨택센터 솔루션에 매진해온 디오티스, 이제 AI 기반 솔루션으로 고객과 사회에 기여하고 책임을 다하는 기업이 되겠습니다. 앞으로도 혁신을 멈추지 않고 미래모임과 함께 성장하겠습니다.",
-    "pubDate": "2026-10-06T05:17:29.000Z",
-    "collectedAt": "2026-10-06T05:46:32.156Z"
-  },
-  {
-    "id": "20261006000262",
-    "category": "economy",
-    "source": "전자신문 경제",
-    "title": "[2026 국감] 은행장 '줄소환' 될까…정무위, 해킹 책임부터 레버리지 ETF까지",
-    "link": "https://www.etnews.com/20261006000262",
-    "summary": "금융당국을 향한 국회의 '송곳 검증'이 8일부터 본격화한다. 금융권을 덮친 대규모 해킹 사태가 최대 현안으로 급부상하면서 단일종목 레버리지 상장지수펀드(ETF) 도입 논란과 조각투자 제도화 과정 등 금융시장의 굵직한 현안도 줄줄이 국정감사 테이블에 오른다. 국회 정무위원회는 6일 국가보…",
-    "pubDate": "2026-10-06T05:15:25.000Z",
-    "collectedAt": "2026-10-06T05:46:32.156Z"
-  },
-  {
-    "id": "20261006000261",
-    "category": "economy",
-    "source": "전자신문 경제",
-    "title": "타이거리서치, 2030년 한국 가상자산 시장 전망…“거래에서 금융 인프라 경쟁으로”",
-    "link": "https://www.etnews.com/20261006000261",
-    "summary": "웹3 전문 리서치사 타이거리서치가 2030년 한국 가상자산 시장이 거래 중심에서 실제 금융 서비스를 구현하기 위한 인프라 경쟁으로 이동할 것으로 전망했다. 스테이블코인과 결제, 실물자산 시장을 뒷받침할 기반 체인 가운데 하나로 고성능 레이어1 블록체인 모나드의 역할도 분석했다. 타이거리…",
-    "pubDate": "2026-10-06T05:15:03.000Z",
-    "collectedAt": "2026-10-06T05:46:32.156Z"
-  },
-  {
-    "id": "20261006000260",
-    "category": "economy",
-    "source": "전자신문 경제",
-    "title": "“3억원 넘게 돌려받은 사람 있다”…연말정산 '1억 이상 환급' 직장인 195명",
-    "link": "https://www.etnews.com/20261006000260",
-    "summary": "지난해 연말정산에서 1억원을 초과하는 세금을 돌려받은 직장인이 195명에 이른 것으로 나타났다. 이들이 받은 환급금은 총 599억원으로, 한 사람당 평균 3억730만원에 달했다. 2년 전과 비교하면 고액 환급자는 38% 늘었고 환급 규모는 2.5배 수준으로 확대됐다. 세금을 1억원 이상…",
-    "pubDate": "2026-10-06T05:14:40.000Z",
-    "collectedAt": "2026-10-06T05:46:32.156Z"
-  },
-  {
-    "id": "20261006000259",
-    "category": "economy",
-    "source": "전자신문 경제",
-    "title": "[정보통신 미래모임 30년] 100자 메시지- 김진길 엠투웬티 대표",
-    "link": "https://www.etnews.com/20261006000259",
-    "summary": "근육도 데이터로 관리하는 시대가 시작됩니다. 엠투웬티는 근육 자극 기술과 AI·데이터를 결합해 근감소증을 예방하고, 건강수명을 늘리는 글로벌 디지털 헬스케어 기업으로 도약하겠습니다.",
-    "pubDate": "2026-10-06T05:13:47.000Z",
-    "collectedAt": "2026-10-06T05:46:32.156Z"
   }
 ]
