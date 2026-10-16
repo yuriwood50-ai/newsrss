@@ -1,5 +1,85 @@
 [
   {
+    "id": "https://news.hada.io/topic?id=35491",
+    "category": "it",
+    "source": "긱뉴스",
+    "title": "Big Fish: OpenBSD의 37년 된 커널 버그 악용하기",
+    "link": "https://news.hada.io/topic?id=35491",
+    "summary": "16비트 공유 메모리 연결 카운터의 오버플로가 경쟁 상태를 통해 해제 후 사용으로 이어졌으며, 별도의 커널 범위 밖 쓰기 취약점과 결합해 로컬 root 권한 상승이 가능했음 Calif는 KARL, SMAP, SMEP가 활성화된 OpenBSD에서 별도의 정보 유출 취약점 없이 커널 코..…",
+    "pubDate": "2026-10-16T20:45:12.000Z",
+    "collectedAt": "2026-10-16T20:46:35.209Z"
+  },
+  {
+    "id": "https://news.hada.io/topic?id=35490",
+    "category": "it",
+    "source": "긱뉴스",
+    "title": "Waymo, 토론토에 자율주행 차량 호출 서비스 진출 준비",
+    "link": "https://news.hada.io/topic?id=35490",
+    "summary": "Waymo가 캐나다 토론토에서 완전 자율주행 차량 호출 서비스를 준비하며, 2028년 첫 승객 탑승을 목표로 현지 시설과 일자리에 투자함 초기에는 수동 운전으로 현지 도로의 고정밀 지도를 만들고, 훈련된 자율주행 전문가가 운전석에 탑승한 상태...",
+    "pubDate": "2026-10-16T20:42:12.000Z",
+    "collectedAt": "2026-10-16T20:46:35.209Z"
+  },
+  {
+    "id": "https://news.hada.io/topic?id=35489",
+    "category": "it",
+    "source": "긱뉴스",
+    "title": "Claude, ECDSA 곡선의 기원을 밝혀내다",
+    "link": "https://news.hada.io/topic?id=35489",
+    "summary": "Anthropic의 내부 연구용 Claude가 30분도 안 돼 NIST 표준 곡선 5개의 시드 생성 방식을 찾아냄. 시드는 문구의 해시가 아니라 Unix 타임스탬프로 초기화한 lrand48 의 출력이었음 공개된 시드의 비트 패턴에서 오래된 의사난수 생성기의 흔적을 찾고...",
+    "pubDate": "2026-10-16T20:39:12.000Z",
+    "collectedAt": "2026-10-16T20:46:35.209Z"
+  },
+  {
+    "id": "https://news.hada.io/topic?id=35488",
+    "category": "it",
+    "source": "긱뉴스",
+    "title": "Postgres 19 출시 지연, AI 리뷰가 사람이 고칠 수 있는 양보다 많은 버그를 발견",
+    "link": "https://news.hada.io/topic?id=35488",
+    "summary": "PostgreSQL 19 정식 출시가 9월 말~10월 초에서 11월 19일경으로 미뤄졌으며, 주요 기능 8~10개가 이번 릴리스에서 제외됨 핵심 커미터 Peter Eisentraut는 기능 철회의 원인 중 일부가 LLM 보조 코드 리뷰일 수 있다고 봄. 과거에는 출시 후에야...",
+    "pubDate": "2026-10-16T19:43:19.000Z",
+    "collectedAt": "2026-10-16T20:46:35.209Z"
+  },
+  {
+    "id": "https://news.hada.io/topic?id=35487",
+    "category": "it",
+    "source": "긱뉴스",
+    "title": "Show HN: Gemini 4 Argon이 StarCraft를 플레이하다",
+    "link": "https://news.hada.io/topic?id=35487",
+    "summary": "StarSkirmish Bench v0.2는 LLM에 1시간 동안 C++로 StarCraft: Brood War의 Protoss 봇을 만들게 하고, 연습 경기에서 얻은 정보를 반영하는 장기 추론과 에이전트 코딩 능력을 평가함 GPT-6 Astra가 평균 승률 57%로 1위, GPT-6.…",
+    "pubDate": "2026-10-16T19:40:19.000Z",
+    "collectedAt": "2026-10-16T20:46:35.209Z"
+  },
+  {
+    "id": "https://news.hada.io/topic?id=35486",
+    "category": "it",
+    "source": "긱뉴스",
+    "title": "미국 하원의원, 비디오게임 소유권 보호 법안 발의 계획 발표",
+    "link": "https://news.hada.io/topic?id=35486",
+    "summary": "Ritchie Torres 미국 하원의원이 구매한 게임의 소유권과 플레이 권리를 보호하는 규정을 연방거래위원회(FTC)가 마련하도록 하는 Power To The Players Act 발의 계획을 발표함 법안은 게임 구매 시 소비자가 단순한 플레이 라이선스가 아닌 게임 소유권...",
+    "pubDate": "2026-10-16T19:37:19.000Z",
+    "collectedAt": "2026-10-16T20:46:35.209Z"
+  },
+  {
+    "id": "https://news.hada.io/topic?id=35485",
+    "category": "it",
+    "source": "긱뉴스",
+    "title": "미국 근로시간의 90%는 AI 벤치마크가 충분히 다루지 못하는 업무에 쓰임",
+    "link": "https://news.hada.io/topic?id=35485",
+    "summary": "Mercor가 경제적 관련성이 높은 29개 AI 벤치마크를 분석한 결과, 미국 근로시간의 약 90% 가 벤치마크에서 거의 또는 전혀 다루지 않는 업무에 쓰이는 것으로 추정됨 미국의 923개 직업 중 208개만 벤치마크 프롬프트 5개 이상과 연결되는 업무를...",
+    "pubDate": "2026-10-16T18:38:52.000Z",
+    "collectedAt": "2026-10-16T20:46:35.209Z"
+  },
+  {
+    "id": "https://news.hada.io/topic?id=35484",
+    "category": "it",
+    "source": "긱뉴스",
+    "title": "미국 영구 이주 선호도, 역대 최저 기록",
+    "link": "https://news.hada.io/topic?id=35484",
+    "summary": "2025년 다른 나라로 영구 이주하고 싶은 전 세계 성인 중 미국을 최우선 목적지로 선택한 비율은 15% 로, Gallup의 약 20년 조사 역사상 최저치를 기록함 미국은 여전히 가장 선호하는 이주 목적지이며, 캐나다가 9%로 2위를 유지함 미국 선호도는",
+    "pubDate": "2026-10-16T18:35:52.000Z",
+    "collectedAt": "2026-10-16T20:46:35.209Z"
+  },
+  {
     "id": "https://www.aitimes.com/news/articleView.html?idxno=216327",
     "category": "ai",
     "source": "AI타임스 AI산업",
@@ -14917,86 +14997,6 @@
     "link": "https://www.etnews.com/20261013000228",
     "summary": "SK텔레콤이 아이폰17·18 시리즈 스마트폰에서 처음으로 5세대(5G) 이동통신 단독모드(5G SA) 지원을 시작했다. 연내 5G SA 상용화를 앞두고 상용화 준비가 막바지 단계에 들어갔다. 13일 업계에 따르면 SK텔레콤은 자사망을 이용하는 아이폰 iOS 27.2 베타3 버전에 5G…",
     "pubDate": "2026-10-13T04:56:54.000Z",
-    "collectedAt": "2026-10-13T06:18:28.213Z"
-  },
-  {
-    "id": "20261013000224",
-    "category": "economy",
-    "source": "전자신문 경제",
-    "title": "신한금융, 국내 금융그룹 최초 인도네시아 금융지주사 출범",
-    "link": "https://www.etnews.com/20261013000224",
-    "summary": "신한금융그룹이 인도네시아 현지법인을 사업지주회사 체제로 전환하며 현지 사업 강화에 나선다. 신한금융그룹은 신한인도네시아은행을 사업지주회사로 전환하고 '신한인도네시아 금융그룹'을 출범했다. 국내 금융그룹이 인도네시아에서 현지 금융지주회사를 출범한 것은 이번이 처음이다. 이번 지배구조 재편…",
-    "pubDate": "2026-10-13T04:54:44.000Z",
-    "collectedAt": "2026-10-13T06:18:28.213Z"
-  },
-  {
-    "id": "20261013000221",
-    "category": "ai",
-    "source": "전자신문 AI",
-    "title": "[ICT 시사용어] 지식 증류(Knowledge Distillation)",
-    "link": "https://www.etnews.com/20261013000221",
-    "summary": "지식 증류(Knowledge Distillation)는 성능이 높은 대형 인공지능(AI) 모델의 지식과 판단 방식을 더 작은 모델로 이전하는 기술이다. 처음부터 데이터를 모으고 막대한 연산 자원을 들이지 않아도 앞선 모델의 능력을 상당 부분 옮겨올 수 있다. 2015년 제프리 힌턴 등이…",
-    "pubDate": "2026-10-13T04:52:56.000Z",
-    "collectedAt": "2026-10-13T06:18:28.213Z"
-  },
-  {
-    "id": "20261013000218",
-    "category": "ai",
-    "source": "전자신문 AI",
-    "title": "CJ올리브네트웍스, 경기도교육청 'AX창의캠프' 개최…초등생 대상 AI 교육",
-    "link": "https://www.etnews.com/20261013000218",
-    "summary": "CJ올리브네트웍스가 임직원의 인공지능(AI) 전문성을 활용해 초등학생 대상 AI·코딩 교육을 지원한다. CJ올리브네트웍스는 경기도교육청 '신나는공유학교' 연계 초등학생 대상 'AI 전환(AX)창의캠프'를 운영한다고 13일 밝혔다. 지난해에 이어 2회째 개최하는 'AX창의캠프'는 임직원이…",
-    "pubDate": "2026-10-13T04:49:53.000Z",
-    "collectedAt": "2026-10-13T06:18:28.213Z"
-  },
-  {
-    "id": "https://www.hankyung.com/article/2026101387236",
-    "category": "economy",
-    "source": "한국경제 증권",
-    "title": "하나증권, '하나 미국 S&P500 TR ETN' 신규 상장",
-    "link": "https://www.hankyung.com/article/2026101387236",
-    "summary": "",
-    "pubDate": "2026-10-13T04:49:38.000Z",
-    "collectedAt": "2026-10-13T06:18:28.213Z"
-  },
-  {
-    "id": "20261013000216",
-    "category": "ai",
-    "source": "전자신문 AI",
-    "title": "[포토] 한국전자전 2026 개막",
-    "link": "https://www.etnews.com/20261013000216",
-    "summary": "산업통상부가 주최한 한국전자전이 13일 서울 강남구 코엑스에서 나흘 일정으로 열렸다. 삼성전자 부스를 방문한 주요 인사들이 부스 소개를 듣고 있다.",
-    "pubDate": "2026-10-13T04:48:39.000Z",
-    "collectedAt": "2026-10-13T06:18:28.213Z"
-  },
-  {
-    "id": "https://www.hankyung.com/article/2026101387176",
-    "category": "economy",
-    "source": "한국경제 증권",
-    "title": "3분기 채권·CD 전자등록발행 178.3조원…전년 동기 대비 11.1% 증가",
-    "link": "https://www.hankyung.com/article/2026101387176",
-    "summary": "",
-    "pubDate": "2026-10-13T04:47:36.000Z",
-    "collectedAt": "2026-10-13T06:18:28.213Z"
-  },
-  {
-    "id": "20261013000213",
-    "category": "economy",
-    "source": "전자신문 경제",
-    "title": "NH농협은행, 'NH올원뱅크' 10주년 기념 최고 연 3.9% 특판예금 출시",
-    "link": "https://www.etnews.com/20261013000213",
-    "summary": "NH농협은행이 대표 플랫폼 'NH올원뱅크' 출범 10주년을 맞아 최고 연 3.9% 금리를 제공하는 특판예금을 출시했다. 이번 상품은 오는 11월 30일까지 총 5000억원 한도로 선착순 판매되며, NH올원뱅크 앱을 통해 가입할 수 있다. 가입 기간은 12개월 단일 상품이며, 가입 금액은…",
-    "pubDate": "2026-10-13T04:46:51.000Z",
-    "collectedAt": "2026-10-13T06:18:28.213Z"
-  },
-  {
-    "id": "20261013000212",
-    "category": "ai",
-    "source": "전자신문 AI",
-    "title": "[포토] 한국전자전 2026 개막",
-    "link": "https://www.etnews.com/20261013000212",
-    "summary": "산업통상부가 주최한 한국전자전이 13일 서울 강남구 코엑스에서 나흘 일정으로 열렸다. 삼성전자 부스를 방문한 주요 인사들이 기념촬영을 하고 있다.",
-    "pubDate": "2026-10-13T04:46:13.000Z",
     "collectedAt": "2026-10-13T06:18:28.213Z"
   }
 ]
