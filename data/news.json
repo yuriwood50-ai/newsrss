@@ -1,5 +1,185 @@
 [
   {
+    "id": "https://news.hada.io/topic?id=35555",
+    "category": "it",
+    "source": "긱뉴스",
+    "title": "나는 일본 시민이 되었다",
+    "link": "https://news.hada.io/topic?id=35555",
+    "summary": "Derek Wessman은 2012년과 2018년의 중단된 시도 끝에 2025년 2월 귀화를 정식 신청했고, 2026년 6월 일본 국적을 취득함 귀화 준비에는 가족관계와 평생의 거주/학업/직업 이력부터 개인과 회사의 재무자료까지 방대한 서류 작업이 필요했으며, 납세 여부뿐 아니라...",
+    "pubDate": "2026-10-17T23:32:57.000Z",
+    "collectedAt": "2026-10-17T23:53:33.362Z"
+  },
+  {
+    "id": "https://www.hankyung.com/article/202610166341i",
+    "category": "economy",
+    "source": "한국경제 경제",
+    "title": "50억짜리 건물 판 70대 자산가…매월 820만원 꽂힌다",
+    "link": "https://www.hankyung.com/article/202610166341i",
+    "summary": "",
+    "pubDate": "2026-10-17T23:00:10.000Z",
+    "collectedAt": "2026-10-17T23:53:33.362Z"
+  },
+  {
+    "id": "https://www.hankyung.com/article/202610178012i",
+    "category": "economy",
+    "source": "한국경제 경제",
+    "title": "\"점박이물범 살립시다\" 자라는 왜 갯벌 보호에 앞장설까 [장서우의 하입:hype]",
+    "link": "https://www.hankyung.com/article/202610178012i",
+    "summary": "",
+    "pubDate": "2026-10-17T23:00:04.000Z",
+    "collectedAt": "2026-10-17T23:53:33.362Z"
+  },
+  {
+    "id": "https://news.hada.io/topic?id=35554",
+    "category": "it",
+    "source": "긱뉴스",
+    "title": "Around The World 게임에서 아름다운 하늘 렌더링하기",
+    "link": "https://news.hada.io/topic?id=35554",
+    "summary": "초기 개발 중인 해양 탐험 게임 Around The World에서 구름의 빛 산란, 하늘의 색, 수평선, 톤 매핑을 조정해 바다와 하늘, 구름이 더 자연스럽게 어우러지도록 개선함 Rust로 직접 만든 광선 추적기로 다중 산란을 반영한 룩업 테이블을 생성해, 두꺼운 구름의 밑...",
+    "pubDate": "2026-10-17T22:43:24.000Z",
+    "collectedAt": "2026-10-17T23:53:33.362Z"
+  },
+  {
+    "id": "https://news.hada.io/topic?id=35553",
+    "category": "it",
+    "source": "긱뉴스",
+    "title": "댐 철거로 미국 북동부 전역에 물고기가 돌아오고 있음",
+    "link": "https://news.hada.io/topic?id=35553",
+    "summary": "미국의 댐 철거는 대규모 서부 연어 하천뿐 아니라 동부의 작은 하천에서도 진행되며, 막혔던 산란 경로를 다시 열고 회유성 어류를 회복시키고 있음 Massachusetts의 Town Brook에서는 여러 댐을 철거한 뒤 연간 회귀 청어류가 약 2만 5,000마리에서 여러 해에 걸...",
+    "pubDate": "2026-10-17T22:40:24.000Z",
+    "collectedAt": "2026-10-17T23:53:33.362Z"
+  },
+  {
+    "id": "https://news.hada.io/topic?id=35552",
+    "category": "it",
+    "source": "긱뉴스",
+    "title": "에스토니아 온라인 투표 시스템의 소스 코드",
+    "link": "https://news.hada.io/topic?id=35552",
+    "summary": "IVXV는 에스토니아 온라인 투표 시스템의 소스 코드를 누구나 검토할 수 있도록 공개하는 저장소임 이 저장소는 실제 개발 작업용으로 사용되지 않음 저장소를 최신 상태로 유지해 실제 선거에 사용되는 코드를 제공함 법적 구...",
+    "pubDate": "2026-10-17T22:37:24.000Z",
+    "collectedAt": "2026-10-17T23:53:33.362Z"
+  },
+  {
+    "id": "https://www.hankyung.com/article/202610166696g",
+    "category": "economy",
+    "source": "한국경제 경제",
+    "title": "\"이것까지 5000원이라고?\"…다이소 파격 행보에 '깜짝'  [박수림의 요즘 여기]",
+    "link": "https://www.hankyung.com/article/202610166696g",
+    "summary": "",
+    "pubDate": "2026-10-17T22:30:02.000Z",
+    "collectedAt": "2026-10-17T23:53:33.362Z"
+  },
+  {
+    "id": "https://www.hankyung.com/article/2026101881707",
+    "category": "economy",
+    "source": "한국경제 경제",
+    "title": "\"마시면 이틀 뒤에 깬다\"…11년 만에 돌아온 '전설의 술'",
+    "link": "https://www.hankyung.com/article/2026101881707",
+    "summary": "",
+    "pubDate": "2026-10-17T22:26:34.000Z",
+    "collectedAt": "2026-10-17T23:53:33.362Z"
+  },
+  {
+    "id": "https://www.hankyung.com/article/2026101881377",
+    "category": "economy",
+    "source": "한국경제 경제",
+    "title": "이건희 삼성 선대회장 6주기…삼성가 '조용한 추모'",
+    "link": "https://www.hankyung.com/article/2026101881377",
+    "summary": "",
+    "pubDate": "2026-10-17T22:10:54.000Z",
+    "collectedAt": "2026-10-17T23:53:33.362Z"
+  },
+  {
+    "id": "https://news.hada.io/topic?id=35551",
+    "category": "it",
+    "source": "긱뉴스",
+    "title": "Linux 7.2 커널 개발 통계",
+    "link": "https://news.hada.io/topic?id=35551",
+    "summary": "Linux 7.2에는 병합을 제외한 16,418개 커밋과 약 60만 줄의 코드가 추가됐으며, 커밋 수 기준 커널 역사상 두 번째로 활발한 개발 주기였음 참여 개발자는 2,652명, 첫 기여자는 613명으로 모두 기록을 경신했으며, 소속을 확인할 수 없는 개발자...",
+    "pubDate": "2026-10-17T21:47:04.000Z",
+    "collectedAt": "2026-10-17T23:53:33.362Z"
+  },
+  {
+    "id": "https://www.hankyung.com/article/202610153121i",
+    "category": "it",
+    "source": "한국경제 IT",
+    "title": "빅파마 러브콜 에임드바이오 “ADC 기술수출 비결은 '임상 적중률' 높이는 중개연구”",
+    "link": "https://www.hankyung.com/article/202610153121i",
+    "summary": "",
+    "pubDate": "2026-10-17T21:47:01.000Z",
+    "collectedAt": "2026-10-17T23:53:33.362Z"
+  },
+  {
+    "id": "https://news.hada.io/topic?id=35550",
+    "category": "it",
+    "source": "긱뉴스",
+    "title": "9인치 달팽이",
+    "link": "https://news.hada.io/topic?id=35550",
+    "summary": "플로리다주 Hialeah에서 아프리카대왕달팽이가 발견돼 약 300에이커 구역의 정원 폐기물과 벽돌 등의 반출입이 제한됨 이 달팽이는 빠르게 번식하며 농작물과 건물 외벽을 먹고, 사람에게 심각한 질환을 일으킬 수 있는 쥐폐충을 전파함",
+    "pubDate": "2026-10-17T21:44:04.000Z",
+    "collectedAt": "2026-10-17T23:53:33.362Z"
+  },
+  {
+    "id": "https://news.hada.io/topic?id=35549",
+    "category": "it",
+    "source": "긱뉴스",
+    "title": "Pele - Mermaid 다이어그램을 테마 적용 가능한 SVG로 렌더링하는 라이브러리",
+    "link": "https://news.hada.io/topic?id=35549",
+    "summary": "Pele는 Mermaid 문법으로 작성한 다이어그램을 SVG로 렌더링하는 가벼운 오픈소스 라이브러리임 CSS 변수로 색상과 글꼴을 설정하며, 색상 변경은 다시 렌더링하지 않아도 적용됨 자체 비교 기준으로 Mermaid.js보다 6배 작고 최대 500배 빠르며...",
+    "pubDate": "2026-10-17T21:41:04.000Z",
+    "collectedAt": "2026-10-17T23:53:33.362Z"
+  },
+  {
+    "id": "https://news.hada.io/topic?id=35548",
+    "category": "it",
+    "source": "긱뉴스",
+    "title": "금, 이제 미국 최대 수출 품목이 되다",
+    "link": "https://news.hada.io/topic?id=35548",
+    "summary": "금 수출액이 2025년 10월부터 거의 매달 미국의 다른 모든 수출 품목을 웃돌며, 기존 상위 품목인 석유, 의약품, 항공기 및 부품을 앞섬 수출 증가에는 금값의 사상 최고치 경신뿐 아니라 물량 증가도 작용했으며, 2026년 2월 금 수출 중량은 역대 최대였을 가능성...",
+    "pubDate": "2026-10-17T21:38:04.000Z",
+    "collectedAt": "2026-10-17T23:53:33.362Z"
+  },
+  {
+    "id": "https://www.hankyung.com/article/202610167152i",
+    "category": "economy",
+    "source": "한국경제 경제",
+    "title": "러시아서 더 잘 팔린다…80억개 대박 난 '이 라면' [권용훈의 트렌드워치]",
+    "link": "https://www.hankyung.com/article/202610167152i",
+    "summary": "",
+    "pubDate": "2026-10-17T21:00:01.000Z",
+    "collectedAt": "2026-10-17T23:53:33.362Z"
+  },
+  {
+    "id": "https://news.hada.io/topic?id=35547",
+    "category": "it",
+    "source": "긱뉴스",
+    "title": "OpenAI, AI 에이전트의 일탈 사례 4건 추가 공개",
+    "link": "https://news.hada.io/topic?id=35547",
+    "summary": "OpenAI가 AI 에이전트의 일탈 사례 4건을 추가 공개함. 모두 6월에 발생했으며, 이 중 3건은 수개월 뒤인 8월이나 9월에야 파악함 중대 등급으로 분류한 2건에서는 정부 웹사이트의 접근 통제를 우회해 병상 데이터를 내려받거나, 조직 내부 시스템을 변경하고 비공...",
+    "pubDate": "2026-10-17T20:42:30.000Z",
+    "collectedAt": "2026-10-17T23:53:33.362Z"
+  },
+  {
+    "id": "https://news.hada.io/topic?id=35546",
+    "category": "it",
+    "source": "긱뉴스",
+    "title": "RFC8950: IPv6 넥스트홉으로 IPv4 경로 광고하기",
+    "link": "https://news.hada.io/topic?id=35546",
+    "summary": "RFC8950은 IPv4 경로에 IPv6 넥스트홉을 사용할 수 있게 해, IPv6 기반 네트워크에서 터널 없이 IPv4 트래픽을 전달할 수 있음 제어 평면에는 IPv6를 사용하지만 데이터 평면은 바꾸지 않으며, IPv4 패킷은 변환이나 캡슐화 없이 그대로 전송됨...",
+    "pubDate": "2026-10-17T20:39:30.000Z",
+    "collectedAt": "2026-10-17T23:53:33.362Z"
+  },
+  {
+    "id": "https://news.hada.io/topic?id=35545",
+    "category": "it",
+    "source": "긱뉴스",
+    "title": "백화된 산호, 건강한 이웃 산호에 닿으면 며칠 만에 활력 되찾아",
+    "link": "https://news.hada.io/topic?id=35545",
+    "summary": "실험실에서 백화된 산호 조각을 같은 개체의 건강한 조각과 접촉시키자 공생 조류가 옮겨가며 회복함 두 조각이 융합해 만든 조직 다리가 공생체의 이동 통로가 됐으며, 다른 개체나 다른 종의 조각 사이에서는 이런 회복이 일어나지 않음 접촉한 산호는 ...",
+    "pubDate": "2026-10-17T20:36:30.000Z",
+    "collectedAt": "2026-10-17T23:53:33.362Z"
+  },
+  {
     "id": "https://news.hada.io/topic?id=35544",
     "category": "it",
     "source": "긱뉴스",
@@ -14817,186 +14997,6 @@
     "link": "https://www.hankyung.com/article/202610139091i",
     "summary": "",
     "pubDate": "2026-10-13T07:15:59.000Z",
-    "collectedAt": "2026-10-13T15:46:32.112Z"
-  },
-  {
-    "id": "20261013000369",
-    "category": "ai",
-    "source": "전자신문 AI",
-    "title": "[포토] 키노트 강연하는 김장우 망고부스트 대표",
-    "link": "https://www.etnews.com/20261013000369",
-    "summary": "산업통상부가 주최한 한국전자전이 13일 서울 강남구 코엑스에서 나흘 일정으로 열렸다. 오프닝 키노트 강연에서 김장우 망고부스트 대표가 '망고부스트: 빠르고 유연하며 비용 효율적인 AI 인프라'를 주제로 발표하고 있다.",
-    "pubDate": "2026-10-13T07:08:45.000Z",
-    "collectedAt": "2026-10-13T15:46:32.112Z"
-  },
-  {
-    "id": "20261013000368",
-    "category": "ai",
-    "source": "전자신문 AI",
-    "title": "[포토] 키노트 강연하는 김장우 망고부스트 대표",
-    "link": "https://www.etnews.com/20261013000368",
-    "summary": "산업통상부가 주최한 한국전자전이 13일 서울 강남구 코엑스에서 나흘 일정으로 열렸다. 오프닝 키노트 강연에서 김장우 망고부스트 대표가 '망고부스트: 빠르고 유연하며 비용 효율적인 AI 인프라'를 주제로 발표하고 있다.",
-    "pubDate": "2026-10-13T07:07:16.000Z",
-    "collectedAt": "2026-10-13T15:46:32.112Z"
-  },
-  {
-    "id": "20261013000367",
-    "category": "economy",
-    "source": "전자신문 경제",
-    "title": "브링로컬리티, '글로벌 스타트업 창업사업화 지원사업' 선정…중국 KOC 마케팅 플랫폼 국내 실증 추진",
-    "link": "https://www.etnews.com/20261013000367",
-    "summary": "AI 기반 KOC 마케팅 플랫폼 기업 브링로컬리티가 '글로벌 스타트업 창업사업화 지원사업'에 선정돼 한국 시장에서 서비스 개발과 초기 시장 검증을 추진한다. 브링로컬리티는 이번 지원사업을 통해 국내 사업 운영에 필요한 인력 기반을 마련하고, 최소기능제품(MVP) 개발과 파트너 에이전시를…",
-    "pubDate": "2026-10-13T07:04:27.000Z",
-    "collectedAt": "2026-10-13T21:06:34.608Z"
-  },
-  {
-    "id": "https://www.hankyung.com/article/202610139132i",
-    "category": "economy",
-    "source": "한국경제 증권",
-    "title": "한번 빠지면 '최소 4년'…과거 3차례 박스피 어땠나",
-    "link": "https://www.hankyung.com/article/202610139132i",
-    "summary": "",
-    "pubDate": "2026-10-13T07:03:41.000Z",
-    "collectedAt": "2026-10-13T15:46:32.112Z"
-  },
-  {
-    "id": "20261013000366",
-    "category": "ai",
-    "source": "전자신문 AI",
-    "title": "[포토] LG전자 스마트 코티지 하우스",
-    "link": "https://www.etnews.com/20261013000366",
-    "summary": "산업통상부가 주최한 한국전자전이 13일 서울 강남구 코엑스에서 나흘 일정으로 열렸다. LG전자 부스에서 관람객이 LG 스마트 코티지 하우스를 살펴보고 있다.",
-    "pubDate": "2026-10-13T07:02:15.000Z",
-    "collectedAt": "2026-10-13T15:46:32.112Z"
-  },
-  {
-    "id": "20261013000365",
-    "category": "ai",
-    "source": "전자신문 AI",
-    "title": "[포토] LG전자의 시그니처 OLED W",
-    "link": "https://www.etnews.com/20261013000365",
-    "summary": "산업통상부가 주최한 한국전자전이 13일 서울 강남구 코엑스에서 나흘 일정으로 열렸다. LG전자 부스에서 관람객이 LG 시그니처 OLED W TV를 살펴보고 있다.",
-    "pubDate": "2026-10-13T07:01:56.000Z",
-    "collectedAt": "2026-10-13T15:46:32.112Z"
-  },
-  {
-    "id": "20261013000364",
-    "category": "ai",
-    "source": "전자신문 AI",
-    "title": "[포토] LG전자의 빌라 드 시그니처",
-    "link": "https://www.etnews.com/20261013000364",
-    "summary": "산업통상부가 주최한 한국전자전이 13일 서울 강남구 코엑스에서 나흘 일정으로 열렸다. LG전자 부스에서 관람객이 빌라 드 시그니처를 살펴보고 있다.",
-    "pubDate": "2026-10-13T07:01:46.000Z",
-    "collectedAt": "2026-10-13T15:46:32.112Z"
-  },
-  {
-    "id": "20261013000362",
-    "category": "it",
-    "source": "전자신문 IT/통신",
-    "title": "엔씨 '아스트라에 오라티오', AGF 2026 메인 스폰서 참가... 150부스 규모",
-    "link": "https://www.etnews.com/20261013000362",
-    "summary": "엔씨는 신전기 마법 역할수행게임(RPG) '아스트라에 오라티오(Astrae Oratio)'가 'AGF 2026(Anime X Game Festival 2026)'에 메인 스폰서로 참가한다고 13일 밝혔다. AGF 2026은 국내 최대 규모의 서브컬처 축제로 오는 12월 4일부터 6일까지…",
-    "pubDate": "2026-10-13T07:01:36.000Z",
-    "collectedAt": "2026-10-13T15:46:32.112Z"
-  },
-  {
-    "id": "20261013000361",
-    "category": "ai",
-    "source": "전자신문 AI",
-    "title": "[포토] 세계 최초 무선·투명 TV",
-    "link": "https://www.etnews.com/20261013000361",
-    "summary": "산업통상부가 주최한 한국전자전이 13일 서울 강남구 코엑스에서 나흘 일정으로 열렸다. LG전자 부스에서 관람객이 세계 최초 무선·투명 TV LG 시그니처 OLED T를 살펴보고 있다.",
-    "pubDate": "2026-10-13T07:01:29.000Z",
-    "collectedAt": "2026-10-13T15:46:32.112Z"
-  },
-  {
-    "id": "20261013000360",
-    "category": "economy",
-    "source": "전자신문 경제",
-    "title": "반도체 주도주 휘청…코스피 6000선 장중 붕괴",
-    "link": "https://www.etnews.com/20261013000360",
-    "summary": "국내 반도체 기업 주가 불안 속에 코스피가 13일 폭락하며 장중 한때 6000선을 반납했다. 이날 코스피는 5.46%(348.89P) 하락한 6035.35에 거래를 마쳤다. 코스피는 전일보다 떨어진 6186.08에 장을 시작한 뒤 오후 들어 5911.11까지 떨어졌다가 장 후반 낙폭을…",
-    "pubDate": "2026-10-13T07:00:17.000Z",
-    "collectedAt": "2026-10-13T21:06:34.608Z"
-  },
-  {
-    "id": "20261013000214",
-    "category": "ai",
-    "source": "전자신문 AI",
-    "title": "정부 지원 끊기자 의료 AI도 멈췄다",
-    "link": "https://www.etnews.com/20261013000214",
-    "summary": "정부와 지방자치단체 지원으로 의료 인공지능(AI)을 도입한 지역·중소병원이 지원 종료 후 비용 부담으로 사용을 중단하는 사례가 잇따르고 있다. 의료진의 업무 부담을 줄이고 진료 효율을 높이는 순기능에도 병원 수익 증가로 곧바로 이어지지 않기 때문에 자체 예산으로 계약을 이어가기 어려운…",
-    "pubDate": "2026-10-13T07:00:00.000Z",
-    "collectedAt": "2026-10-13T15:46:32.112Z"
-  },
-  {
-    "id": "20261013000009",
-    "category": "economy",
-    "source": "전자신문 경제",
-    "title": "LG전자 B2B 모니터·PC, 사양표 대신 '일하는 방식'으로 고른다",
-    "link": "https://www.etnews.com/20261013000009",
-    "summary": "LG전자가 기업 고객을 타깃으로 모니터·PC 글로벌 디지털 허브를 선보였다. 제품 카탈로그를 나열하던 방식에서 벗어나 업무 환경과 용도를 기준으로 제품을 찾도록 설계했다. 허브 사이트에서는 제품, 산업, 인사이트, ESG 등 방문자 필요에 맞는 경로로 제품을 탐색할 수 있다. 기업 IT…",
-    "pubDate": "2026-10-13T07:00:00.000Z",
-    "collectedAt": "2026-10-13T21:06:34.608Z"
-  },
-  {
-    "id": "20261013000082",
-    "category": "economy",
-    "source": "전자신문 경제",
-    "title": "[블록체인 칼럼] 디지털자산시장 명확화법과 규제체계 재정립에 대한 담론〈중〉",
-    "link": "https://www.etnews.com/20261013000082",
-    "summary": "디지털자산시장 명확화법(CLARITY Act)이 주목받는 이유는 '토큰 자체'와 '토큰을 이용한 투자거래'를 구분하는 방식으로 접근하려 하기 때문이다. 토큰을 발행해 개발자금을 모집하는 단계에서 투자계약이 성립했다면 해당 거래에는 증권법이 적용될 수 있다. 그러나 이후 블록체인이 실제로…",
-    "pubDate": "2026-10-13T07:00:00.000Z",
-    "collectedAt": "2026-10-13T21:06:34.608Z"
-  },
-  {
-    "id": "20261013000359",
-    "category": "economy",
-    "source": "전자신문 경제",
-    "title": "[뉴스줌인]기약 없는 코스피 外人이탈…한 해 200조 팔아치웠다",
-    "link": "https://www.etnews.com/20261013000359",
-    "summary": "국내 증시에서 외국인의 이탈이 지속되며 주가가 급락세를 이어가고 있다. 기업들에 대한 뚜렷한 악재 없이 수급 악화가 이어져 코스피는 13일 장중 6000선까지 내주며 급락했다. 한국거래소에 따르면 외국인은 올해 들어 지난 12일까지 코스피시장에서 199조1043억원을 순매도했다. 이날…",
-    "pubDate": "2026-10-13T06:59:58.000Z",
-    "collectedAt": "2026-10-13T21:06:34.608Z"
-  },
-  {
-    "id": "https://www.hankyung.com/article/202610139113i",
-    "category": "economy",
-    "source": "한국경제 증권",
-    "title": "\"잘나가는 반도체는 옛말\"…'신고가' 미국 증시 '진짜 주도주'는",
-    "link": "https://www.hankyung.com/article/202610139113i",
-    "summary": "",
-    "pubDate": "2026-10-13T06:58:49.000Z",
-    "collectedAt": "2026-10-13T15:46:32.112Z"
-  },
-  {
-    "id": "20261013000357",
-    "category": "ai",
-    "source": "전자신문 AI",
-    "title": "[포토] 삼성전자의 마이크로 RGB TV",
-    "link": "https://www.etnews.com/20261013000357",
-    "summary": "산업통상부가 주최한 한국전자전이 13일 서울 강남구 코엑스에서 나흘 일정으로 열렸다. 삼성전자 부스에서 관람객이 마이크로 RGB TV를 살펴보고 있다.",
-    "pubDate": "2026-10-13T06:58:46.000Z",
-    "collectedAt": "2026-10-13T15:46:32.112Z"
-  },
-  {
-    "id": "20261013000356",
-    "category": "ai",
-    "source": "전자신문 AI",
-    "title": "[포토] LG 스마트팩토리",
-    "link": "https://www.etnews.com/20261013000356",
-    "summary": "한국전자전 2026이 13일 서울 삼성동 코엑스에서 개막했다.LG전자 부스에서 관람객들이 스마트팩토리를 살펴보고 있다.",
-    "pubDate": "2026-10-13T06:57:54.000Z",
-    "collectedAt": "2026-10-13T15:46:32.112Z"
-  },
-  {
-    "id": "20261013000355",
-    "category": "ai",
-    "source": "전자신문 AI",
-    "title": "[포토] 세상에서 가장 가벼운 폴드",
-    "link": "https://www.etnews.com/20261013000355",
-    "summary": "산업통상부가 주최한 한국전자전이 13일 서울 강남구 코엑스에서 나흘 일정으로 열렸다. 삼성전자 부스에서 관람객이 갤럭시 Z 폴드8을 살펴보고 있다.",
-    "pubDate": "2026-10-13T06:57:16.000Z",
     "collectedAt": "2026-10-13T15:46:32.112Z"
   }
 ]
