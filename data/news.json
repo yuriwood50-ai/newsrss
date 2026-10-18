@@ -30,6 +30,16 @@
     "collectedAt": "2026-10-18T13:52:08.856Z"
   },
   {
+    "id": "https://news.hada.io/topic?id=35582",
+    "category": "it",
+    "source": "긱뉴스",
+    "title": "Matthew Prince가 밝힌 Cloudflare의 무료 버전 제공 이유와 유지 방침 (2016)",
+    "link": "https://news.hada.io/topic?id=35582",
+    "summary": "Cloudflare의 무료 사용자 기반은 유료 사용자만으로는 접하기 어려운 다양한 공격 데이터를 확보하게 해, 유료 고객의 보안 수준을 높이는 데 기여함 무료 서비스를 사용한 직원이 직장에 Cloudflare를 도입하는 고객 추천 경로가 있으며, 대형 고객 다수가 이런 ...",
+    "pubDate": "2026-10-18T16:42:54.000Z",
+    "collectedAt": "2026-10-18T17:11:19.100Z"
+  },
+  {
     "id": "https://www.aitimes.com/news/articleView.html?idxno=216374",
     "category": "ai",
     "source": "AI타임스 AI산업",
@@ -38,6 +48,26 @@
     "summary": "구글이 양자컴퓨터의 복잡한 계산에 필요한 특수 양자 상태를 기존보다 훨씬 정확하게 만드는 데 성공했다. 새로운 오류 정정 기술을 적용해 오류를 약 40분의 1로 줄였으며, 실제 양자칩에서 기술이 작동한다는 사실을 입증했다. 대규모 양자컴퓨터를 구현하는 데 필요한 하드웨어 부담을 줄일 수…",
     "pubDate": "2026-10-18T16:40:31.000Z",
     "collectedAt": "2026-10-18T08:45:11.672Z"
+  },
+  {
+    "id": "https://news.hada.io/topic?id=35581",
+    "category": "it",
+    "source": "긱뉴스",
+    "title": "파서 조합기 - 작은 파서를 조합해 구조화된 데이터를 만드는 방법",
+    "link": "https://news.hada.io/topic?id=35581",
+    "summary": "파서 조합기(parser combinator) 는 작은 파싱 함수를 조합해 복잡한 텍스트를 구조화된 데이터로 변환하는 방식으로, 정규식으로는 복잡하고 tree-sitter를 쓰기에는 과한 작업에 적합함 기본 단위인 부분 파서는 입력 문자열에서 일부를 읽고, 파싱한 값과 남은 ...",
+    "pubDate": "2026-10-18T16:39:54.000Z",
+    "collectedAt": "2026-10-18T17:11:19.100Z"
+  },
+  {
+    "id": "https://news.hada.io/topic?id=35580",
+    "category": "it",
+    "source": "긱뉴스",
+    "title": "RepRapMicron - 마이크론급 제작과 자기 복제를 목표로 하는 3D 프린터",
+    "link": "https://news.hada.io/topic?id=35580",
+    "summary": "μRepRap은 쉽게 구할 수 있는 재료로 마이크론 및 서브마이크론급 제작이 가능한 자기 복제형 3D 프린터를 목표로 하며, 초기 시제품의 반복 위치 결정과 가정 작업실용 프로브 제작 목표는 사실상 달성함 현재 권장하는 PIKA V0.02는 한 변이 약 8mm인 입방체 작업...",
+    "pubDate": "2026-10-18T16:36:54.000Z",
+    "collectedAt": "2026-10-18T17:11:19.100Z"
   },
   {
     "id": "https://www.aitimes.com/news/articleView.html?idxno=216377",
@@ -50,6 +80,16 @@
     "collectedAt": "2026-10-18T08:45:11.672Z"
   },
   {
+    "id": "https://news.hada.io/topic?id=35579",
+    "category": "it",
+    "source": "긱뉴스",
+    "title": "GNOME OS Preview 공개, 최신 안정판 GNOME 기반의 운영체제",
+    "link": "https://news.hada.io/topic?id=35579",
+    "summary": "GNOME OS Preview는 최신 안정판 GNOME을 기반으로 하는 새 에디션으로, 개발자와 테스터용 Nightly를 넘어 비개발자 얼리어답터까지 사용 대상을 넓힘 공개 시점에는 GNOME 51.1을 사용하며, GNOME 구성 요소의 최신 Git 커밋을 계속 반영하는 Nightly와…",
+    "pubDate": "2026-10-18T16:01:55.000Z",
+    "collectedAt": "2026-10-18T17:11:19.100Z"
+  },
+  {
     "id": "https://www.aitimes.com/news/articleView.html?idxno=216372",
     "category": "ai",
     "source": "AI타임스 AI산업",
@@ -58,6 +98,56 @@
     "summary": "메타가 페이스북과 인스타그램 등의 비즈니스 계정에 적용할 새 약관에서 AI 학습 관련 문구를 삭제했다. 언론사 웹사이트의 기사까지 AI 학습에 사용할 수 있다는 지적이 나오자 약관을 수정한 것이다. 그러나 외부 웹사이트의 콘텐츠를 자동으로 수집할 수 있다는 조항은 그대로 유지해 언론계의…",
     "pubDate": "2026-10-18T15:34:38.000Z",
     "collectedAt": "2026-10-18T08:45:11.672Z"
+  },
+  {
+    "id": "https://news.hada.io/topic?id=35578",
+    "category": "it",
+    "source": "긱뉴스",
+    "title": "법률 전문가들, Meta의 새 약관이 여전히 광범위한 스크래핑을 허용한다고 경고",
+    "link": "https://news.hada.io/topic?id=35578",
+    "summary": "Meta가 비즈니스 계정용 새 약관에서 ‘학습(train)’을 삭제하고 수집 콘텐츠의 사용처를 광고 및 비즈니스 제품으로 좁혔지만, 법률 전문가들은 여전히 웹사이트 전체를 스크래핑하고 AI 학습에 활용할 여지가 있다고 경고함 기존에는 생성형 AI 광고 기능을 사용할 때 광...",
+    "pubDate": "2026-10-18T15:31:59.000Z",
+    "collectedAt": "2026-10-18T17:11:19.100Z"
+  },
+  {
+    "id": "https://news.hada.io/topic?id=35577",
+    "category": "it",
+    "source": "긱뉴스",
+    "title": "gopls의 대화형 리팩터링",
+    "link": "https://news.hada.io/topic?id=35577",
+    "summary": "gopls에 여러 단계의 대화창으로 사용자 입력을 받은 뒤 코드를 변환하는 대화형 리팩터링이 도입됨. gopls v0.24.0과 VS Code 공식 Go 확장 v0.56.0에서 사용할 수 있음 LSP 확장 제안은 언어 서버가 편집기별 맞춤 구현 없이 사용자에게 필요한 정보를 묻도록 함.…",
+    "pubDate": "2026-10-18T15:02:15.000Z",
+    "collectedAt": "2026-10-18T17:11:19.100Z"
+  },
+  {
+    "id": "20261018000088",
+    "category": "economy",
+    "source": "전자신문 경제",
+    "title": "여주 읽고 창업 그리다…경콘진, 청년 22명 지역 자원 활용 현장 탐방",
+    "link": "https://www.etnews.com/20261018000088",
+    "summary": "청년 22명이 여주의 역사·문화 자원을 활용한 창업 가능성을 살폈다. 경기콘텐츠진흥원은 경기도·여주시와 함께 추진하는 '2026 지역가치 창업가 육성' 사업의 하나로 지난 9일 '여주시 청년 창업 팸투어'를 진행했다고 18일 밝혔다. 이 팸투어는 지역 고유 자원을 직접 체험하고 창업 아…",
+    "pubDate": "2026-10-18T14:50:22.000Z",
+    "collectedAt": "2026-10-18T17:11:19.100Z"
+  },
+  {
+    "id": "20261018000087",
+    "category": "ai",
+    "source": "전자신문 AI",
+    "title": "제품은 준비 끝, 해외 홍보는?…화성산업진흥원, 해외 수출 비용 지원",
+    "link": "https://www.etnews.com/20261018000087",
+    "summary": "경기 화성특례시 중소기업 10개사가 해외 마케팅 비용을 최대 260만원 지원받는다. 18일 화성산업진흥원(원장 전병선)에 따르면 지역 중소기업의 해외시장 진출과 판로 개척을 돕는 '2026년 수출 패키지 지원사업' 참여기업을 오는 22일까지 모집한다. 지원 대상은 화성시에 본사 또는 공…",
+    "pubDate": "2026-10-18T14:38:10.000Z",
+    "collectedAt": "2026-10-18T17:11:19.100Z"
+  },
+  {
+    "id": "https://news.hada.io/topic?id=35576",
+    "category": "it",
+    "source": "긱뉴스",
+    "title": "회의론자의 Kubernetes 첫 탐색 (2024)",
+    "link": "https://news.hada.io/topic?id=35576",
+    "summary": "물리적 워크로드 배치를 엄격히 통제하는 인프라 업무 때문에 Kubernetes를 피해 온 경험에서 출발해, 제어 루프와 Service를 이해하며 핵심 설계를 긍정적으로 재평가함 제어 루프는 관측값을 바탕으로 원하는 상태에 도달하도록 동작하며, 장애 복구와 복제본 수...",
+    "pubDate": "2026-10-18T14:33:28.000Z",
+    "collectedAt": "2026-10-18T17:11:19.100Z"
   },
   {
     "id": "20261018000083",
@@ -14908,95 +14998,5 @@
     "summary": "오픈AI가 '코덱스'와 '챗GPT 워크'에서 사용하는 'GPT-6.1 솔'의 기본 컨텍스트 길이를 기존 27만2000 토큰에서 50만 토큰으로 확대했다. 약 80% 늘어난 규모로, 장시간 작업에서 발생하는 맥락 압축을 줄이고 복잡한 작업의 세부 사항을 더 오래 유지하도록 지원하기 위한…",
     "pubDate": "2026-10-13T17:35:00.000Z",
     "collectedAt": "2026-10-13T15:46:32.112Z"
-  },
-  {
-    "id": "https://www.aitimes.com/news/articleView.html?idxno=216205",
-    "category": "ai",
-    "source": "AI타임스 AI산업",
-    "title": "MS, 코드로 영상 속 물리법칙 정밀 제어하는 '코드 비디오 모델' 공개",
-    "link": "https://www.aitimes.com/news/articleView.html?idxno=216205",
-    "summary": "AI의 영상 제작 기술이 발전하면서 원하는 장면과 움직임을 얼마나 정확하게 구현하느냐가 핵심 과제로 떠오르고 있다. 마이크로소프트(MS)는 코드로 영상의 구조와 동작을 설계해 생성 과정을 직접 제어하는 새로운 접근법을 제시했다. MS는 11일(현지시간) 실행 가능한 코드를 활용해 영상의…",
-    "pubDate": "2026-10-13T17:20:00.000Z",
-    "collectedAt": "2026-10-13T15:46:32.112Z"
-  },
-  {
-    "id": "https://www.aitimes.com/news/articleView.html?idxno=216213",
-    "category": "ai",
-    "source": "AI타임스 AI산업",
-    "title": "의사결정 모델도 멀티모달로 진화… vLLM·클라우드플레어 오픈소스 모델 공개",
-    "link": "https://www.aitimes.com/news/articleView.html?idxno=216213",
-    "summary": "멀티모달 AI 에이전트 도입이 가속화되는 가운데, 텍스트와 구조화된 데이터 처리에 국한됐던 기존 '의사결정' 모델이 이미지와 오디오, 비디오 등 다양한 입력 정보를 직접 이해하고 판단하는 멀티모달 모델로 빠르게 진화하고 있다.vLLM 시맨틱 라우터(vLLM Semantic Router)…",
-    "pubDate": "2026-10-13T17:17:35.000Z",
-    "collectedAt": "2026-10-13T15:46:32.112Z"
-  },
-  {
-    "id": "https://www.aitimes.com/news/articleView.html?idxno=216217",
-    "category": "ai",
-    "source": "AI타임스 AI산업",
-    "title": "멜론 수확량 높이는 핵심 유전자, AI가 4분 만에 찾아냈다",
-    "link": "https://www.aitimes.com/news/articleView.html?idxno=216217",
-    "summary": "AI가 농작물의 수확량을 높이는 핵심 유전자 변이를 찾아내는 데 성공했다. 식물 DNA에 특화된 AI 모델과 범용 언어모델을 결합해 수천개의 후보 변이 가운데 실제 형질 변화와 관련된 변이를 수분 만에 식별한 것이다. 가뭄에 강하거나 더 많은 열매를 맺는 작물을 개발하는 데 AI를 활용…",
-    "pubDate": "2026-10-13T17:15:00.000Z",
-    "collectedAt": "2026-10-13T15:46:32.112Z"
-  },
-  {
-    "id": "https://www.hankyung.com/article/202610149937i",
-    "category": "it",
-    "source": "한국경제 IT",
-    "title": "시놉시스 CEO \"AI칩 개발 1년도 길다…고객사 9개월로 단축 요구\"",
-    "link": "https://www.hankyung.com/article/202610149937i",
-    "summary": "",
-    "pubDate": "2026-10-13T17:11:50.000Z",
-    "collectedAt": "2026-10-13T21:06:34.608Z"
-  },
-  {
-    "id": "https://www.aitimes.com/news/articleView.html?idxno=216216",
-    "category": "ai",
-    "source": "AI타임스 AI산업",
-    "title": "[게시판] 델 테크놀로지스, IBK기업은행에 데이터 복원 솔루션 공급 등 단신",
-    "link": "https://www.aitimes.com/news/articleView.html?idxno=216216",
-    "summary": "■ 델 테크놀로지스는 IBK기업은행 하남데이터센터에 데이터 백업 및 사이버 복원력 솔루션을 공급했다고 밝혔다. 공급 제품은 데이터 보호 솔루션 '파워프로텍트 데이터도메인 DD9400·DD9900'과 '파워프로텍트 사이버 리커버리', '네트워커'다. 이를 통해 랜섬웨어 등 사이버 공격이나…",
-    "pubDate": "2026-10-13T17:00:00.000Z",
-    "collectedAt": "2026-10-13T15:46:32.112Z"
-  },
-  {
-    "id": "https://www.aitimes.com/news/articleView.html?idxno=216215",
-    "category": "ai",
-    "source": "AI타임스 AI산업",
-    "title": "\"책 데이터도 '토큰 단위'로 산다\"...멘탯, AI 학습 도서 검색 서비스 출시",
-    "link": "https://www.aitimes.com/news/articleView.html?idxno=216215",
-    "summary": "AI 기업이 저작권 걱정 없이 정식 라이선스를 받은 도서 데이터를 손쉽게 찾아 활용할 수 있게 될 전망이다.멘탯(대표 전병욱)은 기업용 AI 학습 도서 검색 서비스 '멘탯 디스커버리'를 출시했다고 13일 밝혔다. AI 기업이 자사 서비스에 맞는 도서 데이터를 검색하고 검토부터 계약까지…",
-    "pubDate": "2026-10-13T16:30:00.000Z",
-    "collectedAt": "2026-10-13T15:46:32.112Z"
-  },
-  {
-    "id": "https://www.aitimes.com/news/articleView.html?idxno=216206",
-    "category": "ai",
-    "source": "AI타임스 AI산업",
-    "title": "5000만 사용자 국민 메신저 카톡, AI 에이전트 허브로 진화 조준",
-    "link": "https://www.aitimes.com/news/articleView.html?idxno=216206",
-    "summary": "5000만 이용자의 카카오톡에서 AI 비서에서 나만의 에이전트 팀까지 쓸 수 있게 된다.카카오(대표 정신아)는 13일 경기 용인시 카카오 AI 캠퍼스에서 개발자 콘퍼런스 '이프 카카오(if kakao) 26'을 열고 카카오톡의 AI 전환 청사진을 공개했다.핵심 서비스는 ▲카카오톡 AI…",
-    "pubDate": "2026-10-13T16:27:38.000Z",
-    "collectedAt": "2026-10-13T15:46:32.112Z"
-  },
-  {
-    "id": "https://www.aitimes.com/news/articleView.html?idxno=216197",
-    "category": "ai",
-    "source": "AI타임스 AI산업",
-    "title": "오픈AI, 비용 문제로 접었던 '소라' 외부 스타트업에 라이선스 추진",
-    "link": "https://www.aitimes.com/news/articleView.html?idxno=216197",
-    "summary": "오픈AI가 높은 운영 비용과 컴퓨팅 자원 부담으로 개발 및 서비스를 중단한 비디오 생성 AI 모델 '소라(Sora)'를 외부 스타트업을 통해 다시 시장에 선보이는 방안을 추진하고 있다. 모델을 직접 가동하는 대신 외부 기업에 기술 접근권을 제공하고, 그 대가로 지분을 확보하는 방식이다.…",
-    "pubDate": "2026-10-13T16:15:42.000Z",
-    "collectedAt": "2026-10-13T15:46:32.112Z"
-  },
-  {
-    "id": "20261014000001",
-    "category": "ai",
-    "source": "전자신문 SW",
-    "title": "개인정보위, 中 커넥티드카 조사…국외 이전·유출 우려 점검",
-    "link": "https://www.etnews.com/20261014000001",
-    "summary": "개인정보보호위원회가 국내 출시를 앞둔 중국 전기차 브랜드 지커(ZEEKR)의 개인정보 처리 실태에 대한 현장조사에 착수했다. 지커를 포함해 국내외 커넥티드카 업체 7곳의 개인정보 수집과 국외 이전 여부 등을 조사하고 있다. 송경희 개인정보보호위원장은 13일 국회 정무위원회 국정감사에서…",
-    "pubDate": "2026-10-13T16:00:49.000Z",
-    "collectedAt": "2026-10-13T21:06:34.608Z"
   }
 ]
