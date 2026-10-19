@@ -1,5 +1,125 @@
 [
   {
+    "id": "https://news.hada.io/topic?id=35661",
+    "category": "it",
+    "source": "긱뉴스",
+    "title": "모터 하나만으로 드론을 만들었다 [영상]",
+    "link": "https://news.hada.io/topic?id=35661",
+    "summary": "모터 하나만으로 드론을 만들었다 [영상]",
+    "pubDate": "2026-10-19T20:39:07.000Z",
+    "collectedAt": "2026-10-19T20:56:31.655Z"
+  },
+  {
+    "id": "https://news.hada.io/topic?id=35660",
+    "category": "it",
+    "source": "긱뉴스",
+    "title": "StarCraft: Ashfall - 분대를 조작하는 자동 사격 지상 전투 게임",
+    "link": "https://news.hada.io/topic?id=35660",
+    "summary": "Terran Strike Team을 좌우로 이동시키고 자동 사격으로 전투하는 게임으로, 분대를 드래그해 이동할 라인을 선택할 수 있음 Space로 출격하고 A/D로 좌우 이동하며, 보급과 증원 관련 기능이 화면에 표시됨 첫 플레이는 준비 라...",
+    "pubDate": "2026-10-19T20:36:07.000Z",
+    "collectedAt": "2026-10-19T20:56:31.655Z"
+  },
+  {
+    "id": "https://news.hada.io/topic?id=35659",
+    "category": "it",
+    "source": "긱뉴스",
+    "title": "macOS에서 네이티브로 실행되는 Android 앱",
+    "link": "https://news.hada.io/topic?id=35659",
+    "summary": "Mac.apk는 Android 애플리케이션 환경을 macOS 위에 직접 구현해, Apple Silicon Mac에서 에뮬레이터나 가상 머신, Linux 커널 없이 Android 앱을 실행함 앱은 일반 macOS 프로세스로 실행되며 Mac의 GPU로 화면을 그리고 CPU에서 네이티브 속도…",
+    "pubDate": "2026-10-19T20:33:07.000Z",
+    "collectedAt": "2026-10-19T20:56:31.655Z"
+  },
+  {
+    "id": "https://news.hada.io/topic?id=35658",
+    "category": "it",
+    "source": "긱뉴스",
+    "title": "Mercury 3 - 대규모로 확장한 확산 기반 LLM",
+    "link": "https://news.hada.io/topic?id=35658",
+    "summary": "Inception이 확산 기반 LLM Mercury 3를 공개함. 회사 벤치마크 기준 GPT-6 Luna와 Claude Haiku 5.5를 여러 평가에서 앞서며, 초당 1,000토큰 이상으로 4~8배 빠르게 실행됨 총 파라미터 수는 Mercury 1 대비 40배 이상 늘었지만 속도는 유…",
+    "pubDate": "2026-10-19T19:36:43.000Z",
+    "collectedAt": "2026-10-19T20:56:31.655Z"
+  },
+  {
+    "id": "https://news.hada.io/topic?id=35657",
+    "category": "it",
+    "source": "긱뉴스",
+    "title": "MiniMax M3.1 Flash - 에이전트 성능을 높이고 사용 비용을 70% 낮춘 모델",
+    "link": "https://news.hada.io/topic?id=35657",
+    "summary": "MiniMax가 에이전트 작업, 코딩, 컴퓨터 사용, 사이버보안 역량을 강화한 M3.1 Flash를 출시함 MiniMax에 따르면 온라인 추론 속도는 약 3배 빨라졌으며, 에이전트 작업의 전체 사용 비용은 이전 모델보다 70% 낮아짐 복잡한 소프트웨어...",
+    "pubDate": "2026-10-19T19:33:43.000Z",
+    "collectedAt": "2026-10-19T20:56:31.655Z"
+  },
+  {
+    "id": "https://news.hada.io/topic?id=35656",
+    "category": "it",
+    "source": "긱뉴스",
+    "title": "GitHub Actions, GitHub Pages, Webhooks 가용성 저하",
+    "link": "https://news.hada.io/topic?id=35656",
+    "summary": "GitHub Actions, GitHub Pages, Webhooks에서 가용성 저하가 발생했으며, 2026년 10월 19일 16:56 UTC에 정상 운영 확인과 함께 장애가 해결됨 장애 영향으로 워크플로 처리, 사이트 빌드, 웹훅 전달이 지연될 수 있었음 완화 조치 이후...",
+    "pubDate": "2026-10-19T18:55:06.000Z",
+    "collectedAt": "2026-10-19T20:56:31.655Z"
+  },
+  {
+    "id": "https://news.hada.io/topic?id=35655",
+    "category": "it",
+    "source": "긱뉴스",
+    "title": "Show HN: Qwen3-4B의 AI 특유 글쓰기 습관을 학습으로 제거한 모델",
+    "link": "https://news.hada.io/topic?id=35655",
+    "summary": "Qwen3-4B-Instruct를 MacBook Air에서 답변 161개로 미세 조정한 qwen3-4b-deslop을 공개함. 별도 시스템 프롬프트 없이 AI 특유의 문체를 줄이며 Ollama로 로컬 실행할 수 있음 학습에 쓰지 않은 40개 프롬프트에서 자체 문체 점수가 1,000단어당…",
+    "pubDate": "2026-10-19T18:52:06.000Z",
+    "collectedAt": "2026-10-19T20:56:31.655Z"
+  },
+  {
+    "id": "https://news.hada.io/topic?id=35654",
+    "category": "it",
+    "source": "긱뉴스",
+    "title": "어쩌면 정말 달걀 카르텔이 있었을지도 모른다",
+    "link": "https://news.hada.io/topic?id=35654",
+    "summary": "미국 법무부와 17개 주 법무장관은 Cal-Maine, Hickman’s, Versova가 입찰을 공조해 달걀 기준가격을 인위적으로 끌어올렸다는 혐의로 소송을 제기함 의혹의 핵심은 실제 구매 의사 없이 높은 입찰가를 제출해 수요가 늘어난 것처럼 보이게 하는 방식임. 이 정보가...",
+    "pubDate": "2026-10-19T18:49:06.000Z",
+    "collectedAt": "2026-10-19T20:56:31.655Z"
+  },
+  {
+    "id": "https://news.hada.io/topic?id=35653",
+    "category": "it",
+    "source": "긱뉴스",
+    "title": "여전히 프로그래밍을 즐겨도 괜찮다",
+    "link": "https://news.hada.io/topic?id=35653",
+    "summary": "업무에서 직접 작성한 코드의 경제성은 달라졌지만, 일은 삶의 전부가 아니며 프로그래밍을 즐기는 데 경제적 정당화는 필요하지 않음 주말에 버그 많은 Breakout 클론을 직접 만드는 즐거움은 문제를 풀어가는 과정에 있으며, Claude가 한 번에 만들 수 있는지는 ...",
+    "pubDate": "2026-10-19T18:46:06.000Z",
+    "collectedAt": "2026-10-19T20:56:31.655Z"
+  },
+  {
+    "id": "https://news.hada.io/topic?id=35652",
+    "category": "it",
+    "source": "긱뉴스",
+    "title": "CERN과 Mistral, 전략적 파트너십 구축을 위한 의향서 서명",
+    "link": "https://news.hada.io/topic?id=35652",
+    "summary": "CERN과 Mistral이 과학적 발견을 위한 파운데이션 모델 개발에 초점을 맞춘 장기 전략적 파트너십을 구축하고자 의향서에 서명함 핵심 목표는 수십억 건의 양성자 충돌 시뮬레이션으로 학습하는 Large Physics Model 개발이며, 충돌기 물리학 최초의 파운데이션 모...",
+    "pubDate": "2026-10-19T18:43:06.000Z",
+    "collectedAt": "2026-10-19T20:56:31.655Z"
+  },
+  {
+    "id": "https://www.hankyung.com/article/202610201850i",
+    "category": "economy",
+    "source": "한국경제 증권",
+    "title": "아마존 목표가 350달러…엔비디아도 비중확대 유지 [월가 업&다운]",
+    "link": "https://www.hankyung.com/article/202610201850i",
+    "summary": "",
+    "pubDate": "2026-10-19T18:42:59.000Z",
+    "collectedAt": "2026-10-19T20:56:31.655Z"
+  },
+  {
+    "id": "https://www.hankyung.com/article/202610201849i",
+    "category": "economy",
+    "source": "한국경제 증권",
+    "title": "골드만삭스 \"코어위브 급락 과도…73% 상승 여력\" [월가 업&다운]",
+    "link": "https://www.hankyung.com/article/202610201849i",
+    "summary": "",
+    "pubDate": "2026-10-19T18:35:04.000Z",
+    "collectedAt": "2026-10-19T20:56:31.655Z"
+  },
+  {
     "id": "https://www.aitimes.com/news/articleView.html?idxno=216410",
     "category": "ai",
     "source": "AI타임스 AI산업",
@@ -18,6 +138,36 @@
     "summary": "텐센트가 여러 AI 챗봇과 코딩 도구의 메모리를 통합해 공유할 수 있는 오픈소스 기술을 선보였다. AI 서비스마다 따로 저장되던 대화와 작업 기록을 하나의 저장소로 연결해, 도구를 바꿔도 기존 맥락을 유지하며 작업을 이어갈 수 있도록 하는 것이 핵심이다. 텐센트는 16일 서로 다른 AI…",
     "pubDate": "2026-10-19T17:54:24.000Z",
     "collectedAt": "2026-10-19T15:25:04.127Z"
+  },
+  {
+    "id": "https://news.hada.io/topic?id=35651",
+    "category": "it",
+    "source": "긱뉴스",
+    "title": "Harness Engineering 101: LLM은 두뇌, 하네스는 몸",
+    "link": "https://news.hada.io/topic?id=35651",
+    "summary": "상태를 저장하지 않는 LLM API에 매번 전달하는 대화 JSON 배열을 만들고, 유지하고, 보호하는 프로그램을 하네스(harness) 로 정의하고, 이를 중심으로 AI 에이전트의 작동 원리를 풀어감 16개 장에 걸쳐 순수 Python으로 약 300줄짜리 ...",
+    "pubDate": "2026-10-19T17:44:11.000Z",
+    "collectedAt": "2026-10-19T20:56:31.655Z"
+  },
+  {
+    "id": "https://news.hada.io/topic?id=35650",
+    "category": "it",
+    "source": "긱뉴스",
+    "title": "tmux와 Claude Code: 세션, send-keys, 그리고 한계",
+    "link": "https://news.hada.io/topic?id=35650",
+    "summary": "tmux는 AI 코딩 에이전트를 이름 있는 세션에 유지해 터미널을 닫거나 SSH 연결이 끊겨도 작업을 계속하게 하며, 여러 에이전트를 한 창에서 관리할 수 있게 함 최근 Claude Code의 claude --worktree --tmux 는 단일 브랜치에서 작업할 에이전트의 작...",
+    "pubDate": "2026-10-19T17:41:11.000Z",
+    "collectedAt": "2026-10-19T20:56:31.655Z"
+  },
+  {
+    "id": "https://news.hada.io/topic?id=35649",
+    "category": "it",
+    "source": "긱뉴스",
+    "title": "더 이상 Ruby gem을 개발할 마음이 없어 모든 저장소를 아카이브함",
+    "link": "https://news.hada.io/topic?id=35649",
+    "summary": "Ruby gem 개발자가 개발 중단을 명확히 알리기 위해 소스 코드 저장소를 아카이브함 개발 의욕의 바탕이었던 사람의 즐거움과 창의성을 위한 Ruby의 시대가 지났다고 느끼며, 사람과 함께 사람을 위해 작업하던 시절과 선을 그음 Rails의 소유와 ...",
+    "pubDate": "2026-10-19T17:38:11.000Z",
+    "collectedAt": "2026-10-19T20:56:31.655Z"
   },
   {
     "id": "https://www.aitimes.com/news/articleView.html?idxno=216403",
@@ -90,6 +240,46 @@
     "collectedAt": "2026-10-19T07:32:31.829Z"
   },
   {
+    "id": "https://news.hada.io/topic?id=35648",
+    "category": "it",
+    "source": "긱뉴스",
+    "title": "Let&#039;s Encrypt, 도메인 검증용 원격 관측 지점 2곳 추가",
+    "link": "https://news.hada.io/topic?id=35648",
+    "summary": "Let's Encrypt가 도메인 검증용 원격 관측 지점을 2곳 추가해, 검증 범위를 넓히고 BGP 공격 방어를 강화함 도메인 검증 요청은 주 데이터센터 1곳과 원격 관측 지점 6곳에서 총 7회 수행하며, 기존 원격 관측 지점은 4곳이었음 검증에 ...",
+    "pubDate": "2026-10-19T15:49:43.000Z",
+    "collectedAt": "2026-10-19T20:56:31.655Z"
+  },
+  {
+    "id": "https://news.hada.io/topic?id=35647",
+    "category": "it",
+    "source": "긱뉴스",
+    "title": "Superlite - Superpowers보다 빠른 Claude Code 플러그인",
+    "link": "https://news.hada.io/topic?id=35647",
+    "summary": "Claude Code의 개발 절차를 체계화하는 Superpowers를 바탕으로, 반복 승인과 순차 실행을 줄인 플러그인. 명세를 넘기면 계획부터 병렬 구현, 테스트와 리뷰까지 진행 사람이 계획을 한 번 승인하거나 AI가 스스로 결정하며 진행하는 방식을 선택 가능. 결정한 내...",
+    "pubDate": "2026-10-19T15:46:43.000Z",
+    "collectedAt": "2026-10-19T20:56:31.655Z"
+  },
+  {
+    "id": "https://news.hada.io/topic?id=35646",
+    "category": "it",
+    "source": "긱뉴스",
+    "title": "동물실험 대안이 마침내 본격적으로 확산되기 시작함",
+    "link": "https://news.hada.io/topic?id=35646",
+    "summary": "장기 칩과 인간 세포 기반 모델, 컴퓨터 시뮬레이션이 동물실험을 보완하거나 대체할 수단으로 부상하면서, 도입의 과제가 기술 개발에서 검증과 제도, 연구 관행의 변화로 넓어지고 있음 FDA Modernization Act 2.0은 2022년 신약의 임상시험 전 연구에 비동물 대...",
+    "pubDate": "2026-10-19T15:43:43.000Z",
+    "collectedAt": "2026-10-19T20:56:31.655Z"
+  },
+  {
+    "id": "https://news.hada.io/topic?id=35645",
+    "category": "it",
+    "source": "긱뉴스",
+    "title": "Wine의 OpenBSD 이식판 공개 - 64비트 Windows 앱과 게임 실행",
+    "link": "https://news.hada.io/topic?id=35645",
+    "summary": "Windows 프로그램을 다른 운영체제에서 실행하는 Wine의 OpenBSD 포트 초안 공개. 수십 개의 64비트 Windows 프로그램을 시험했으며 대부분 성공적으로 실행 The Witcher 3 리마스터도 실행했으며, 스크린샷과 게임 플레이 영상 공개. 해당 게임에는 Direct3D…",
+    "pubDate": "2026-10-19T15:40:43.000Z",
+    "collectedAt": "2026-10-19T20:56:31.655Z"
+  },
+  {
     "id": "https://www.aitimes.com/news/articleView.html?idxno=216392",
     "category": "ai",
     "source": "AI타임스 AI산업",
@@ -128,6 +318,16 @@
     "summary": "오픈AI가 스페이스X와 메타 등에서 영업·광고 인재를 영입하며 조직을 보강하고 있다. 올여름 주요 경영진이 잇달아 물러난 뒤 글로벌 영업 책임자와 지역별·사업별 책임자를 새로 충원하고 있다. 연말까지 직원을 8000명으로 늘릴 계획도 추진하고 있다.블룸버그는 16일(현지시간) 오픈AI가…",
     "pubDate": "2026-10-19T15:31:02.000Z",
     "collectedAt": "2026-10-19T07:32:31.829Z"
+  },
+  {
+    "id": "https://www.hankyung.com/article/202610191823i",
+    "category": "economy",
+    "source": "한국경제 경제",
+    "title": "\"엔비디아의 진짜 해자 CUDA에 도전\"…아마존,AI칩 소프트웨어 공개",
+    "link": "https://www.hankyung.com/article/202610191823i",
+    "summary": "",
+    "pubDate": "2026-10-19T15:11:04.000Z",
+    "collectedAt": "2026-10-19T20:56:31.655Z"
   },
   {
     "id": "https://news.hada.io/topic?id=35644",
@@ -14797,206 +14997,6 @@
     "link": "https://www.hankyung.com/article/2026101424707",
     "summary": "",
     "pubDate": "2026-10-14T11:35:27.000Z",
-    "collectedAt": "2026-10-14T13:30:22.343Z"
-  },
-  {
-    "id": "https://news.hada.io/topic?id=35343",
-    "category": "it",
-    "source": "긱뉴스",
-    "title": "80세 기증자의 혈액 세포, 분자 나이 20세 미만의 줄기세포로 전환",
-    "link": "https://news.hada.io/topic?id=35343",
-    "summary": "80세 기증자의 혈액 세포, 분자 나이 20세 미만의 줄기세포로 전환",
-    "pubDate": "2026-10-14T11:31:10.000Z",
-    "collectedAt": "2026-10-14T13:30:22.343Z"
-  },
-  {
-    "id": "https://www.hankyung.com/article/2026101421721",
-    "category": "economy",
-    "source": "한국경제 경제",
-    "title": "오픈런은커녕 찬밥 신세…'국민성장펀드'에 무슨 일이",
-    "link": "https://www.hankyung.com/article/2026101421721",
-    "summary": "",
-    "pubDate": "2026-10-14T11:09:37.000Z",
-    "collectedAt": "2026-10-14T13:30:22.343Z"
-  },
-  {
-    "id": "https://www.hankyung.com/article/202610142408i",
-    "category": "economy",
-    "source": "한국경제 경제",
-    "title": "\"메모리 공급부족 곧 끝나?\"…JP모건 \"2028년까지도 부족\"",
-    "link": "https://www.hankyung.com/article/202610142408i",
-    "summary": "",
-    "pubDate": "2026-10-14T11:09:08.000Z",
-    "collectedAt": "2026-10-14T13:30:22.343Z"
-  },
-  {
-    "id": "20261014000473",
-    "category": "economy",
-    "source": "전자신문 경제",
-    "title": "금융위, 8800억원 규모 '초장기기술투자펀드' 운용사 7곳 선정…연말 자금 집행",
-    "link": "https://www.etnews.com/20261014000473",
-    "summary": "금융위원회가 최장 16년간 투자하는 8800억원 규모 '초장기기술투자펀드'의 위탁운용사 7곳을 최종 선정했다. 선정된 운용사는 오는 12월까지 자금 모집과 펀드 결성을 마치고 이르면 연말부터 자금 공급을 시작한다. 리그별로는 2400억원 규모의 소형리그에 지앤텍벤처투자, 한화투자증권,…",
-    "pubDate": "2026-10-14T11:04:06.000Z",
-    "collectedAt": "2026-10-14T18:25:17.850Z"
-  },
-  {
-    "id": "20261014000472",
-    "category": "ai",
-    "source": "전자신문 SW",
-    "title": "佛 냉장설비 해킹, 국내도 안전지대 아니다…원격제어 보안 주의보",
-    "link": "https://www.etnews.com/20261014000472",
-    "summary": "프랑스 전역에서 냉장·냉동 설비를 겨냥한 대규모 해킹 사고가 발생하면서 국내 식품 유통시설 보안에도 경고등이 켜졌다. 보안 업데이트가 중단된 구형 제어장치와 인터넷에 직접 노출된 원격 관리 시스템이 위험 요인으로 지목된다. 14일 프랑스 국가사이버보안청(ANSSI)에 따르면 냉장·냉동…",
-    "pubDate": "2026-10-14T11:02:47.000Z",
-    "collectedAt": "2026-10-14T18:25:17.850Z"
-  },
-  {
-    "id": "https://news.hada.io/topic?id=35342",
-    "category": "it",
-    "source": "긱뉴스",
-    "title": "Ente Locker는 출처 표시 없이 내 코드를 복사했을까?",
-    "link": "https://news.hada.io/topic?id=35342",
-    "summary": "FairScan 개발자가 Ente Locker의 문서 스캔 기능에서 자신의 이미지 처리 코드와 매우 유사한 구현을 발견하고, 출처 표시 없는 코드 재사용 의혹을 제기함 개발자에 따르면 비교한 구현은 전체 구조, 알고리듬, 함수와 변수 이름, 하드코딩된 값이 같았으며, Kot...",
-    "pubDate": "2026-10-14T11:02:23.000Z",
-    "collectedAt": "2026-10-14T13:30:22.343Z"
-  },
-  {
-    "id": "https://www.hankyung.com/article/202610141869i",
-    "category": "economy",
-    "source": "한국경제 경제",
-    "title": "신발·화장품도 속속 입점…왜 배달앱으로 몰리나 [권용훈의 트렌드워치]",
-    "link": "https://www.hankyung.com/article/202610141869i",
-    "summary": "",
-    "pubDate": "2026-10-14T11:00:04.000Z",
-    "collectedAt": "2026-10-14T13:30:22.343Z"
-  },
-  {
-    "id": "20261014000471",
-    "category": "ai",
-    "source": "전자신문 AI",
-    "title": "피지컬 AI 상용화 속도…“에이전트 시대, 추론 인프라가 경쟁력”",
-    "link": "https://www.etnews.com/20261014000471",
-    "summary": "인공지능(AI)이 디지털 공간을 넘어 물리적 세계에서 행동하는 피지컬 AI 기술의 상용화를 위해 '두뇌'에 해당하는 프런티어 AI 모델 개발과 추론 효율화가 핵심 과제로 떠올랐다. 전병곤 프렌들리AI 대표는 14일 서울 삼성동 코엑스에서 열린 '피지컬 AI 테크 데이'에서 “지금은 에이…",
-    "pubDate": "2026-10-14T10:59:51.000Z",
-    "collectedAt": "2026-10-14T18:25:17.850Z"
-  },
-  {
-    "id": "https://www.hankyung.com/article/202610141990i",
-    "category": "economy",
-    "source": "한국경제 경제",
-    "title": "ASML \"30% 증산해도 부족\"…2030년까지 AI칩 장비 주문",
-    "link": "https://www.hankyung.com/article/202610141990i",
-    "summary": "",
-    "pubDate": "2026-10-14T10:29:30.000Z",
-    "collectedAt": "2026-10-14T13:30:22.343Z"
-  },
-  {
-    "id": "https://www.hankyung.com/article/202610141284H",
-    "category": "economy",
-    "source": "한국경제 경제",
-    "title": "\"밤새워야 겨우 들어간다\"…품절 대란에 중고거래 10배 폭등 [덕질경제학]",
-    "link": "https://www.hankyung.com/article/202610141284H",
-    "summary": "",
-    "pubDate": "2026-10-14T10:29:01.000Z",
-    "collectedAt": "2026-10-14T13:30:22.343Z"
-  },
-  {
-    "id": "https://www.hankyung.com/article/202610142386i",
-    "category": "it",
-    "source": "한국경제 IT",
-    "title": "국산 참당귀·황기, 전립선 건강 기능성 원료로…임상서 배뇨 증상 개선 확인",
-    "link": "https://www.hankyung.com/article/202610142386i",
-    "summary": "",
-    "pubDate": "2026-10-14T10:08:52.000Z",
-    "collectedAt": "2026-10-14T13:30:22.343Z"
-  },
-  {
-    "id": "https://www.hankyung.com/article/202610142354i",
-    "category": "economy",
-    "source": "한국경제 경제",
-    "title": "에스원, 자사주 4500억 매입·소각…기존 자사주도 없앤다",
-    "link": "https://www.hankyung.com/article/202610142354i",
-    "summary": "",
-    "pubDate": "2026-10-14T10:00:04.000Z",
-    "collectedAt": "2026-10-14T13:30:22.343Z"
-  },
-  {
-    "id": "https://www.hankyung.com/article/202610142349i",
-    "category": "it",
-    "source": "한국경제 IT",
-    "title": "[포토] 반도체 대전 2026",
-    "link": "https://www.hankyung.com/article/202610142349i",
-    "summary": "",
-    "pubDate": "2026-10-14T09:44:28.000Z",
-    "collectedAt": "2026-10-14T13:30:22.343Z"
-  },
-  {
-    "id": "https://news.hada.io/topic?id=35341",
-    "category": "it",
-    "source": "긱뉴스",
-    "title": "즐거움을 위한 프로그래밍",
-    "link": "https://news.hada.io/topic?id=35341",
-    "summary": "즐거움을 위한 프로그래밍은 업무, 돈, 외부 요구가 아니라 코딩 자체의 즐거움을 위해 만드는 활동이며, 핵심 기준은 내적 동기와 외부 압력의 차이임 부담 없는 탐색은 직관을 키우고, 내적 동기와 다시 연결되면서 번아웃을 예방하고 장기적인...",
-    "pubDate": "2026-10-14T09:42:15.000Z",
-    "collectedAt": "2026-10-14T13:30:22.343Z"
-  },
-  {
-    "id": "https://news.hada.io/topic?id=35340",
-    "category": "it",
-    "source": "긱뉴스",
-    "title": "Felix Rieseberg 홈페이지",
-    "link": "https://news.hada.io/topic?id=35340",
-    "summary": "Felix Rieseberg는 Anthropic에서 AI로 사람들의 생산성을 높이는 일을 하며, Claude.ai, Cowork, Code Desktop의 엔지니어링을 이끌어 왔음 Electron 공동 메인테이너이며, Language Model Builder, windows95, mac…",
-    "pubDate": "2026-10-14T09:39:15.000Z",
-    "collectedAt": "2026-10-14T13:30:22.343Z"
-  },
-  {
-    "id": "https://news.hada.io/topic?id=35339",
-    "category": "it",
-    "source": "긱뉴스",
-    "title": "Grace Hopper Celebration 취소",
-    "link": "https://news.hada.io/topic?id=35339",
-    "summary": "AnitaB.org가 행사 진행에 필요한 자금 부족으로 올해 미국 캘리포니아주 Anaheim에서 열릴 예정이던 Grace Hopper Celebration(GHC) 을 취소함 개인 등록과 후원 약정이 예상과 예년 수준을 크게 밑돌아 필수 운영비를 충당할 수 없는 상태임",
-    "pubDate": "2026-10-14T09:36:15.000Z",
-    "collectedAt": "2026-10-14T13:30:22.343Z"
-  },
-  {
-    "id": "https://www.hankyung.com/article/2026101421871",
-    "category": "it",
-    "source": "한국경제 IT",
-    "title": "[단독] LG CNS, 앤트로픽 韓 최고 AI 파트너 됐다",
-    "link": "https://www.hankyung.com/article/2026101421871",
-    "summary": "",
-    "pubDate": "2026-10-14T09:32:38.000Z",
-    "collectedAt": "2026-10-14T13:30:22.343Z"
-  },
-  {
-    "id": "https://www.hankyung.com/article/2026101421921",
-    "category": "it",
-    "source": "한국경제 IT",
-    "title": "데이터 전송속도 8배 증가…KT 'AI 전용 회선' 출시",
-    "link": "https://www.hankyung.com/article/2026101421921",
-    "summary": "",
-    "pubDate": "2026-10-14T09:31:28.000Z",
-    "collectedAt": "2026-10-14T13:30:22.343Z"
-  },
-  {
-    "id": "https://www.hankyung.com/article/2026101421881",
-    "category": "it",
-    "source": "한국경제 IT",
-    "title": "칩에 새긴 美 독립선언서…\"비용 높아도 국내 생산\"",
-    "link": "https://www.hankyung.com/article/2026101421881",
-    "summary": "",
-    "pubDate": "2026-10-14T09:30:40.000Z",
-    "collectedAt": "2026-10-14T13:30:22.343Z"
-  },
-  {
-    "id": "https://www.hankyung.com/article/202610142342i",
-    "category": "economy",
-    "source": "한국경제 경제",
-    "title": "에스원 자사주 4500억 공개매수…주주 달래기 나선다",
-    "link": "https://www.hankyung.com/article/202610142342i",
-    "summary": "",
-    "pubDate": "2026-10-14T09:30:29.000Z",
     "collectedAt": "2026-10-14T13:30:22.343Z"
   }
 ]
