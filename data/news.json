@@ -1,5 +1,15 @@
 [
   {
+    "id": "https://www.hankyung.com/article/202610229798i",
+    "category": "economy",
+    "source": "한국경제 경제",
+    "title": "[단독] SK하이닉스, 솔리다임 美 상장 전격 철회",
+    "link": "https://www.hankyung.com/article/202610229798i",
+    "summary": "",
+    "pubDate": "2026-10-22T18:00:02.000Z",
+    "collectedAt": "2026-10-22T18:25:54.814Z"
+  },
+  {
     "id": "https://www.aitimes.com/news/articleView.html?idxno=216552",
     "category": "ai",
     "source": "AI타임스 AI산업",
@@ -10,6 +20,16 @@
     "collectedAt": "2026-10-22T13:38:56.192Z"
   },
   {
+    "id": "https://www.hankyung.com/article/2026102296861",
+    "category": "economy",
+    "source": "한국경제 증권",
+    "title": "롯데케미칼 눈높이 뚝…유가·中 공급과잉에 발목",
+    "link": "https://www.hankyung.com/article/2026102296861",
+    "summary": "",
+    "pubDate": "2026-10-22T17:48:54.000Z",
+    "collectedAt": "2026-10-22T18:25:54.814Z"
+  },
+  {
     "id": "https://www.aitimes.com/news/articleView.html?idxno=216516",
     "category": "ai",
     "source": "AI타임스 AI산업",
@@ -18,6 +38,36 @@
     "summary": "AI 스타트업 리커시브(Recursive)가 AI 자동화 연구 시스템을 활용해 개발한 오픈소스 온디바이스 코딩 모델 '플린트(Flint)'를 공개했다. 소규모 연구팀이 4개월도 안 되는 기간에 구축한 이 모델은 개인 컴퓨터에서 실행할 수 있어 개발자의 데이터 보안을 유지하면서도 빠르게…",
     "pubDate": "2026-10-22T17:48:26.000Z",
     "collectedAt": "2026-10-22T13:38:56.192Z"
+  },
+  {
+    "id": "https://news.hada.io/topic?id=35827",
+    "category": "it",
+    "source": "긱뉴스",
+    "title": "LLM으로 신뢰도 점수를 매기는 것은 좋지 않은 생각",
+    "link": "https://news.hada.io/topic?id=35827",
+    "summary": "LLM이 출력하는 신뢰도 점수는 내부 확신을 측정한 값이 아니라, 대화에 이어질 법한 텍스트를 토큰 단위로 생성한 결과임 믿을 만한 점수는 예측에 쓰인 정보를 반영해야 하며, 같은 종류의 질문에서 실제 정답률과 일치하는지 검증해야 함 보정...",
+    "pubDate": "2026-10-22T17:46:27.000Z",
+    "collectedAt": "2026-10-22T18:25:54.814Z"
+  },
+  {
+    "id": "https://news.hada.io/topic?id=35826",
+    "category": "it",
+    "source": "긱뉴스",
+    "title": "PHP session.upload_progress의 힙 UAF(CVE-2026-109618 / -109619)",
+    "link": "https://news.hada.io/topic?id=35826",
+    "summary": "PHP 업로드 진행률 처리 중 메모리 부족으로 남은 직렬화 상태가 같은 프로세스의 다음 요청에서 재사용되며 힙 해제 후 사용(UAF)이 발생함 처음 제시한 캐시 포인터 공격 경로는 성립하지 않음. 참조 카운트 증가로 대상 배열이 살아 있어 해제 자체가 없으며, 해...",
+    "pubDate": "2026-10-22T17:43:27.000Z",
+    "collectedAt": "2026-10-22T18:25:54.814Z"
+  },
+  {
+    "id": "https://news.hada.io/topic?id=35825",
+    "category": "it",
+    "source": "긱뉴스",
+    "title": "Amazon, 공개 전인 10월 17일 PHP2Shell 악용 시도 확인",
+    "link": "https://news.hada.io/topic?id=35825",
+    "summary": "Amazon Threat Intelligence가 MadPot 허니팟에서 2026년 10월 17일 PHP2Shell 악용 시도를 확인함. CVE-2026-109618과 CVE-2026-109619 공개보다 4일 앞선 시점임 공개 당일에도 엠바고 해제 전부터 추가 공격 시도가 관측됐으며,…",
+    "pubDate": "2026-10-22T17:40:27.000Z",
+    "collectedAt": "2026-10-22T18:25:54.814Z"
   },
   {
     "id": "https://www.aitimes.com/news/articleView.html?idxno=216528",
@@ -90,6 +140,76 @@
     "collectedAt": "2026-10-22T13:38:56.192Z"
   },
   {
+    "id": "https://news.hada.io/topic?id=35824",
+    "category": "it",
+    "source": "긱뉴스",
+    "title": "Show GN: ZZO - 바로 사용하는 URL 단축 API와 MCP",
+    "link": "https://news.hada.io/topic?id=35824",
+    "summary": "URL 단축 서비스 zzo.kr 을 소개합니다. 긴 인터넷 주소를 짧은 링크로 변환하고, 간단히 QR코드로도 공유 할 수 있는 웹 서비스 입니다. URL 단축 서비스",
+    "pubDate": "2026-10-22T16:58:02.000Z",
+    "collectedAt": "2026-10-22T18:25:54.814Z"
+  },
+  {
+    "id": "https://news.hada.io/topic?id=35823",
+    "category": "it",
+    "source": "긱뉴스",
+    "title": "Anthropic, 2026년 상반기 순손실 800억 달러 넘어",
+    "link": "https://news.hada.io/topic?id=35823",
+    "summary": "Anthropic의 2026년 상반기 순손실은 807억 달러로, 이 중 720억 달러는 영업 관련 현금 지출이 아닌 전환사채 가치 상승에 따른 회계 비용임 상반기 컴퓨팅 용량과 인프라 지출은 전년 동기 23억 달러에서 약 90억 달러로 늘었으며, 향후 10년간...",
+    "pubDate": "2026-10-22T16:46:09.000Z",
+    "collectedAt": "2026-10-22T18:25:54.814Z"
+  },
+  {
+    "id": "https://news.hada.io/topic?id=35822",
+    "category": "it",
+    "source": "긱뉴스",
+    "title": "여러 Linux 커널 취약점이 실수로 공개 메일링 리스트에 게시됨",
+    "link": "https://news.hada.io/topic?id=35822",
+    "summary": "Trend Micro의 Zero Day Initiative(ZDI) 가 비공개 보안 메일링 리스트 대신 공개 Linux 커널 메일링 리스트인 LKML에 여러 취약점 보고서를 보냄 공개는 실수로 보이며, Greg Kroah-Hartman은 각 보고서에 답신해 공개 메일링 리스트로 제출한…",
+    "pubDate": "2026-10-22T16:43:09.000Z",
+    "collectedAt": "2026-10-22T18:25:54.814Z"
+  },
+  {
+    "id": "https://news.hada.io/topic?id=35821",
+    "category": "it",
+    "source": "긱뉴스",
+    "title": "DNS 리졸버 Quad9, 프랑스에서 철수 예정",
+    "link": "https://news.hada.io/topic?id=35821",
+    "summary": "Quad9가 프랑스 법원의 도메인 차단 명령에 대응해 2026년 11월 24일 프랑스 내 서비스를 중단하기로 함. 무료 사이버 위협 보호와 일반 DNS 서비스가 모두 대상임 스포츠 중계권자인 beIN이 저작권 침해에 관여한다고 주장한 도메인들의 재귀 DN...",
+    "pubDate": "2026-10-22T16:40:09.000Z",
+    "collectedAt": "2026-10-22T18:25:54.814Z"
+  },
+  {
+    "id": "https://www.hankyung.com/article/202610239834i",
+    "category": "economy",
+    "source": "한국경제 경제",
+    "title": "\"AI 거품이라고? 천만에\"…구글 전CEO와 월가 거물들 반박",
+    "link": "https://www.hankyung.com/article/202610239834i",
+    "summary": "",
+    "pubDate": "2026-10-22T15:58:50.000Z",
+    "collectedAt": "2026-10-22T18:25:54.814Z"
+  },
+  {
+    "id": "https://news.hada.io/topic?id=35820",
+    "category": "it",
+    "source": "긱뉴스",
+    "title": "개설한 적 없는 Cash App 계정 때문에 징역 6년 위기에 놓인 여성",
+    "link": "https://news.hada.io/topic?id=35820",
+    "summary": "Amanda Smith가 자신의 명의로 개설된 Cash App 사기 계정 때문에 사흘간 구금됐으며, 컴퓨터 사기 등의 혐의로 최대 징역 6년에 직면함 문제의 계정은 Smith의 사회보장번호와 생년월일로 만들어졌으며, Facebook Marketplace 사기 피해자가 보낸...",
+    "pubDate": "2026-10-22T15:51:53.000Z",
+    "collectedAt": "2026-10-22T18:25:54.814Z"
+  },
+  {
+    "id": "https://news.hada.io/topic?id=35819",
+    "category": "it",
+    "source": "긱뉴스",
+    "title": "오리건주 의회, Redfin에 매물로 나온 폭포 매입에 약 32억원 승인",
+    "link": "https://news.hada.io/topic?id=35819",
+    "summary": "오리건주 의회가 Abiqua Falls와 주변 토지 매입에 210만 달러($2.1m) 를 승인함. 소유 재단은 주정부의 제안을 수락했으며, 매입 진행에는 실사가 필요함 이 폭포는 100년 넘게 사유지였지만 일반에 개방돼 있었음. Redfin에 매물로 나오자 방문객들의 접근이 차단...",
+    "pubDate": "2026-10-22T15:48:53.000Z",
+    "collectedAt": "2026-10-22T18:25:54.814Z"
+  },
+  {
     "id": "https://www.aitimes.com/news/articleView.html?idxno=216480",
     "category": "ai",
     "source": "AI타임스 AI산업",
@@ -98,6 +218,26 @@
     "summary": "AI로 문서 초안을 쓰는 일은 흔해졌지만, 특유의 번역투와 정형화된 표현은 좀처럼 사라지지 않는다. 최근 이러한 문제를 겨냥한 한국어 교정 도구 'imnotai(im-not-ai)'가 깃허브에서 눈길을 끌고 있다.영어식 사고에 익숙한 대규모언어모델(LLM)과 기존 휴머나이저의 한계를 보…",
     "pubDate": "2026-10-22T15:46:57.000Z",
     "collectedAt": "2026-10-22T07:21:39.490Z"
+  },
+  {
+    "id": "https://news.hada.io/topic?id=35818",
+    "category": "it",
+    "source": "긱뉴스",
+    "title": "OpenAI CLI - OpenAI REST API를 위한 공식 명령줄 도구",
+    "link": "https://news.hada.io/topic?id=35818",
+    "summary": "OpenAI REST API 공식 CLI로, 리소스 기반 명령을 통해 응답 생성, 파일 관리, 이미지 생성과 편집, 관리자 API 등을 사용할 수 있음 도움말은 API 키나 네트워크 없이 작동하며, 작업별 명령 탐색, 셸 자동 완성, 실행하지 않고 명령줄에 예시를 채우는 기능을 지...",
+    "pubDate": "2026-10-22T15:45:53.000Z",
+    "collectedAt": "2026-10-22T18:25:54.814Z"
+  },
+  {
+    "id": "https://news.hada.io/topic?id=35817",
+    "category": "it",
+    "source": "긱뉴스",
+    "title": "eMudhra, 글로벌 SSL/TLS 인증서 사업에서 철수 예정",
+    "link": "https://news.hada.io/topic?id=35817",
+    "summary": "eMudhra 이사회가 글로벌 SSL/TLS 인증서 사업의 자발적 철수를 결정하고, 핵심 기업용 솔루션과 SSL/TLS 이외의 신뢰 서비스에 집중하기로 함 해당 사업은 글로벌 매출의 약 1% 를 차지하며, 회사는 데이터 주권과 규정 준수 비용 증가, 대형 업체의 무료 인증서 ...",
+    "pubDate": "2026-10-22T15:42:53.000Z",
+    "collectedAt": "2026-10-22T18:25:54.814Z"
   },
   {
     "id": "https://www.aitimes.com/news/articleView.html?idxno=216535",
@@ -150,6 +290,16 @@
     "collectedAt": "2026-10-22T07:21:39.490Z"
   },
   {
+    "id": "https://news.hada.io/topic?id=35816",
+    "category": "it",
+    "source": "긱뉴스",
+    "title": "외벽 비상계단은 어쩌다 사라졌을까?",
+    "link": "https://news.hada.io/topic?id=35816",
+    "summary": "미국의 외벽 비상계단은 기존 건물에도 피난 수단을 요구한 법규에 대응해 확산됐지만, 안전성과 유지관리 문제로 신축 건물에서 점차 퇴출됨 1860년 뉴욕의 피난 규정은 기존 건물에도 소급 적용됐으며, 내부 계단을 개조하는 것보다 저렴하고 간단한 외부 부착형...",
+    "pubDate": "2026-10-22T14:35:48.000Z",
+    "collectedAt": "2026-10-22T18:25:54.814Z"
+  },
+  {
     "id": "https://www.aitimes.com/news/articleView.html?idxno=216527",
     "category": "ai",
     "source": "AI타임스 AI산업",
@@ -180,6 +330,16 @@
     "collectedAt": "2026-10-22T07:21:39.490Z"
   },
   {
+    "id": "https://www.hankyung.com/article/202610229805i",
+    "category": "economy",
+    "source": "한국경제 경제",
+    "title": "중국발 메모리공포에 젠슨황 한마디…\"2029년까지 공급과잉 없다\"",
+    "link": "https://www.hankyung.com/article/202610229805i",
+    "summary": "",
+    "pubDate": "2026-10-22T13:59:35.000Z",
+    "collectedAt": "2026-10-22T18:25:54.814Z"
+  },
+  {
     "id": "https://news.hada.io/topic?id=35815",
     "category": "it",
     "source": "긱뉴스",
@@ -198,6 +358,16 @@
     "summary": "다리오 아모데이 앤트로픽 CEO가 AI 안전을 지키려면 기술 경쟁에서도 선두에 있어야 한다고 주장했다. 개발 속도를 늦추자고 제안하면서도 초지능 개발 경쟁을 이어간다는 비판에 직접 답한 것으로, 업계의 기준을 높이려면 이를 실천하는 기업이 기술력을 갖춰야 한다는 논리다.아모데이 CEO는…",
     "pubDate": "2026-10-22T13:14:35.000Z",
     "collectedAt": "2026-10-22T07:21:39.490Z"
+  },
+  {
+    "id": "https://www.hankyung.com/article/202610227469g",
+    "category": "economy",
+    "source": "한국경제 경제",
+    "title": "술 안 마신다더니…'이건 못 참지' 1000억 잭팟 터진 日 맥주 [트렌드+]",
+    "link": "https://www.hankyung.com/article/202610227469g",
+    "summary": "",
+    "pubDate": "2026-10-22T13:00:01.000Z",
+    "collectedAt": "2026-10-22T18:25:54.814Z"
   },
   {
     "id": "https://www.aitimes.com/news/articleView.html?idxno=216508",
@@ -14827,176 +14997,6 @@
     "link": "https://www.hankyung.com/article/202610190277i",
     "summary": "",
     "pubDate": "2026-10-19T02:06:33.000Z",
-    "collectedAt": "2026-10-19T07:32:31.829Z"
-  },
-  {
-    "id": "https://www.hankyung.com/article/2026101902336",
-    "category": "economy",
-    "source": "한국경제 증권",
-    "title": "\"한국 증시 매력적\"…코스피 폭락장에도 '깜짝 전망' 나왔다",
-    "link": "https://www.hankyung.com/article/2026101902336",
-    "summary": "",
-    "pubDate": "2026-10-19T02:05:48.000Z",
-    "collectedAt": "2026-10-19T07:32:31.829Z"
-  },
-  {
-    "id": "https://www.hankyung.com/article/202610190169i",
-    "category": "economy",
-    "source": "한국경제 경제",
-    "title": "수출 늘어나는 K방산, ESG 경영 속도 내야",
-    "link": "https://www.hankyung.com/article/202610190169i",
-    "summary": "",
-    "pubDate": "2026-10-19T02:00:50.000Z",
-    "collectedAt": "2026-10-19T07:32:31.829Z"
-  },
-  {
-    "id": "20261019000159",
-    "category": "ai",
-    "source": "전자신문 AI",
-    "title": "캠시스, 3분기 영업익 74억…“연간 손익도 흑자 목표”",
-    "link": "https://www.etnews.com/20261019000159",
-    "summary": "카메라 모듈 회사인 캠시스가 상반기 흑자전환에 이어 3분기에도 흑자를 달성했다. 수익성 중심 체질개선이 이어지는 모습이다. 캠시스는 3분기 연결기준 실적을 잠정 집계한 결과, 매출 1536억원과 영업이익 74억원을 기록했다고 19일 밝혔다. 매출은 전년 동기 대비 38% 증가했으며, 영…",
-    "pubDate": "2026-10-19T02:00:29.000Z",
-    "collectedAt": "2026-10-19T07:32:31.829Z"
-  },
-  {
-    "id": "https://www.hankyung.com/article/2026101900767",
-    "category": "economy",
-    "source": "한국경제 경제",
-    "title": "이형일 \"올해 성장률 3% 중반 전망…잠재성장률 반등 임박\"",
-    "link": "https://www.hankyung.com/article/2026101900767",
-    "summary": "",
-    "pubDate": "2026-10-19T01:51:46.000Z",
-    "collectedAt": "2026-10-19T07:32:31.829Z"
-  },
-  {
-    "id": "20261019000149",
-    "category": "ai",
-    "source": "전자신문 SW",
-    "title": "[기고]금융보안의 옆문을 다시 묻다",
-    "link": "https://www.etnews.com/20261019000149",
-    "summary": "이용 위드네트웍스 상무 한 카드사의 정보유출 사고에서는 2017년에 이미 보안패치가 배포된 취약점과 여러 보안 통제의 누락이 확인됐다. 2026년 금융권 연쇄 침해에서는 대출모집인과 직원이 사용하는 외부 업무 접점이 다시 공격 경로로 지목됐다. 이번 공격에 인공지능(AI)이 얼마나 활용…",
-    "pubDate": "2026-10-19T01:50:04.000Z",
-    "collectedAt": "2026-10-19T07:32:31.829Z"
-  },
-  {
-    "id": "20261019000148",
-    "category": "economy",
-    "source": "전자신문 경제",
-    "title": "로데슈바르즈 코리아-파인브이티 로보틱스 연구소, 항공우주·국방 분야 전략적 업무협약 체결",
-    "link": "https://www.etnews.com/20261019000148",
-    "summary": "로데슈바르즈 코리아와 파인브이티 로보틱스 연구소는 항공우주, 국방 및 방위산업 분야의 연구개발과 시험평가 사업 확대를 위한 전략적 업무협약을 체결했다고 밝혔다. 양사는 이번 협약을 통해 유무인복합체계, 전자전, 국방성능시험장 구축, 안티드론, 도심교통항공 및 첨단 국방기술 분야에서 협력…",
-    "pubDate": "2026-10-19T01:49:19.000Z",
-    "collectedAt": "2026-10-19T07:32:31.829Z"
-  },
-  {
-    "id": "20261019000146",
-    "category": "economy",
-    "source": "전자신문 경제",
-    "title": "SP삼화, 창립 80주년 맞아 신규 비전 선포…“100년 종합화학 기업으로 도약”",
-    "link": "https://www.etnews.com/20261019000146",
-    "summary": "SP삼화(옛 삼화페인트공업)가 창립 80주년을 맞아 새로운 미션과 비전을 선포하고, 100년 기업을 향한 중장기 성장 전략을 공개했다. SP삼화는 지난 16일 JW메리어트 호텔에서 임직원과 주요 파트너 등 약 150명이 참석한 가운데 'SP SAMHWA SIGNATURE DAY(시그니처…",
-    "pubDate": "2026-10-19T01:47:35.000Z",
-    "collectedAt": "2026-10-19T07:32:31.829Z"
-  },
-  {
-    "id": "20261019000143",
-    "category": "ai",
-    "source": "전자신문 AI",
-    "title": "센드버드-업스테이지, 국산 LLM·AI 에이전트 상용화 협력",
-    "link": "https://www.etnews.com/20261019000143",
-    "summary": "센드버드가 업스테이지와 국산 거대언어모델(LLM)의 기업 현장 적용과 인공지능(AI) 에이전트 상용화 확대를 위한 업무협약(MOU)을 체결했다. 양사는 센드버드 엔터프라이즈 AI 에이전트 플랫폼 '딜라이트.ai'와 업스테이지 LLM '솔라'를 연계해 실제 기업 업무에 적용하고 검증 결과…",
-    "pubDate": "2026-10-19T01:44:29.000Z",
-    "collectedAt": "2026-10-19T07:32:31.829Z"
-  },
-  {
-    "id": "https://www.hankyung.com/article/202610190107i",
-    "category": "economy",
-    "source": "한국경제 증권",
-    "title": "환율 쇼크에 中 증설 공세까지…증권가 목표가 '무더기 하향' [오늘의 증권가 콜]",
-    "link": "https://www.hankyung.com/article/202610190107i",
-    "summary": "",
-    "pubDate": "2026-10-19T01:43:41.000Z",
-    "collectedAt": "2026-10-19T07:32:31.829Z"
-  },
-  {
-    "id": "https://www.hankyung.com/article/202610190066i",
-    "category": "economy",
-    "source": "한국경제 증권",
-    "title": "글로벌 증시 출렁이는데…'수익률 10%' 홀로 웃는 브라질",
-    "link": "https://www.hankyung.com/article/202610190066i",
-    "summary": "",
-    "pubDate": "2026-10-19T01:41:00.000Z",
-    "collectedAt": "2026-10-19T07:32:31.829Z"
-  },
-  {
-    "id": "20261019000136",
-    "category": "economy",
-    "source": "전자신문 경제",
-    "title": "토스인슈어런스, 지역 상생·포용금융 위해 임직원 플로깅 실시",
-    "link": "https://www.etnews.com/20261019000136",
-    "summary": "토스인슈어런스(대표 조병익)는 지난 15일 본사가 위치한 서울 구로구 신도림역 인근 도림천 일대에서 임직원 플로깅(Plogging) 활동을 진행했다고 19일 밝혔다. 플로깅은 조깅을 하며 쓰레기를 줍는 환경 정화 활동을 뜻한다. 이번 활동은 토스인슈어런스가 지역 사회 일원으로서 환경 개…",
-    "pubDate": "2026-10-19T01:36:59.000Z",
-    "collectedAt": "2026-10-19T07:32:31.829Z"
-  },
-  {
-    "id": "20261019000133",
-    "category": "economy",
-    "source": "전자신문 경제",
-    "title": "KB증권, 베트남 중학교에 '무지개교실' 조성…하노이국립대 장학금 지원도",
-    "link": "https://www.etnews.com/20261019000133",
-    "summary": "KB증권이 베트남 청소년의 교육환경 개선과 인재 육성을 위해 '해외무지개교실' 완공식과 장학금 전달식을 진행했다고 19일 밝혔다. KB증권은 14일 베트남 하이퐁시 락비엔 중학교에서 해외무지개교실 완공식을 열었다. 학생들이 독서와 휴식을 함께 즐길 수 있는 야외도서관과 정서적 안정을 위…",
-    "pubDate": "2026-10-19T01:36:31.000Z",
-    "collectedAt": "2026-10-19T07:32:31.829Z"
-  },
-  {
-    "id": "20261019000128",
-    "category": "economy",
-    "source": "전자신문 경제",
-    "title": "신한라이프, 고객과 함께하는 '2026 프레스티지 콘서트' 개최",
-    "link": "https://www.etnews.com/20261019000128",
-    "summary": "신한라이프(사장 천상영)는 지난 14일 잠실에 위치한 롯데콘서트홀에서 우수고객 900여명을 초청해 '2026 신한라이프 프레스티지 콘서트'를 개최했다고 19일 밝혔다. 프레스티지 콘서트는 매년 우수고객을 초청해 감사 인사를 전하고 일상에서 문화예술을 경험하는 여유와 감동을 선사하기 위해…",
-    "pubDate": "2026-10-19T01:33:22.000Z",
-    "collectedAt": "2026-10-19T07:32:31.829Z"
-  },
-  {
-    "id": "https://news.hada.io/topic?id=35615",
-    "category": "it",
-    "source": "긱뉴스",
-    "title": "Free Pascal 컴파일러, 동적 패키지 지원 추가",
-    "link": "https://news.hada.io/topic?id=35615",
-    "summary": "Free Pascal Compiler와 Lazarus IDE용 동적 패키지 지원의 첫 완전 구현이 공개됨. 다운로드용 설치 프로그램에 포함되며, 변경 사항은 개발자의 GitLab 포크 브랜치에 반영됨 IDE 전체를 다시 빌드하지 않고 컴포넌트, 컨트롤, Lazarus 확장을 수초 안에…",
-    "pubDate": "2026-10-19T01:31:57.000Z",
-    "collectedAt": "2026-10-19T07:32:31.829Z"
-  },
-  {
-    "id": "https://www.hankyung.com/article/202610190055i",
-    "category": "economy",
-    "source": "한국경제 경제",
-    "title": "'6억 제한' 규제에도…은행 직원들은 줄줄이 대출 받아갔다",
-    "link": "https://www.hankyung.com/article/202610190055i",
-    "summary": "",
-    "pubDate": "2026-10-19T01:25:47.000Z",
-    "collectedAt": "2026-10-19T07:32:31.829Z"
-  },
-  {
-    "id": "20261019000109",
-    "category": "economy",
-    "source": "전자신문 경제",
-    "title": "롯데카드 N잡 모집인, 여신업계 신용카드 모집인 규모 육박",
-    "link": "https://www.etnews.com/20261019000109",
-    "summary": "롯데카드에서 운영하고 있는 N잡 카드 모집인이 전체 여신업계의 카드 모집인 규모에 육박하는 것으로 나타났다. 전업 모집인이 아닌 부업 모델로 카드 모집인 활동을 하고자 하는 사람들이 늘어나고 있다. 업계에 따르면 롯데카드 로카파트너스 누적신청자는 지난 16일 기준 3000명으로, 올해…",
-    "pubDate": "2026-10-19T01:24:29.000Z",
-    "collectedAt": "2026-10-19T07:32:31.829Z"
-  },
-  {
-    "id": "20261019000108",
-    "category": "economy",
-    "source": "전자신문 경제",
-    "title": "美 결제기업, 스테이블코인 보관·발행까지…韓 제도화는 제자리",
-    "link": "https://www.etnews.com/20261019000108",
-    "summary": "미국 결제 인프라 기업들이 신탁은행 설립을 통해 스테이블코인 보관과 준비금 관리, 발행까지 사업 영역을 넓히고 있다. 결제·정산을 연결하는 기술을 제공하던 기업들이 연방 감독을 받는 금융기관을 직접 확보하려는 움직임이다. 스테이블코인 경쟁이 결제망 확보에서 보관·발행·상환을 담당하는 금…",
-    "pubDate": "2026-10-19T01:23:40.000Z",
     "collectedAt": "2026-10-19T07:32:31.829Z"
   }
 ]
