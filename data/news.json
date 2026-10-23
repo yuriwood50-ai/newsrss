@@ -1,5 +1,65 @@
 [
   {
+    "id": "20261023000256",
+    "category": "ai",
+    "source": "전자신문 SW",
+    "title": "[보도 그 후] KERIS, E-ADS 논란에 교육청 RFP서 배제 요청…시장 보호책도 검토",
+    "link": "https://www.etnews.com/20261023000256",
+    "summary": "한국교육학술정보원(KERIS)이 자체 개발한 보안 소프트웨어(SW)의 민간시장 침해 논란이 불거지자 후속 조치에 나섰다. 민간 기업 사업 기회를 보호하면서 동시에 교육기관의 보안 수준을 높일 수 있는 방안을 강구한다는 방침이다. KERIS는 스쿨넷 5단계 사업 제안요청서(RFP) 공고…",
+    "pubDate": "2026-10-23T21:00:00.000Z",
+    "collectedAt": "2026-10-23T21:13:45.841Z"
+  },
+  {
+    "id": "https://news.hada.io/topic?id=35885",
+    "category": "it",
+    "source": "긱뉴스",
+    "title": "OpenSSL 4.1.0 - DTLS 1.3과 GREASE 지원 추가",
+    "link": "https://news.hada.io/topic?id=35885",
+    "summary": "OpenSSL 4.1.0은 DTLS 1.3, GREASE, SSL 리스너 API의 DTLS 지원을 추가한 기능 릴리스임 암호 연산 최적화로 ppc64le의 ML-DSA/ML-KEM NTT 연산과 x86_64의 ML-DSA, SHAKE x4, AES-CBC 복호화 성능을 개선함 ts...",
+    "pubDate": "2026-10-23T20:45:59.000Z",
+    "collectedAt": "2026-10-23T21:13:45.841Z"
+  },
+  {
+    "id": "https://news.hada.io/topic?id=35884",
+    "category": "it",
+    "source": "긱뉴스",
+    "title": "pgrust 제거: 쿼리별 전용 커널과 결과 캐싱을 이용한 벤치마크 부정행위",
+    "link": "https://news.hada.io/topic?id=35884",
+    "summary": "ClickBench에서 pgrust 항목을 제거하는 PR이 병합됨. 제거 사유는 43개 벤치마크 쿼리에 맞춘 전용 실행 경로와 이전 실행 결과를 재사용하는 캐시가 벤치마크 규칙을 위반한다는 것임 공개 소스와 릴리스 바이너리에서 쿼리별 수작업 커널, 벤치마크 SQL 내장, 특...",
+    "pubDate": "2026-10-23T20:42:59.000Z",
+    "collectedAt": "2026-10-23T21:13:45.841Z"
+  },
+  {
+    "id": "https://news.hada.io/topic?id=35883",
+    "category": "it",
+    "source": "긱뉴스",
+    "title": "캐나다인들이 C-22 법안에 반대할 시간이 얼마 남지 않음",
+    "link": "https://news.hada.io/topic?id=35883",
+    "summary": "정부의 감시 권한을 대폭 확대하는 C-22 법안이 캐나다 하원을 통과해 상원에서 심의 중이며, 시민단체는 법안 저지를 위한 청원 참여를 촉구함 통신사와 메시징 앱 등에 감시 협조를 강제하고, “시스템 전반의 보안 취약성”을 초래하지 않는다는 조건으로 백도어 설치 명...",
+    "pubDate": "2026-10-23T20:39:59.000Z",
+    "collectedAt": "2026-10-23T21:13:45.841Z"
+  },
+  {
+    "id": "https://news.hada.io/topic?id=35882",
+    "category": "it",
+    "source": "긱뉴스",
+    "title": "Apple Music 404 페이지를 찾을 수 없음 오류",
+    "link": "https://news.hada.io/topic?id=35882",
+    "summary": "Apple Music 404 페이지를 찾을 수 없음 오류",
+    "pubDate": "2026-10-23T20:36:59.000Z",
+    "collectedAt": "2026-10-23T21:13:45.841Z"
+  },
+  {
+    "id": "https://news.hada.io/topic?id=35881",
+    "category": "it",
+    "source": "긱뉴스",
+    "title": "Show HN: OnKey - 노래를 못해서 음정이 어긋나는 곳을 보여주는 앱을 만들었습니다",
+    "link": "https://news.hada.io/topic?id=35881",
+    "summary": "OnKey는 Spotify, Apple Music, 브라우저의 YouTube에서 재생하는 노래를 따라 부르며 연습하는 무료 오픈소스 Mac용 보컬 훈련 앱임 처음 재생할 때는 가사를 보여주고 곡이 끝나면 멜로디를 학습함. 이후에는 음표 위에 사용자의 음정을 실시간으로 겹쳐 보여주며...",
+    "pubDate": "2026-10-23T19:33:25.000Z",
+    "collectedAt": "2026-10-23T21:13:45.841Z"
+  },
+  {
     "id": "https://www.aitimes.com/news/articleView.html?idxno=216581",
     "category": "ai",
     "source": "AI타임스 AI산업",
@@ -28,6 +88,26 @@
     "summary": "케빈 웨일 전 오픈AI 과학 부문 책임자가 AI와 로봇을 활용해 신약 개발의 실험 과정을 자동화하는 스타트업 워프 사이언스(Warp Sciences)를 설립했다.22일(현지시간) 블룸버그에 따르면, 워프 사이언스는 2억1500만달러(약 2800억원)의 시리즈 A 투자금을 확보하며 공식…",
     "pubDate": "2026-10-23T18:44:11.000Z",
     "collectedAt": "2026-10-23T11:19:29.633Z"
+  },
+  {
+    "id": "https://news.hada.io/topic?id=35880",
+    "category": "it",
+    "source": "긱뉴스",
+    "title": "eMudhra, Mozilla 루트 프로그램 조사 답변 기한 무시하고 소셜 미디어 탓",
+    "link": "https://news.hada.io/topic?id=35880",
+    "summary": "eMudhra 중간 인증서 8개의 개인 키가 모두 256 미만 정수여서 사실상 즉시 복구할 수 있는 상태였음. Mozilla도 제보자의 방법을 모른 채 독립적으로 키를 복구해 키 생성 결함을 확인함 Mozilla의 조사 답변 기한과 eMudhra가 추가로 요청한 24시간이 모두 지난 .…",
+    "pubDate": "2026-10-23T18:43:37.000Z",
+    "collectedAt": "2026-10-23T21:13:45.841Z"
+  },
+  {
+    "id": "https://news.hada.io/topic?id=35879",
+    "category": "it",
+    "source": "긱뉴스",
+    "title": "Kimi K3.1 Pro와 K3.1 Pro Highspeed - 100만 토큰 문맥을 지원하는 3T급 모델",
+    "link": "https://news.hada.io/topic?id=35879",
+    "summary": "Kimi K3.1 Pro는 K3의 사후 학습을 확대해 코딩, 3D 제작, 금융 조사와 에이전트 역량을 강화한 3T급 모델로, 100만 토큰 문맥을 지원하며 전체 가중치는 2026년 11월 4일까지 공개할 예정임 K3.1 Pro Highspeed도 함께 출시하며, Kimi 측에 따르...",
+    "pubDate": "2026-10-23T18:40:37.000Z",
+    "collectedAt": "2026-10-23T21:13:45.841Z"
   },
   {
     "id": "https://www.aitimes.com/news/articleView.html?idxno=216594",
@@ -60,6 +140,16 @@
     "collectedAt": "2026-10-23T11:19:29.633Z"
   },
   {
+    "id": "https://news.hada.io/topic?id=35878",
+    "category": "it",
+    "source": "긱뉴스",
+    "title": "과학의 낯선 공간: 정합적이지만 인지적으로 접근하기 어려운 연구 방향",
+    "link": "https://news.hada.io/topic?id=35878",
+    "summary": "과학적 정합성과 인지적 가용성을 별도로 모델링해, 기존 지식에 비추어 타당하면서도 현재 연구자 집단이 쉽게 떠올리기 어려운 연구 방향을 탐색하는 프레임워크임 논문을 재조합 가능한 아이디어 원자로 분해하고, 조합의 연구 가능성과 기존 ...",
+    "pubDate": "2026-10-23T17:38:13.000Z",
+    "collectedAt": "2026-10-23T21:13:45.841Z"
+  },
+  {
     "id": "https://www.aitimes.com/news/articleView.html?idxno=216591",
     "category": "ai",
     "source": "AI타임스 AI산업",
@@ -68,6 +158,16 @@
     "summary": "아마존웹서비스(AWS)가 기업이 GPU 인프라를 직접 관리하지 않고도 AI 모델의 학습 과정을 세밀하게 제어할 수 있는 기능을 선보였다. AI가 어떤 방식으로 답변을 생성하고 결과를 평가해 학습할지 개발자가 직접 설계하면, GPU 자원 할당과 학습 실행은 AWS가 맡는 방식이다. 기업별…",
     "pubDate": "2026-10-23T17:36:44.000Z",
     "collectedAt": "2026-10-23T11:19:29.633Z"
+  },
+  {
+    "id": "https://news.hada.io/topic?id=35877",
+    "category": "it",
+    "source": "긱뉴스",
+    "title": "오늘, 목표로 삼았던 iPhone을 해킹했다",
+    "link": "https://news.hada.io/topic?id=35877",
+    "summary": "Calif가 iPhone 해킹에 성공했다며 파리 Hexacon에서 시연 영상 4개를 공개함 첫 번째 영상은 Signal 1-click 시연임 두 번째 영상은 서드파티 앱 대신 iMessage를 대상으로 함 나머지 영상에는 “당...",
+    "pubDate": "2026-10-23T17:35:13.000Z",
+    "collectedAt": "2026-10-23T21:13:45.841Z"
   },
   {
     "id": "https://www.aitimes.com/news/articleView.html?idxno=216602",
@@ -14897,106 +14997,6 @@
     "link": "https://www.etnews.com/20261020000039",
     "summary": "KB자산운용이 국내 반도체 소부장(소재·부품·장비) 기업에 투자하는 'RISE 반도체소부장액티브 ETF'를 20일 출시한다고 밝혔다. 해당 상품은 'KEDI 반도체소부장 지수'를 비교지수로 삼고, 시장 상황에 따라 업종과 종목별 투자 비중을 조정하는 상장지수펀드(ETF)다. 성장 가능성…",
     "pubDate": "2026-10-20T00:12:17.000Z",
-    "collectedAt": "2026-10-20T00:59:22.147Z"
-  },
-  {
-    "id": "20261020000038",
-    "category": "ai",
-    "source": "전자신문 AI",
-    "title": "컴트루테크놀로지, '제9회 Dreams Come True Conference' 개최…셜록홈즈 AI DLP 신기능 최초 공개",
-    "link": "https://www.etnews.com/20261020000038",
-    "summary": "인공지능(AI) 및 정보보안 전문 기업 컴트루테크놀로지는 다음달 4일 오후 2시 서울 역삼 포스코타워에서 '제9회 드림 컴트루 콘퍼런스(Dreams Come True Conference)'를 개최한다고 20일 밝혔다. 이번 콘퍼런스에서는 셜록홈즈 AI DLP 신기능을 최초로 선보인다.…",
-    "pubDate": "2026-10-20T00:11:57.000Z",
-    "collectedAt": "2026-10-20T00:59:22.147Z"
-  },
-  {
-    "id": "20261020000037",
-    "category": "it",
-    "source": "전자신문 IT/통신",
-    "title": "KT, 아크릴과 의료 AX 공동사업 추진",
-    "link": "https://www.etnews.com/20261020000037",
-    "summary": "KT가 의료 인공지능(AI) 전문기업 아크릴과 의료기관 데이터 활용 및 AI 서비스 도입을 위한 의료 AX 사업을 공동 추진한다. KT는 아크릴과 업무협약을 통해 의료 데이터 표준화 및 활용 기반 조성, 의료 AI 기술·서비스 공동 발굴 및 실증, 의료 AI 연구개발 및 사업화·확산 등…",
-    "pubDate": "2026-10-20T00:11:33.000Z",
-    "collectedAt": "2026-10-20T00:59:22.147Z"
-  },
-  {
-    "id": "https://www.hankyung.com/article/2026102023486",
-    "category": "economy",
-    "source": "한국경제 증권",
-    "title": "美 기술주 반등도 소용 없네…코스피, 다시 5700선 아래로",
-    "link": "https://www.hankyung.com/article/2026102023486",
-    "summary": "",
-    "pubDate": "2026-10-20T00:11:10.000Z",
-    "collectedAt": "2026-10-20T00:59:22.147Z"
-  },
-  {
-    "id": "20261020000036",
-    "category": "economy",
-    "source": "전자신문 경제",
-    "title": "삼성생명, '삼성 시니어대표건강보험' 개정 출시",
-    "link": "https://www.etnews.com/20261020000036",
-    "summary": "삼성생명은 폐렴과 로봇 인공관절수술 보장을 강화한 삼성 시니어대표건강보험 종합보장형과 장기요양(LTC) 판정 이후 치료 과정을 통합 보장하는 삼성 시니어대표건강보험LTC통합치료형을 21일 출시한다고 20일 밝혔다. 지난 7월 첫선을 보인 삼성 시니어대표건강보험은 치매·장기요양 보장에 뇌…",
-    "pubDate": "2026-10-20T00:10:06.000Z",
-    "collectedAt": "2026-10-20T00:59:22.147Z"
-  },
-  {
-    "id": "https://www.hankyung.com/article/2026102023736",
-    "category": "economy",
-    "source": "한국경제 증권",
-    "title": "엘리스그룹, 코스닥 상장 첫날 27% 급락",
-    "link": "https://www.hankyung.com/article/2026102023736",
-    "summary": "",
-    "pubDate": "2026-10-20T00:09:52.000Z",
-    "collectedAt": "2026-10-20T00:59:22.147Z"
-  },
-  {
-    "id": "https://www.hankyung.com/article/202610202243g",
-    "category": "economy",
-    "source": "한국경제 경제",
-    "title": "\"골프웨어 전문성 높인다\"…말본, 도산 플래그십 확장 리뉴얼",
-    "link": "https://www.hankyung.com/article/202610202243g",
-    "summary": "",
-    "pubDate": "2026-10-20T00:07:44.000Z",
-    "collectedAt": "2026-10-20T00:59:22.147Z"
-  },
-  {
-    "id": "20261020000030",
-    "category": "economy",
-    "source": "전자신문 경제",
-    "title": "송춘수 농협손해보험 대표, '사람 살리는 금융 릴레이 캠페인' 동참",
-    "link": "https://www.etnews.com/20261020000030",
-    "summary": "NH농협손해보험은 송춘수 대표가 서민금융진흥원 주관 '사람 살리는 금융 릴레이 캠페인'에 동참했다고 20일 밝혔다. 이번 캠페인은 불법사금융 피해를 예방하고 금융취약계층에 대한 사회적 관심을 높이기 위해 금융기관, 지방자치단체 등 다양한 기관이 릴레이 방식으로 참여하게 된다. 송춘수 대…",
-    "pubDate": "2026-10-20T00:05:58.000Z",
-    "collectedAt": "2026-10-20T00:59:22.147Z"
-  },
-  {
-    "id": "20261020000028",
-    "category": "ai",
-    "source": "전자신문 SW",
-    "title": "“골치 아픈 계약서·연차 한곳에서 끝낸다”… 유니포스트바다김밥에 인사 관리 솔루션 공급",
-    "link": "https://www.etnews.com/20261020000028",
-    "summary": "B2B 업무관리 SaaS 전문기업 유니포스트(대표 김계원)는 전남 여수 대표 외식기업 바다김밥이 자사 인사관리 솔루션을 도입해 복잡했던 인사 행정 업무를 체계화했다고 20일 밝혔다. 전남 여수 기반 외식 브랜드로 관광객과 로컬 고객 모두에게 큰 인기를 얻고 있는 바다김밥은 최근 본격적인…",
-    "pubDate": "2026-10-20T00:04:11.000Z",
-    "collectedAt": "2026-10-20T00:59:22.147Z"
-  },
-  {
-    "id": "https://news.hada.io/topic?id=35667",
-    "category": "it",
-    "source": "긱뉴스",
-    "title": "사이트 가이드라인과 AI/LLM 태그 변경",
-    "link": "https://news.hada.io/topic?id=35667",
-    "summary": "Lobsters가 독자의 시간과 지성을 존중하는 컴퓨팅 콘텐츠에 집중하도록 주제 적합성과 자기 홍보 규칙을 명확히 하고, AI/LLM 태그를 개편함 예정된 배포 이후에는 코드 저장소 자체를 제출할 수 없으며, 코드의 제작 이유, 목적, 해결한 과제와 유용성을 다룬 콘...",
-    "pubDate": "2026-10-20T00:03:37.000Z",
-    "collectedAt": "2026-10-20T00:59:22.147Z"
-  },
-  {
-    "id": "20261020000024",
-    "category": "ai",
-    "source": "전자신문 AI",
-    "title": "비그라운드, '인피니티스택 v2.0' GS인증 1등급 획득…HCI 솔루션 신뢰성 입증",
-    "link": "https://www.etnews.com/20261020000024",
-    "summary": "정보기술(IT) 인프라 전문 기업 비그라운드는 자사 하이퍼컨버지드 인프라(HCI) 솔루션 '인피니티스택(Infinitystack) v2.0'이 GS 인증 최고 등급인 1등급을 획득했다고 20일 밝혔다. 소프트웨어 진흥법에 따라 GS인증 1등급 소프트웨어는 공공기관 우선구매 대상으로 지정…",
-    "pubDate": "2026-10-20T00:01:52.000Z",
     "collectedAt": "2026-10-20T00:59:22.147Z"
   }
 ]
