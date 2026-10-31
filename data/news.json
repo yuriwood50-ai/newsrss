@@ -70,6 +70,246 @@
     "collectedAt": "2026-10-31T11:58:20.371Z"
   },
   {
+    "id": "https://news.hada.io/topic?id=36341&utm_source=geeknews&utm_medium=rss&utm_campaign=news",
+    "category": "it",
+    "source": "긱뉴스",
+    "title": "Sanstun: Rust로 구현한 sans-IO, 병렬 처리 친화적 WireGuard",
+    "link": "https://news.hada.io/topic?id=36341&utm_source=geeknews&utm_medium=rss&utm_campaign=news",
+    "summary": "Firezone이 sanstun을 공개함. WireGuard 상태 머신을 Rust로 구현한 사용자 공간 라이브러리로, 입출력과 상태 로직을 분리하고 사용성, 보안, 병렬 처리 성능을 고려한 API를 제공함 sans-IO 설계는 네트워크 입출력뿐 아니라 시간과 난수도 상태 로직에서 분리함…",
+    "pubDate": "2026-10-31T15:50:44.000Z",
+    "collectedAt": "2026-10-31T17:13:00.000Z"
+  },
+  {
+    "id": "https://news.hada.io/topic?id=36340&utm_source=geeknews&utm_medium=rss&utm_campaign=news",
+    "category": "it",
+    "source": "긱뉴스",
+    "title": "Signal 포크 Molly, 3개월간 업데이트되지 않아 취약한 상태",
+    "link": "https://news.hada.io/topic?id=36340&utm_source=geeknews&utm_medium=rss&utm_campaign=news",
+    "summary": "Molly에 공식 Signal에서는 이미 수정된 취약점이 남아 있음 게시물 시점의 최신 릴리스는 7월 31일 배포된 v8.19.2-4로, 약 3개월간 업데이트가 없었음 미해결 사례로 10월 공개된 취약점이 있으며, 공식 Signal은 이를 8.27 버...",
+    "pubDate": "2026-10-31T15:47:44.000Z",
+    "collectedAt": "2026-10-31T17:13:00.000Z"
+  },
+  {
+    "id": "https://news.hada.io/topic?id=36339&utm_source=geeknews&utm_medium=rss&utm_campaign=news",
+    "category": "it",
+    "source": "긱뉴스",
+    "title": "디지털 미니멀리즘",
+    "link": "https://news.hada.io/topic?id=36339&utm_source=geeknews&utm_medium=rss&utm_campaign=news",
+    "summary": "디지털 미니멀리즘은 기술을 무조건 덜 쓰는 것이 아니라, 디지털 기술에 끌려 들어가는 대신 매번 의식적으로 접근 방식을 선택하는 생활 방식임 X를 탈퇴하지 않고 Firefly로 접속 인터페이스를 바꾼 개인 실험에서는 기분이 나아지고 온라인 논쟁에 대한 관심이...",
+    "pubDate": "2026-10-31T15:44:44.000Z",
+    "collectedAt": "2026-10-31T17:13:00.000Z"
+  },
+  {
+    "id": "https://news.hada.io/topic?id=36338&utm_source=geeknews&utm_medium=rss&utm_campaign=news",
+    "category": "it",
+    "source": "긱뉴스",
+    "title": "ChatGPT 계정을 탈취한 방법",
+    "link": "https://news.hada.io/topic?id=36338&utm_source=geeknews&utm_medium=rss&utm_campaign=news",
+    "summary": "Parameter 연구팀은 공개 ChatGPT 공유 링크를 통해 다른 사용자의 로그인 세션에서 임의 JavaScript를 실행하는 취약점을 발견했으며, 자동 Preview 경로에서는 링크를 여는 것만으로 공격이 실행됨 격리된 HTML Preview가 보낸 메시지를 MathLive가 발신…",
+    "pubDate": "2026-10-31T15:41:44.000Z",
+    "collectedAt": "2026-10-31T17:13:00.000Z"
+  },
+  {
+    "id": "https://news.hada.io/topic?id=36337&utm_source=geeknews&utm_medium=rss&utm_campaign=news",
+    "category": "it",
+    "source": "긱뉴스",
+    "title": "curl이 우연히 9개월 동안 튜링 완전했던 과정",
+    "link": "https://news.hada.io/topic?id=36337&utm_source=geeknews&utm_medium=rss&utm_campaign=news",
+    "summary": "curl 8.12~8.16에서는 변수 값 슬라이싱과 깊이 제한 없는 설정 파일 포함을 조합해 임의의 2카운터 Minsky 프로그램을 모사할 수 있었음 카운터는 x의 개수로, 명령 상태는 설정 파일로 나타내며, expand-config 로 다음 파일을 선택해...",
+    "pubDate": "2026-10-31T15:01:26.000Z",
+    "collectedAt": "2026-10-31T17:13:00.000Z"
+  },
+  {
+    "id": "https://news.hada.io/topic?id=36335&utm_source=geeknews&utm_medium=rss&utm_campaign=news",
+    "category": "it",
+    "source": "긱뉴스",
+    "title": "Ask HN: 여러분도 AI 시대에 피로를 느끼시나요?",
+    "link": "https://news.hada.io/topic?id=36335&utm_source=geeknews&utm_medium=rss&utm_campaign=news",
+    "summary": "AI 덕분에 훨씬 많은 일을 할 수 있지만, 이전보다 피로감이 상당히 커졌다고 느낌 동시에 진행되는 여러 일을 추적하고 방대한 생성 텍스트를 읽는 데 더해, 끊임없는 통제와 의사결정, 맥락 전환으로 정신적 과부하를 겪고 있음 다른 사람들도 비슷한 경...",
+    "pubDate": "2026-10-31T14:38:04.000Z",
+    "collectedAt": "2026-10-31T17:13:00.000Z"
+  },
+  {
+    "id": "https://news.hada.io/topic?id=36334&utm_source=geeknews&utm_medium=rss&utm_campaign=news",
+    "category": "it",
+    "source": "긱뉴스",
+    "title": "16colo.rs - ANSI/ASCII 아트 아카이브",
+    "link": "https://news.hada.io/topic?id=36334&utm_source=geeknews&utm_medium=rss&utm_campaign=news",
+    "summary": "Sixteen Colors는 ANSI/ASCII 작품 모음인 아트팩을 공익적 목적으로 수집하는 온라인 아카이브임 ANSI/ASCII 아트는 원래 컴퓨터 텍스트 모드 콘솔에 표시하기 위한 예술 형식으로, 1990년대 초 전화 접속 BBS의 확산과 함께 인기를 얻음 아티스트들이 그...",
+    "pubDate": "2026-10-31T14:35:04.000Z",
+    "collectedAt": "2026-10-31T17:13:00.000Z"
+  },
+  {
+    "id": "https://news.hada.io/topic?id=36332&utm_source=geeknews&utm_medium=rss&utm_campaign=news",
+    "category": "it",
+    "source": "긱뉴스",
+    "title": "Show GN: AI Usage - 여러 Claude Code·Codex 계정의 사용 한도를 보여 주는 macOS 바탕화면 위젯",
+    "link": "https://news.hada.io/topic?id=36332&utm_source=geeknews&utm_medium=rss&utm_campaign=news",
+    "summary": "Claude Code와 Codex 계정을 여러 개 번갈아 쓰다 보니, 어느 계정에 한도가 남았는지 확인하려고 터미널을 여는 일이 잦아서 만들었습니다. 계정마다 5시간·주간 한도를 활동 링으로 바탕화면 위젯에 보여 줍니다. 주요 기능 계정당 게이지 1개, 링 3개 (Claude: 5시간…",
+    "pubDate": "2026-10-31T13:48:08.000Z",
+    "collectedAt": "2026-10-31T17:13:00.000Z"
+  },
+  {
+    "id": "https://news.hada.io/topic?id=36331&utm_source=geeknews&utm_medium=rss&utm_campaign=news",
+    "category": "it",
+    "source": "긱뉴스",
+    "title": "GitHub Actions, Pages, Webhooks 장애 발생",
+    "link": "https://news.hada.io/topic?id=36331&utm_source=geeknews&utm_medium=rss&utm_campaign=news",
+    "summary": "Actions 워크플로, Pages 배포, Webhook 이벤트에 지연이 발생했으며, GitHub은 2026년 10월 30일 19:23 UTC에 장애 해결을 공지함 지연뿐 아니라 코드 검색과 실시간 업데이트에서도 오류가 발생함 완화 조치 이후 Actions 처리와 Pages 배포",
+    "pubDate": "2026-10-31T13:41:28.000Z",
+    "collectedAt": "2026-10-31T17:13:00.000Z"
+  },
+  {
+    "id": "https://news.hada.io/topic?id=36330&utm_source=geeknews&utm_medium=rss&utm_campaign=news",
+    "category": "it",
+    "source": "긱뉴스",
+    "title": "OpenAI, 45조원 조달 목표의 절반에도 못 미치는 투자 약정 확보",
+    "link": "https://news.hada.io/topic?id=36330&utm_source=geeknews&utm_medium=rss&utm_campaign=news",
+    "summary": "OpenAI가 최신 투자 라운드에서 약 110억 달러($11b)의 투자 약정을 확보해, 목표인 300억 달러($30b)의 절반에 못 미침 사안에 정통한 관계자들에 따른 규모로, 현재까지 확보한 투자 약정 기준임 이번 거래의 기업가치는 1조 ...",
+    "pubDate": "2026-10-31T13:38:28.000Z",
+    "collectedAt": "2026-10-31T17:13:00.000Z"
+  },
+  {
+    "id": "https://news.hada.io/topic?id=36329&utm_source=geeknews&utm_medium=rss&utm_campaign=news",
+    "category": "it",
+    "source": "긱뉴스",
+    "title": "가장 오래된 얼음이 사라지고, 그 속에서 석기시대가 드러난다",
+    "link": "https://news.hada.io/topic?id=36329&utm_source=geeknews&utm_medium=rss&utm_campaign=news",
+    "summary": "노르웨이 Innlandet 산악지대에서 오래된 얼음이 녹으며 석기시대와 청동기시대의 화살이 대량으로 드러나고 있음 올해 첫 현장 조사에서 발견한 화살 중 하나는 기존 발견물과의 비교를 통해 5,000~6,000년 전 유물로 추정됨 조사팀은 올해 선사...",
+    "pubDate": "2026-10-31T13:35:28.000Z",
+    "collectedAt": "2026-10-31T17:13:00.000Z"
+  },
+  {
+    "id": "20261031000030",
+    "category": "ai",
+    "source": "전자신문 AI",
+    "title": "AI 보안 경쟁 축 '탐지→자동 대응'…시장 성장도 가속",
+    "link": "https://www.etnews.com/20261031000030",
+    "summary": "인공지능(AI) 기반 사이버 공격으로 인해 세계 보안시장의 경쟁 축이 위협 탐지·분석에서 실시간 차단과 자동 대응으로 이동하고 있다. AI가 취약점 발견과 공격을 가속하면서 기존의 수동 분석과 패치 중심 대응에 한계가 드러났기 때문이다. 최근 실적을 발표한 포티넷과 테너블, F5는 AI…",
+    "pubDate": "2026-10-31T13:30:00.000Z",
+    "collectedAt": "2026-10-31T17:13:00.000Z"
+  },
+  {
+    "id": "20261031000055",
+    "category": "it",
+    "source": "전자신문 IT/통신",
+    "title": "[포토] 밤하늘에 뜬 아이언맨",
+    "link": "https://www.etnews.com/20261031000055",
+    "summary": "올해 마지막 한강 드론라이트쇼가 열린 31일 서울 광진구 뚝섬한강공원에서 마블 영화 속 캐릭터 아이어맨이 밤하늘을 수놓고 있다. 이번 라이트쇼에는 역대 최대 규모인 드론 2000대가 투입, 아이언맨을 비롯한 마블의 대표 캐릭터와 주요 명장면을 구현했다.",
+    "pubDate": "2026-10-31T12:39:45.000Z",
+    "collectedAt": "2026-10-31T17:13:00.000Z"
+  },
+  {
+    "id": "20261031000054",
+    "category": "it",
+    "source": "전자신문 IT/통신",
+    "title": "[포토] 닥터스트레인지 '시공간을 넘어'",
+    "link": "https://www.etnews.com/20261031000054",
+    "summary": "올해 마지막 한강 드론라이트쇼가 열린 31일 서울 광진구 뚝섬한강공원에서 마블 영화 속 캐릭터 닥터스트레인지가 밤하늘을 수놓고 있다. 이번 라이트쇼에는 역대 최대 규모인 드론 2000대가 투입, 아이언맨을 비롯한 마블의 대표 캐릭터와 주요 명장면을 구현했다.",
+    "pubDate": "2026-10-31T12:39:43.000Z",
+    "collectedAt": "2026-10-31T17:13:00.000Z"
+  },
+  {
+    "id": "20261031000053",
+    "category": "it",
+    "source": "전자신문 IT/통신",
+    "title": "[포토] 묠니르 든 토르",
+    "link": "https://www.etnews.com/20261031000053",
+    "summary": "올해 마지막 한강 드론라이트쇼가 열린 31일 서울 광진구 뚝섬한강공원에서 마블 영화 속 캐릭터 토르가 밤하늘을 수놓고 있다. 이번 라이트쇼에는 역대 최대 규모인 드론 2000대가 투입, 아이언맨을 비롯한 마블의 대표 캐릭터와 주요 명장면을 구현했다.",
+    "pubDate": "2026-10-31T12:39:41.000Z",
+    "collectedAt": "2026-10-31T17:13:00.000Z"
+  },
+  {
+    "id": "20261031000052",
+    "category": "it",
+    "source": "전자신문 IT/통신",
+    "title": "[포토] 묠니르 든 캡틴아메리카",
+    "link": "https://www.etnews.com/20261031000052",
+    "summary": "올해 마지막 한강 드론라이트쇼가 열린 31일 서울 광진구 뚝섬한강공원에서 마블 영화 속 캐릭터 캡틴 아메리카가 밤하늘을 수놓고 있다. 이번 라이트쇼에는 역대 최대 규모인 드론 2000대가 투입, 아이언맨을 비롯한 마블의 대표 캐릭터와 주요 명장면을 구현했다.",
+    "pubDate": "2026-10-31T12:39:39.000Z",
+    "collectedAt": "2026-10-31T17:13:00.000Z"
+  },
+  {
+    "id": "20261031000051",
+    "category": "it",
+    "source": "전자신문 IT/통신",
+    "title": "[포토] 서울에 나타난 캡틴아메리카",
+    "link": "https://www.etnews.com/20261031000051",
+    "summary": "올해 마지막 한강 드론라이트쇼가 열린 31일 서울 광진구 뚝섬한강공원에서 마블 영화 속 캐릭터 캡틴 아메리카가 밤하늘을 수놓고 있다. 이번 라이트쇼에는 역대 최대 규모인 드론 2000대가 투입, 아이언맨을 비롯한 마블의 대표 캐릭터와 주요 명장면을 구현했다.",
+    "pubDate": "2026-10-31T12:39:36.000Z",
+    "collectedAt": "2026-10-31T17:13:00.000Z"
+  },
+  {
+    "id": "20261031000050",
+    "category": "it",
+    "source": "전자신문 IT/통신",
+    "title": "[포토] 밤하늘에 나타난 타노스",
+    "link": "https://www.etnews.com/20261031000050",
+    "summary": "올해 마지막 한강 드론라이트쇼가 열린 31일 서울 광진구 뚝섬한강공원에서 마블 영화 속 캐릭터 타노스가 밤하늘을 수놓고 있다. 이번 라이트쇼에는 역대 최대 규모인 드론 2000대가 투입, 아이언맨을 비롯한 마블의 대표 캐릭터와 주요 명장면을 구현했다.",
+    "pubDate": "2026-10-31T12:39:34.000Z",
+    "collectedAt": "2026-10-31T17:13:00.000Z"
+  },
+  {
+    "id": "20261031000049",
+    "category": "it",
+    "source": "전자신문 IT/통신",
+    "title": "[포토] 내 눈앞에 토니 스타크",
+    "link": "https://www.etnews.com/20261031000049",
+    "summary": "올해 마지막 한강 드론라이트쇼가 열린 31일 서울 광진구 뚝섬한강공원에서 마블 영화 속 캐릭터 아이어맨이 밤하늘을 수놓고 있다. 이번 라이트쇼에는 역대 최대 규모인 드론 2000대가 투입, 아이언맨을 비롯한 마블의 대표 캐릭터와 주요 명장면을 구현했다.",
+    "pubDate": "2026-10-31T12:39:32.000Z",
+    "collectedAt": "2026-10-31T17:13:00.000Z"
+  },
+  {
+    "id": "https://news.hada.io/topic?id=36328&utm_source=geeknews&utm_medium=rss&utm_campaign=news",
+    "category": "it",
+    "source": "긱뉴스",
+    "title": "AI 네이티브 엔지니어링 조직 만들기",
+    "link": "https://news.hada.io/topic?id=36328&utm_source=geeknews&utm_medium=rss&utm_campaign=news",
+    "summary": "FurtherAI는 코드 작성부터 테스트, 리뷰, CI, 버그 접수, 병합까지 개발 과정 전체를 개선해 1월 이후 엔지니어당 하루 병합 건수를 약 5배 늘렸으며, 변경 되돌림 비율은 0.5% 미만으로 유지함 엔지니어만 알던 규칙을 자동 검사로 전환하고 테스트와 AI 리뷰를 ...",
+    "pubDate": "2026-10-31T12:38:15.000Z",
+    "collectedAt": "2026-10-31T17:13:00.000Z"
+  },
+  {
+    "id": "https://news.hada.io/topic?id=36327&utm_source=geeknews&utm_medium=rss&utm_campaign=news",
+    "category": "it",
+    "source": "긱뉴스",
+    "title": "세르비아, 세계에서 가장 명석한 의회를 선출하다",
+    "link": "https://news.hada.io/topic?id=36327&utm_source=geeknews&utm_medium=rss&utm_campaign=news",
+    "summary": "세르비아, 세계에서 가장 명석한 의회를 선출하다",
+    "pubDate": "2026-10-31T12:35:15.000Z",
+    "collectedAt": "2026-10-31T17:13:00.000Z"
+  },
+  {
+    "id": "https://news.hada.io/topic?id=36326&utm_source=geeknews&utm_medium=rss&utm_campaign=news",
+    "category": "it",
+    "source": "긱뉴스",
+    "title": "아니, npm, “estee”는 “testem”의 오타가 아니다",
+    "link": "https://news.hada.io/topic?id=36326&utm_source=geeknews&utm_medium=rss&utm_campaign=news",
+    "summary": "Storyteller의 긴 CLI 패키지 이름을 줄이려고 estee 를 npm에 등록하려 했지만, 기존 패키지 testem, espree와 유사하다는 이유로 타이포스쿼팅 방지 장치에 막힘 차단 결과는 레벤슈타인 거리 2 이하를 막는 방식으로 보...",
+    "pubDate": "2026-10-31T12:01:44.000Z",
+    "collectedAt": "2026-10-31T17:13:00.000Z"
+  },
+  {
+    "id": "20261031000048",
+    "category": "economy",
+    "source": "전자신문 경제",
+    "title": "MBK, 홈플러스 이어 골프존 매각 과정서도 '잡음'…골프존홀딩스 “법적 대응 검토”",
+    "link": "https://www.etnews.com/20261031000048",
+    "summary": "홈플러스 사태로 연일 도마 위에 오르내리는 글로벌 사모펀드 MBK 파트너스가 이번엔 골프존카운티 매각 과정에서 또다시 잡음을 일었다. 골프존카운티의 기업공개(IPO)가 무산된 가운데 MBK의 투자금 회수(엑시트) 시도를 두고 주요 주주인 골프존홀딩스와의 공방이 격화하고 있다. 골프존홀딩…",
+    "pubDate": "2026-10-31T11:51:49.000Z",
+    "collectedAt": "2026-10-31T17:13:00.000Z"
+  },
+  {
+    "id": "20261031000047",
+    "category": "economy",
+    "source": "전자신문 경제",
+    "title": "KZ정밀 “같은 말만 반복하는 영풍 경영협력계약 콜옵션 공개매수가 연동 포기 경위부터 밝혀야”",
+    "link": "https://www.etnews.com/20261031000047",
+    "summary": "영풍이 MBK파트너스(MBK)와 맺은 경영협력계약상 콜옵션 조항을 둘러싼 배임 의혹에 대새 설명을 내놨다. 다만 의구심에 대한 핵심 답변은 회피한 채 그간의 답변에서 크게 벗어나지 않았다는 지적이다. 31일 업계에 따르면 그간 재계에서는 주가 상승기에 권리가 행사되면 영풍의 손해가 커진…",
+    "pubDate": "2026-10-31T11:42:54.000Z",
+    "collectedAt": "2026-10-31T17:13:00.000Z"
+  },
+  {
     "id": "20261031000043",
     "category": "economy",
     "source": "전자신문 경제",
@@ -98,6 +338,16 @@
     "summary": "엔비디아가 영국 클라우드 기업 엔스케일(Nscale)의 대규모 데이터센터 건설을 지원하기 위해 수십억달러의 신용 보증을 제공하는 방안을 논의 중인 것으로 알려졌다. 앤트로픽이 사용할 데이터센터의 건설 자금을 확보하도록 지원하는 것으로, 엔비디아가 GPU 공급을 넘어 고객사의 인프라 투자…",
     "pubDate": "2026-10-31T10:48:02.000Z",
     "collectedAt": "2026-10-31T04:56:25.970Z"
+  },
+  {
+    "id": "https://news.hada.io/topic?id=36325&utm_source=geeknews&utm_medium=rss&utm_campaign=news",
+    "category": "it",
+    "source": "긱뉴스",
+    "title": "Infinite Mac: BeOS를 브라우저에서 실행하기",
+    "link": "https://news.hada.io/topic?id=36325&utm_source=geeknews&utm_medium=rss&utm_campaign=news",
+    "summary": "Infinite Mac에서 여러 버전의 BeOS를 브라우저로 실행할 수 있게 됨, 대용량 디스크를 스트리밍해 즉시 부팅하며 소프트웨어 실행과 작업 저장도 지원함 DingusPPC의 BeOS 호환성을 개선하면서 키보드 입력, 화면 색상 깊이, 비디오 메모리, ROM 매핑의 에뮬레이션...",
+    "pubDate": "2026-10-31T10:33:28.000Z",
+    "collectedAt": "2026-10-31T17:13:00.000Z"
   },
   {
     "id": "https://www.aitimes.com/news/articleView.html?idxno=216846",
@@ -14748,255 +14998,5 @@
     "summary": "",
     "pubDate": "2026-10-27T13:11:16.000Z",
     "collectedAt": "2026-10-27T17:47:08.086Z"
-  },
-  {
-    "id": "20261027000471",
-    "category": "ai",
-    "source": "전자신문 AI",
-    "title": "서울AI허브, 벤처 투자사와 AI 스타트업 성장 단계별 지원한다",
-    "link": "https://www.etnews.com/20261027000471",
-    "summary": "서울시 인공지능(AI) 스타트업 지원 거점 서울AI허브가 국내 주요 벤처 투자사와 손잡고 AI 스타트업 투자 기회를 확대한다. 서울AI허브는 최근 'IR DAY'를 열고 서울시·서초구 펀드 운용 투자사 9개사와 투자 업무협약(MOU)을 체결했다. 참여기관은 모비딕벤처스, 뮤렉스파트너스,…",
-    "pubDate": "2026-10-27T13:11:07.000Z",
-    "collectedAt": "2026-10-27T17:47:08.086Z"
-  },
-  {
-    "id": "https://www.hankyung.com/article/202610279041i",
-    "category": "economy",
-    "source": "한국경제 경제",
-    "title": "방산 호조에도 상용기 생산 지연…보잉, 실적 회복에도 주가 하락",
-    "link": "https://www.hankyung.com/article/202610279041i",
-    "summary": "",
-    "pubDate": "2026-10-27T13:07:18.000Z",
-    "collectedAt": "2026-10-27T17:47:08.086Z"
-  },
-  {
-    "id": "https://www.hankyung.com/article/202610278113g",
-    "category": "economy",
-    "source": "한국경제 경제",
-    "title": "하나만 시켰는데…\"가성비 미쳤네\" 난리 난 레스토랑 [현장+]",
-    "link": "https://www.hankyung.com/article/202610278113g",
-    "summary": "",
-    "pubDate": "2026-10-27T13:00:03.000Z",
-    "collectedAt": "2026-10-27T17:47:08.086Z"
-  },
-  {
-    "id": "https://www.hankyung.com/article/2026102785066",
-    "category": "economy",
-    "source": "한국경제 증권",
-    "title": "\"내일은 빨간불 뜨겠죠?\"…SK하이닉스 개미들 '초긴장' [종목+]",
-    "link": "https://www.hankyung.com/article/2026102785066",
-    "summary": "",
-    "pubDate": "2026-10-27T13:00:01.000Z",
-    "collectedAt": "2026-10-27T17:47:08.086Z"
-  },
-  {
-    "id": "https://www.aitimes.com/news/articleView.html?idxno=216695",
-    "category": "ai",
-    "source": "AI타임스 AI산업",
-    "title": "오픈AI, AI가 풀어낸 난제 학계와 검증…수학·물리학 등 연구 협력",
-    "link": "https://www.aitimes.com/news/articleView.html?idxno=216695",
-    "summary": "오픈AI가 수학과 컴퓨터과학, 이론물리학 분야의 난제에 대한 증명을 AI로 생성했다고 밝혔다. 오랜 추측을 증명하거나 기존 가설을 뒤집는 연구 결과로, 외부 전문가들이 증명을 검토하고 의미를 해석해 후속 연구로 연결하도록 학계 협력도 추진한다.오픈AI는 26일(현지시간) 공식 발표를 통…",
-    "pubDate": "2026-10-27T12:57:54.000Z",
-    "collectedAt": "2026-10-27T04:27:45.255Z"
-  },
-  {
-    "id": "20261027000456",
-    "category": "economy",
-    "source": "전자신문 경제",
-    "title": "법인기업도 영업점 안 가고 보증받을까…경기신보 이지원, 이용 대상·신청 채널 확대",
-    "link": "https://www.etnews.com/20261027000456",
-    "summary": "경기신용보증재단(이사장 시석중)의 비대면 보증 서비스 '이지원(Easy One)'을 법인기업과 개인사업자 공동대표 기업도 이용할 수 있게 됐다. 모바일 앱으로만 가능했던 보증 신청과 약정은 PC로도 처리할 수 있다. 경기신보는 이지원 이용 대상과 신청 채널을 확대하고 상담·사후관리 기능…",
-    "pubDate": "2026-10-27T12:46:44.000Z",
-    "collectedAt": "2026-10-27T17:47:08.086Z"
-  },
-  {
-    "id": "https://www.hankyung.com/article/2026102790247",
-    "category": "economy",
-    "source": "한국경제 증권",
-    "title": "200만 구독자 '짠한형 신동엽' 제작사, 75억원에 흡수합병",
-    "link": "https://www.hankyung.com/article/2026102790247",
-    "summary": "",
-    "pubDate": "2026-10-27T12:40:53.000Z",
-    "collectedAt": "2026-10-27T17:47:08.086Z"
-  },
-  {
-    "id": "https://www.aitimes.com/news/articleView.html?idxno=216696",
-    "category": "ai",
-    "source": "AI타임스 AI산업",
-    "title": "래블업, 공모가 1만9000원 확정...11월3일 코스닥 데뷔",
-    "link": "https://www.aitimes.com/news/articleView.html?idxno=216696",
-    "summary": "AI 인프라 전문 래블업(대표 신정규)이 오는 11월3일 코스닥 시장에 상장한다. 공모가는 1만9000원(공모금액 414억 원)으로 확정됐다.지난 19일까지 진행된 기관투자자 대상 수요예측에는 총 1129개 기관이 참여해 284.53대 1의 경쟁률을 기록했고, 수요예측 기간 중 글로벌…",
-    "pubDate": "2026-10-27T12:38:19.000Z",
-    "collectedAt": "2026-10-27T04:27:45.255Z"
-  },
-  {
-    "id": "20261027000455",
-    "category": "ai",
-    "source": "전자신문 SW",
-    "title": "미래엔, 기출 중심 고등학교 수학 내신 대비 '실전FIT' 출시",
-    "link": "https://www.etnews.com/20261027000455",
-    "summary": "미래엔이 고등학생 수학 내신 대비를 돕기 위해 교과서와 기출문제 중심 고득점을 향한 유형별 내신 실전 훈련서 '실전FIT' 시리즈를 출간했다. 실전FIT은 실전 훈련을 원하는 학생을 위해 교과서 유형과 내신 빈출 유형과 교육청·평가원·수능 기출 우수 문항을 수록하여 구성한 교재다. 개념…",
-    "pubDate": "2026-10-27T12:26:18.000Z",
-    "collectedAt": "2026-10-27T17:47:08.086Z"
-  },
-  {
-    "id": "20261027000454",
-    "category": "ai",
-    "source": "전자신문 AI",
-    "title": "시흥시, 연구개발부터 산업화까지…경기도와 AI·바이오 산업 육성 협력",
-    "link": "https://www.etnews.com/20261027000454",
-    "summary": "경기 시흥시와 경기도가 인공지능(AI)·바이오 융합산업 육성을 위한 협력 방안을 논의했다. 시흥시는 경기도 경제부지사가 지난 26일 서울대학교 시흥캠퍼스와 주요 바이오산업 사업지를 방문해 특화단지 추진 현황과 기반시설 조성 계획을 점검했다고 27일 밝혔다. 이날 서울대 시흥캠퍼스에서 열…",
-    "pubDate": "2026-10-27T12:17:15.000Z",
-    "collectedAt": "2026-10-27T17:47:08.086Z"
-  },
-  {
-    "id": "https://www.aitimes.com/news/articleView.html?idxno=216700",
-    "category": "ai",
-    "source": "AI타임스 AI산업",
-    "title": "MS, 비용 효율화·AI 투자 위해 전 세계 임직원 4분의 1 명예퇴직 시작",
-    "link": "https://www.aitimes.com/news/articleView.html?idxno=216700",
-    "summary": "마이크로소프트(MS)가 전 세계 임직원의 4분의 1이 넘는 약 6만명을 대상으로 자발적 퇴직 프로그램을 시작했다. 급증하는 AI 인프라 투자에 따라 인력 구조를 조정해 비용 효율성을 높이려는 의도다.MS는 26일(현지시간) 미국, 캐나다, 영국, 인도에서 일부 직원을 대상으로 ‘자발적…",
-    "pubDate": "2026-10-27T12:16:19.000Z",
-    "collectedAt": "2026-10-27T04:27:45.255Z"
-  },
-  {
-    "id": "https://news.hada.io/topic?id=36106",
-    "category": "it",
-    "source": "긱뉴스",
-    "title": "Stalwart v1.0: 지구상에서 가장 빠른 메일 서버",
-    "link": "https://news.hada.io/topic?id=36106",
-    "summary": "Rust 기반 메일 및 협업 서버 Stalwart가 첫 안정 버전 v1.0을 출시함. 성능 최적화와 데이터베이스 스키마 안정화에 집중함 자체 비교에서 Postfix 3.11과 Dovecot 2.4 대비 38개 주요 항목 중 35개에서 더 빨랐음. 비교 대상은 두 제품뿐이며, 동일한 Az…",
-    "pubDate": "2026-10-27T12:03:51.000Z",
-    "collectedAt": "2026-10-27T17:47:08.086Z"
-  },
-  {
-    "id": "https://www.hankyung.com/article/202610278996i",
-    "category": "economy",
-    "source": "한국경제 경제",
-    "title": "700% 폭등했던 주식도 '반토막'…거품 터지자 곳곳서 '비명'",
-    "link": "https://www.hankyung.com/article/202610278996i",
-    "summary": "",
-    "pubDate": "2026-10-27T11:45:12.000Z",
-    "collectedAt": "2026-10-27T17:47:08.086Z"
-  },
-  {
-    "id": "https://news.hada.io/topic?id=36105",
-    "category": "it",
-    "source": "긱뉴스",
-    "title": "AI 시대의 맨먼스 미신",
-    "link": "https://news.hada.io/topic?id=36105",
-    "summary": "AI 에이전트와 LLM이 등장해도 브룩스의 법칙은 사라지기보다 형태가 바뀜 온보딩, 반복되는 스탠드업 회의, 사내 정치 같은 기존 병목이 사라지는 듯 보여도 순차 작업은 여전히 순차적으로 수행해야 함 관리 부담은 사람에서 에이전트 관리",
-    "pubDate": "2026-10-27T11:32:28.000Z",
-    "collectedAt": "2026-10-27T11:53:04.814Z"
-  },
-  {
-    "id": "20261027000451",
-    "category": "it",
-    "source": "전자신문 IT/통신",
-    "title": "한·영 원자력 연구기관, SMR·차세대 원자로 공동 연구 협력",
-    "link": "https://www.etnews.com/20261027000451",
-    "summary": "한국원자력연구원과 영국국립원자력연구소(UKNNL)가 소형모듈원자로(SMR)와 차세대 원자로 등 원자력 연구개발 분야에서 협력을 강화한다. 한국원자력연구원과 영국국립원자력연구소는 27일 인천 송도에서 열린 국제원자력기구(IAEA) 원자력 장관급 회의를 계기로 원자력 연구개발 협력을 위한…",
-    "pubDate": "2026-10-27T11:27:02.000Z",
-    "collectedAt": "2026-10-27T11:53:04.814Z"
-  },
-  {
-    "id": "20261027000450",
-    "category": "it",
-    "source": "전자신문 IT/통신",
-    "title": "애플 '아이폰 듀오' 초기 공급 600만대 이하 전망…수요 초과도",
-    "link": "https://www.etnews.com/20261027000450",
-    "summary": "애플 첫 폴더블 스마트폰 '아이폰 듀오'가 출시된 가운데 초기 공급 물량이 수요를 따라가지 못할 수 있다는 전망이 나왔다. 높은 출고가에도 기존 아이폰 이용자들의 구매 수요가 몰리면서 당분간 제품 확보에 어려움이 발생할 가능성이 제기된다. 타룬 파탁 카운터포인트리서치 디렉터는 27일 미…",
-    "pubDate": "2026-10-27T11:12:19.000Z",
-    "collectedAt": "2026-10-27T11:53:04.814Z"
-  },
-  {
-    "id": "https://www.hankyung.com/article/2026102789827",
-    "category": "economy",
-    "source": "한국경제 증권",
-    "title": "日 투자그룹, JYP엔터 공개매수 추진에…금감위 \"거래 예의주시\"",
-    "link": "https://www.hankyung.com/article/2026102789827",
-    "summary": "",
-    "pubDate": "2026-10-27T11:07:29.000Z",
-    "collectedAt": "2026-10-27T11:53:04.814Z"
-  },
-  {
-    "id": "https://www.hankyung.com/article/202610277700i",
-    "category": "economy",
-    "source": "한국경제 경제",
-    "title": "공익법인 활용하면 상속세 줄일 수 있을까? [트러스트의 가족기업 컨설팅]",
-    "link": "https://www.hankyung.com/article/202610277700i",
-    "summary": "",
-    "pubDate": "2026-10-27T11:00:04.000Z",
-    "collectedAt": "2026-10-27T11:53:04.814Z"
-  },
-  {
-    "id": "https://news.hada.io/topic?id=36104",
-    "category": "it",
-    "source": "긱뉴스",
-    "title": "Show GN: HypeSeoul – AI가 그린 서울 전체, 서울 시간대로 움직이는 지도",
-    "link": "https://news.hada.io/topic?id=36104",
-    "summary": "안녕하세요. 서울 전체를 AI로 그린 아이소메트릭 지도 HypeSeoul을 만들었습니다. 뉴욕을 한 장의 그림 지도로 만든 isometric.nyc(Andy Coenen)를 보고, 서울도 이렇게 보고 싶어서 시작했습니다. 원작 코드는 쓰지 않고 따로 만들었습니다. 지도를 끌고 확대해서…",
-    "pubDate": "2026-10-27T10:43:30.000Z",
-    "collectedAt": "2026-10-27T11:53:04.814Z"
-  },
-  {
-    "id": "20261027000447",
-    "category": "it",
-    "source": "전자신문 IT/통신",
-    "title": "방미통위, 유료방송 '채널 묶음판매' 실태점검 착수",
-    "link": "https://www.etnews.com/20261027000447",
-    "summary": "방송미디어통신위원회가 유료방송 시장의 채널 묶음판매 불공정행위 실태점검에 착수했다. LG헬로비전과 CJ ENM의 콘텐츠 사용료 갈등이 채널 송출 종료로 번진 가운데 복수방송채널사용사업자(MPP)와 플랫폼 간 계약 관행을 들여다보겠다는 것이다. 27일 업계에 따르면 방미통위는 종합유선방송…",
-    "pubDate": "2026-10-27T10:39:37.000Z",
-    "collectedAt": "2026-10-27T11:53:04.814Z"
-  },
-  {
-    "id": "https://www.hankyung.com/article/202610277703H",
-    "category": "it",
-    "source": "한국경제 IT",
-    "title": "\"30일 걸리는 업무 1분 만에\"…혁신적으로 시간 줄여줄 기술은? [현장+]",
-    "link": "https://www.hankyung.com/article/202610277703H",
-    "summary": "",
-    "pubDate": "2026-10-27T10:37:01.000Z",
-    "collectedAt": "2026-10-27T11:53:04.814Z"
-  },
-  {
-    "id": "https://news.hada.io/topic?id=36103",
-    "category": "it",
-    "source": "긱뉴스",
-    "title": "vLLM의 도구 호출 정확도 문제 해결하기",
-    "link": "https://news.hada.io/topic?id=36103",
-    "summary": "도구 호출이 스키마를 어기면 오류 메시지와 재시도가 쌓여 에이전트의 품질과 비용에 영향을 줌. Ubicloud의 Kimi K2.6 테스트에서는 vLLM 0.28의 스키마 정확도가 92% 에 그쳤음 제약 디코딩(constrained decoding) 은 생성 단계마다 스키마에 맞지 않는…",
-    "pubDate": "2026-10-27T10:33:31.000Z",
-    "collectedAt": "2026-10-27T11:53:04.814Z"
-  },
-  {
-    "id": "https://news.hada.io/topic?id=36101",
-    "category": "it",
-    "source": "긱뉴스",
-    "title": "Show GN: 봉오리 - 질문에 답하다 보면 하루가 정리되는 AI 일기",
-    "link": "https://news.hada.io/topic?id=36101",
-    "summary": "예전에 서버 없는 질문 일기 하루카드를 올렸었는데, 이번엔 반대로 AI를 붙여서 하나 더 만들었습니다. 쓰는 방식은 단순합니다. 질문에 한두 줄 답하면 AI가 그 답에서 단어를 하나 집어서 다시 물어보고, 몇 번 주고받다 끝내면 감정이랑 주제를 정리해 줍니다. 기록이 쌓이면 지난 고민을…",
-    "pubDate": "2026-10-27T10:04:55.000Z",
-    "collectedAt": "2026-10-27T11:53:04.814Z"
-  },
-  {
-    "id": "20261027000437",
-    "category": "it",
-    "source": "전자신문 IT/통신",
-    "title": "올해 방한객 1894만명 돌파…내달 첫 '2000만명' 전망",
-    "link": "https://www.etnews.com/20261027000437",
-    "summary": "방한 외국인 관광객 수가 역대 연간 최고치를 넘어섰다. 지난해보다 두 달여 빠른 기록이다. 문화체육관광부는 27일 기준 방한 외국인 관광객 수가 종전 최고치인 지난해 연간 누적치(1894만명)를 돌파했다고 밝혔다. 이는 26일까지 잠정 집계된 1891만명에 올해 일평균 관광객 수(약 6…",
-    "pubDate": "2026-10-27T09:42:02.000Z",
-    "collectedAt": "2026-10-27T11:53:04.814Z"
-  },
-  {
-    "id": "https://news.hada.io/topic?id=36100",
-    "category": "it",
-    "source": "긱뉴스",
-    "title": "Show GN: 카드 배틀 - Decision Model을 이용한..",
-    "link": "https://news.hada.io/topic?id=36100",
-    "summary": "자연어로 카드 덱을 만들어서 대전하는 카드 배틀 게임을 만들어보았습니다. 본질적으로는 전에 만들었던 텍스트배틀과 같은데 Decision Model을 사용하면서 카드 3장으로 한 덱을 만드는 쪽으로 구현했습니다. 최소한의 광고만으로 비용이 유지될지가 관건이고 무리다 싶으면 내려갈 수 있습…",
-    "pubDate": "2026-10-27T09:37:57.000Z",
-    "collectedAt": "2026-10-27T11:53:04.814Z"
   }
 ]
