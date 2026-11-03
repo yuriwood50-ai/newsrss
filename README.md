@@ -1,13 +1,40 @@
 # newsrss
 
 RSS로 AI · IT · 경제 뉴스를 2시간마다 자동 수집하고, 화면에 분야별로 정리해서 보여주고,
-하루 한 번 Discord로 요약해서 보내는 프로젝트입니다.
+하루 한 번 Discord로 요약해서 보내는 개인용 뉴스 대시보드입니다.
+
+## 목적
+
+여러 매체를 일일이 돌아다니지 않고 관심 분야 소식을 한곳에서 훑고, 하루 한 번 요약만 받아보기 위해 만들었습니다.
+**서버·DB 없이** GitHub Actions + 저장소 안의 JSON 파일 + Vercel 렌더링만으로 운영해서 유지비가 들지 않습니다.
+
+## 아키텍처
 
 ```
-GitHub Actions(2시간마다) → RSS 수집·중복 제거 → data/news.json 커밋
-                                                 → Vercel 자동 재배포 → 화면 갱신
-GitHub Actions(하루 1회)  → data/news.json 읽어서 분야별 요약 → Discord Webhook 전송
+ RSS 매체들 ──▶ [Actions] collect.yml (2시간마다)
+ (전자신문·AI타임스·        └ scripts/collect.mjs ──▶ data/news.json ──▶ git push
+  한국경제·긱뉴스)                                          │
+                                                           ▼
+                                              Vercel 자동 재배포 ──▶ app/page.tsx (분야별 최신순)
+
+ data/news.json ──▶ [Actions] daily-digest.yml (하루 1회, KST 21:00)
+                      └ scripts/daily-digest.mjs ──▶ (선택) Anthropic API 요약 ──▶ Discord Webhook
 ```
+
+핵심은 **`data/news.json` 이 DB 역할**을 한다는 점입니다. 수집 워크플로우가 이 파일을 갱신해 커밋하면, 그 커밋이 Vercel 재배포를 일으켜 화면이 최신 상태가 됩니다.
+
+## 작동 방식
+
+1. **수집** (`scripts/collect.mjs`, 2시간마다)
+   - `feeds.json` 의 모든 소스를 순서대로 파싱합니다. 피드마다 15초 타임아웃이 있어 하나가 죽어도 나머지는 계속 수집합니다.
+   - 기사 ID는 `guid`(없으면 `link`) 기준이라, 이미 저장된 기사나 여러 피드에 겹쳐 실린 기사는 건너뜁니다.
+   - 최근 14일 · 최대 1500건만 남기고 정리한 뒤 `data/news.json` 에 최신순으로 저장합니다. 변경이 있을 때만 커밋합니다.
+2. **표시** (`app/page.tsx`)
+   - 서버 컴포넌트가 `data/news.json` 과 `feeds.json` 을 읽어 분야별 · 최신순으로 렌더링합니다. 시각은 KST 로 표시합니다.
+3. **요약 전송** (`scripts/daily-digest.mjs`, 하루 1회)
+   - 분야별 기사를 모아 Discord Webhook 으로 보냅니다. `ANTHROPIC_API_KEY` 가 있으면 AI 요약, 없으면 헤드라인 목록으로 대체합니다.
+
+기술 스택: Next.js 16 (App Router) · React 19 · Tailwind 4 · rss-parser · GitHub Actions · Vercel
 
 ## 프로젝트 구조
 
@@ -16,6 +43,7 @@ GitHub Actions(하루 1회)  → data/news.json 읽어서 분야별 요약 → D
 - `scripts/collect.mjs` — RSS 수집 스크립트 (2시간마다 자동 실행).
 - `scripts/daily-digest.mjs` — Discord 요약 전송 스크립트 (하루 1회 자동 실행).
 - `app/page.tsx` — 화면 표시 페이지. `data/news.json`을 읽어 분야별로 최신순 렌더링.
+- `lib/` — 공용 코드 (`types.ts` 기사·피드 타입, `text.mjs` HTML 제거·기사 ID 생성, `format.ts` KST 시각 표시).
 - `.github/workflows/collect.yml` — 2시간 주기 수집 워크플로우.
 - `.github/workflows/daily-digest.yml` — 하루 1회 Discord 전송 워크플로우.
 
