@@ -1,4 +1,12 @@
 # newsrss
+**Collects AI, IT, and economy news every 2 hours and sends a daily summary to Discord.**
+- Live: https://newsrss-eta.vercel.app
+- How: GitHub Actions + JSON files in this repo + Vercel. No server, no database.
+- Status: Running and updating every 2 hours.
+
+---
+
+# newsrss
 
 RSS로 AI · IT · 경제 뉴스를 2시간마다 자동 수집하고, 화면에 분야별로 정리해서 보여주고,
 하루 한 번 Discord로 요약해서 보내는 개인용 뉴스 대시보드입니다.
