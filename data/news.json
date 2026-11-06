@@ -1,5 +1,35 @@
 [
   {
+    "id": "https://news.hada.io/topic?id=36716&utm_source=geeknews&utm_medium=rss&utm_campaign=news",
+    "category": "it",
+    "source": "긱뉴스",
+    "title": "Firenook - Rust로 만든 Firebase 에뮬레이터, 쓰기 40배 빠르고 RAM 사용량은 10분의 1",
+    "link": "https://news.hada.io/topic?id=36716&utm_source=geeknews&utm_medium=rss&utm_campaign=news",
+    "summary": "Firenook은 기존 firebase.json, SDK, 포트와 실행 옵션을 유지하면서 Firebase Local Emulator Suite를 대체하는 도구로, Java 설치 없이 사용 가능함 실제 운영 앱의 트래픽을 각각 2시간 실행한 자체 벤치마크에서 쓰기 중앙값은 공식 에뮬레이터…",
+    "pubDate": "2026-11-06T17:48:19.000Z",
+    "collectedAt": "2026-11-06T19:16:10.041Z"
+  },
+  {
+    "id": "https://news.hada.io/topic?id=36715&utm_source=geeknews&utm_medium=rss&utm_campaign=news",
+    "category": "it",
+    "source": "긱뉴스",
+    "title": "Deus Ex - 자유로운 문제 해결을 구현한 이머시브 심과 ‘미래 예언’이라는 평가",
+    "link": "https://news.hada.io/topic?id=36715&utm_source=geeknews&utm_medium=rss&utm_campaign=news",
+    "summary": "2000년 출시된 Deus Ex는 정해진 정답 대신 다양한 해결 수단을 제공하는 이머시브 심 설계를 대중적 성공으로 연결한 게임임 설계 원칙은 “퍼즐이 아니라 문제”로, 전투와 잠입, 해킹 등을 조합해 개발자조차 예상하지 못한 방법으로 임무를 해결할 수 있음 개별 임무의 자유도와 달리…",
+    "pubDate": "2026-11-06T17:45:19.000Z",
+    "collectedAt": "2026-11-06T19:16:10.041Z"
+  },
+  {
+    "id": "https://news.hada.io/topic?id=36714&utm_source=geeknews&utm_medium=rss&utm_campaign=news",
+    "category": "it",
+    "source": "긱뉴스",
+    "title": "Cybertruck, 안녕",
+    "link": "https://news.hada.io/topic?id=36714&utm_source=geeknews&utm_medium=rss&utm_campaign=news",
+    "summary": "Elon Musk가 Cybercab 증산을 위해 2027년 중반 무렵 Gigafactory Texas의 Cybertruck 생산을 단계적으로 종료하겠다고 밝힘 Cybertruck은 현재 텍사스 공장에서만 생산되지만, Tesla는 완전한 생산 종료 여부를 묻는 확인 요청에 답하지 않음 M…",
+    "pubDate": "2026-11-06T17:42:19.000Z",
+    "collectedAt": "2026-11-06T19:16:10.041Z"
+  },
+  {
     "id": "https://www.aitimes.com/news/articleView.html?idxno=217096",
     "category": "ai",
     "source": "AI타임스 AI산업",
@@ -48,6 +78,26 @@
     "summary": "앤트로픽이 '클로드'에 은행 계좌와 신용카드를 연결해 개인 재무 상태를 분석할 수 있는 '개인 금융(Personal Finance)' 기능을 추가했다. 여러 금융 계좌의 거래 내역을 종합해 소비 패턴과 예정 지출을 파악하고, 중복 결제나 불필요한 수수료까지 찾아준다.앤트로픽은 5일(현지…",
     "pubDate": "2026-11-06T16:47:12.000Z",
     "collectedAt": "2026-11-06T11:57:35.381Z"
+  },
+  {
+    "id": "https://news.hada.io/topic?id=36713&utm_source=geeknews&utm_medium=rss&utm_campaign=news",
+    "category": "it",
+    "source": "긱뉴스",
+    "title": "선거 후 투자자들이 AI 투자에서 발을 빼며 Nasdaq 5% 급락",
+    "link": "https://news.hada.io/topic?id=36713&utm_source=geeknews&utm_medium=rss&utm_campaign=news",
+    "summary": "중간선거 이후 투자자들이 데이터센터 구축 둔화에 대비하면서 반도체와 데이터센터 공급업체 주식을 중심으로 광범위한 매도세가 나타남 본문 기준 Nasdaq 종합지수는 5.4% 하락해 조정 국면에 진입했으며, 시가총액은 하루 기준 역대 최대인 2조 5,000억 달러 감소함 한때 시가총액 세계…",
+    "pubDate": "2026-11-06T16:39:54.000Z",
+    "collectedAt": "2026-11-06T19:16:10.041Z"
+  },
+  {
+    "id": "https://news.hada.io/topic?id=36712&utm_source=geeknews&utm_medium=rss&utm_campaign=news",
+    "category": "it",
+    "source": "긱뉴스",
+    "title": "Gemini Omni 1.2 Flash - 최대 15초 영상 생성과 대화형 편집, 가격 30% 인하",
+    "link": "https://news.hada.io/topic?id=36712&utm_source=geeknews&utm_medium=rss&utm_campaign=news",
+    "summary": "Gemini Omni 1.2 Flash가 Gemini API와 Gemini for business에서 정식 제공되며, 영상 생성과 편집 길이를 기존 최대 10초에서 15초로 늘림 720p 영상 가격을 Omni 1.1 대비 30% 인하한 초당 0.07달러로 책정했으며, 선택한 결과를 10…",
+    "pubDate": "2026-11-06T16:36:54.000Z",
+    "collectedAt": "2026-11-06T19:16:10.041Z"
   },
   {
     "id": "https://www.aitimes.com/news/articleView.html?idxno=217097",
@@ -100,6 +150,36 @@
     "collectedAt": "2026-11-06T11:57:35.381Z"
   },
   {
+    "id": "https://news.hada.io/topic?id=36711&utm_source=geeknews&utm_medium=rss&utm_campaign=news",
+    "category": "it",
+    "source": "긱뉴스",
+    "title": "Kugelblitz - Mac 네이티브 Google Earth 대안",
+    "link": "https://news.hada.io/topic?id=36711&utm_source=geeknews&utm_medium=rss&utm_campaign=news",
+    "summary": "Kugelblitz는 지구와 주변 천체를 3D 지구본과 평면 지도책으로 탐색하는 Mac 앱으로, 실제 지형 위에 영상, 도로 지도, 지형도를 표시함 공개 지리 데이터를 제공처에서 직접 불러오며 계정이 필요 없음. Library에서 전 세계 지도 서비스를 검색하고 지구본에 표시하거나 저장…",
+    "pubDate": "2026-11-06T15:37:01.000Z",
+    "collectedAt": "2026-11-06T19:16:10.041Z"
+  },
+  {
+    "id": "https://news.hada.io/topic?id=36710&utm_source=geeknews&utm_medium=rss&utm_campaign=news",
+    "category": "it",
+    "source": "긱뉴스",
+    "title": "Tesla, 소수 시장에서 수년간 판매 부진을 겪은 Cybertruck 생산을 단계적으로 축소",
+    "link": "https://news.hada.io/topic?id=36710&utm_source=geeknews&utm_medium=rss&utm_campaign=news",
+    "summary": "Tesla, 소수 시장에서 수년간 판매 부진을 겪은 Cybertruck 생산을 단계적으로 축소",
+    "pubDate": "2026-11-06T15:34:00.000Z",
+    "collectedAt": "2026-11-06T19:16:10.041Z"
+  },
+  {
+    "id": "20261107000004",
+    "category": "it",
+    "source": "전자신문 IT/통신",
+    "title": "英 인프라 운용사 에퀴틱스, 한국 진출 10주년 기념 리셉션",
+    "link": "https://www.etnews.com/20261107000004",
+    "summary": "영국의 인프라 전문 투자운용사 에퀴틱스(Equitix)가 한국 진출 10주년을 맞아 5일 주한영국대사 관저에서 기념 리셉션을 개최했다고 밝혔다. 행사에는 오랜 기간 협력해 온 투자자와 파트너, 관계자들이 참석해 지난 10년간 에퀴틱스와 한국 간 구축해 온 협력 관계를 평가했다. 에퀴틱스…",
+    "pubDate": "2026-11-06T15:13:21.000Z",
+    "collectedAt": "2026-11-06T19:16:10.041Z"
+  },
+  {
     "id": "https://www.aitimes.com/news/articleView.html?idxno=217102",
     "category": "ai",
     "source": "AI타임스 AI산업",
@@ -108,6 +188,16 @@
     "summary": "'챗GPT'가 사용자의 남편을 살해하기 위한 독살 계획을 세우는 데 도움을 줬다는 주장으로 오픈AI가 소송을 당했다. 남편은 아내가 챗GPT와 대화하며 독성 물질의 치사량과 투여 방법, 범행 은폐 방법 등을 알아봤다고 주장했다. 아내에 대한 형사 사건은 증거 불충분으로 기각된 상태다.5…",
     "pubDate": "2026-11-06T15:09:02.000Z",
     "collectedAt": "2026-11-06T11:57:35.381Z"
+  },
+  {
+    "id": "20261107000002",
+    "category": "it",
+    "source": "전자신문 IT/통신",
+    "title": "플렌티넷 모아진 LG유플러스 가입자 20만 돌파",
+    "link": "https://www.etnews.com/20261107000002",
+    "summary": "통신 IT 기업 플랜티넷의 자회사 플랜티엠은 디지털 매거진 플랫폼 '모아진'이 LG 유플러스와의 제휴를 통한 누적 가입자 20 만 명을 돌파했다고 6일 밝혔다. 특히 '데일리플러스'에서 모아진 혜택을 선택한 고객이 가입자 증가를 주도했으며, 구독 플랫폼 '유독'에서도 매거진 Pack 출…",
+    "pubDate": "2026-11-06T15:07:43.000Z",
+    "collectedAt": "2026-11-06T19:16:10.041Z"
   },
   {
     "id": "https://www.aitimes.com/news/articleView.html?idxno=217088",
@@ -140,6 +230,26 @@
     "collectedAt": "2026-11-06T11:57:35.381Z"
   },
   {
+    "id": "https://news.hada.io/topic?id=36708&utm_source=geeknews&utm_medium=rss&utm_campaign=news",
+    "category": "it",
+    "source": "긱뉴스",
+    "title": "Linux에서 Wikipedia까지, 자원봉사자들은 어떻게 인터넷을 만드는가",
+    "link": "https://news.hada.io/topic?id=36708&utm_source=geeknews&utm_medium=rss&utm_campaign=news",
+    "summary": "동료 생산(peer production) 은 기업의 지휘나 금전적 보상을 주된 동력으로 삼지 않고도 Linux와 Wikipedia 같은 핵심 온라인 자원을 만들어 온 개방형 협업 방식임 참여자의 다양한 동기, 집단적 자치, 분산된 작업 수행, 공공 공유자원으로 보호되는 결과물이 동료 생…",
+    "pubDate": "2026-11-06T14:34:20.000Z",
+    "collectedAt": "2026-11-06T19:16:10.041Z"
+  },
+  {
+    "id": "https://www.hankyung.com/article/202611061820i",
+    "category": "economy",
+    "source": "한국경제 증권",
+    "title": "\"이례적으로 강한 고용\"…미국 금리인상 확률 '매우 높음'",
+    "link": "https://www.hankyung.com/article/202611061820i",
+    "summary": "",
+    "pubDate": "2026-11-06T14:28:50.000Z",
+    "collectedAt": "2026-11-06T19:16:10.041Z"
+  },
+  {
     "id": "https://www.aitimes.com/news/articleView.html?idxno=217095",
     "category": "ai",
     "source": "AI타임스 AI산업",
@@ -158,6 +268,36 @@
     "summary": "중국 정부가 소프트뱅크의 54억달러(약 7조원) 규모 스위스 ABB 산업용 로봇 사업 인수를 금지했다. 중국 내 공장에서 수집한 로봇 데이터와 기술이 해외로 넘어가 AI 개발에 활용될 가능성을 경계한 조치로 풀이된다. 특히 소프트뱅크가 오픈AI의 주요 투자자라는 점도 영향을 미친 것으로…",
     "pubDate": "2026-11-06T14:13:16.000Z",
     "collectedAt": "2026-11-06T11:57:35.381Z"
+  },
+  {
+    "id": "https://news.hada.io/topic?id=36707&utm_source=geeknews&utm_medium=rss&utm_campaign=news",
+    "category": "it",
+    "source": "긱뉴스",
+    "title": "Show GN: K-Humanizer - 한국어 글에서 번역투를 덜어내는 Agent Skill",
+    "link": "https://news.hada.io/topic?id=36707&utm_source=geeknews&utm_medium=rss&utm_campaign=news",
+    "summary": "AI로 쓴 이력서, 업무 메일, 제품 안내를 다듬는 K-Humanizer를 만들었습니다. Cursor, Claude, Codex에서 쓸 수 있고 MIT 라이선스로 공개했습니다. 버튼의 ‘작성 중인 내용의 임시 저장을 수행합니다’는 ‘임시 저장’이면 충분합니다. 반대로 ‘이의 신청은 담당…",
+    "pubDate": "2026-11-06T14:09:29.000Z",
+    "collectedAt": "2026-11-06T19:16:10.041Z"
+  },
+  {
+    "id": "20261106000321",
+    "category": "it",
+    "source": "전자신문 IT/통신",
+    "title": "AI 글라스 쓴 '조커' 호아킨 피닉스…젠틀몬스터, 티저 공개",
+    "link": "https://www.etnews.com/20261106000321",
+    "summary": "젠틀몬스터가 삼성전자·구글과 협력해 개발 중인 스마트 글래스 '인텔리전트 아이웨어' 티저 영상을 공개했다. 젠틀몬스터 인텔리전트 아이웨어 컬렉션은 이달 12일 사전예약을 시작하고 13일부터 미국 뉴욕에서 제품을 대중에게 공개한다. 젠틀몬스터는 6일 배우 호아킨 피닉스와 영화감독 조나단…",
+    "pubDate": "2026-11-06T14:00:00.000Z",
+    "collectedAt": "2026-11-06T19:16:10.041Z"
+  },
+  {
+    "id": "https://news.hada.io/topic?id=36706&utm_source=geeknews&utm_medium=rss&utm_campaign=news",
+    "category": "it",
+    "source": "긱뉴스",
+    "title": "Show GN: product design_harness - 아이디어부터 기획, 와이어프레임, 프로토타입 검증까지 연결하는 AI 하네스",
+    "link": "https://news.hada.io/topic?id=36706&utm_source=geeknews&utm_medium=rss&utm_campaign=news",
+    "summary": "매번 AI에게 와이어프레임을 바로 그려달라고 하면 매번 실패해서 직접 만들어보았습니다. 질문 먼저, 기획은 이후에. AI로 화면을 빠르게 만드는 것은 쉬워졌지만, 무엇을 왜 만들어야 하는지 충분히 고민하지 않은 채 결과물부터 만드는 경우가 많았습니다. 이런 문제를 해결해 보고자 Clau…",
+    "pubDate": "2026-11-06T13:56:13.000Z",
+    "collectedAt": "2026-11-06T19:16:10.041Z"
   },
   {
     "id": "https://www.aitimes.com/news/articleView.html?idxno=217087",
@@ -180,6 +320,16 @@
     "collectedAt": "2026-11-06T11:57:35.381Z"
   },
   {
+    "id": "https://news.hada.io/topic?id=36705&utm_source=geeknews&utm_medium=rss&utm_campaign=news",
+    "category": "it",
+    "source": "긱뉴스",
+    "title": "pwn.college - 실습으로 사이버보안을 배우는 무료 교육 플랫폼",
+    "link": "https://news.hada.io/topic?id=36705&utm_source=geeknews&utm_medium=rss&utm_campaign=news",
+    "summary": "pwn.college는 컴퓨팅의 핵심을 깊이 탐구하며 사이버보안 기술을 배우고 연습하는 실습형 교육 플랫폼임 Arizona State University(ASU) 의 해커 팀이 운영하며, ASU 사이버보안 교육과정의 상당 부분에 활용되고 전 세계 누구나 무료로 참여할 수 있음 학습 순서…",
+    "pubDate": "2026-11-06T12:37:54.000Z",
+    "collectedAt": "2026-11-06T19:16:10.041Z"
+  },
+  {
     "id": "https://www.aitimes.com/news/articleView.html?idxno=217092",
     "category": "ai",
     "source": "AI타임스 AI산업",
@@ -190,6 +340,16 @@
     "collectedAt": "2026-11-06T11:57:35.381Z"
   },
   {
+    "id": "https://news.hada.io/topic?id=36704&utm_source=geeknews&utm_medium=rss&utm_campaign=news",
+    "category": "it",
+    "source": "긱뉴스",
+    "title": "네덜란드 ‘이상주의’ 은행 ASN, GrapheneOS 등 비Google Android 차단",
+    "link": "https://news.hada.io/topic?id=36704&utm_source=geeknews&utm_medium=rss&utm_campaign=news",
+    "summary": "ASN Bank의 iDEAL | Wero 결제가 GrapheneOS에서 보안 요구사항 미충족으로 차단된다는 사용자 보고가 나옴. 은행은 해당 환경에서 사용할 해결책이나 지원 일정을 제공하지 않음 사용자는 Google Play Integrity 의존성을 문제 삼으며, basicIntegr…",
+    "pubDate": "2026-11-06T12:34:54.000Z",
+    "collectedAt": "2026-11-06T19:16:10.041Z"
+  },
+  {
     "id": "https://www.aitimes.com/news/articleView.html?idxno=217082",
     "category": "ai",
     "source": "AI타임스 AI산업",
@@ -198,6 +358,56 @@
     "summary": "AI 투자 수익성에 대한 의구심과 데이터센터 건설 규제 가능성이 겹치면서 미국 기술주가 급락했다. 민주당의 중간선거 압승으로 AI 인프라 확장에 제동이 걸릴 수 있다는 우려까지 더해지면서, 하루 만에 미국 증시에서 3조2000억달러(약 4340조원)가 넘는 시가총액이 증발했다.5일(현지…",
     "pubDate": "2026-11-06T12:31:58.000Z",
     "collectedAt": "2026-11-06T11:57:35.381Z"
+  },
+  {
+    "id": "https://www.hankyung.com/article/202611060918g",
+    "category": "economy",
+    "source": "한국경제 경제",
+    "title": "\"이젠 밖에서 입어도 되겠네\"…요즘 뜨는 '겨울 필수템' [트렌드+]",
+    "link": "https://www.hankyung.com/article/202611060918g",
+    "summary": "",
+    "pubDate": "2026-11-06T12:00:01.000Z",
+    "collectedAt": "2026-11-06T19:16:10.041Z"
+  },
+  {
+    "id": "https://www.hankyung.com/article/202611061772i",
+    "category": "economy",
+    "source": "한국경제 경제",
+    "title": "머스크, 태극기 사진 올리며 \"테슬라 코리아\"…무슨 일이",
+    "link": "https://www.hankyung.com/article/202611061772i",
+    "summary": "",
+    "pubDate": "2026-11-06T11:51:49.000Z",
+    "collectedAt": "2026-11-06T19:16:10.041Z"
+  },
+  {
+    "id": "https://news.hada.io/topic?id=36703&utm_source=geeknews&utm_medium=rss&utm_campaign=news",
+    "category": "it",
+    "source": "긱뉴스",
+    "title": "Baidu, 사전학습 기반 모델 ERNIE 5.5 Flash Base 공개",
+    "link": "https://news.hada.io/topic?id=36703&utm_source=geeknews&utm_medium=rss&utm_campaign=news",
+    "summary": "Baidu가 ERNIE-5.5-Flash-Base의 사전학습 종료 시점 가중치를 공개함. 중간 학습이나 후속 학습을 거치지 않아 도메인 적응, 지시 튜닝, 강화학습 연구의 출발점으로 사용할 수 있음 전체 2,800억 파라미터 중 토큰당 140억 개를 활성화하는 희소 MoE 모델이며, 3…",
+    "pubDate": "2026-11-06T11:45:59.000Z",
+    "collectedAt": "2026-11-06T19:16:10.041Z"
+  },
+  {
+    "id": "https://news.hada.io/topic?id=36702&utm_source=geeknews&utm_medium=rss&utm_campaign=news",
+    "category": "it",
+    "source": "긱뉴스",
+    "title": "양측 인공와우 사용자인 나의 정신물리학",
+    "link": "https://news.hada.io/topic?id=36702&utm_source=geeknews&utm_medium=rss&utm_campaign=news",
+    "summary": "양측 인공와우 사용자인 나의 정신물리학",
+    "pubDate": "2026-11-06T11:42:59.000Z",
+    "collectedAt": "2026-11-06T19:16:10.041Z"
+  },
+  {
+    "id": "https://news.hada.io/topic?id=36701&utm_source=geeknews&utm_medium=rss&utm_campaign=news",
+    "category": "it",
+    "source": "긱뉴스",
+    "title": "Blender의 UI와 런타임: GPUI보다 훨씬 빠름",
+    "link": "https://news.hada.io/topic?id=36701&utm_source=geeknews&utm_medium=rss&utm_campaign=news",
+    "summary": "BUI는 Blender의 위젯 그리기와 상호작용을 분리한 독립 UI 라이브러리로, Python, Rust, JavaScript, C/C++, Dear ImGui에서 같은 C 런타임을 사용함 프로젝트의 Windows 노트북 벤치마크에서 동일한 gpui 문법의 설정 창은 첫 화면을 약 5배…",
+    "pubDate": "2026-11-06T11:39:59.000Z",
+    "collectedAt": "2026-11-06T19:16:10.041Z"
   },
   {
     "id": "https://www.hankyung.com/article/2026110617211",
@@ -14787,216 +14997,6 @@
     "link": "https://www.etnews.com/20261103000233",
     "summary": "성균관대 기계공학부 이은호 교수 연구팀은 다이치코리아-비아코어(Via Core) 컨소시엄과 반도체 유리기판 유리관통비아(TGV) 주변 열응력을 줄이는 설계 방안을 제시했다고 3일 밝혔다. 구리 배선과 유리 사이에 유연한 고분자층을 넣고, 그 두께만큼 비아 구멍(PCB나 반도체 기판에서…",
     "pubDate": "2026-11-03T04:41:57.000Z",
-    "collectedAt": "2026-11-03T11:46:12.580Z"
-  },
-  {
-    "id": "20261103000232",
-    "category": "it",
-    "source": "전자신문 IT/통신",
-    "title": "[포토] 현대차의 수소 연료전지시스템",
-    "link": "https://www.etnews.com/20261103000232",
-    "summary": "2026 AIoT 국제전시회가 과학기술정보통신부 주최로 3일 서울 강남구 코엑스에서 열렸다. 현대차그룹 부스에서 관람객이 수소차 연료전지시스템을 살펴보고 있다.",
-    "pubDate": "2026-11-03T04:41:47.000Z",
-    "collectedAt": "2026-11-03T11:46:12.580Z"
-  },
-  {
-    "id": "20261103000226",
-    "category": "economy",
-    "source": "전자신문 경제",
-    "title": "DMC산학진흥재단-디엠씨코넷, '2026 DMC이노베이션캠프' 개최",
-    "link": "https://www.etnews.com/20261103000226",
-    "summary": "DMC산학진흥재단(이사장 유재룡, 이하 재단)이 디엠씨코넷(이사장 김상범, 이하 코넷)과 지난 10월 DMC첨단산업센터에서 '2026 DMC이노베이션캠프 창업경진대회(이하 DIC2026 창업경진대회)' 피칭데이와 시상식을 개최했다고 밝혔다. 이번 창업경진대회는 재단과 코넷이 공동 주최하…",
-    "pubDate": "2026-11-03T04:39:00.000Z",
-    "collectedAt": "2026-11-03T11:46:12.580Z"
-  },
-  {
-    "id": "20261103000230",
-    "category": "economy",
-    "source": "전자신문 경제",
-    "title": "기보, 실리콘밸리 투자자와 협력 확대…혁신기업 미국 진출 지원",
-    "link": "https://www.etnews.com/20261103000230",
-    "summary": "기술보증기금이 2일 미국 캘리포니아주 실리콘밸리의 스타트업벤처캠퍼스(SVC)에서 국내 혁신기업의 실리콘밸리 투자 유치와 시장 진출을 지원하기 위한 '기보 실리콘밸리 파트너스 데이'를 열었다. 이번 행사는 오는 12월에 열리는 '유니콘브릿지 글로벌 기업설명회(IR)'을 위해 현지 투자자,…",
-    "pubDate": "2026-11-03T04:38:57.000Z",
-    "collectedAt": "2026-11-03T11:46:12.580Z"
-  },
-  {
-    "id": "20261103000227",
-    "category": "economy",
-    "source": "전자신문 경제",
-    "title": "설비투자 부담 낮추는 정부지원사업 제조기업 참여 모집",
-    "link": "https://www.etnews.com/20261103000227",
-    "summary": "기술혁신협회 부설 한국경영개발원이 설비투자를 검토하는 중소·중견 제조기업을 대상으로 '제64차 제조혁신 설비도입 무상정책금융 130사업' 참여기업을 모집한다. 기업별 진단과 설비매칭을 통해 정부보조금·출연금 지원사업 활용으로 자금조달까지 연계하는 사업이다. 개발원에 따르면 진단툴 'F.…",
-    "pubDate": "2026-11-03T04:37:16.000Z",
-    "collectedAt": "2026-11-03T11:46:12.580Z"
-  },
-  {
-    "id": "https://www.hankyung.com/article/2026110326556",
-    "category": "economy",
-    "source": "한국경제 증권",
-    "title": "\"7개월만 버티면\" 등돌린 외국인 결국…'파격 전망' 또 나왔다 [분석+]",
-    "link": "https://www.hankyung.com/article/2026110326556",
-    "summary": "",
-    "pubDate": "2026-11-03T04:36:53.000Z",
-    "collectedAt": "2026-11-03T11:46:12.580Z"
-  },
-  {
-    "id": "https://news.hada.io/topic?id=36509&utm_source=geeknews&utm_medium=rss&utm_campaign=news",
-    "category": "it",
-    "source": "긱뉴스",
-    "title": "자영업자나 1인 사업자인가요? NIST가 맞춤형 사이버보안 가이드를 공개함",
-    "link": "https://news.hada.io/topic?id=36509&utm_source=geeknews&utm_medium=rss&utm_campaign=news",
-    "summary": "NIST가 1인 사업자를 위한 사이버보안 가이드를 공개함. 보안 기초를 익히고 사업에 맞는 위험 완화 전략을 실행하도록 돕는 자료임 NIST Cybersecurity Framework 2.0의 조치 중 1인 사업에 적합한 항목을 골라 우선순위를 정하고 실행할 수 있도록 구성함 사전 보안…",
-    "pubDate": "2026-11-03T04:36:45.000Z",
-    "collectedAt": "2026-11-03T11:46:12.580Z"
-  },
-  {
-    "id": "20261103000225",
-    "category": "economy",
-    "source": "전자신문 경제",
-    "title": "더 시에나 그룹, 골프존카운티 하이엔드 골프클럽 전환 추진… “경쟁력의 중심은 사람”",
-    "link": "https://www.etnews.com/20261103000225",
-    "summary": "더 시에나 그룹은 지난 10월 27일 씨엘자산운용과 함께 MBK파트너스가 보유한 골프존카운티 지분 100%를 인수하는 주식매매계약(SPA)을 체결하고 운영 인수인계 절차를 준비하고 있다고 3일 밝혔다. 그룹이 제시한 핵심 방향은 골프존카운티의 하이엔드 브랜드 전환이다. 클럽하우스를 비롯…",
-    "pubDate": "2026-11-03T04:36:28.000Z",
-    "collectedAt": "2026-11-03T11:46:12.580Z"
-  },
-  {
-    "id": "20261103000224",
-    "category": "economy",
-    "source": "전자신문 경제",
-    "title": "토스, 성수동 '빵 축제'서 얼굴결제 체험 확대",
-    "link": "https://www.etnews.com/20261103000224",
-    "summary": "토스플레이스가 베이커리 큐레이션 미디어 '빵모닝'과 함께 연 빵 축제 '빵력장터'를 성황리에 마쳤다. 빵력장터는 전국의 빵 맛집이 한자리에 모이는 행사다. 지난 10월 30일부터 11월 1일까지 사흘간 서울 성수동 어비스튜디오에서 열렸다. 행사장 안 모든 결제는 토스플레이스의 결제 단말…",
-    "pubDate": "2026-11-03T04:33:56.000Z",
-    "collectedAt": "2026-11-03T11:46:12.580Z"
-  },
-  {
-    "id": "https://news.hada.io/topic?id=36508&utm_source=geeknews&utm_medium=rss&utm_campaign=news",
-    "category": "it",
-    "source": "긱뉴스",
-    "title": "Intel 주가 폭락 심화, 3조 5,000억 달러 규모 반도체주 급락 확산",
-    "link": "https://news.hada.io/topic?id=36508&utm_source=geeknews&utm_medium=rss&utm_campaign=news",
-    "summary": "11월 2일 S&P 500 종목 약 70%가 상승했지만 거의 모든 반도체주는 하락했으며, Yahoo Finance 집계 기준 하루에 시가총액 4,000억 달러 이상이 사라짐 Intel은 부진한 전망으로 10월 30일 약 29% 폭락한 뒤 이날도 약 9% 하락해, 시가총액이 9월 말의 절…",
-    "pubDate": "2026-11-03T04:33:45.000Z",
-    "collectedAt": "2026-11-03T11:46:12.580Z"
-  },
-  {
-    "id": "https://www.hankyung.com/article/202611032604i",
-    "category": "economy",
-    "source": "한국경제 증권",
-    "title": "팔란티어, 민간 매출 148% 폭증…미국 정부 부문 첫 추월",
-    "link": "https://www.hankyung.com/article/202611032604i",
-    "summary": "",
-    "pubDate": "2026-11-03T04:33:33.000Z",
-    "collectedAt": "2026-11-03T11:46:12.580Z"
-  },
-  {
-    "id": "20261103000221",
-    "category": "economy",
-    "source": "전자신문 경제",
-    "title": "삼성증권, '발행어음 CMA 이벤트' 진행",
-    "link": "https://www.etnews.com/20261103000221",
-    "summary": "삼성증권이 CMA 발행어음형 계좌에 1000만원 이상 순입금한 고객에게 선착순으로 현금 1만원을 지급하는 '발행어음 CMA 이벤트'를 30일까지 진행한다고 3일 밝혔다. 삼성증권 홈페이지나 모바일 앱 '엠팝(mPOP)'에서 이벤트를 신청한 뒤 1000만원 이상 순입금하면 선착순 2만명에…",
-    "pubDate": "2026-11-03T04:32:04.000Z",
-    "collectedAt": "2026-11-03T11:46:12.580Z"
-  },
-  {
-    "id": "20261103000219",
-    "category": "economy",
-    "source": "전자신문 경제",
-    "title": "신보·우리은행, 발주정보로 중소기업 생산자금 지원",
-    "link": "https://www.etnews.com/20261103000219",
-    "summary": "신용보증기금이 우리은행과 손잡고 중소기업의 상거래 데이터를 활용한 맞춤형 금융지원에 나선다. 신보는 지난 10월 우리은행과 '상생 공급망 금융 활성화를 위한 금융지원 업무협약'을 체결하고, 중소기업의 생산자금을 지원하는 'Supply-One 보증'을 출시했다. 이는 우리은행의 공급망 금…",
-    "pubDate": "2026-11-03T04:28:55.000Z",
-    "collectedAt": "2026-11-03T11:46:12.580Z"
-  },
-  {
-    "id": "20261103000218",
-    "category": "it",
-    "source": "전자신문 IT/통신",
-    "title": "원스토어, 게임 아이템 공식 거래 '원아이템' 출시…게임사와 수수료 배분",
-    "link": "https://www.etnews.com/20261103000218",
-    "summary": "원스토어가 게임사와 직접 연동하는 게임 아이템 공식 거래 서비스를 선보인다. 외부 중개 사이트 중심이던 아이템 거래를 플랫폼 안으로 끌어들이고 거래 수수료 일부를 게임사와 나누는 구조다. 원스토어는 3일 게임 아이템 거래 서비스 '원아이템'을 출시했다고 밝혔다. 국내 서비스를 시작으로…",
-    "pubDate": "2026-11-03T04:25:04.000Z",
-    "collectedAt": "2026-11-03T11:46:12.580Z"
-  },
-  {
-    "id": "https://www.hankyung.com/article/202611031675i",
-    "category": "it",
-    "source": "한국경제 IT",
-    "title": "\"신약 앞세운 셀트리온, 영업익 74% 뛰었다 … 목표가 32만원으로 상향\"",
-    "link": "https://www.hankyung.com/article/202611031675i",
-    "summary": "",
-    "pubDate": "2026-11-03T04:24:18.000Z",
-    "collectedAt": "2026-11-03T11:46:12.580Z"
-  },
-  {
-    "id": "20261103000216",
-    "category": "it",
-    "source": "전자신문 IT/통신",
-    "title": "웹젠, 뮤 IP 신작 MMORPG '뮤 테오스' 공개... 2027년 상반기 출시",
-    "link": "https://www.etnews.com/20261103000216",
-    "summary": "웹젠이 대표 지식재산(IP) '뮤'를 활용한 신작 다중접속역할수행게임(MMORPG) '뮤 테오스'를 공개했다. 2027년 상반기 출시를 목표로 개발 중으로, 오는 '지스타2026'에서 시네마틱 티저 영상을 처음 선보인다. 웹젠은 3일 '뮤 테오스'의 게임명과 브랜드 아이덴티티(BI)를…",
-    "pubDate": "2026-11-03T04:21:46.000Z",
-    "collectedAt": "2026-11-03T11:46:12.580Z"
-  },
-  {
-    "id": "20261103000215",
-    "category": "it",
-    "source": "전자신문 IT/통신",
-    "title": "정재헌 SKT 대표 “AI로 생산성·경쟁력 제고”…사내 에이전트 우수작 발굴",
-    "link": "https://www.etnews.com/20261103000215",
-    "summary": "정재헌 SK텔레콤 대표가 현업에서 개발한 인공지능(AI) 에이전트로 조직 생산성과 회사 경쟁력을 끌어올리겠다고 밝혔다. 사내 경연을 거쳐 업무 효율성과 생산성 제고 효과를 검증한 에이전트를 전사로 확산해 일하는 방식 전환에 속도를 내겠다는 구상이다. 3일 SK텔레콤은 올해 사내 AI 전…",
-    "pubDate": "2026-11-03T04:16:44.000Z",
-    "collectedAt": "2026-11-03T11:46:12.580Z"
-  },
-  {
-    "id": "20261103000206",
-    "category": "it",
-    "source": "전자신문 IT/통신",
-    "title": "[포토] 사람일까? 로봇일까?",
-    "link": "https://www.etnews.com/20261103000206",
-    "summary": "2026 AIoT 국제전시회가 과학기술정보통신부 주최로 3일 서울 강남구 코엑스에서 열렸다. 화성특례시 부스에서 관람객이 피지컬AI 휴머노이드 로봇을 살펴보고 있다.",
-    "pubDate": "2026-11-03T04:00:25.000Z",
-    "collectedAt": "2026-11-03T11:46:12.580Z"
-  },
-  {
-    "id": "https://www.aitimes.com/news/articleView.html?idxno=216922",
-    "category": "ai",
-    "source": "AI타임스 AI산업",
-    "title": "119만 유튜버 긱블, 캐릭터 로봇 시장 출사표…“월 매출 10억 목표”",
-    "link": "https://www.aitimes.com/news/articleView.html?idxno=216922",
-    "summary": "119만 구독자를 보유한 유튜버 '긱블'이 캐릭터 로봇 산업에 새롭게 뛰어든다. 로봇 하드웨어를 직접 개발하는 대신 자체 소프트웨어를 결합해 개발 비용을 줄이고, 산업용이 아닌 엔터테인먼트 시장을 공략한다는 전략이다.과학·공학 콘텐츠로 이름을 알린 긱블은 사명을 루드다이나믹스로 바꾸고…",
-    "pubDate": "2026-11-03T03:45:00.000Z",
-    "collectedAt": "2026-11-02T20:08:52.902Z"
-  },
-  {
-    "id": "20261103000203",
-    "category": "it",
-    "source": "전자신문 IT/통신",
-    "title": "[포토] 물류 운반하는 피지컬 AI 로봇",
-    "link": "https://www.etnews.com/20261103000203",
-    "summary": "2026 AIoT 국제전시회가 과학기술정보통신부 주최로 3일 서울 강남구 코엑스에서 열렸다. 화성특례시 부스에서 관람객이 피지컬AI 휴머노이드 로봇을 살펴보고 있다.",
-    "pubDate": "2026-11-03T03:40:30.000Z",
-    "collectedAt": "2026-11-03T11:46:12.580Z"
-  },
-  {
-    "id": "20261103000202",
-    "category": "it",
-    "source": "전자신문 IT/통신",
-    "title": "[포토] 인간인가?",
-    "link": "https://www.etnews.com/20261103000202",
-    "summary": "2026 AIoT 국제전시회가 과학기술정보통신부 주최로 3일 서울 강남구 코엑스에서 열렸다. 화성특례시 부스에 피지컬AI 휴머노이드 로봇이 전시돼 있다.",
-    "pubDate": "2026-11-03T03:40:07.000Z",
-    "collectedAt": "2026-11-03T11:46:12.580Z"
-  },
-  {
-    "id": "20261103000201",
-    "category": "it",
-    "source": "전자신문 IT/통신",
-    "title": "[포토] 휴머노이드 로봇의 눈동자",
-    "link": "https://www.etnews.com/20261103000201",
-    "summary": "2026 AIoT 국제전시회가 과학기술정보통신부 주최로 3일 서울 강남구 코엑스에서 열렸다. 화성특례시 부스에 피지컬AI 휴머노이드 로봇이 전시돼 있다.",
-    "pubDate": "2026-11-03T03:39:47.000Z",
     "collectedAt": "2026-11-03T11:46:12.580Z"
   }
 ]
