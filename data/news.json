@@ -1,5 +1,165 @@
 [
   {
+    "id": "https://news.hada.io/topic?id=36727&utm_source=geeknews&utm_medium=rss&utm_campaign=news",
+    "category": "it",
+    "source": "긱뉴스",
+    "title": "UEFI를 활용한 베어메탈 프로그래밍 첫걸음",
+    "link": "https://news.hada.io/topic?id=36727&utm_source=geeknews&utm_medium=rss&utm_campaign=news",
+    "summary": "Linux 워크스테이션에서 UEFI 펌웨어를 사용하는 PC용 베어메탈 애플리케이션을 개발하는 연재임 숙련된 Linux 개발자를 대상으로 하며, UEFI 사전 지식은 필요하지 않음 개발에 필요한 소프트웨어 도구와 컴파일/링크 방법을 다룸 EFI 시스템 파티션, 부팅 가능한 디스크 제작,…",
+    "pubDate": "2026-11-06T22:43:38.000Z",
+    "collectedAt": "2026-11-07T00:01:11.737Z"
+  },
+  {
+    "id": "https://news.hada.io/topic?id=36726&utm_source=geeknews&utm_medium=rss&utm_campaign=news",
+    "category": "it",
+    "source": "긱뉴스",
+    "title": "Anthropic IPO 투자자들, 기업가치를 낮게는 약 1,430조원으로 예상",
+    "link": "https://news.hada.io/topic?id=36726&utm_source=geeknews&utm_medium=rss&utm_campaign=news",
+    "summary": "Anthropic의 잠재 IPO 투자자 일부가 기업가치를 낮게는 1조 1,000억 달러($1,100b) 로 검토 중인 것으로 관계자를 통해 전해짐 선거 이후 거센 매도세에 부딪히면서 잠재 투자자들이 예상 기업가치를 재검토하고 있음 사안에 정통한 관계자들에 따르면, 잠재 투자자들은 1조…",
+    "pubDate": "2026-11-06T22:40:38.000Z",
+    "collectedAt": "2026-11-07T00:01:11.737Z"
+  },
+  {
+    "id": "https://news.hada.io/topic?id=36725&utm_source=geeknews&utm_medium=rss&utm_campaign=news",
+    "category": "it",
+    "source": "긱뉴스",
+    "title": "불확실한 사례만 Opus에 맡긴 Jev, 비용은 4분의 1로",
+    "link": "https://news.hada.io/topic?id=36725&utm_source=geeknews&utm_medium=rss&utm_campaign=news",
+    "summary": "서로 다른 사람의 고객 기록을 잘못 합쳤는지 판별하는 작업에 저렴한 결정 모델 Jev를 먼저 사용하고, 판단 점수가 애매한 사례만 Opus에 넘기는 방식을 시험함. 평가는 합성 데이터로 진행 쉬운 테스트에서는 전체의 22%만 Opus로 재검토해 정확도 98.8% 를 기록. Opus 단독…",
+    "pubDate": "2026-11-06T22:37:38.000Z",
+    "collectedAt": "2026-11-07T00:01:11.737Z"
+  },
+  {
+    "id": "https://www.hankyung.com/article/2026110719317",
+    "category": "economy",
+    "source": "한국경제 증권",
+    "title": "폭락했던 AI 기술주 반등…나스닥 1.1% ↑ [뉴욕증시 브리핑]",
+    "link": "https://www.hankyung.com/article/2026110719317",
+    "summary": "",
+    "pubDate": "2026-11-06T22:25:08.000Z",
+    "collectedAt": "2026-11-07T00:01:11.737Z"
+  },
+  {
+    "id": "https://www.hankyung.com/article/202611061208i",
+    "category": "economy",
+    "source": "한국경제 증권",
+    "title": "대형주 중 올해 낙폭 큰 상위 50위 리스트 따져보니",
+    "link": "https://www.hankyung.com/article/202611061208i",
+    "summary": "",
+    "pubDate": "2026-11-06T22:20:03.000Z",
+    "collectedAt": "2026-11-07T00:01:11.737Z"
+  },
+  {
+    "id": "https://www.hankyung.com/article/2026110610246",
+    "category": "economy",
+    "source": "한국경제 증권",
+    "title": "\"삼전닉스 믿고 버텼는데\"…증권가가 내놓은 뜻밖의 조언 [종목+]",
+    "link": "https://www.hankyung.com/article/2026110610246",
+    "summary": "",
+    "pubDate": "2026-11-06T22:09:29.000Z",
+    "collectedAt": "2026-11-07T00:01:11.737Z"
+  },
+  {
+    "id": "20261106000279",
+    "category": "ai",
+    "source": "전자신문 SW",
+    "title": "[ET톡] 게임이 악성코드 통로가 된다면",
+    "link": "https://www.etnews.com/20261106000279",
+    "summary": "최근 시프트업의 인기게임 '승리의 여신: 니케'에서 발생한 보안 사고는 글로벌 게임산업이 직면한 새로운 위험을 드러냈다. 게임서비스에 사용되는 콘텐츠전송네트워크(CDN)의 자바스크립트 파일이 제3자에 의해 변조되면서 공식 PC 런처를 통해 악성 프로그램이 유포됐다. 이용자가 믿고 실행한…",
+    "pubDate": "2026-11-06T22:00:00.000Z",
+    "collectedAt": "2026-11-07T00:01:11.737Z"
+  },
+  {
+    "id": "https://news.hada.io/topic?id=36724&utm_source=geeknews&utm_medium=rss&utm_campaign=news",
+    "category": "it",
+    "source": "긱뉴스",
+    "title": "2000년대 초, 게임을 만드는 아이로 산다는 것",
+    "link": "https://news.hada.io/topic?id=36724&utm_source=geeknews&utm_medium=rss&utm_campaign=news",
+    "summary": "The Games Factory는 대규모 전문가 팀만 게임을 만들 수 있다고 생각하던 어린 Jay Tholen에게 직접 가상 세계를 만드는 길을 열어줌 학교생활의 어려움과 잦은 이사 속에서 Klik 커뮤니티가 사회생활의 중심이 됐고, 게임과 그림을 공유하며 인정받고 싶다는 마음이 창작을…",
+    "pubDate": "2026-11-06T21:40:50.000Z",
+    "collectedAt": "2026-11-07T00:01:11.737Z"
+  },
+  {
+    "id": "https://news.hada.io/topic?id=36723&utm_source=geeknews&utm_medium=rss&utm_campaign=news",
+    "category": "it",
+    "source": "긱뉴스",
+    "title": "생존의 한계를 넘어 살아가기: 거대한 구덩이 함정에 갇힌 숲개미들 (2016)",
+    "link": "https://news.hada.io/topic?id=36723&utm_source=geeknews&utm_medium=rss&utm_campaign=news",
+    "summary": "생존의 한계를 넘어 살아가기: 거대한 구덩이 함정에 갇힌 숲개미들 (2016)",
+    "pubDate": "2026-11-06T21:37:50.000Z",
+    "collectedAt": "2026-11-07T00:01:11.737Z"
+  },
+  {
+    "id": "https://www.hankyung.com/article/202610292649i",
+    "category": "economy",
+    "source": "한국경제 경제",
+    "title": "\"대기업 회장님도 쓴대\"…요즘 입소문 났다는 '이 골프채' [권용훈의 직업불만족(族)]",
+    "link": "https://www.hankyung.com/article/202610292649i",
+    "summary": "",
+    "pubDate": "2026-11-06T21:00:04.000Z",
+    "collectedAt": "2026-11-07T00:01:11.737Z"
+  },
+  {
+    "id": "https://news.hada.io/topic?id=36722&utm_source=geeknews&utm_medium=rss&utm_campaign=news",
+    "category": "it",
+    "source": "긱뉴스",
+    "title": "Ask HN: Ubuntu는 도대체 왜 이렇게 오래 걸리는 건가요?",
+    "link": "https://news.hada.io/topic?id=36722&utm_source=geeknews&utm_medium=rss&utm_campaign=news",
+    "summary": "Ubuntu가 CVE-2026-98432 의 심각도를 9.8로 표시했지만, 거의 일주일째 수정 업데이트 없이 “work in progress” 상태이며 이제는 완화 조치가 안내되어 있음 완화 조치를 적용한 지 일주일이 됐지만, 대응 지연으로 Ubuntu에 대한 신뢰가 흔들리고 있음. 지…",
+    "pubDate": "2026-11-06T20:37:23.000Z",
+    "collectedAt": "2026-11-07T00:01:11.737Z"
+  },
+  {
+    "id": "https://news.hada.io/topic?id=36721&utm_source=geeknews&utm_medium=rss&utm_campaign=news",
+    "category": "it",
+    "source": "긱뉴스",
+    "title": "미국 FAA, 2028년까지 항공교통관제에서 플로피 디스크 단계적 퇴출 계획",
+    "link": "https://news.hada.io/topic?id=36721&utm_source=geeknews&utm_medium=rss&utm_campaign=news",
+    "summary": "미국 연방항공청(FAA)이 전국 400곳 이상의 항공교통관제 시설에서 기상 등 핵심 정보 처리에 사용하는 플로피 디스크를 2028년 말까지 교체할 계획임 Enterprise Information Display System이 1980년대부터 사용한 시스템 4개를 대체하고, 관제사가 운항…",
+    "pubDate": "2026-11-06T20:34:22.000Z",
+    "collectedAt": "2026-11-07T00:01:11.737Z"
+  },
+  {
+    "id": "https://news.hada.io/topic?id=36720&utm_source=geeknews&utm_medium=rss&utm_campaign=news",
+    "category": "it",
+    "source": "긱뉴스",
+    "title": "이제 모든 것이 AI 사기다",
+    "link": "https://news.hada.io/topic?id=36720&utm_source=geeknews&utm_medium=rss&utm_campaign=news",
+    "summary": "20일 만에 근육질 몸을 만든다는 태극권, 무제한 무료 인터넷 USB, 방을 90초 만에 식힌다는 책 크기의 에어컨까지, YouTube에 비현실적인 효능을 내세운 광고가 이어짐 스팸 메일도 작품 소개 문구를 재활용해 실제로 읽고 감상한 듯한 제안을 보내옴. 무료 PDF로 배포하는 시집에…",
+    "pubDate": "2026-11-06T19:36:38.000Z",
+    "collectedAt": "2026-11-07T00:01:11.737Z"
+  },
+  {
+    "id": "https://news.hada.io/topic?id=36719&utm_source=geeknews&utm_medium=rss&utm_campaign=news",
+    "category": "it",
+    "source": "긱뉴스",
+    "title": "OpenStreetMap의 실제 건물을 부수는 멀티플레이어 탱크 게임",
+    "link": "https://news.hada.io/topic?id=36719&utm_source=geeknews&utm_medium=rss&utm_campaign=news",
+    "summary": "World Strike는 OpenStreetMap 기반의 실제 도시 지도를 장난감 탱크로 돌아다니는 샌드박스 게임임 블록 형태의 건물을 무너뜨릴 수 있으며, 파괴된 상태가 모든 플레이어에게 공유됨 다른 탱크와 대결하거나 건물 잔해에 이모지로 자신의 흔적을 남길 수 있음 도시 검색이나 지…",
+    "pubDate": "2026-11-06T19:33:38.000Z",
+    "collectedAt": "2026-11-07T00:01:11.737Z"
+  },
+  {
+    "id": "https://news.hada.io/topic?id=36718&utm_source=geeknews&utm_medium=rss&utm_campaign=news",
+    "category": "it",
+    "source": "긱뉴스",
+    "title": "미국 주식시장에서 2조 5,000억 달러가 증발함",
+    "link": "https://news.hada.io/topic?id=36718&utm_source=geeknews&utm_medium=rss&utm_campaign=news",
+    "summary": "목요일 급락장에서 AI 인프라 공급업체의 낙폭이 대형 클라우드 기업보다 컸으며, 나스닥 시가총액은 약 2조 5,000억 달러 줄어듦 대형 클라우드 기업은 기존 사업의 막대한 매출을 바탕으로 지출을 조정할 여지가 있지만, 칩과 메모리, 서버, 전력 장비 공급업체는 데이터센터 건설 둔화가…",
+    "pubDate": "2026-11-06T18:38:37.000Z",
+    "collectedAt": "2026-11-07T00:01:11.737Z"
+  },
+  {
+    "id": "https://news.hada.io/topic?id=36717&utm_source=geeknews&utm_medium=rss&utm_campaign=news",
+    "category": "it",
+    "source": "긱뉴스",
+    "title": "AI의 자율 연구개발이 그렇게 독창적이라는 말을 믿기 어렵다",
+    "link": "https://news.hada.io/topic?id=36717&utm_source=geeknews&utm_medium=rss&utm_campaign=news",
+    "summary": "Scrabble 엔진, Ultimate Tic-Tac-Toe 봇, 철학 연구 등 세 가지 사이드 프로젝트에서 AI의 기본적인 연구 판단력이 부족했음. 중요한 문헌을 놓치고, 의미 있는 결론을 얻기 어려운 실험을 진행함 자료를 찾는 것과 그 가치를 알아보는 것은 달랐음. 게임 봇 개발에서…",
+    "pubDate": "2026-11-06T18:35:37.000Z",
+    "collectedAt": "2026-11-07T00:01:11.737Z"
+  },
+  {
     "id": "https://news.hada.io/topic?id=36716&utm_source=geeknews&utm_medium=rss&utm_campaign=news",
     "category": "it",
     "source": "긱뉴스",
@@ -14837,166 +14997,6 @@
     "link": "https://www.etnews.com/20261103000260",
     "summary": "국가정보원이 최근 금융권에서 잇따라 발생한 해킹 사고에 대응해 중앙부처와 지방자치단체 등 공공기관 2100여곳에 긴급 보안점검을 요청했다. 국가 안보와 직결되는 공공부문 주요 정보통신기반시설은 국정원이 직접 취약점을 살펴 이달 중순까지 조사를 마칠 예정이다. 3일 관계 당국에 따르면 국…",
     "pubDate": "2026-11-03T05:04:46.000Z",
-    "collectedAt": "2026-11-03T11:46:12.580Z"
-  },
-  {
-    "id": "20261103000259",
-    "category": "it",
-    "source": "전자신문 IT/통신",
-    "title": "[포토] 2026 AIoT 국제전시회 개막",
-    "link": "https://www.etnews.com/20261103000259",
-    "summary": "2026 AIoT 국제전시회가 과학기술정보통신부 주최로 3일 서울 강남구 코엑스에서 열렸다. 개막식 행사에서 임정규 과학기술정보통신부 국장(왼쪽 일곱번째부터), 김구영 한국AI사물인터넷협회장, 강병준 전자신문 대표 등 인사들이 테이프 커팅식을 하고 있다.",
-    "pubDate": "2026-11-03T05:04:39.000Z",
-    "collectedAt": "2026-11-03T11:46:12.580Z"
-  },
-  {
-    "id": "20261103000258",
-    "category": "it",
-    "source": "전자신문 IT/통신",
-    "title": "[포토] 사람인가?",
-    "link": "https://www.etnews.com/20261103000258",
-    "summary": "2026 AIoT 국제전시회가 과학기술정보통신부 주최로 3일 서울 강남구 코엑스에서 열렸다. 화성특례시 부스에 피지컬AI 휴머노이드 로봇이 전시돼 있다.",
-    "pubDate": "2026-11-03T05:04:02.000Z",
-    "collectedAt": "2026-11-03T11:46:12.580Z"
-  },
-  {
-    "id": "https://www.hankyung.com/article/202610278304i",
-    "category": "economy",
-    "source": "한국경제 증권",
-    "title": "거인들의 모범 답안, 포트폴리오 종목이 아닌 자산배분",
-    "link": "https://www.hankyung.com/article/202610278304i",
-    "summary": "",
-    "pubDate": "2026-11-03T05:03:05.000Z",
-    "collectedAt": "2026-11-03T11:46:12.580Z"
-  },
-  {
-    "id": "20261103000257",
-    "category": "it",
-    "source": "전자신문 IT/통신",
-    "title": "[포토] 오토노머스에이투지의 자율주행 차량",
-    "link": "https://www.etnews.com/20261103000257",
-    "summary": "2026 AIoT 국제전시회가 과학기술정보통신부 주최로 3일 서울 강남구 코엑스에서 열렸다. 화성특례시 부스에서 관람객이 오토노머스에이투지의 자율주행 차량 로이를 살펴보고 있다.",
-    "pubDate": "2026-11-03T05:02:56.000Z",
-    "collectedAt": "2026-11-03T11:46:12.580Z"
-  },
-  {
-    "id": "20261103000256",
-    "category": "it",
-    "source": "전자신문 IT/통신",
-    "title": "[포토] AI 스마트 병실",
-    "link": "https://www.etnews.com/20261103000256",
-    "summary": "2026 AIoT 국제전시회가 과학기술정보통신부 주최로 3일 서울 강남구 코엑스에서 열렸다. 동탄시티병원 부스에서 관람객이 AI 스마트 병실을 살펴보고 있다.",
-    "pubDate": "2026-11-03T05:02:46.000Z",
-    "collectedAt": "2026-11-03T11:46:12.580Z"
-  },
-  {
-    "id": "20261103000255",
-    "category": "it",
-    "source": "전자신문 IT/통신",
-    "title": "[AIoT 어워드2026] 아바드, AIoT 기반 독거어르신 통합 돌봄 서비스",
-    "link": "https://www.etnews.com/20261103000255",
-    "summary": "아바드는 인공지능(AI)과 사물인터넷(IoT)을 결합한 '스마트단말 기반 AIoT 독거어르신 안심서비스'로 '2026년 사물인터넷 활성화 유공 표창'을 받았다. 이 서비스는 스마트단말과 온도·습도·움직임 등 8종의 IoT 센서로 독거어르신의 생활 상태를 파악한다. 이상 징후가 발생하면…",
-    "pubDate": "2026-11-03T05:01:42.000Z",
-    "collectedAt": "2026-11-03T11:46:12.580Z"
-  },
-  {
-    "id": "20261103000253",
-    "category": "it",
-    "source": "전자신문 IT/통신",
-    "title": "엔씨 '아이온2' 해외 평가는... “비행·전투 합격, 과금·성장 구조 숙제”",
-    "link": "https://www.etnews.com/20261103000253",
-    "summary": "엔씨의 다중접속역할수행게임(MMORPG) '아이온2'가 글로벌 출시 한 달을 맞은 가운데 해외 게임 전문매체에서 엇갈린 평가를 받고 있다. 방대한 세계관과 비행 시스템, 화려한 전투 연출은 호평받았지만 성장 과정의 반복성과 과금 구조는 개선 과제로 지목됐다. 3일 게임업계에 따르면 해외…",
-    "pubDate": "2026-11-03T05:00:53.000Z",
-    "collectedAt": "2026-11-03T11:46:12.580Z"
-  },
-  {
-    "id": "20261103000246",
-    "category": "it",
-    "source": "전자신문 IT/통신",
-    "title": "[AIoT 어워드2026] 둠둠, 온디바이스 AI 드론 기반 수질 감시 서비스",
-    "link": "https://www.etnews.com/20261103000246",
-    "summary": "둠둠은 온디바이스 인공지능(AI) 드론을 활용한 수질 이상 조기 탐지·대응 서비스로 2026년 사물인터넷 활성화 유공 표창을 받았다. 이 서비스는 드론에 탑재된 AI가 수면 영상을 실시간 분석해 녹조와 오염 징후를 감지한다. 이상 징후가 발견되면 정밀 촬영과 수질 측정, 자동 채수 임무…",
-    "pubDate": "2026-11-03T04:55:24.000Z",
-    "collectedAt": "2026-11-03T11:46:12.580Z"
-  },
-  {
-    "id": "20261103000243",
-    "category": "economy",
-    "source": "전자신문 경제",
-    "title": "농협회장 직선제 소위 통과…야당·농업계 반발에 진통 예상",
-    "link": "https://www.etnews.com/20261103000243",
-    "summary": "농협중앙회장을 전국 187만 조합원이 직접 선출하는 농협법 개정안이 국회 법안심사소위원회를 통과했다. 기존 조합장 중심의 간선제를 직선제로 전환하고 중앙회와 분리된 독립 감사기구를 신설하는 내용이다. 이를 두고 야당과 농업인단체가 반발하고 있어 후속 입법 과정에서 진통이 예상된다. 3일…",
-    "pubDate": "2026-11-03T04:52:04.000Z",
-    "collectedAt": "2026-11-03T11:46:12.580Z"
-  },
-  {
-    "id": "20261103000242",
-    "category": "it",
-    "source": "전자신문 IT/통신",
-    "title": "아이폰 듀오 출시 후 갤럭시Z폴드8 판매 20% 증가…삼성, 구독클럽 연장",
-    "link": "https://www.etnews.com/20261103000242",
-    "summary": "애플 첫 폴더블 스마트폰 아이폰 듀오 출시 이후 삼성전자 '갤럭시Z폴드8'의 국내 판매량이 오히려 증가한 것으로 나타났다. 삼성전자는 갤럭시 AI 구독클럽 가입 기간을 한 달 연장하고 연말 판매 확대에 나선다. 3일 통신업계에 따르면 지난달 23일 아이폰 듀오 출시 이후 일주일간 갤럭시…",
-    "pubDate": "2026-11-03T04:51:50.000Z",
-    "collectedAt": "2026-11-03T11:46:12.580Z"
-  },
-  {
-    "id": "https://www.hankyung.com/article/2026110327936",
-    "category": "economy",
-    "source": "한국경제 증권",
-    "title": "하나증권, 퇴직연금 계좌 'ETF 모으기' 적립식 매수 서비스 개시",
-    "link": "https://www.hankyung.com/article/2026110327936",
-    "summary": "",
-    "pubDate": "2026-11-03T04:50:12.000Z",
-    "collectedAt": "2026-11-03T11:46:12.580Z"
-  },
-  {
-    "id": "20261103000237",
-    "category": "it",
-    "source": "전자신문 IT/통신",
-    "title": "앵커노드, 대원미디어와 일본 명작 게임 IP 리메이크... 첫 공동 개발 착수",
-    "link": "https://www.etnews.com/20261103000237",
-    "summary": "게임 특화 인공지능(AI) 기업 앵커노드가 대원미디어와 손잡고 일본 명작 게임 지식재산(IP) 리메이크에 나선다. 지난 2월 업무협약 체결 이후 양사가 추진하는 첫 공동 개발 사업이다. 앵커노드는 대원미디어와 일본 명작 게임 IP 리메이크 프로젝트 계약을 체결하고 게임 개발을 진행하고…",
-    "pubDate": "2026-11-03T04:48:51.000Z",
-    "collectedAt": "2026-11-03T11:46:12.580Z"
-  },
-  {
-    "id": "20261103000236",
-    "category": "economy",
-    "source": "전자신문 경제",
-    "title": "새마을금고, 2030년까지 2조5000억원 공급…김인 회장 '사람 살리는 금융' 동참",
-    "link": "https://www.etnews.com/20261103000236",
-    "summary": "새마을금고가 금융취약계층 보호와 지역경제 활성화를 위한 대규모 자금 공급에 나서며 포용금융 실천을 본격화한다. 3일 새마을금고중앙회에 따르면 김인 회장은 불법사금융 피해 예방을 위한 '사람 살리는 금융' 릴레이 캠페인에 동참했다. 지난 7월 시작된 이번 캠페인은 금융권 관심과 참여를 이…",
-    "pubDate": "2026-11-03T04:43:35.000Z",
-    "collectedAt": "2026-11-03T11:46:12.580Z"
-  },
-  {
-    "id": "20261103000228",
-    "category": "economy",
-    "source": "전자신문 경제",
-    "title": "한국의결권자문, 고종성·김성연·박종철 이사 후보 전원 찬성 권고",
-    "link": "https://www.etnews.com/20261103000228",
-    "summary": "한국의결권자문이 오스코텍 최대주주의 이사회 합류가 제노스코 완전자회사화와 주주가치 제고의 계기가 될 것으로 전망했다. 한국의결권자문은 2일 의안분석보고서에서 지난 7월 최대주주가 창업주 고(故) 김정근 회장에서 김성연 씨 및 특별관계자(지분 12.45%)로 바뀌면서 오스코텍이 신약개발…",
-    "pubDate": "2026-11-03T04:43:00.000Z",
-    "collectedAt": "2026-11-03T11:46:12.580Z"
-  },
-  {
-    "id": "20261103000234",
-    "category": "it",
-    "source": "전자신문 IT/통신",
-    "title": "[포토] AI 돌봄 에이전트와 대화",
-    "link": "https://www.etnews.com/20261103000234",
-    "summary": "2026 AIoT 국제전시회가 과학기술정보통신부 주최로 3일 서울 강남구 코엑스에서 열렸다. 삼성생명 부스에서 관람객이 AI 돌봄 에이전트 노라와 대화하고 있다.",
-    "pubDate": "2026-11-03T04:42:18.000Z",
-    "collectedAt": "2026-11-03T11:46:12.580Z"
-  },
-  {
-    "id": "20261103000233",
-    "category": "economy",
-    "source": "전자신문 경제",
-    "title": "비아코어-성균관대, 유리기판 고분자층 한 겹에 최대 59%↓, 저항은 그대로",
-    "link": "https://www.etnews.com/20261103000233",
-    "summary": "성균관대 기계공학부 이은호 교수 연구팀은 다이치코리아-비아코어(Via Core) 컨소시엄과 반도체 유리기판 유리관통비아(TGV) 주변 열응력을 줄이는 설계 방안을 제시했다고 3일 밝혔다. 구리 배선과 유리 사이에 유연한 고분자층을 넣고, 그 두께만큼 비아 구멍(PCB나 반도체 기판에서…",
-    "pubDate": "2026-11-03T04:41:57.000Z",
     "collectedAt": "2026-11-03T11:46:12.580Z"
   }
 ]
