@@ -1,5 +1,75 @@
 [
   {
+    "id": "https://www.hankyung.com/article/202611072412H",
+    "category": "economy",
+    "source": "한국경제 경제",
+    "title": "\"집에 있으면 돈 아끼는 줄 알았는데\"…'소파 경제'의 함정",
+    "link": "https://www.hankyung.com/article/202611072412H",
+    "summary": "",
+    "pubDate": "2026-11-07T21:00:03.000Z",
+    "collectedAt": "2026-11-07T21:39:21.439Z"
+  },
+  {
+    "id": "https://www.hankyung.com/article/202611072406H",
+    "category": "economy",
+    "source": "한국경제 경제",
+    "title": "\"주주는 피눈물인데 직원은 7억?\"…삼성 성과급 놓고 갑론을박",
+    "link": "https://www.hankyung.com/article/202611072406H",
+    "summary": "",
+    "pubDate": "2026-11-07T21:00:01.000Z",
+    "collectedAt": "2026-11-07T21:39:21.439Z"
+  },
+  {
+    "id": "https://news.hada.io/topic?id=36775&utm_source=geeknews&utm_medium=rss&utm_campaign=news",
+    "category": "it",
+    "source": "긱뉴스",
+    "title": "에이전트 메모리의 구성 요소",
+    "link": "https://news.hada.io/topic?id=36775&utm_source=geeknews&utm_medium=rss&utm_campaign=news",
+    "summary": "에이전트 메모리는 경험에서 얻은 지식을 세션 간에 보존하는 컨텍스트이며, 작업 중 중요한 내용을 기록하는 과정과 나중에 기록을 검토하는 드리밍(dreaming) 을 함께 활용할 수 있음 메모리의 효과는 기록량보다 무엇을 기억할지 판단하는 능력에 달려 있음. 평가에서 더 강력한 Claud…",
+    "pubDate": "2026-11-07T20:51:20.000Z",
+    "collectedAt": "2026-11-07T21:39:21.439Z"
+  },
+  {
+    "id": "https://news.hada.io/topic?id=36774&utm_source=geeknews&utm_medium=rss&utm_campaign=news",
+    "category": "it",
+    "source": "긱뉴스",
+    "title": "요즘은 이런 걸 만들지 않는다: Borland Turbo Pascal 7",
+    "link": "https://news.hada.io/topic?id=36774&utm_source=geeknews&utm_medium=rss&utm_campaign=news",
+    "summary": "Turbo Pascal 7은 Windows용 객체 지향 라이브러리, 그래픽 UI 설계 도구, 소스 수준 디버거를 하나의 IDE로 통합해 당시 복잡했던 Windows 프로그래밍의 진입 장벽을 낮춤 Object Windows Library는 Windows C API를 객체 지향 방식으로 감…",
+    "pubDate": "2026-11-07T20:48:20.000Z",
+    "collectedAt": "2026-11-07T21:39:21.439Z"
+  },
+  {
+    "id": "https://news.hada.io/topic?id=36773&utm_source=geeknews&utm_medium=rss&utm_campaign=news",
+    "category": "it",
+    "source": "긱뉴스",
+    "title": "Apple의 그레이 리스트: iPhone이 철자 입력을 도와주지 않는 단어와 문구들",
+    "link": "https://news.hada.io/topic?id=36773&utm_source=geeknews&utm_medium=rss&utm_campaign=news",
+    "summary": "Apple 운영체제에서 10만 개가 넘는 단어와 문구의 예측 입력 완성을 제한하는 그레이 리스트가 발견됨 제한된 문구는 예측 입력에 나타나지 않으며, 스와이프 입력에서도 “United Ireland”가 “United Iceland”로 바뀌는 등 다른 표현으로 대체되는 경우가 있음 목록에…",
+    "pubDate": "2026-11-07T20:45:20.000Z",
+    "collectedAt": "2026-11-07T21:39:21.439Z"
+  },
+  {
+    "id": "https://news.hada.io/topic?id=36772&utm_source=geeknews&utm_medium=rss&utm_campaign=news",
+    "category": "it",
+    "source": "긱뉴스",
+    "title": "Microsoft Research의 AI Frontiers 그룹이 막을 내림",
+    "link": "https://news.hada.io/topic?id=36772&utm_source=geeknews&utm_medium=rss&utm_campaign=news",
+    "summary": "AI Frontiers(AIF) 가 Microsoft AI로 재편된 뒤 막을 내림. 공동 설립에 참여한 John Langford는 팀원들의 거취를 최대한 정리하고 회사를 떠남 약 50명 규모의 AIF는 개인 연구만으로 경쟁하기 어려워진 AI 환경에 대응해 조직적인 연구를 추진했으며, 에…",
+    "pubDate": "2026-11-07T20:42:20.000Z",
+    "collectedAt": "2026-11-07T21:39:21.439Z"
+  },
+  {
+    "id": "https://news.hada.io/topic?id=36771&utm_source=geeknews&utm_medium=rss&utm_campaign=news",
+    "category": "it",
+    "source": "긱뉴스",
+    "title": "대학 도서관에 몰려드는 AI 봇, 공공 접근권을 위협하다",
+    "link": "https://news.hada.io/topic?id=36771&utm_source=geeknews&utm_medium=rss&utm_campaign=news",
+    "summary": "AI 학습용 데이터를 수집하는 스크래핑 봇이 대학 도서관 사이트를 느려지거나 중단되게 하면서 학생, 연구자, 일반 시민의 자료 접근을 방해하고 있음 일부 봇은 robots.txt 지침을 무시하고 초당 수천 건의 문서를 요청하며, 수천 개 IP 주소를 사용해 기존 IP 차단 방식으로 대응…",
+    "pubDate": "2026-11-07T19:33:14.000Z",
+    "collectedAt": "2026-11-07T21:39:21.439Z"
+  },
+  {
     "id": "https://www.aitimes.com/news/articleView.html?idxno=217134",
     "category": "ai",
     "source": "AI타임스 AI산업",
@@ -8,6 +78,26 @@
     "summary": "오픈AI가 앤트로픽의 AI 코딩 에이전트 '클로드 코드'를 성공적인 상용 제품으로 키운 핵심 인물을 영입했다. '코워크'의 제품 개발에도 참여한 캣 우(Cat Wu)로, 오픈AI의 코덱스와 기업용 AI 에이전트 경쟁력을 강화하는 데 중요한 역할을 맡을 전망이다.비즈니스인사이더는 5일(현…",
     "pubDate": "2026-11-07T19:05:17.000Z",
     "collectedAt": "2026-11-07T16:13:30.115Z"
+  },
+  {
+    "id": "https://news.hada.io/topic?id=36770&utm_source=geeknews&utm_medium=rss&utm_campaign=news",
+    "category": "it",
+    "source": "긱뉴스",
+    "title": "8달러짜리 Linux 컴퓨터(2022)",
+    "link": "https://news.hada.io/topic?id=36770&utm_source=geeknews&utm_medium=rss&utm_campaign=news",
+    "summary": "Ox64는 서로 다른 RISC-V 코어 3개를 갖춘 8달러 컴퓨터로, MMU 없는 축소형 커널에 한정되지 않는 Linux 실행을 지원함 당시 이더넷, Wi-Fi, SD 카드가 작동하지 않았으며, 초기 구동에도 여러 장애물이 있었음 펌웨어는 USB로 직접 기록할 수 없어 UART TX/R…",
+    "pubDate": "2026-11-07T18:38:53.000Z",
+    "collectedAt": "2026-11-07T21:39:21.439Z"
+  },
+  {
+    "id": "https://news.hada.io/topic?id=36769&utm_source=geeknews&utm_medium=rss&utm_campaign=news",
+    "category": "it",
+    "source": "긱뉴스",
+    "title": "자유 소프트웨어로 법률사무소 운영하기",
+    "link": "https://news.hada.io/topic?id=36769&utm_source=geeknews&utm_medium=rss&utm_campaign=news",
+    "summary": "영국의 소규모 법률사무소 decoded.legal은 약 5년째 클라이언트와 서버 양쪽에서 자유 소프트웨어를 사용하며, 문서 작성부터 청구, 사건 관리까지 처리함 업무용 PC는 Debian과 GNOME을 유지하며, 다른 변호사와 교환할 문서는 LibreOffice Writer로, 일부 문…",
+    "pubDate": "2026-11-07T18:35:52.000Z",
+    "collectedAt": "2026-11-07T21:39:21.439Z"
   },
   {
     "id": "https://www.aitimes.com/news/articleView.html?idxno=217133",
@@ -20,6 +110,26 @@
     "collectedAt": "2026-11-07T16:13:30.115Z"
   },
   {
+    "id": "https://news.hada.io/topic?id=36768&utm_source=geeknews&utm_medium=rss&utm_campaign=news",
+    "category": "it",
+    "source": "긱뉴스",
+    "title": "Unitree는 왜 로봇을 손으로 조립할까? 제조 자동화 기회를 본 공장 탐방기",
+    "link": "https://news.hada.io/topic?id=36768&utm_source=geeknews&utm_medium=rss&utm_campaign=news",
+    "summary": "항저우 Unitree의 로봇 생산은 여전히 수작업 중심이며, 제조원가에서 인건비 비중은 8%에 불과함. 중국에서는 저렴한 노동력이 합리적이지만, 로봇을 만드는 기계 시장은 아직 서구에도 기회가 남아 있음 휴머노이드는 아직 잦은 제품 변경과 재프로그래밍 비용이 자동화를 어렵게 함. 특정…",
+    "pubDate": "2026-11-07T17:49:45.000Z",
+    "collectedAt": "2026-11-07T21:39:21.439Z"
+  },
+  {
+    "id": "https://news.hada.io/topic?id=36767&utm_source=geeknews&utm_medium=rss&utm_campaign=news",
+    "category": "it",
+    "source": "긱뉴스",
+    "title": "Chomsky와 통계적 학습의 두 문화(2011)",
+    "link": "https://news.hada.io/topic?id=36767&utm_source=geeknews&utm_medium=rss&utm_campaign=news",
+    "summary": "통계적 언어 모델의 예측 성능과 과학적 이해는 대립할 필요가 없음. 공학적 성공이 과학적 타당성을 입증하지는 않지만, 모델의 성공과 실패, 데이터에 따른 학습 양상은 언어를 이해하는 근거가 될 수 있음 통계적 모델, 확률 모델, 학습된 모델은 서로 다른 개념임. 단순한 단어 Markov…",
+    "pubDate": "2026-11-07T17:46:45.000Z",
+    "collectedAt": "2026-11-07T21:39:21.439Z"
+  },
+  {
     "id": "https://www.aitimes.com/news/articleView.html?idxno=217130",
     "category": "ai",
     "source": "AI타임스 AI산업",
@@ -28,6 +138,26 @@
     "summary": "미국 중간선거에서 상·하원을 모두 장악한 민주당이 빅테크 기업에 대한 대규모 조사와 AI 규제 입법을 준비하고 있다. 트럼프 행정부와 긴밀한 관계를 맺어온 기업들의 정부 거래를 조사하는 동시에 AI 모델의 안전성, 데이터센터 전력 비용, 엔비디아의 중국 AI 칩 수출까지 규제 대상으로…",
     "pubDate": "2026-11-07T16:43:57.000Z",
     "collectedAt": "2026-11-07T08:34:32.676Z"
+  },
+  {
+    "id": "https://news.hada.io/topic?id=36766&utm_source=geeknews&utm_medium=rss&utm_campaign=news",
+    "category": "it",
+    "source": "긱뉴스",
+    "title": "민주당, SpaceXAI와 META, Apple에 대한 의회 조사 착수",
+    "link": "https://news.hada.io/topic?id=36766&utm_source=geeknews&utm_medium=rss&utm_campaign=news",
+    "summary": "미국 민주당이 미국 최대 기업 일부를 대상으로 일련의 조사를 준비하고 있음 조사 범위는 지난 2년간의 기업 활동임 조사 초점은 기업들의 민감하고 논란이 큰 행위에 맞춰질 예정임 실리콘밸리와 월스트리트에서 Trump 행정부와 관계를 다져온 경영진이 조사 압박에 직면하고 있음 해당 경영진은…",
+    "pubDate": "2026-11-07T16:37:56.000Z",
+    "collectedAt": "2026-11-07T21:39:21.439Z"
+  },
+  {
+    "id": "https://news.hada.io/topic?id=36765&utm_source=geeknews&utm_medium=rss&utm_campaign=news",
+    "category": "it",
+    "source": "긱뉴스",
+    "title": "RealPage 임대료 책정 소송, 세입자에게 약 3억 6,000만 달러 지급하는 합의로 마무리",
+    "link": "https://news.hada.io/topic?id=36765&utm_source=geeknews&utm_medium=rss&utm_campaign=news",
+    "summary": "미국 연방법원이 RealPage 소프트웨어를 통한 임대료 담합 의혹 집단소송의 합의를 승인함. 합의에 참여한 임대인들이 세입자에게 지급할 금액은 약 3억 6,000만 달러임 합의 기업들은 잘못이나 법적 책임을 인정하지 않았지만, 가격 추천을 위한 비공개 데이터 제공과 경쟁사 비공개 데이…",
+    "pubDate": "2026-11-07T16:34:56.000Z",
+    "collectedAt": "2026-11-07T21:39:21.439Z"
   },
   {
     "id": "https://www.aitimes.com/news/articleView.html?idxno=217128",
@@ -98,6 +228,16 @@
     "summary": "GitLab이 대규모 저장소에서 수천 개 에이전트의 동시 작업을 지원하는 차세대 소스 코드 관리(SCM)를 개발 중이며, 현재 비공개 베타에서 고객 저장소와 워크로드로 성능을 검증하고 있음 Git 프로토콜 호환성을 유지하면서 공유 객체 스토리지와 수평 확장 가능한 무상태 컴퓨팅을 결합하…",
     "pubDate": "2026-11-07T14:56:46.000Z",
     "collectedAt": "2026-11-07T16:13:30.115Z"
+  },
+  {
+    "id": "20261107000041",
+    "category": "economy",
+    "source": "전자신문 경제",
+    "title": "화성시의회, 소상공인의 날 기념식 참석…상권 활성화 제도 개선 추진",
+    "link": "https://www.etnews.com/20261107000041",
+    "summary": "경기 화성특례시의회가 소상공인의 경영 부담을 줄이기 위한 제도 개선과 지원 예산을 챙긴다. 시의회는 수노을중앙공원에서 열린 '제3회 화성특례시 소상공인의 날 기념식'에 참석해 소상공인을 격려하고 지역 상권 활성화를 위한 의회 역할을 강조했다고 7일 밝혔다. 화성시소상공인연합회가 주관한…",
+    "pubDate": "2026-11-07T14:54:41.000Z",
+    "collectedAt": "2026-11-07T21:39:21.439Z"
   },
   {
     "id": "https://news.hada.io/topic?id=36757&utm_source=geeknews&utm_medium=rss&utm_campaign=news",
@@ -180,6 +320,16 @@
     "collectedAt": "2026-11-07T16:13:30.115Z"
   },
   {
+    "id": "20261107000038",
+    "category": "economy",
+    "source": "전자신문 경제",
+    "title": "경기도의회, '지역화폐·배달특급' 운영 개선 촉구…경제실 대상 행감",
+    "link": "https://www.etnews.com/20261107000038",
+    "summary": "경기도의회가 경기지역화폐 관리 강화와 공공배달앱 배달특급의 운영 개선을 요구했다. 7일 경기도의회에 따르면 지난 6일 경제노동위원회가 도 경제실과 경기경제자유구역청을 대상으로 올해 첫 행정사무감사를 열고, 민생경제 지원사업 축소에 따른 대응책과 주요 경제정책의 실효성을 점검했다. 경기지…",
+    "pubDate": "2026-11-07T13:28:47.000Z",
+    "collectedAt": "2026-11-07T21:39:21.439Z"
+  },
+  {
     "id": "https://www.hankyung.com/article/2026110724057",
     "category": "economy",
     "source": "한국경제 경제",
@@ -228,6 +378,16 @@
     "summary": "제 맘대로(?) 만들어 쓰고 있는 터미널 에뮬레이터 입니다. 요즘 좋은 터미널들이 많죠. tmux, cmux, herdr 등등. 한동안 이것 저것 쓰다가, 내가 좋아하는 기능들만 넣어서 직접 만들어 써볼까 하는 생각이 들었습니다. 첫 버전을 만든다음 매일 매일 쓰면서 필요한 기능들, 아…",
     "pubDate": "2026-11-07T12:11:32.000Z",
     "collectedAt": "2026-11-07T16:13:30.115Z"
+  },
+  {
+    "id": "20261107000035",
+    "category": "economy",
+    "source": "전자신문 경제",
+    "title": "금융사 대주주 심사, 평판·전문성 반영해야…“핀테크·가상자산 진입 대비”",
+    "link": "https://www.etnews.com/20261107000035",
+    "summary": "금융회사 대주주 적격성 심사를 평판, 전문성 등 정성적 영역으로 넓혀야 한다는 제언이 나왔다. 핀테크, 가상자산 사업자의 금융업 진출이 늘어나는 만큼 기존 심사로 걸러내기 어려운 위험에 대비해야 한다는 취지다. 이시언 한국금융연구원 연구위원은 7일 '금융회사 대주주 적격성 판단의 확장…",
+    "pubDate": "2026-11-07T11:36:55.000Z",
+    "collectedAt": "2026-11-07T21:39:21.439Z"
   },
   {
     "id": "https://news.hada.io/topic?id=36746&utm_source=geeknews&utm_medium=rss&utm_campaign=news",
@@ -14837,166 +14997,6 @@
     "link": "https://www.hankyung.com/article/202611033376i",
     "summary": "",
     "pubDate": "2026-11-03T07:56:24.000Z",
-    "collectedAt": "2026-11-03T11:46:12.580Z"
-  },
-  {
-    "id": "https://www.hankyung.com/article/202611033155g",
-    "category": "economy",
-    "source": "한국경제 경제",
-    "title": "하나투어, 3분기 영업익 51억원…FIT·중고가 패키지 성장세",
-    "link": "https://www.hankyung.com/article/202611033155g",
-    "summary": "",
-    "pubDate": "2026-11-03T07:55:00.000Z",
-    "collectedAt": "2026-11-03T11:46:12.580Z"
-  },
-  {
-    "id": "20261103000403",
-    "category": "ai",
-    "source": "전자신문 AI",
-    "title": "메가존클라우드, KAIST와 맞손…'피지컬 AI' 표준화·글로벌 진출 협력",
-    "link": "https://www.etnews.com/20261103000403",
-    "summary": "메가존클라우드가 한국과학기술원(KAIST)과 손잡고 피지컬 인공지능(AI) 기술의 산업 현장 적용과 사업화를 추진한다. 메가존클라우드는 KAIST 제조피지컬AI연구소와 '피지컬 AI' 분야 상호협력을 위한 업무협약(MOU)을 체결했다고 3일 밝혔다. 양측은 연구·실증 단계에서 확인한 기…",
-    "pubDate": "2026-11-03T07:51:47.000Z",
-    "collectedAt": "2026-11-03T11:46:12.580Z"
-  },
-  {
-    "id": "20261103000402",
-    "category": "economy",
-    "source": "전자신문 경제",
-    "title": "토스플레이스, 네이버 공정위 신고…“포스 연동 배제는 부당한 차별”",
-    "link": "https://www.etnews.com/20261103000402",
-    "summary": "토스플레이스가 자사 포스(판매시점정보관리시스템)를 매장 정보 서비스와 연동해주지 않는다며 네이버를 공정거래위원회에 신고했다. 네이버는 객관적인 기준에 따라 연동 대상을 순차적으로 확대하고 있다며 차별 의혹을 부인했다. 3일 업계에 따르면, 토스플레이스는 네이버의 시장지배적 지위 남용과…",
-    "pubDate": "2026-11-03T07:51:20.000Z",
-    "collectedAt": "2026-11-03T11:46:12.580Z"
-  },
-  {
-    "id": "20261103000400",
-    "category": "ai",
-    "source": "전자신문 AI",
-    "title": "KOSA, KDIA와 손잡고 디스플레이 제조 AX 확산 박차",
-    "link": "https://www.etnews.com/20261103000400",
-    "summary": "한국인공지능(AI)·소프트웨어(SW)산업협회(KOSA)는 한국디스플레이산업협회(KDIA)와 서울 송파구 한국디스플레이산업협회 회관에서 디스플레이 제조 AI 전환(AX) 확산을 위한 업무협약을 체결했다고 3일 밝혔다. 이번 협약은 디스플레이 제조 현장의 AX 확산과 AI·SW 기반 융복합…",
-    "pubDate": "2026-11-03T07:47:20.000Z",
-    "collectedAt": "2026-11-03T11:46:12.580Z"
-  },
-  {
-    "id": "https://www.hankyung.com/article/202611033345i",
-    "category": "economy",
-    "source": "한국경제 경제",
-    "title": "기보 \"K-벤처 미국 진출 지원 범위 확장해갈 것\"",
-    "link": "https://www.hankyung.com/article/202611033345i",
-    "summary": "",
-    "pubDate": "2026-11-03T07:47:08.000Z",
-    "collectedAt": "2026-11-03T11:46:12.580Z"
-  },
-  {
-    "id": "https://www.hankyung.com/article/202611032791i",
-    "category": "economy",
-    "source": "한국경제 증권",
-    "title": "'경영권 분쟁'에 한진칼 단숨에 상한가…호반그룹의 속내는?",
-    "link": "https://www.hankyung.com/article/202611032791i",
-    "summary": "",
-    "pubDate": "2026-11-03T07:42:47.000Z",
-    "collectedAt": "2026-11-03T11:46:12.580Z"
-  },
-  {
-    "id": "https://www.hankyung.com/article/2026110334496",
-    "category": "economy",
-    "source": "한국경제 증권",
-    "title": "\"고치 랩스, 슬리파고치에 AI 상품 추천 기능 도입\"",
-    "link": "https://www.hankyung.com/article/2026110334496",
-    "summary": "",
-    "pubDate": "2026-11-03T07:40:32.000Z",
-    "collectedAt": "2026-11-03T11:46:12.580Z"
-  },
-  {
-    "id": "https://www.hankyung.com/article/202611032974i",
-    "category": "it",
-    "source": "한국경제 IT",
-    "title": "\"질병 패러다임 바꾸는 CAR-T, 한국서도 보험 적용 확대돼야\"",
-    "link": "https://www.hankyung.com/article/202611032974i",
-    "summary": "",
-    "pubDate": "2026-11-03T07:35:34.000Z",
-    "collectedAt": "2026-11-03T11:46:12.580Z"
-  },
-  {
-    "id": "https://www.hankyung.com/article/202611033413i",
-    "category": "it",
-    "source": "한국경제 IT",
-    "title": "[단독] 셀트리온·삼성바이오 협력…韓 '바이오 양강' 손잡았다",
-    "link": "https://www.hankyung.com/article/202611033413i",
-    "summary": "",
-    "pubDate": "2026-11-03T07:35:13.000Z",
-    "collectedAt": "2026-11-03T11:46:12.580Z"
-  },
-  {
-    "id": "https://www.hankyung.com/article/202611033332g",
-    "category": "economy",
-    "source": "한국경제 경제",
-    "title": "제주항공 3분기 영업익 549억…1년 만에 흑자 전환",
-    "link": "https://www.hankyung.com/article/202611033332g",
-    "summary": "",
-    "pubDate": "2026-11-03T07:35:11.000Z",
-    "collectedAt": "2026-11-03T11:46:12.580Z"
-  },
-  {
-    "id": "https://news.hada.io/topic?id=36517&utm_source=geeknews&utm_medium=rss&utm_campaign=news",
-    "category": "it",
-    "source": "긱뉴스",
-    "title": "OpenAI의 Git 확장, 병렬 푸시와 팩 재사용을 위한 Pando 구축",
-    "link": "https://news.hada.io/topic?id=36517&utm_source=geeknews&utm_medium=rss&utm_campaign=news",
-    "summary": "OpenAI가 Git 프로토콜과 기존 작업 방식을 유지하면서 동시 작업을 확장하는 새 저장소 백엔드 Pando를 구축해 모노레포 전체 개발에 적용함 저장소 전체의 시점 일관성 대신 인과적 일관성을 채택해 서로 다른 브랜치의 푸시를 병렬 처리하고, 개별 참조 업데이트에는 직렬 가능성을 보…",
-    "pubDate": "2026-11-03T07:34:16.000Z",
-    "collectedAt": "2026-11-03T11:46:12.580Z"
-  },
-  {
-    "id": "20261103000392",
-    "category": "economy",
-    "source": "전자신문 경제",
-    "title": "한양증권, '윤리준법의 날' 지정…임직원 내부통제 자가점검",
-    "link": "https://www.etnews.com/20261103000392",
-    "summary": "한양증권은 분기마다 '윤리준법의 날'을 운영하고 전 임직원을 대상으로 내부통제 자가점검을 실시한다고 밝혔다. 한양증권은 1·4·7·10월 마지막 주 수요일을 윤리준법의 날로 지정했다. 임직원은 분기별로 열리는 윤리준법의 날마다 내부통제, 개인·신용정보 보호, 자금세탁방지, 금융소비자보호…",
-    "pubDate": "2026-11-03T07:32:47.000Z",
-    "collectedAt": "2026-11-03T11:46:12.580Z"
-  },
-  {
-    "id": "https://www.hankyung.com/article/202611033095i",
-    "category": "economy",
-    "source": "한국경제 증권",
-    "title": "겹악재에 52주 최저가 찍은 두산에너빌리티…4분기가 분수령",
-    "link": "https://www.hankyung.com/article/202611033095i",
-    "summary": "",
-    "pubDate": "2026-11-03T07:28:04.000Z",
-    "collectedAt": "2026-11-03T11:46:12.580Z"
-  },
-  {
-    "id": "https://www.hankyung.com/article/202611032670i",
-    "category": "economy",
-    "source": "한국경제 증권",
-    "title": "외국인 관광객 증가에도 주가 반토막…호텔신라 반등 조건은",
-    "link": "https://www.hankyung.com/article/202611032670i",
-    "summary": "",
-    "pubDate": "2026-11-03T07:26:36.000Z",
-    "collectedAt": "2026-11-03T11:46:12.580Z"
-  },
-  {
-    "id": "20261103000390",
-    "category": "ai",
-    "source": "전자신문 AI",
-    "title": "[포토] 한중피지컬AI기술산엽협력포럼",
-    "link": "https://www.etnews.com/20261103000390",
-    "summary": "한·중 피지컬AI 기술산업협력포럼이 3일 서울 중구 더그랜드롯데 서울에서 열렸다. 다이빙 주한중국대사(왼쪽에서 두 번째부터)와 장남 주한중국대사관 과학기술처 참사관, 송기헌 국회 과학기술정보방송통신위원장, 황정아 더불어민주당 의원, 김남국 더불어민주당 의원이 부스터의 휴머노이드 로봇을…",
-    "pubDate": "2026-11-03T07:24:57.000Z",
-    "collectedAt": "2026-11-03T11:46:12.580Z"
-  },
-  {
-    "id": "https://www.hankyung.com/article/202611033374g",
-    "category": "economy",
-    "source": "한국경제 경제",
-    "title": "마라탕인 줄 알았더니 닭발…입맛대로 고르는 '닭꾸'",
-    "link": "https://www.hankyung.com/article/202611033374g",
-    "summary": "",
-    "pubDate": "2026-11-03T07:24:39.000Z",
     "collectedAt": "2026-11-03T11:46:12.580Z"
   }
 ]
