@@ -26,7 +26,7 @@ RSS로 AI · IT · 경제 뉴스를 2시간마다 자동 수집하고, 화면에
                                               Vercel 자동 재배포 ──▶ app/page.tsx (분야별 최신순)
 
  data/news.json ──▶ [Actions] daily-digest.yml (하루 1회, KST 21:00)
-                      └ scripts/daily-digest.mjs ──▶ (선택) Anthropic API 요약 ──▶ Discord Webhook
+                      └ scripts/daily-digest.mjs ──▶ (선택) 엑사온 2.5 / Claude 요약 ──▶ Discord Webhook
 ```
 
 핵심은 **`data/news.json` 이 DB 역할**을 한다는 점입니다. 수집 워크플로우가 이 파일을 갱신해 커밋하면, 그 커밋이 Vercel 재배포를 일으켜 화면이 최신 상태가 됩니다.
@@ -40,7 +40,8 @@ RSS로 AI · IT · 경제 뉴스를 2시간마다 자동 수집하고, 화면에
 2. **표시** (`app/page.tsx`)
    - 서버 컴포넌트가 `data/news.json` 과 `feeds.json` 을 읽어 분야별 · 최신순으로 렌더링합니다. 시각은 KST 로 표시합니다.
 3. **요약 전송** (`scripts/daily-digest.mjs`, 하루 1회)
-   - 분야별 기사를 모아 Discord Webhook 으로 보냅니다. `ANTHROPIC_API_KEY` 가 있으면 AI 요약, 없으면 헤드라인 목록으로 대체합니다.
+   - 분야별 기사를 모아 Discord Webhook 으로 보냅니다. `EXAONE_API_KEY` 가 있으면 LG 엑사온(EXAONE) 2.5 API 로 AI 요약을 만들고(권장),
+     없고 `ANTHROPIC_API_KEY` + `ANTHROPIC_MODEL` 이 있으면 Claude 로 폴백합니다. 둘 다 없으면 헤드라인 목록만 전송합니다.
 
 기술 스택: Next.js 16 (App Router) · React 19 · Tailwind 4 · rss-parser · GitHub Actions · Vercel
 
@@ -64,13 +65,15 @@ RSS로 AI · IT · 경제 뉴스를 2시간마다 자동 수집하고, 화면에
 | 이름 | 필수 여부 | 값 |
 | --- | --- | --- |
 | `DISCORD_WEBHOOK_URL` | 필수 | Discord 채널 연동 → 웹후크에서 복사한 주소 |
-| `ANTHROPIC_API_KEY` | 선택 | console.anthropic.com에서 발급한 키. 없으면 AI 요약 없이 헤드라인 목록만 전송됩니다 |
+| `EXAONE_API_KEY` | 선택 (권장) | LG 엑사온(EXAONE) 2.5 무료 API 키. 이 키가 있으면 AI 요약을 엑사온으로 만들고, 없으면 Claude로 폴백하거나 헤드라인만 전송합니다 |
+| `ANTHROPIC_API_KEY` | 선택 | console.anthropic.com에서 발급한 키. `EXAONE_API_KEY` 가 없을 때만 쓰이는 폴백입니다. 둘 다 없으면 AI 요약 없이 헤드라인 목록만 전송됩니다 |
 
-AI 요약을 쓰려면 **Settings → Secrets and variables → Actions → Variables** 탭에도 아래를 등록하세요.
+AI 요약 모델을 바꾸려면 **Settings → Secrets and variables → Actions → Variables** 탭에도 아래를 등록하세요.
 
 | 이름 | 필수 여부 | 값 |
 | --- | --- | --- |
-| `ANTHROPIC_MODEL` | 선택 (AI 요약 쓸 때만) | 사용할 모델 이름. `claude-opus-5`를 넣으면 됩니다. 나중에 모델 목록이 바뀔 수 있으니, 요약이 갑자기 안 되면 console.anthropic.com에서 현재 사용 가능한 모델 이름을 다시 확인해주세요 |
+| `EXAONE_MODEL` | 선택 | 사용할 엑사온 모델 이름. 비워두면 코드 기본값 `k-exaone_v2.5` 를 씁니다 |
+| `ANTHROPIC_MODEL` | 선택 (Claude 폴백 쓸 때만) | 사용할 모델 이름. `claude-opus-5`를 넣으면 됩니다. 나중에 모델 목록이 바뀔 수 있으니, 요약이 갑자기 안 되면 console.anthropic.com에서 현재 사용 가능한 모델 이름을 다시 확인해주세요 |
 
 ### 2. Vercel 연결
 
@@ -108,5 +111,9 @@ npm run dev                   # http://localhost:3000 에서 화면 확인
   다른 소스보다 요약이 얕게 나올 수 있습니다. 본문 요약이 꼭 필요하면 소스 교체가 답입니다.
 - **전자신문 3개 피드(AI·SW·IT/통신)는 기사가 상당 부분 겹칩니다.** guid 기준으로 중복 제거되므로
   실제 저장 건수는 소스별 수집 건수의 합보다 적게 나옵니다. 정상 동작입니다.
-- Discord 전송 시각(21:00 KST)은 원하시는 시간을 알려주지 않으셔서 임의로 잡은 기본값입니다.
+- **AI타임스 피드의 pubDate는 타임존 표기가 없습니다** (`YYYY-MM-DD HH:mm:ss`, KST 기준).
+  예전에는 이 값을 실행 환경 시간대로 해석해서, UTC로 도는 GitHub Actions에서 기사 시각이 9시간 미래로 밀리고
+  화면 맨 위에 "최신" 기사로 고정되는 문제가 있었습니다. 지금은 `scripts/collect.mjs` 가 타임존 없는 날짜를
+  KST(`+09:00`)로 붙여 파싱합니다. 이미 잘못 저장된 기사는 수집 시각이 지나며 14일 보관 기간과 함께 정리됩니다.
+- **Discord 전송 시각(21:00 KST)** 은 원하시는 시간을 알려주지 않으셔서 임의로 잡은 기본값입니다.
   다른 시간이 좋으면 위 "동작 주기 바꾸기"대로 바꿔주세요.
