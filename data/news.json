@@ -1,5 +1,205 @@
 [
   {
+    "id": "https://www.aitimes.com/news/articleView.html?idxno=217414",
+    "category": "ai",
+    "source": "AI타임스 AI산업",
+    "title": "MS, 전 세계 서비스 장애 완전 복구…팩스 부활에 밈까지 등장",
+    "link": "https://www.aitimes.com/news/articleView.html?idxno=217414",
+    "summary": "마이크로소프트(MS)가 전 세계 기업과 정부 기관에 큰 혼란을 일으킨 클라우드 서비스 장애를 완전히 복구했다. 24시간 넘게 이어진 장애로 이메일과 일부 협업 서비스에 장애가 발생하면서 금융기관들은 팩스와 전화 등 구식 통신 수단까지 동원했다. 한편에서는 이메일이 끊긴 덕분에 업무에서…",
+    "pubDate": "2026-11-15T08:20:19.000Z",
+    "collectedAt": "2026-11-14T23:46:42.405Z"
+  },
+  {
+    "id": "https://www.aitimes.com/news/articleView.html?idxno=217413",
+    "category": "ai",
+    "source": "AI타임스 AI산업",
+    "title": "엔비디아 투자자들 \"젠슨 황 복귀 검토해야\"…머스크 등 거물 가세",
+    "link": "https://www.aitimes.com/news/articleView.html?idxno=217413",
+    "summary": "젠슨 황 전 엔비디아 CEO의 복귀를 요구하는 목소리가 실리콘밸리 기술 업계에서 주요 투자자들로 이어지고 있다. 엔비디아 지분 20억달러 이상을 보유한 투자사 두 곳이 이사회에 후임 CEO 선임을 서두르지 말고, 황의 복귀 가능성을 검토하라고 촉구했다. 일론 머스크 CEO 등 기술 업계…",
+    "pubDate": "2026-11-15T07:52:49.000Z",
+    "collectedAt": "2026-11-14T23:46:42.405Z"
+  },
+  {
+    "id": "https://www.hankyung.com/article/2026111355876",
+    "category": "economy",
+    "source": "한국경제 증권",
+    "title": "변동성 장세 지속…'젠슨 황 퇴진' 엔비디아 실적에 쏠리는 눈 [주간전망]",
+    "link": "https://www.hankyung.com/article/2026111355876",
+    "summary": "",
+    "pubDate": "2026-11-14T23:00:08.000Z",
+    "collectedAt": "2026-11-14T23:46:42.405Z"
+  },
+  {
+    "id": "https://www.hankyung.com/article/202611156682i",
+    "category": "economy",
+    "source": "한국경제 경제",
+    "title": "\"커피만 파는 줄 알았는데\"…600만개 불티나게 팔린 메뉴 [장서우의 하입:hype]",
+    "link": "https://www.hankyung.com/article/202611156682i",
+    "summary": "",
+    "pubDate": "2026-11-14T23:00:05.000Z",
+    "collectedAt": "2026-11-14T23:46:42.405Z"
+  },
+  {
+    "id": "https://www.hankyung.com/article/202611135532i",
+    "category": "economy",
+    "source": "한국경제 경제",
+    "title": "자녀 둘 아빠는 16만원 번다…바뀌는 연말정산 절세법",
+    "link": "https://www.hankyung.com/article/202611135532i",
+    "summary": "",
+    "pubDate": "2026-11-14T23:00:02.000Z",
+    "collectedAt": "2026-11-14T23:46:42.405Z"
+  },
+  {
+    "id": "https://www.hankyung.com/article/2026111567997",
+    "category": "economy",
+    "source": "한국경제 증권",
+    "title": "\"주식 사려고 빚 냈어요\"…7조 폭풍매수 나선 '두 종목'",
+    "link": "https://www.hankyung.com/article/2026111567997",
+    "summary": "",
+    "pubDate": "2026-11-14T22:54:29.000Z",
+    "collectedAt": "2026-11-14T23:46:42.405Z"
+  },
+  {
+    "id": "https://www.hankyung.com/article/2026111567957",
+    "category": "economy",
+    "source": "한국경제 증권",
+    "title": "엔비디아 투자자, 젠슨황 복귀 요구 서한…\"AI산업 후퇴 우려\"",
+    "link": "https://www.hankyung.com/article/2026111567957",
+    "summary": "",
+    "pubDate": "2026-11-14T22:44:32.000Z",
+    "collectedAt": "2026-11-14T23:46:42.405Z"
+  },
+  {
+    "id": "https://news.hada.io/topic?id=37178&utm_source=geeknews&utm_medium=rss&utm_campaign=news",
+    "category": "it",
+    "source": "긱뉴스",
+    "title": "PyPI, 보안 신호를 더 명확히 보여주는 개편된 프로젝트 페이지 공개",
+    "link": "https://news.hada.io/topic?id=37178&utm_source=geeknews&utm_medium=rss&utm_campaign=news",
+    "summary": "PyPI 프로젝트 상세 페이지 개편이 완료돼 적용됨. 새 보안 탭에서 릴리스의 출처 상태와 파일별 증명 정보를 확인할 수 있음 출처 상태는 릴리스 파일의 증명 보유 여부로 계산함. 증명이 없다는 사실만으로 악성 파일인 것은 아니며, 파일의 출처를 암호학적으로 검증할 수 없다는 뜻임 출처…",
+    "pubDate": "2026-11-14T22:36:47.000Z",
+    "collectedAt": "2026-11-14T23:46:42.405Z"
+  },
+  {
+    "id": "https://news.hada.io/topic?id=37177&utm_source=geeknews&utm_medium=rss&utm_campaign=news",
+    "category": "it",
+    "source": "긱뉴스",
+    "title": "SpaceX, Starship 포획으로 15차 비행 마무리",
+    "link": "https://news.hada.io/topic?id=37177&utm_source=geeknews&utm_medium=rss&utm_campaign=news",
+    "summary": "SpaceX, Starship 포획으로 15차 비행 마무리",
+    "pubDate": "2026-11-14T22:33:47.000Z",
+    "collectedAt": "2026-11-14T23:46:42.405Z"
+  },
+  {
+    "id": "https://www.hankyung.com/article/2026111567887",
+    "category": "economy",
+    "source": "한국경제 경제",
+    "title": "\"주가 빠질 때 사야\" 빚투 나선 개미들…마통 44조 넘었다",
+    "link": "https://www.hankyung.com/article/2026111567887",
+    "summary": "",
+    "pubDate": "2026-11-14T22:31:14.000Z",
+    "collectedAt": "2026-11-14T23:46:42.405Z"
+  },
+  {
+    "id": "https://www.hankyung.com/article/202611135618g",
+    "category": "economy",
+    "source": "한국경제 경제",
+    "title": "\"어릴 때 보던 만화인데\"…2030 예약 폭주한 뜻밖의 이유 [박수림의 요즘 여기]",
+    "link": "https://www.hankyung.com/article/202611135618g",
+    "summary": "",
+    "pubDate": "2026-11-14T22:30:02.000Z",
+    "collectedAt": "2026-11-14T23:46:42.405Z"
+  },
+  {
+    "id": "https://news.hada.io/topic?id=37176&utm_source=geeknews&utm_medium=rss&utm_campaign=news",
+    "category": "it",
+    "source": "긱뉴스",
+    "title": "코끼리의 고립 심화로 사회적 연결망이 분절됨",
+    "link": "https://news.hada.io/topic?id=37176&utm_source=geeknews&utm_medium=rss&utm_campaign=news",
+    "summary": "UC San Diego 연구진이 스리랑카의 야생 암컷 아시아코끼리 440마리 이상을 12년간 분석한 결과, 개체군 감소와 함께 사회 집단이 작아지고 서로 고립되는 변화를 확인함 개체 손실이 서서히 누적된 뒤 연결망이 급격히 바뀌어, 개체군이 사회적 임계점을 넘어섰을 가능성이 있음 단순히…",
+    "pubDate": "2026-11-14T21:36:00.000Z",
+    "collectedAt": "2026-11-14T23:46:42.405Z"
+  },
+  {
+    "id": "https://news.hada.io/topic?id=37175&utm_source=geeknews&utm_medium=rss&utm_campaign=news",
+    "category": "it",
+    "source": "긱뉴스",
+    "title": "Microsoft 장애, 고객들에게 Microsoft 의존도를 뼈저리게 깨닫게 하다",
+    "link": "https://news.hada.io/topic?id=37175&utm_source=geeknews&utm_medium=rss&utm_campaign=news",
+    "summary": "Microsoft 365의 장시간 장애로 이메일, Teams 메시징, 파일 접근, Copilot 등 여러 업무 서비스가 영향을 받으면서, 기업들이 Microsoft 생태계에 얼마나 깊이 의존하는지 드러남 Microsoft는 11월 12일 18:26 GMT에 장애가 시작됐다고 밝혔으며,…",
+    "pubDate": "2026-11-14T21:33:00.000Z",
+    "collectedAt": "2026-11-14T23:46:42.405Z"
+  },
+  {
+    "id": "https://news.hada.io/topic?id=37174&utm_source=geeknews&utm_medium=rss&utm_campaign=news",
+    "category": "it",
+    "source": "긱뉴스",
+    "title": "Google은 왜 AI를 쓰지 않는 학교의 검색 접근까지 차단하나? 몇 가지 가설",
+    "link": "https://news.hada.io/topic?id=37174&utm_source=geeknews&utm_medium=rss&utm_campaign=news",
+    "summary": "Google은 학교가 학생의 검색 결과에서 AI Overviews를 끄려면 Google Search 접근도 함께 차단해야 한다는 방침을 밝혀 학부모와 교육계의 반발을 사고 있음 교실 내 AI 사용을 금지하는 교육구가 늘어나는 가운데, 기술 사용 축소를 요구하는 학부모들도 검색 기능 상실…",
+    "pubDate": "2026-11-14T20:43:10.000Z",
+    "collectedAt": "2026-11-14T23:46:42.405Z"
+  },
+  {
+    "id": "https://news.hada.io/topic?id=37173&utm_source=geeknews&utm_medium=rss&utm_campaign=news",
+    "category": "it",
+    "source": "긱뉴스",
+    "title": "FAA의 미국 전역 이륙 중단 조치 속 Amtrak 예약 시스템에 심각한 문제 발생",
+    "link": "https://news.hada.io/topic?id=37173&utm_source=geeknews&utm_medium=rss&utm_campaign=news",
+    "summary": "Amtrak 예약 시스템이 미국 연방항공청(FAA)의 전국 이륙 중단 조치와 같은 시기에 네트워크 장애를 겪었으며, 금요일 오후 9시경부터 정상화되고 있음 열차 운행은 정상이며, Amtrak은 전체 노선에서 여행 수요가 늘고 있다고 밝힘 웹사이트와 앱에서 예약 오류가 발생했고, Down…",
+    "pubDate": "2026-11-14T20:40:10.000Z",
+    "collectedAt": "2026-11-14T23:46:42.405Z"
+  },
+  {
+    "id": "https://news.hada.io/topic?id=37172&utm_source=geeknews&utm_medium=rss&utm_campaign=news",
+    "category": "it",
+    "source": "긱뉴스",
+    "title": "미네소타 기타리스트의 발명품 ‘palmfrets’, 새로운 화음을 열다",
+    "link": "https://news.hada.io/topic?id=37172&utm_source=geeknews&utm_medium=rss&utm_campaign=news",
+    "summary": "기타리스트 Ben Ranson이 손바닥으로 현을 추가 프렛에 눌러 베이스 라인이나 멜로디를 연주하는 palmfrets를 공개함 현을 뜯는 손의 손바닥 아래쪽 콩알뼈로 현을 누르고 엄지로 뜯는 방식으로, 기타 넥을 짚는 손은 다른 음이나 화음을 더 자유롭게 연주할 수 있음 더 많은 저음을…",
+    "pubDate": "2026-11-14T20:37:09.000Z",
+    "collectedAt": "2026-11-14T23:46:42.405Z"
+  },
+  {
+    "id": "https://news.hada.io/topic?id=37171&utm_source=geeknews&utm_medium=rss&utm_campaign=news",
+    "category": "it",
+    "source": "긱뉴스",
+    "title": "3Com에는 무슨 일이 있었나?",
+    "link": "https://news.hada.io/topic?id=37171&utm_source=geeknews&utm_medium=rss&utm_campaign=news",
+    "summary": "네트워크 카드의 대표 브랜드였던 3Com은 기업용 네트워크 장비 사업 철수와 비핵심 사업 인수 등 잇따른 판단 실패로 수익성을 잃고, 2009년 말 HP에 27억 달러($2.7b)에 인수됨 기업용 장비 사업 철수는 비용 절감 없이 매출 감소와 고객 및 판매점의 반발을 불렀으며, 여러 제…",
+    "pubDate": "2026-11-14T19:49:32.000Z",
+    "collectedAt": "2026-11-14T23:46:42.405Z"
+  },
+  {
+    "id": "https://news.hada.io/topic?id=37170&utm_source=geeknews&utm_medium=rss&utm_campaign=news",
+    "category": "it",
+    "source": "긱뉴스",
+    "title": "이탈리아, Android 사용자 데이터 접근 문제로 Meta에 8억 8,700만 달러 과징금 부과",
+    "link": "https://news.hada.io/topic?id=37170&utm_source=geeknews&utm_medium=rss&utm_campaign=news",
+    "summary": "이탈리아 개인정보 보호 당국은 Meta가 Android 사용자의 사진과 동영상에 동의나 고지 없이 접근했다고 판단해 8억 500만 유로, 약 8억 8,700만 달러의 과징금을 부과함 문제가 된 기능은 Facebook 앱의 게시물 추천 기능으로, 사용자 개인 갤러리에서 게시할 만한 콘텐츠…",
+    "pubDate": "2026-11-14T19:46:32.000Z",
+    "collectedAt": "2026-11-14T23:46:42.405Z"
+  },
+  {
+    "id": "https://news.hada.io/topic?id=37169&utm_source=geeknews&utm_medium=rss&utm_campaign=news",
+    "category": "it",
+    "source": "긱뉴스",
+    "title": "Lovable 앱에서 여권 정보와 20만 건 이상의 비공개 메시지 노출",
+    "link": "https://news.hada.io/topic?id=37169&utm_source=geeknews&utm_medium=rss&utm_campaign=news",
+    "summary": "Lovable 프로젝트 159,041개를 분석한 결과, 여러 앱에서 로그인 없이 개인정보와 기밀 데이터에 접근할 수 있었음 Supabase 연동 사이트 중 초기 로딩 때 데이터베이스 레코드를 전송한 24,664개를 추가 조사해, 7,403개 사이트에서 이메일 주소가 포함된 레코드를 확인…",
+    "pubDate": "2026-11-14T19:43:32.000Z",
+    "collectedAt": "2026-11-14T23:46:42.405Z"
+  },
+  {
+    "id": "https://news.hada.io/topic?id=37168&utm_source=geeknews&utm_medium=rss&utm_campaign=news",
+    "category": "it",
+    "source": "긱뉴스",
+    "title": "KDE 다큐멘터리: 자유 소프트웨어의 언더독들 이야기 [영상]",
+    "link": "https://news.hada.io/topic?id=37168&utm_source=geeknews&utm_medium=rss&utm_campaign=news",
+    "summary": "KDE는 사용하기 어려웠던 Linux를 누구나 쓸 수 있는 데스크톱으로 만들려는 시도에서 출발해, 소프트웨어를 통한 자유와 사용자 통제권을 추구하는 커뮤니티로 성장함 Qt는 소규모 팀이 완성도 높은 그래픽 환경을 빠르게 만드는 기반이었지만, 초기의 독점 라이선스는 GNOME 탄생과 자유…",
+    "pubDate": "2026-11-14T19:40:32.000Z",
+    "collectedAt": "2026-11-14T23:46:42.405Z"
+  },
+  {
     "id": "https://www.aitimes.com/news/articleView.html?idxno=217412",
     "category": "ai",
     "source": "AI타임스 AI산업",
@@ -14797,206 +14997,6 @@
     "link": "https://www.etnews.com/20261110000370",
     "summary": "한국레미콘공업협동조합연합회 부설 한국콘크리트시험원이 10일 대전 호텔ICC에서 '2026 레미콘 품질관리 핵심인력 역량강화 컨퍼런스'를 열었다. 이날 행사에는 배조웅 한국레미콘공업협동조합연합회장, 이한백 한국콘크리트시험원장, 문동민 한국표준협회 회장, 홍건호 한국콘크리트학회 회장을 비롯…",
     "pubDate": "2026-11-10T06:10:15.000Z",
-    "collectedAt": "2026-11-10T12:29:53.347Z"
-  },
-  {
-    "id": "20261110000367",
-    "category": "economy",
-    "source": "전자신문 경제",
-    "title": "코윈로보틱스, 글로벌 ESS 기업에 제조라인 로봇 시스템 공급",
-    "link": "https://www.etnews.com/20261110000367",
-    "summary": "코윈로보틱스가 글로벌 에너지저장장치(ESS) 기업으로부터 중대형 ESS 제조라인용 로봇 통합 시스템을 신규 수주했다고 10일 밝혔다. 계약 상대방과 금액은 비공개다. 코윈로보틱스는 지난 3월 서진시스템의 미국향 ESS 로봇 204억원, 8월 디에프에스(DFS)를 통한 국내 ESS 제조라…",
-    "pubDate": "2026-11-10T06:08:19.000Z",
-    "collectedAt": "2026-11-10T12:29:53.347Z"
-  },
-  {
-    "id": "https://www.hankyung.com/article/202611107698i",
-    "category": "economy",
-    "source": "한국경제 증권",
-    "title": "씨티그룹, 미국 증시·기술주 '비중 확대'→'중립' 하향 왜",
-    "link": "https://www.hankyung.com/article/202611107698i",
-    "summary": "",
-    "pubDate": "2026-11-10T06:06:39.000Z",
-    "collectedAt": "2026-11-10T12:29:53.347Z"
-  },
-  {
-    "id": "https://www.hankyung.com/article/202611107780g",
-    "category": "economy",
-    "source": "한국경제 경제",
-    "title": "'辛' 대신 들어간 반가사유상…농심, 신라면 40주년 한정판 출격",
-    "link": "https://www.hankyung.com/article/202611107780g",
-    "summary": "",
-    "pubDate": "2026-11-10T06:04:06.000Z",
-    "collectedAt": "2026-11-10T12:29:53.347Z"
-  },
-  {
-    "id": "20261110000360",
-    "category": "ai",
-    "source": "전자신문 SW",
-    "title": "포스라, 노동조합 전문 플랫폼 '노동상회' 오픈…집회·운영 서비스 통합 지원",
-    "link": "https://www.etnews.com/20261110000360",
-    "summary": "포스라(대표 길태정)는 노동조합 행사 준비와 운영에 필요한 서비스를 통합 지원하는 전문 플랫폼 '노동상회'를 오픈했다고 10일 밝혔다. 노동상회는 집회·행사 준비부터 홍보물 제작, 교육·워크숍, 홈페이지 구축, 노동조합 선거 지원까지 다양한 서비스를 한 곳에서 상담하고 이용할 수 있는…",
-    "pubDate": "2026-11-10T06:02:28.000Z",
-    "collectedAt": "2026-11-10T12:29:53.347Z"
-  },
-  {
-    "id": "https://www.hankyung.com/article/202611107751i",
-    "category": "economy",
-    "source": "한국경제 경제",
-    "title": "2026 레미콘 품질관리 핵심인력 역량강화 컨퍼런스 개최",
-    "link": "https://www.hankyung.com/article/202611107751i",
-    "summary": "",
-    "pubDate": "2026-11-10T06:01:45.000Z",
-    "collectedAt": "2026-11-10T12:29:53.347Z"
-  },
-  {
-    "id": "20261110000261",
-    "category": "economy",
-    "source": "전자신문 경제",
-    "title": "[뉴스줌인] 네이버·두나무 결합 가시권…독과점 규제에 시너지 제약 우려",
-    "link": "https://www.etnews.com/20261110000261",
-    "summary": "네이버파이낸셜과 두나무의 기업결합이 국내 금융·가상자산 시장의 판도를 바꿀 분수령으로 떠올랐다. 양사는 글로벌 디지털금융 시장 진출을 위한 시너지를 기대하지만, 공정거래위원회의 독과점 규제가 실제 사업 확장의 변수로 작용할 전망이다. 10일 공정위 심사관은 네이버파이낸셜과 두나무가 제출…",
-    "pubDate": "2026-11-10T06:00:00.000Z",
-    "collectedAt": "2026-11-10T12:29:53.347Z"
-  },
-  {
-    "id": "https://www.hankyung.com/article/202611107713i",
-    "category": "economy",
-    "source": "한국경제 증권",
-    "title": "\"매년 김장 포기할까 했는데\"…올해 4인 가족 비용 '반전'",
-    "link": "https://www.hankyung.com/article/202611107713i",
-    "summary": "",
-    "pubDate": "2026-11-10T05:55:51.000Z",
-    "collectedAt": "2026-11-10T12:29:53.347Z"
-  },
-  {
-    "id": "https://www.aitimes.com/news/articleView.html?idxno=217195",
-    "category": "ai",
-    "source": "AI타임스 AI산업",
-    "title": "미 의회, 젠슨 황 조사 압박…중국 AI 칩 거래·정부 책임도 겨냥",
-    "link": "https://www.aitimes.com/news/articleView.html?idxno=217195",
-    "summary": "젠슨 황 엔비디아 CEO를 둘러싼 중국 스파이 의혹이 미국 의회의 중국 AI 반도체 수출 정책과 트럼프 행정부에 대한 감독 문제로 이어지고 있다. 공화당이 비공개 브리핑을 요구한 데 이어 민주당도 상무장관의 증언과 의회 조사를 촉구하면서, 엔비디아의 중국 관련 사업과 미국 정부의 수출…",
-    "pubDate": "2026-11-10T05:55:06.000Z",
-    "collectedAt": "2026-11-10T04:00:43.163Z"
-  },
-  {
-    "id": "https://www.hankyung.com/article/202611107680i",
-    "category": "economy",
-    "source": "한국경제 경제",
-    "title": "하나금융, 춘천시 취약계층 위해 8000만원 기부",
-    "link": "https://www.hankyung.com/article/202611107680i",
-    "summary": "",
-    "pubDate": "2026-11-10T05:55:06.000Z",
-    "collectedAt": "2026-11-10T12:29:53.347Z"
-  },
-  {
-    "id": "https://news.hada.io/topic?id=36933&utm_source=geeknews&utm_medium=rss&utm_campaign=news",
-    "category": "it",
-    "source": "긱뉴스",
-    "title": "유료 SDK 없이, 공개 데이터와 MapLibre로 아파트 3D 지도를 만든 11일",
-    "link": "https://news.hada.io/topic?id=36933&utm_source=geeknews&utm_medium=rss&utm_campaign=news",
-    "summary": "직접 개발 중인 아파트 인사이트의 주변 3D 지도를 만들면서 겪은 문제와 설계 선택을 정리했습니다. 브이월드의 건물 외곽선, 건축물대장의 높이, OpenStreetMap의 시설·도로 데이터를 결합하고 MapLibre GL JS로 그렸습니다. 유료 지도 SDK와 외부 3D 모델 파일은 사…",
-    "pubDate": "2026-11-10T05:53:29.000Z",
-    "collectedAt": "2026-11-10T12:29:53.347Z"
-  },
-  {
-    "id": "https://www.hankyung.com/article/202611107721i",
-    "category": "economy",
-    "source": "한국경제 증권",
-    "title": "\"금리, 금, 원유에 선거 결과까지 다 틀려\"…월가 전망, 채점해보니",
-    "link": "https://www.hankyung.com/article/202611107721i",
-    "summary": "",
-    "pubDate": "2026-11-10T05:51:53.000Z",
-    "collectedAt": "2026-11-10T12:29:53.347Z"
-  },
-  {
-    "id": "https://www.hankyung.com/article/202611107564i",
-    "category": "economy",
-    "source": "한국경제 증권",
-    "title": "2주간 17% 오르더니 오늘은 '뚝'…롯데칠성, 7%대 하락",
-    "link": "https://www.hankyung.com/article/202611107564i",
-    "summary": "",
-    "pubDate": "2026-11-10T05:50:52.000Z",
-    "collectedAt": "2026-11-10T12:29:53.347Z"
-  },
-  {
-    "id": "20261110000350",
-    "category": "ai",
-    "source": "전자신문 SW",
-    "title": "佛, 냉장설비 해킹 배후 '이란 혁명수비대' 지목…유럽 차원 제재 추진",
-    "link": "https://www.etnews.com/20261110000350",
-    "summary": "프랑스 정부가 전국 슈퍼마켓의 냉장설비를 공격한 배후로 이란 이슬람혁명수비대(IRGC)를 지목하고 유럽 차원의 제재를 추진한다. 9일(현지시간) 로이터·AFP통신에 따르면 장노엘 바로 프랑스 외무장관은 지난달 프랑스 전역의 슈퍼마켓 냉장설비를 겨냥한 사이버 공격의 배후로 이란 혁명수비대…",
-    "pubDate": "2026-11-10T05:49:44.000Z",
-    "collectedAt": "2026-11-10T12:29:53.347Z"
-  },
-  {
-    "id": "https://www.hankyung.com/article/202611107645i",
-    "category": "it",
-    "source": "한국경제 IT",
-    "title": "제이투에이치바이오텍 MASH 신약, 2a상서 간지방·대사지표 개선",
-    "link": "https://www.hankyung.com/article/202611107645i",
-    "summary": "",
-    "pubDate": "2026-11-10T05:47:59.000Z",
-    "collectedAt": "2026-11-10T12:29:53.347Z"
-  },
-  {
-    "id": "20261110000347",
-    "category": "economy",
-    "source": "전자신문 경제",
-    "title": "온투업, 대출 95%가 중금리…토스 진입에 공정경쟁 요구",
-    "link": "https://www.etnews.com/20261110000347",
-    "summary": "온라인투자연계금융업(온투업) 주요 6개사의 개인신용대출 가운데 민간중금리대출 비중이 94.8%로 집계됐다. 신용점수 하위 10% 차주에 대한 공급 비중도 45%에 달했다. 중저신용자 대출에 집중해온 온투업계는 토스의 시장 진입을 앞두고 대출중개 플랫폼과 대출 공급업 겸영에 따른 이해상충…",
-    "pubDate": "2026-11-10T05:47:22.000Z",
-    "collectedAt": "2026-11-10T12:29:53.347Z"
-  },
-  {
-    "id": "20261110000341",
-    "category": "ai",
-    "source": "전자신문 AI",
-    "title": "크라우드웍스, 산업부 '제조 암묵지 AI 모델 개발' 사업 참여",
-    "link": "https://www.etnews.com/20261110000341",
-    "summary": "크라우드웍스는 인핸스와 함께 산업통상부 '제조 암묵지 기반 AI 모델 개발 사업'에 공식 파트너로 참여한다고 10일 밝혔다. 이번 사업은 제조 인력의 경험과 직관 등 암묵지가 담긴 비정형 현장 자료를 AI 학습 데이터셋으로 구축하고 현장 작업자를 지원하는 온톨로지 기반 AI 가이드 모델…",
-    "pubDate": "2026-11-10T05:43:52.000Z",
-    "collectedAt": "2026-11-10T12:29:53.347Z"
-  },
-  {
-    "id": "20261110000337",
-    "category": "ai",
-    "source": "전자신문 AI",
-    "title": "에이아이웍스, 대한출판문화협회와 AI 데이터 플랫폼 구축 협력",
-    "link": "https://www.etnews.com/20261110000337",
-    "summary": "에이아이웍스는 대한출판문화협회와 국가 인공지능(AI) 활용 저작물 고품질 출판지식 데이터 공급과 시장 구축을 위한 기술협력 업무협약(MOU)을 체결했다고 9일 밝혔다. 이번 협약은 출판 저작물을 AI 학습에 활용하는 과정에서 권리자의 권익을 보호하고 고품질 데이터를 안정적으로 공급하는…",
-    "pubDate": "2026-11-10T05:41:46.000Z",
-    "collectedAt": "2026-11-10T12:29:53.347Z"
-  },
-  {
-    "id": "20261110000335",
-    "category": "ai",
-    "source": "전자신문 SW",
-    "title": "개인정보위, 개인정보 보호 숏폼 공모전 개최…30일까지 접수",
-    "link": "https://www.etnews.com/20261110000335",
-    "summary": "개인정보보호위원회는 일상 속 개인정보 보호 실천 문화를 확산하기 위해 '개인정보 보호 숏폼 콘텐츠 공모전'을 개최한다고 10일 밝혔다. 공모전 주제는 '소중한 내 개인정보를 지키는 꿀팁'이다. 개인정보 보호 실천 방법, 보이스피싱·스미싱 등 2차 피해 예방 아이디어, 개인정보위가 제공하…",
-    "pubDate": "2026-11-10T05:40:54.000Z",
-    "collectedAt": "2026-11-10T12:29:53.347Z"
-  },
-  {
-    "id": "https://www.aitimes.com/news/articleView.html?idxno=217194",
-    "category": "ai",
-    "source": "AI타임스 AI산업",
-    "title": "엔비디아 주가 장중 8.8% 급락…주요 투자자들은 젠슨 황 잔류 지지",
-    "link": "https://www.aitimes.com/news/articleView.html?idxno=217194",
-    "summary": "젠슨 황 엔비디아 CEO의 불륜 인정과 중국 스파이 의혹으로 엔비디아 주가가 장중 최대 8.8% 급락했다. 그러나 주요 투자자들은 개인적인 처신에 실망하면서도 경영 지속을 공개적으로 지지하고 있다. 시장에서는 경영 불확실성을 우려해 주식을 매도하는 움직임이 나타난 가운데, 일부 주요 투…",
-    "pubDate": "2026-11-10T05:38:46.000Z",
-    "collectedAt": "2026-11-10T04:00:43.163Z"
-  },
-  {
-    "id": "https://www.hankyung.com/article/202611107589i",
-    "category": "economy",
-    "source": "한국경제 증권",
-    "title": "반토막 넘게 떨어졌는데 \"사라\"…샌디스크 다시 보는 이유",
-    "link": "https://www.hankyung.com/article/202611107589i",
-    "summary": "",
-    "pubDate": "2026-11-10T05:34:53.000Z",
     "collectedAt": "2026-11-10T12:29:53.347Z"
   }
 ]
