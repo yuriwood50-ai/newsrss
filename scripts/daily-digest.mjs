@@ -1,7 +1,8 @@
 // 하루 1회 Discord 요약 전송 스크립트
 // - 최근 24시간 안에 수집된 기사를 분야별로 정리
-// - ANTHROPIC_API_KEY + ANTHROPIC_MODEL이 둘 다 설정돼 있으면 분야별 짧은 요약을 붙임
-//   (둘 중 하나라도 없으면 요약 없이 헤드라인 목록만 보냄 — 조용히 실패하지 않고 로그로 알림)
+// - EXAONE_API_KEY가 있으면 LG 엑사온(EXAONE) 2.5 API로 분야별 짧은 요약을 붙임 (권장)
+// - EXAONE_API_KEY가 없고 ANTHROPIC_API_KEY + ANTHROPIC_MODEL이 둘 다 설정돼 있으면 Claude로 폴백
+//   (둘 다 없으면 요약 없이 헤드라인 목록만 보냄 — 조용히 실패하지 않고 로그로 알림)
 // - DISCORD_WEBHOOK_URL로 Embed 형태 전송
 //
 // 실행: node scripts/daily-digest.mjs
@@ -17,10 +18,24 @@ const NEWS_PATH = path.join(ROOT, "data", "news.json");
 const FEEDS_PATH = path.join(ROOT, "feeds.json");
 
 const DISCORD_WEBHOOK_URL = process.env.DISCORD_WEBHOOK_URL;
+// 1순위: LG 엑사온(EXAONE). OpenAI 호환 chat/completions 형식
+const EXAONE_API_KEY = process.env.EXAONE_API_KEY;
+const EXAONE_MODEL = process.env.EXAONE_MODEL || "k-exaone_v2.5"; // 바꾸려면 Variables의 EXAONE_MODEL로 덮어쓰기
+const EXAONE_ENDPOINT = "https://api.exaone.ai/v1/chat/completions";
+// 2순위: Claude (엑사온 키가 없을 때만)
 const ANTHROPIC_API_KEY = process.env.ANTHROPIC_API_KEY;
 const ANTHROPIC_MODEL = process.env.ANTHROPIC_MODEL; // 예: console.anthropic.com에서 확인한 현재 모델 이름
 const DIGEST_HOURS = Number(process.env.DIGEST_HOURS || 24);
 const MAX_ITEMS_PER_CATEGORY = 8;
+// 요약 프롬프트에는 상위 이 정도만 넣음. 기사가 수백 건인 분야는 헤드라인을 전부 넣으면
+// 프롬프트가 너무 길어져 추론만 하다가 max_tokens를 다 쓰고 빈 답이 돌아옴(엑사온 2.5에서 확인).
+const MAX_ITEMS_FOR_SUMMARY = 15;
+// 엑사온 무료 티어는 초당 1회 제한 → 호출 사이 간격을 둠
+const EXAONE_MIN_INTERVAL_MS = 1200;
+// 요약 API가 응답 없이 매달려 Actions 작업이 끝나지 않는 것을 막음
+// (엑사온 2.5는 추론 모델이라 분야 하나에 30~60초 걸릴 때가 있음)
+const AI_TIMEOUT_MS = 90_000;
+const DISCORD_TIMEOUT_MS = 15_000;
 
 const CATEGORY_COLORS = {
   ai: 0x6366f1,
@@ -33,22 +48,114 @@ async function loadJson(p) {
   return JSON.parse(raw);
 }
 
-async function summarizeWithClaude(categoryLabel, items) {
-  if (!ANTHROPIC_API_KEY || !ANTHROPIC_MODEL) return null;
-
+function buildPrompt(categoryLabel, items) {
   const bulletList = items
+    .slice(0, MAX_ITEMS_FOR_SUMMARY)
     .map((i) => `- ${i.title} (${i.source})`)
     .join("\n");
+
+  // 엑사온 2.5는 추론 토큰도 max_tokens에 포함되므로, "추론 길게 쓰지 말고 요약만"을
+  // 안 적으면 추론만 하다가 토큰을 다 쓰고 빈 답(content:"")이 올 수 있음
+  return `다음은 "${categoryLabel}" 분야 오늘자 뉴스 헤드라인 목록이야. 과장하지 말고 사실 위주로 2~3문장 한국어 요약을 만들어줘. 헤드라인 나열 말고 흐름 위주로. 머리말·설명·추론 과정 없이 요약문만 바로 출력해.\n\n${bulletList}`;
+}
+
+const sleep = (ms) => new Promise((resolve) => setTimeout(resolve, ms));
+
+let lastExaoneCallAt = 0;
+async function throttleExaone() {
+  const wait = lastExaoneCallAt + EXAONE_MIN_INTERVAL_MS - Date.now();
+  if (wait > 0) await sleep(wait);
+  lastExaoneCallAt = Date.now();
+}
+
+// LG 엑사온 2.5 요약 — 추론 과정은 reasoning_content로 오고, 최종 답은 message.content에 담김
+async function summarizeWithExaone(categoryLabel, items) {
+  if (!EXAONE_API_KEY) return null;
+
+  const body = {
+    model: EXAONE_MODEL,
+    messages: [{ role: "user", content: buildPrompt(categoryLabel, items) }],
+    reasoning_effort: "low",
+    // 엑사온 2.5는 추론 토큰도 max_tokens에 포함됨. 1000으로 두면 추론만 하다가 토큰을 다 써서
+    // content가 빈 문자열로 오는 경우가 절반 가까이 나와서(실측) 2000으로 잡음.
+    max_tokens: 2000,
+  };
+
+  // 429(초당 호출 제한)와 빈 응답은 한 번 더 시도
+  const MAX_ATTEMPTS = 2;
+  for (let attempt = 1; attempt <= MAX_ATTEMPTS; attempt += 1) {
+    try {
+      await throttleExaone();
+      const res = await fetch(EXAONE_ENDPOINT, {
+        method: "POST",
+        headers: {
+          "Content-Type": "application/json",
+          Authorization: `Bearer ${EXAONE_API_KEY}`,
+        },
+        body: JSON.stringify(body),
+        signal: AbortSignal.timeout(AI_TIMEOUT_MS),
+      });
+      if (!res.ok) {
+        const text = await res.text();
+        console.warn(
+          `[엑사온 요약 실패] ${categoryLabel} (${attempt}/${MAX_ATTEMPTS}): ${res.status} ${text}`
+        );
+        if (res.status === 429 && attempt < MAX_ATTEMPTS) {
+          await sleep(2000);
+          continue;
+        }
+        return null;
+      }
+      const data = await res.json();
+      const choice = data?.choices?.[0];
+      const text = choice?.message?.content?.trim();
+      if (text) {
+        // max_tokens에 걸려 문장이 중간에 잘렸으면 한 번 더 시도
+        if (choice?.finish_reason === "length" && attempt < MAX_ATTEMPTS) {
+          console.warn(
+            `[엑사온 요약 재시도] ${categoryLabel}: 응답이 max_tokens에서 잘렸습니다(finish_reason=length).`
+          );
+          await sleep(1000);
+          continue;
+        }
+        if (choice?.finish_reason === "length") {
+          console.warn(
+            `[엑사온 요약 경고] ${categoryLabel}: 응답이 잘린 상태로 전송합니다.`
+          );
+        }
+        return text;
+      }
+      // 추론만 하고 content가 비어 오는 경우 — 헤드라인 목록만 보내도록 null 반환
+      console.warn(
+        `[엑사온 요약 실패] ${categoryLabel} (${attempt}/${MAX_ATTEMPTS}): 빈 응답(content 없음, finish_reason=${choice?.finish_reason})`
+      );
+      if (attempt < MAX_ATTEMPTS) {
+        await sleep(1000);
+        continue;
+      }
+      return null;
+    } catch (err) {
+      console.warn(
+        `[엑사온 요약 실패] ${categoryLabel} (${attempt}/${MAX_ATTEMPTS}):`,
+        err
+      );
+      if (attempt < MAX_ATTEMPTS) {
+        await sleep(1000);
+        continue;
+      }
+      return null;
+    }
+  }
+  return null;
+}
+
+async function summarizeWithClaude(categoryLabel, items) {
+  if (!ANTHROPIC_API_KEY || !ANTHROPIC_MODEL) return null;
 
   const body = {
     model: ANTHROPIC_MODEL,
     max_tokens: 300,
-    messages: [
-      {
-        role: "user",
-        content: `다음은 "${categoryLabel}" 분야 오늘자 뉴스 헤드라인 목록이야. 과장하지 말고 사실 위주로 2~3문장 한국어 요약을 만들어줘. 헤드라인 나열 말고 흐름 위주로.\n\n${bulletList}`,
-      },
-    ],
+    messages: [{ role: "user", content: buildPrompt(categoryLabel, items) }],
   };
 
   try {
@@ -60,6 +167,7 @@ async function summarizeWithClaude(categoryLabel, items) {
         "anthropic-version": "2023-06-01",
       },
       body: JSON.stringify(body),
+      signal: AbortSignal.timeout(AI_TIMEOUT_MS),
     });
     if (!res.ok) {
       const text = await res.text();
@@ -73,6 +181,17 @@ async function summarizeWithClaude(categoryLabel, items) {
     console.warn(`[요약 실패] ${categoryLabel}:`, err);
     return null;
   }
+}
+
+// 엑사온 우선, 실패하거나 키가 없으면 Claude, 그것도 안 되면 요약 없이
+async function summarize(categoryLabel, items) {
+  if (EXAONE_API_KEY) {
+    const text = await summarizeWithExaone(categoryLabel, items);
+    if (text) return text;
+    if (!ANTHROPIC_API_KEY || !ANTHROPIC_MODEL) return null;
+    console.log(`[요약 폴백] ${categoryLabel}: 엑사온 요약이 비어 Claude로 재시도합니다.`);
+  }
+  return summarizeWithClaude(categoryLabel, items);
 }
 
 function buildEmbed(categoryKey, categoryLabel, items, summary) {
@@ -92,6 +211,10 @@ function buildEmbed(categoryKey, categoryLabel, items, summary) {
   };
 }
 
+function usingClaude() {
+  return Boolean(ANTHROPIC_API_KEY && ANTHROPIC_MODEL);
+}
+
 async function main() {
   if (!DISCORD_WEBHOOK_URL) {
     console.error(
@@ -99,9 +222,18 @@ async function main() {
     );
     process.exit(1);
   }
-  if (!ANTHROPIC_API_KEY || !ANTHROPIC_MODEL) {
+  if (EXAONE_API_KEY) {
+    console.log(`LG 엑사온(${EXAONE_MODEL})으로 AI 요약을 만듭니다.`);
+    if (usingClaude()) {
+      console.log("ANTHROPIC_API_KEY도 설정돼 있어, 엑사온 요약이 비면 Claude로 폴백합니다.");
+    }
+  } else if (usingClaude()) {
     console.log(
-      "ANTHROPIC_API_KEY 또는 ANTHROPIC_MODEL이 없어 AI 요약 없이 헤드라인만 전송합니다."
+      `EXAONE_API_KEY가 없어 Claude(${ANTHROPIC_MODEL})로 AI 요약을 만듭니다.`
+    );
+  } else {
+    console.log(
+      "EXAONE_API_KEY / ANTHROPIC_API_KEY가 없어 AI 요약 없이 헤드라인만 전송합니다."
     );
   }
 
@@ -121,7 +253,7 @@ async function main() {
         (a, b) => new Date(b.pubDate).getTime() - new Date(a.pubDate).getTime()
       );
     if (items.length === 0) continue;
-    const summary = await summarizeWithClaude(def.label, items);
+    const summary = await summarize(def.label, items);
     embeds.push(buildEmbed(key, def.label, items, summary));
   }
 
@@ -140,6 +272,7 @@ async function main() {
   const res = await fetch(DISCORD_WEBHOOK_URL, {
     method: "POST",
     headers: { "content-type": "application/json" },
+    signal: AbortSignal.timeout(DISCORD_TIMEOUT_MS),
     body: JSON.stringify({
       content: `📰 ${today} 뉴스 요약`,
       embeds: embeds.slice(0, 10),
