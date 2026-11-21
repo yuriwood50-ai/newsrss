@@ -1,5 +1,65 @@
 [
   {
+    "id": "https://www.aitimes.com/news/articleView.html?idxno=217653",
+    "category": "ai",
+    "source": "AI타임스 AI산업",
+    "title": "손정의, SK하이닉스 1조달러 인수 검토…월가에 자금 조달 타진",
+    "link": "https://www.aitimes.com/news/articleView.html?idxno=217653",
+    "summary": "손정의 소프트뱅크 회장이 SK하이닉스를 1조달러(약 1350조원)에 인수하는 초대형 거래를 검토한 것으로 알려졌다. AI 반도체 공급망의 핵심인 고대역폭메모리(HBM) 사업까지 확보하려는 구상이었지만, 막대한 인수 자금과 한국 정부의 승인 문제 등으로 현재는 추진하지 않고 있다.디 인포…",
+    "pubDate": "2026-11-22T05:59:45.000Z",
+    "collectedAt": "2026-11-21T21:37:03.051Z"
+  },
+  {
+    "id": "https://www.hankyung.com/article/202611209329i",
+    "category": "economy",
+    "source": "한국경제 경제",
+    "title": "북한산에 숨겨진 '1만원 사우나'…2030이 주말마다 찾는 이유 [권 기자의 내돈내산]",
+    "link": "https://www.hankyung.com/article/202611209329i",
+    "summary": "",
+    "pubDate": "2026-11-21T21:00:04.000Z",
+    "collectedAt": "2026-11-21T21:37:03.051Z"
+  },
+  {
+    "id": "https://news.hada.io/topic?id=37597&utm_source=geeknews&utm_medium=rss&utm_campaign=news",
+    "category": "it",
+    "source": "긱뉴스",
+    "title": "FBI, 범죄정보 데이터베이스 해킹 의심 사건 조사 중인 것으로 알려져",
+    "link": "https://news.hada.io/topic?id=37597&utm_source=geeknews&utm_medium=rss&utm_campaign=news",
+    "summary": "사안을 보고받은 두 명을 인용한 미국 언론 보도에 따르면, FBI가 범죄정보 데이터베이스 침해 의심 사건을 조사 중임 대상인 국가범죄정보센터(NCIC) 데이터베이스는 연방 및 지역 법 집행기관이 영장과 신원조회 관련 정보를 공유하는 데 사용함 FBI는 BBC의 논평 요청에 즉각 답하지…",
+    "pubDate": "2026-11-21T20:37:21.000Z",
+    "collectedAt": "2026-11-21T21:37:03.051Z"
+  },
+  {
+    "id": "https://news.hada.io/topic?id=37595&utm_source=geeknews&utm_medium=rss&utm_campaign=news",
+    "category": "it",
+    "source": "긱뉴스",
+    "title": "5.4 GB 메모리의 Inkling-2-Mini",
+    "link": "https://news.hada.io/topic?id=37595&utm_source=geeknews&utm_medium=rss&utm_campaign=news",
+    "summary": "LookAtMyQuant가 Inkling-2-Mini의 텍스트 가중치를 18.89 GB에서 5.38 GB로 압축함. 이 수치는 가중치 크기이며, 공개된 M5 Max 실행 측정의 활성 RAM 사용량은 5.98 GB임 5.38 GB 모델은 GSM8K 200문제에서 67.0%, HumanEv…",
+    "pubDate": "2026-11-21T20:34:21.000Z",
+    "collectedAt": "2026-11-21T21:37:03.051Z"
+  },
+  {
+    "id": "https://news.hada.io/topic?id=37594&utm_source=geeknews&utm_medium=rss&utm_campaign=news",
+    "category": "it",
+    "source": "긱뉴스",
+    "title": "binder.c 제거, Android Binder의 C 구현을 Rust로 대체",
+    "link": "https://news.hada.io/topic?id=37594&utm_source=geeknews&utm_medium=rss&utm_campaign=news",
+    "summary": "Android의 핵심 프로세스 간 통신 드라이버인 Binder의 C 구현이 Linux 7.4에서 제거됨. 5년 넘게 진행한 Rust 전환이 기존 구현을 대체하는 단계에 도달함 Google 내부 보안팀은 Binder를 운영체제에서 코드 줄 수 대비 CVE가 가장 많은 구성 요소로 평가함.…",
+    "pubDate": "2026-11-21T20:02:02.000Z",
+    "collectedAt": "2026-11-21T21:37:03.051Z"
+  },
+  {
+    "id": "https://news.hada.io/topic?id=37593&utm_source=geeknews&utm_medium=rss&utm_campaign=news",
+    "category": "it",
+    "source": "긱뉴스",
+    "title": "브라이언 메이, Hera의 소행성 영상에 입체감을 더하다",
+    "link": "https://news.hada.io/topic?id=37593&utm_source=geeknews&utm_medium=rss&utm_campaign=news",
+    "summary": "Hera 과학팀 소속 천체물리학자이자 Queen 기타리스트인 브라이언 메이(Sir Brian May) 가 Claudia Manzoni와 함께 Didymos 소행성의 입체 영상을 제작함 Hera가 짧은 시간 간격을 두고 촬영한 두 이미지를 결합해 양쪽 눈의 시차를 재현했으며, 눈에 자연스…",
+    "pubDate": "2026-11-21T19:31:25.000Z",
+    "collectedAt": "2026-11-21T21:37:03.051Z"
+  },
+  {
     "id": "https://www.aitimes.com/news/articleView.html?idxno=217650",
     "category": "ai",
     "source": "AI타임스 AI산업",
@@ -8,6 +68,36 @@
     "summary": "일론 머스크 CEO의 우주 AI 데이터센터 구상이 자금 조달 과정에서 장애물을 만났다. 스페이스X에 수백억달러 규모의 GPU 구매 자금을 제공하는 채권단이 담보 회수가 어렵다는 이유로 반도체의 우주 반입을 제한하려 한 것으로 알려져, 우주 데이터센터의 경제성을 확보하는 데 금융 문제가…",
     "pubDate": "2026-11-21T18:55:59.000Z",
     "collectedAt": "2026-11-21T16:00:15.689Z"
+  },
+  {
+    "id": "https://news.hada.io/topic?id=37592&utm_source=geeknews&utm_medium=rss&utm_campaign=news",
+    "category": "it",
+    "source": "긱뉴스",
+    "title": "GIMP에 UI 테스트 도입",
+    "link": "https://news.hada.io/topic?id=37592&utm_source=geeknews&utm_medium=rss&utm_campaign=news",
+    "summary": "GIMP가 실제 프로그램을 실행하고 메뉴와 버튼을 조작하는 GUI 테스트 플랫폼을 도입함. 기여자의 변경 사항을 병합할 때마다 자동 실행해 인터페이스 문제를 조기에 찾음 기존 단위 테스트는 실제 창을 열지 않았고, 코어 코드에 직접 개입하는 GUI 테스트도 탐지하지 못하는 버그 유형이…",
+    "pubDate": "2026-11-21T18:41:45.000Z",
+    "collectedAt": "2026-11-21T21:37:03.051Z"
+  },
+  {
+    "id": "https://news.hada.io/topic?id=37591&utm_source=geeknews&utm_medium=rss&utm_campaign=news",
+    "category": "it",
+    "source": "긱뉴스",
+    "title": "그럼에도 지구는 돈다",
+    "link": "https://news.hada.io/topic?id=37591&utm_source=geeknews&utm_medium=rss&utm_campaign=news",
+    "summary": "Anthropic이 리만 가설을 해결한 것으로 보인다는 소식은 필자에게 축하보다 상실감을 안겨줌. 증명의 존재 자체는 경이롭지만, 인간이 직접 이룬 발견과는 다르게 느껴짐 리만 가설을 전제로 참임이 증명된 수많은 추측이 있어, 그 증명은 수학의 광대한 영역을 열어줄 수 있음 뮤지컬 Ga…",
+    "pubDate": "2026-11-21T18:38:45.000Z",
+    "collectedAt": "2026-11-21T21:37:03.051Z"
+  },
+  {
+    "id": "https://news.hada.io/topic?id=37590&utm_source=geeknews&utm_medium=rss&utm_campaign=news",
+    "category": "it",
+    "source": "긱뉴스",
+    "title": "GnuPG의 원격 코드 실행(RCE) 취약점",
+    "link": "https://news.hada.io/topic?id=37590&utm_source=geeknews&utm_medium=rss&utm_campaign=news",
+    "summary": "GPGME 2.3.1이 조작된 OpenPGP 키로 이중 해제를 유발하는 치명적 보안 취약점 CVE-2026-129975를 수정함 매우 긴 사용자 ID가 포함된 키로 애플리케이션의 데이터를 유출할 수 있으며, 원격 코드 실행 가능성도 배제할 수 없어 즉시 업데이트를 권고함 버퍼 재할당 후…",
+    "pubDate": "2026-11-21T18:35:45.000Z",
+    "collectedAt": "2026-11-21T21:37:03.051Z"
   },
   {
     "id": "https://www.aitimes.com/news/articleView.html?idxno=217649",
@@ -20,6 +110,26 @@
     "collectedAt": "2026-11-21T16:00:15.689Z"
   },
   {
+    "id": "https://news.hada.io/topic?id=37589&utm_source=geeknews&utm_medium=rss&utm_campaign=news",
+    "category": "it",
+    "source": "긱뉴스",
+    "title": "Show GN: AriadneNSD - 알고리즘을 NS 차트로 그리는 구조 편집기",
+    "link": "https://news.hada.io/topic?id=37589&utm_source=geeknews&utm_medium=rss&utm_campaign=news",
+    "summary": "알고리즘을 NS 차트(Nassi–Shneiderman Diagram)로 그리는 웹 편집기, 베타로 공개 NS 차트는 플로우차트와 동일하게 로직을 표현하면서 지면은 훨씬 적게 차지하지만, 손으로는 줄 맞추고 지우기를 반복해야 해서 복잡한 로직은 그리기 어려웠음 저장 형식 .ns.svg는…",
+    "pubDate": "2026-11-21T17:56:31.000Z",
+    "collectedAt": "2026-11-21T21:37:03.051Z"
+  },
+  {
+    "id": "https://news.hada.io/topic?id=37588&utm_source=geeknews&utm_medium=rss&utm_campaign=news",
+    "category": "it",
+    "source": "긱뉴스",
+    "title": "Clojure는 프로그래밍을 생각하는 방식에 영향을 준다 (2017)",
+    "link": "https://news.hada.io/topic?id=37588&utm_source=geeknews&utm_medium=rss&utm_campaign=news",
+    "summary": "Clojure는 Lisp, 함수형 프로그래밍, 데이터 처리, 동시성의 아이디어를 일관된 언어로 결합해, 실무 도입 여부와 별개로 프로그래밍 사고를 넓히기 위해 배울 만한 언어임 Lisp 매크로와 균일한 문법은 코드를 데이터로 다루게 하며, 고차 함수와 REPL 중심 개발은 기능을 조합하…",
+    "pubDate": "2026-11-21T17:32:49.000Z",
+    "collectedAt": "2026-11-21T21:37:03.051Z"
+  },
+  {
     "id": "https://www.aitimes.com/news/articleView.html?idxno=217648",
     "category": "ai",
     "source": "AI타임스 AI산업",
@@ -28,6 +138,36 @@
     "summary": "구글이 '제미나이' 앱에 텍스트 프롬프트만으로 짧은 GIF 이미지를 만들 수 있는 기능을 추가했다. 오픈AI가 '챗GPT'에 GIF 생성 기능을 선보인 지 약 2주 만으로, 주요 AI 서비스 간 이미지·영상 생성 기능 경쟁이 치열해지고 있다.구글은 20일(현지시간) 공식 X 계정을 통해…",
     "pubDate": "2026-11-21T16:39:48.000Z",
     "collectedAt": "2026-11-21T16:00:15.689Z"
+  },
+  {
+    "id": "https://news.hada.io/topic?id=37586&utm_source=geeknews&utm_medium=rss&utm_campaign=news",
+    "category": "it",
+    "source": "긱뉴스",
+    "title": "리만 가설의 Lean 검증, Lean과 Mathlib 커뮤니티 공동 성명",
+    "link": "https://news.hada.io/topic?id=37586&utm_source=geeknews&utm_medium=rss&utm_campaign=news",
+    "summary": "Lean과 Mathlib 커뮤니티는 Levent Alpöge가 공개한 리만 가설 증명의 명제와 증명이 모두 올바르다고 공동으로 인증함 증명은 1,700만 줄 규모의 Lean 라이브러리로 공개됐으며, 직접 의존하는 라이브러리는 Mathlib뿐임 검증 대상은 전문가들이 검토한 Mathlib…",
+    "pubDate": "2026-11-21T16:36:36.000Z",
+    "collectedAt": "2026-11-21T21:37:03.051Z"
+  },
+  {
+    "id": "https://news.hada.io/topic?id=37585&utm_source=geeknews&utm_medium=rss&utm_campaign=news",
+    "category": "it",
+    "source": "긱뉴스",
+    "title": "데릭 로: 아지드화 납 더미 폭파",
+    "link": "https://news.hada.io/topic?id=37585&utm_source=geeknews&utm_medium=rss&utm_campaign=news",
+    "summary": "데릭 로: 아지드화 납 더미 폭파",
+    "pubDate": "2026-11-21T16:33:36.000Z",
+    "collectedAt": "2026-11-21T21:37:03.051Z"
+  },
+  {
+    "id": "https://news.hada.io/topic?id=37584&utm_source=geeknews&utm_medium=rss&utm_campaign=news",
+    "category": "it",
+    "source": "긱뉴스",
+    "title": "내 모니터가 다운로드 속도를 75% 떨어뜨리고 있었다",
+    "link": "https://news.hada.io/topic?id=37584&utm_source=geeknews&utm_medium=rss&utm_campaign=news",
+    "summary": "2.5Gbps 대칭형 인터넷에서 다운로드만 약 600Mbps로 떨어지는 문제가 발생했으며, 이더넷 어댑터를 모니터 대신 Mac에 직접 연결하자 정상 속도를 회복함 문제는 모니터의 대역폭 부족만이 아니라 USB 허브의 응답 지연과 어댑터의 버스트 크기가 결합한 수신 병목에 있었음 모니터를…",
+    "pubDate": "2026-11-21T15:32:49.000Z",
+    "collectedAt": "2026-11-21T21:37:03.051Z"
   },
   {
     "id": "https://news.hada.io/topic?id=37583&utm_source=geeknews&utm_medium=rss&utm_campaign=news",
@@ -14857,146 +14997,6 @@
     "link": "https://www.etnews.com/20261117000392",
     "summary": "한국외국어대학교(총장 강기훈)는 17일 서울캠퍼스 대학본부 이덕선 회의실에서 한국예술종합학교(총장 편장완)와 공동 교육과정 운영 확대를 위한 업무협약(MOU)을 맺고 12년간 이어온 공동 교양교육의 협력 범위를 확대한다고 밝혔다. 이를 통해 한국외대의 인공지능(AI) 교육 역량과 한예종…",
     "pubDate": "2026-11-17T08:15:30.000Z",
-    "collectedAt": "2026-11-17T10:27:15.594Z"
-  },
-  {
-    "id": "20261117000389",
-    "category": "economy",
-    "source": "전자신문 경제",
-    "title": "영풍, 3분기 668억 '영업손실'…일각선 '제련소 화재·정화비용 부담 등' 제기",
-    "link": "https://www.etnews.com/20261117000389",
-    "summary": "영풍이 3분기 다시 대규모 영업적자를 기록하면서 1분기 흑자 전환으로 시작된 회복세가 부진한 실적을 나타냈다. 석포제련소 생산량 감소와 고정비 부담 증가, 원달러 환율 하락에 따른 귀금속 가격변동이 작용한 것으로 분석된다. 17일 금융감독원 전자공시시스템에 따르면 영풍은 3분기 연결 기…",
-    "pubDate": "2026-11-17T08:05:11.000Z",
-    "collectedAt": "2026-11-17T10:27:15.594Z"
-  },
-  {
-    "id": "20261117000388",
-    "category": "economy",
-    "source": "전자신문 경제",
-    "title": "KB증권 베트남법인 계좌서 비정상 출금 사고…“경위 파악중”",
-    "link": "https://www.etnews.com/20261117000388",
-    "summary": "KB증권 베트남법인이 현지 은행에 예치한 법인 계좌에서 비정상적인 출금이 이뤄지는 사고가 발생했다. 회사는 현지에 내부 보안 인력을 파견해 피해 규모와 송금 액수를 확인 중이다. 17일 금융투자업계에 따르면 지난 6일 KB증권 베트남법인 명의의 현지 은행 계좌에서 비정상적인 출금이 발생…",
-    "pubDate": "2026-11-17T08:01:08.000Z",
-    "collectedAt": "2026-11-17T10:27:15.594Z"
-  },
-  {
-    "id": "https://www.hankyung.com/article/202611172569i",
-    "category": "economy",
-    "source": "한국경제 경제",
-    "title": "[포토] 코스피, 9개월여 만에 최저로 하락",
-    "link": "https://www.hankyung.com/article/202611172569i",
-    "summary": "",
-    "pubDate": "2026-11-17T08:01:04.000Z",
-    "collectedAt": "2026-11-17T10:27:15.594Z"
-  },
-  {
-    "id": "20261117000256",
-    "category": "ai",
-    "source": "전자신문 AI",
-    "title": "피지컬AI 확산에 로봇법 정비 속도…상용화 걸림돌 해소 과제",
-    "link": "https://www.etnews.com/20261117000256",
-    "summary": "피지컬 인공지능(AI)과 휴머노이드 등 로봇산업이 성장하면서 국회에서 관련 법안 발의가 잇따르고 있다. 로봇 기업의 시장 진입과 사업모델 개발이 활발해지는 가운데, 제도 정비가 새로운 규제 부담으로 이어지지 않도록 산업 육성과 안전관리의 균형을 맞추는 것이 과제로 떠오르고 있다. 17일…",
-    "pubDate": "2026-11-17T08:00:00.000Z",
-    "collectedAt": "2026-11-17T10:27:15.594Z"
-  },
-  {
-    "id": "20261117000363",
-    "category": "economy",
-    "source": "전자신문 경제",
-    "title": "[사설] 겉모습 달리 주눅 든 벤처, 뛰게 만들라",
-    "link": "https://www.etnews.com/20261117000363",
-    "summary": "올해 3분기까지 누적 신규 벤처투자액이 12조6000억원으로 역대 최대치 기록을 새로 썼고, 벤처펀드 결성액 역시 13조원에 육박하며 사상 최고치를 경신했다. 숫자만 놓고 보면 한국 벤처 생태계가 유례없는 호황기를 맞은 듯하다. 하지만 지표의 이면을 들여다보면 사정은 전혀 다르다. 같은…",
-    "pubDate": "2026-11-17T08:00:00.000Z",
-    "collectedAt": "2026-11-17T10:27:15.594Z"
-  },
-  {
-    "id": "20261117000386",
-    "category": "ai",
-    "source": "전자신문 AI",
-    "title": "KT클라우드, AIDC 확장 재원 마련 모색…“투자 유치 검토”",
-    "link": "https://www.etnews.com/20261117000386",
-    "summary": "KT클라우드가 인공지능 데이터센터(AIDC) 확장 재원 마련을 위한 투자 유치를 검토한다. KT는 KT클라우드의 조 단위 투자 유치 추진설에 대해 “인공지능 전환(AX) 사업 경쟁력 강화를 위해 투자 유치를 포함한 다양한 방안을 검토 중이나 현재까지 확정된 사항은 없다”고 17일 공시했…",
-    "pubDate": "2026-11-17T07:54:39.000Z",
-    "collectedAt": "2026-11-17T10:27:15.594Z"
-  },
-  {
-    "id": "20261117000385",
-    "category": "economy",
-    "source": "전자신문 경제",
-    "title": "한국ITS학회 추계학술대회 성료…피지컬 AI·자율주행 융합 논의",
-    "link": "https://www.etnews.com/20261117000385",
-    "summary": "한국ITS학회는 지난 12일부터 14일까지 제주한라대학교 한라컨벤션센터에서 '2026년도 추계학술대회'를 개최했다고 17일 밝혔다. '피지컬 AI와 ITS의 만남(Physical AI meets ITS)'을 주제로 열린 이번 학술대회에서는 인공지능(AI)을 교통 운영과 자율주행에 접목하…",
-    "pubDate": "2026-11-17T07:51:59.000Z",
-    "collectedAt": "2026-11-17T10:27:15.594Z"
-  },
-  {
-    "id": "https://www.hankyung.com/article/2026111725567",
-    "category": "economy",
-    "source": "한국경제 증권",
-    "title": "[속보] 법원, LIG D&A 입찰참가자격 제한처분 집행정지 인용",
-    "link": "https://www.hankyung.com/article/2026111725567",
-    "summary": "",
-    "pubDate": "2026-11-17T07:50:39.000Z",
-    "collectedAt": "2026-11-17T10:27:15.594Z"
-  },
-  {
-    "id": "20261117000333",
-    "category": "economy",
-    "source": "전자신문 경제",
-    "title": "축산업 미래 바꾸는 AI…'스마트축산 경진대회' 혁신기술 한자리에",
-    "link": "https://www.etnews.com/20261117000333",
-    "summary": "인공지능(AI)을 활용한 스마트축산 기술이 축산업의 미래를 바꾸고 있다. 가축의 미세한 움직임으로 수정 적기를 찾아내고, 성장 속도를 분석해 출하 시점을 예측한다. 울음소리로 질병 징후를 감지하는 기술까지 등장하면서 생산성 향상과 폐사율 감소 등 구체적인 성과가 축산 현장에서 나타나고…",
-    "pubDate": "2026-11-17T07:37:59.000Z",
-    "collectedAt": "2026-11-17T10:27:15.594Z"
-  },
-  {
-    "id": "https://www.hankyung.com/article/202611172193i",
-    "category": "economy",
-    "source": "한국경제 증권",
-    "title": "2월로 되돌아간 코스피…“저가매수 메리트 있지만 분할 매수해야”",
-    "link": "https://www.hankyung.com/article/202611172193i",
-    "summary": "",
-    "pubDate": "2026-11-17T07:29:07.000Z",
-    "collectedAt": "2026-11-17T10:27:15.594Z"
-  },
-  {
-    "id": "https://www.hankyung.com/article/202611172381i",
-    "category": "economy",
-    "source": "한국경제 경제",
-    "title": "[단독] 법원, LIG D&A 입찰제한 제동…한숨돌린 K방산",
-    "link": "https://www.hankyung.com/article/202611172381i",
-    "summary": "",
-    "pubDate": "2026-11-17T07:26:04.000Z",
-    "collectedAt": "2026-11-17T10:27:15.594Z"
-  },
-  {
-    "id": "https://www.hankyung.com/article/202611172410i",
-    "category": "economy",
-    "source": "한국경제 증권",
-    "title": "오늘의 프리미엄9 콘텐츠 다이제스트(11월 17일)",
-    "link": "https://www.hankyung.com/article/202611172410i",
-    "summary": "",
-    "pubDate": "2026-11-17T07:20:18.000Z",
-    "collectedAt": "2026-11-17T10:27:15.594Z"
-  },
-  {
-    "id": "20261117000379",
-    "category": "ai",
-    "source": "전자신문 SW",
-    "title": "엘에스웨어, 인도네시아 지방정부 초청 사이버보안 세미나",
-    "link": "https://www.etnews.com/20261117000379",
-    "summary": "엘에스웨어(대표 김민수)는 인도네시아 지방정부 정보통신기관 협의체인 ASKOMPSI와의 협력 사업의 일환으로, 인도네시아 지방정부 고위 관계자들을 초청해 'ADLGA 2026 사이버보안 교육 프로그램'을 개최한다고 17일 밝혔다. 프로그램은 21일까지 진행되며, ADLGA26 수상자인…",
-    "pubDate": "2026-11-17T07:20:07.000Z",
-    "collectedAt": "2026-11-17T10:27:15.594Z"
-  },
-  {
-    "id": "20261117000377",
-    "category": "economy",
-    "source": "전자신문 경제",
-    "title": "아톡비즈 플러스, 기업 맞춤형 AI챗봇으로 고객 응대 효율 높인다",
-    "link": "https://www.etnews.com/20261117000377",
-    "summary": "B2B 솔루션 전문 브랜드 아톡비즈(운영사 주식회사 아톡)가 기업별 업무 환경에 맞춰 AI 상담을 운영할 수 있는 '아톡비즈 플러스'의 AI챗봇 기능을 통해 고객 상담 자동화를 지원한다고 밝혔다. 아톡비즈 플러스 AI챗봇은 거대언어모델(LLM)을 기반으로 고객의 질문을 이해하고, 기업이…",
-    "pubDate": "2026-11-17T07:19:10.000Z",
     "collectedAt": "2026-11-17T10:27:15.594Z"
   }
 ]
